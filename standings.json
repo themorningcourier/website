@@ -1,0 +1,237 @@
+{
+ "updated": "2026-10-25T15:45:25.511379+00:00",
+ "divisions": [
+  {
+   "name": "AFC East",
+   "teams": [
+    {
+     "name": "Bills",
+     "abbr": "BUF",
+     "rec": "5-1",
+     "pct": 0.8333333
+    },
+    {
+     "name": "Patriots",
+     "abbr": "NE",
+     "rec": "4-3",
+     "pct": 0.5714286
+    },
+    {
+     "name": "Jets",
+     "abbr": "NYJ",
+     "rec": "2-4",
+     "pct": 0.33333334
+    },
+    {
+     "name": "Dolphins",
+     "abbr": "MIA",
+     "rec": "0-5",
+     "pct": 0.0
+    }
+   ]
+  },
+  {
+   "name": "AFC North",
+   "teams": [
+    {
+     "name": "Browns",
+     "abbr": "CLE",
+     "rec": "4-2",
+     "pct": 0.6666667
+    },
+    {
+     "name": "Steelers",
+     "abbr": "PIT",
+     "rec": "4-2",
+     "pct": 0.6666667
+    },
+    {
+     "name": "Ravens",
+     "abbr": "BAL",
+     "rec": "4-2",
+     "pct": 0.6666667
+    },
+    {
+     "name": "Bengals",
+     "abbr": "CIN",
+     "rec": "3-2",
+     "pct": 0.6
+    }
+   ]
+  },
+  {
+   "name": "AFC South",
+   "teams": [
+    {
+     "name": "Jaguars",
+     "abbr": "JAX",
+     "rec": "4-2",
+     "pct": 0.6666667
+    },
+    {
+     "name": "Colts",
+     "abbr": "IND",
+     "rec": "2-4",
+     "pct": 0.33333334
+    },
+    {
+     "name": "Texans",
+     "abbr": "HOU",
+     "rec": "2-4",
+     "pct": 0.33333334
+    },
+    {
+     "name": "Titans",
+     "abbr": "TEN",
+     "rec": "1-5",
+     "pct": 0.16666667
+    }
+   ]
+  },
+  {
+   "name": "AFC West",
+   "teams": [
+    {
+     "name": "Chiefs",
+     "abbr": "KC",
+     "rec": "5-0",
+     "pct": 1.0
+    },
+    {
+     "name": "Broncos",
+     "abbr": "DEN",
+     "rec": "4-2",
+     "pct": 0.6666667
+    },
+    {
+     "name": "Raiders",
+     "abbr": "LV",
+     "rec": "3-3",
+     "pct": 0.5
+    },
+    {
+     "name": "Chargers",
+     "abbr": "LAC",
+     "rec": "0-6",
+     "pct": 0.0
+    }
+   ]
+  },
+  {
+   "name": "NFC East",
+   "teams": [
+    {
+     "name": "Giants",
+     "abbr": "NYG",
+     "rec": "3-2-1",
+     "pct": 0.5833333
+    },
+    {
+     "name": "Eagles",
+     "abbr": "PHI",
+     "rec": "2-4",
+     "pct": 0.33333334
+    },
+    {
+     "name": "Cowboys",
+     "abbr": "DAL",
+     "rec": "2-4",
+     "pct": 0.33333334
+    },
+    {
+     "name": "Commanders",
+     "abbr": "WSH",
+     "rec": "1-4-1",
+     "pct": 0.25
+    }
+   ]
+  },
+  {
+   "name": "NFC North",
+   "teams": [
+    {
+     "name": "Vikings",
+     "abbr": "MIN",
+     "rec": "5-0",
+     "pct": 1.0
+    },
+    {
+     "name": "Bears",
+     "abbr": "CHI",
+     "rec": "5-2",
+     "pct": 0.71428573
+    },
+    {
+     "name": "Packers",
+     "abbr": "GB",
+     "rec": "4-2",
+     "pct": 0.6666667
+    },
+    {
+     "name": "Lions",
+     "abbr": "DET",
+     "rec": "3-2",
+     "pct": 0.6
+    }
+   ]
+  },
+  {
+   "name": "NFC South",
+   "teams": [
+    {
+     "name": "Panthers",
+     "abbr": "CAR",
+     "rec": "3-2",
+     "pct": 0.6
+    },
+    {
+     "name": "Falcons",
+     "abbr": "ATL",
+     "rec": "2-4",
+     "pct": 0.33333334
+    },
+    {
+     "name": "Saints",
+     "abbr": "NO",
+     "rec": "2-4",
+     "pct": 0.33333334
+    },
+    {
+     "name": "Buccaneers",
+     "abbr": "TB",
+     "rec": "1-5",
+     "pct": 0.16666667
+    }
+   ]
+  },
+  {
+   "name": "NFC West",
+   "teams": [
+    {
+     "name": "49ers",
+     "abbr": "SF",
+     "rec": "6-0",
+     "pct": 1.0
+    },
+    {
+     "name": "Seahawks",
+     "abbr": "SEA",
+     "rec": "3-3",
+     "pct": 0.5
+    },
+    {
+     "name": "Cardinals",
+     "abbr": "ARI",
+     "rec": "2-4",
+     "pct": 0.33333334
+    },
+    {
+     "name": "Rams",
+     "abbr": "LAR",
+     "rec": "2-4",
+     "pct": 0.33333334
+    }
+   ]
+  }
+ ]
+}
