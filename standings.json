@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:09:28.415895+00:00",
+ "updated": "2026-10-25T19:56:58.085122+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -69,16 +69,16 @@
      "pct": 0.6666667
     },
     {
-     "name": "Colts",
-     "abbr": "IND",
-     "rec": "2-4",
-     "pct": 0.33333334
-    },
-    {
      "name": "Texans",
      "abbr": "HOU",
      "rec": "2-4",
      "pct": 0.33333334
+    },
+    {
+     "name": "Colts",
+     "abbr": "IND",
+     "rec": "2-5",
+     "pct": 0.2857143
     },
     {
      "name": "Titans",
@@ -152,7 +152,7 @@
     {
      "name": "Vikings",
      "abbr": "MIN",
-     "rec": "5-0",
+     "rec": "6-0",
      "pct": 1.0
     },
     {
@@ -181,8 +181,8 @@
     {
      "name": "Panthers",
      "abbr": "CAR",
-     "rec": "3-2",
-     "pct": 0.6
+     "rec": "3-3",
+     "pct": 0.5
     },
     {
      "name": "Falcons",
@@ -191,16 +191,16 @@
      "pct": 0.33333334
     },
     {
-     "name": "Saints",
-     "abbr": "NO",
+     "name": "Buccaneers",
+     "abbr": "TB",
      "rec": "2-5",
      "pct": 0.2857143
     },
     {
-     "name": "Buccaneers",
-     "abbr": "TB",
-     "rec": "1-5",
-     "pct": 0.16666667
+     "name": "Saints",
+     "abbr": "NO",
+     "rec": "2-5",
+     "pct": 0.2857143
     }
    ]
   },
