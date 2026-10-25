@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:58:31.921625+00:00",
+ "updated": "2026-10-25T23:29:03.652435+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -100,8 +100,8 @@
     {
      "name": "Broncos",
      "abbr": "DEN",
-     "rec": "4-2",
-     "pct": 0.6666667
+     "rec": "5-2",
+     "pct": 0.71428573
     },
     {
      "name": "Raiders",
@@ -220,16 +220,16 @@
      "pct": 0.5
     },
     {
-     "name": "Cardinals",
-     "abbr": "ARI",
-     "rec": "2-4",
-     "pct": 0.33333334
-    },
-    {
      "name": "Rams",
      "abbr": "LAR",
      "rec": "2-4",
      "pct": 0.33333334
+    },
+    {
+     "name": "Cardinals",
+     "abbr": "ARI",
+     "rec": "2-5",
+     "pct": 0.2857143
     }
    ]
   }
