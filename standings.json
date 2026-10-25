@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:29:03.652435+00:00",
+ "updated": "2026-10-25T23:56:49.958263+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -106,8 +106,8 @@
     {
      "name": "Raiders",
      "abbr": "LV",
-     "rec": "3-3",
-     "pct": 0.5
+     "rec": "3-4",
+     "pct": 0.42857143
     },
     {
      "name": "Chargers",
@@ -162,16 +162,16 @@
      "pct": 0.71428573
     },
     {
-     "name": "Packers",
-     "abbr": "GB",
+     "name": "Lions",
+     "abbr": "DET",
      "rec": "4-2",
      "pct": 0.6666667
     },
     {
-     "name": "Lions",
-     "abbr": "DET",
-     "rec": "3-2",
-     "pct": 0.6
+     "name": "Packers",
+     "abbr": "GB",
+     "rec": "4-3",
+     "pct": 0.5714286
     }
    ]
   },
@@ -222,8 +222,8 @@
     {
      "name": "Rams",
      "abbr": "LAR",
-     "rec": "2-4",
-     "pct": 0.33333334
+     "rec": "3-4",
+     "pct": 0.42857143
     },
     {
      "name": "Cardinals",
