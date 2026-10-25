@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T15:29:05.522053+00:00",
+ "updated": "2026-10-25T15:43:33.893382+00:00",
  "items": [
   {
    "title": "Sri Lanka provides medical help, repatriates Iranian sailors stranded in Indian Ocean",
@@ -56,12 +56,6 @@
    "ts": 1792934507.0
   },
   {
-   "title": "Netflix lays off 6% of workforce amidst slowing growth",
-   "link": "https://www.npr.org/2026/10/25/nx-s1-6009274/netflix-lays-off-6-of-workforce-amidst-slowing-growth",
-   "source": "NPR Business",
-   "ts": 1792931129.0
-  },
-  {
    "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
    "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
    "source": "NPR",
@@ -72,6 +66,12 @@
    "link": "https://www.wcax.com/2026/10/25/what-do-sunday-october-25/",
    "source": "WCAX",
    "ts": 1792924877.0
+  },
+  {
+   "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+   "link": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
+   "source": "NPR",
+   "ts": 1792922400.0
   }
  ]
 }
