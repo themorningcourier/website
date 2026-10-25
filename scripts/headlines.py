@@ -43,8 +43,6 @@ LOCAL = [("WCAX", "https://www.wcax.com/arc/outboundfeeds/rss/?outputType=xml"),
          ("NPR", "https://feeds.npr.org/1001/rss.xml")]
 NATIONAL = [("Fox News", "https://moxie.foxnews.com/google-publisher/latest.xml"),
             ("New York Post", "https://nypost.com/feed/"),
-            ("USA Today", "https://rssfeeds.usatoday.com/usatoday-NewsTopStories"),
-            ("USA Today", "https://rssfeeds.usatoday.com/UsatodaycomNation-TopStories"),
             ("CBS News", "https://www.cbsnews.com/latest/rss/main"),
             ("ABC News", "https://abcnews.go.com/abcnews/topstories")]
 loc = [];  [loc.extend(feed(s, u)) for s, u in LOCAL]
