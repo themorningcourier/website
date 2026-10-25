@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T16:34:58.015553+00:00",
+ "updated": "2026-10-25T17:06:59.502754+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -34,14 +34,14 @@
    "name": "AFC North",
    "teams": [
     {
-     "name": "Browns",
-     "abbr": "CLE",
-     "rec": "4-2",
-     "pct": 0.6666667
-    },
-    {
      "name": "Steelers",
      "abbr": "PIT",
+     "rec": "5-2",
+     "pct": 0.71428573
+    },
+    {
+     "name": "Browns",
+     "abbr": "CLE",
      "rec": "4-2",
      "pct": 0.6666667
     },
@@ -193,8 +193,8 @@
     {
      "name": "Saints",
      "abbr": "NO",
-     "rec": "2-4",
-     "pct": 0.33333334
+     "rec": "2-5",
+     "pct": 0.2857143
     },
     {
      "name": "Buccaneers",
