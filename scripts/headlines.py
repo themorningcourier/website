@@ -18,7 +18,7 @@ def feed(src, url):
             d = it.findtext('pubDate')
             try: ts = email.utils.parsedate_to_datetime(d).timestamp()
             except Exception: ts = 0
-            out.append({"title": html.unescape(re.sub('<[^>]+>', '', t)), "link": l, "source": src, "ts": ts})
+            out.append({"title": re.sub(r"\s+-\s+Reuters$", "", html.unescape(re.sub('<[^>]+>', '', t))), "link": l, "source": src, "ts": ts})
     except Exception as e:
         print("feed failed", src, e); FEEDLOG.append("%s %s %s" % (src, url, e))
     return out
@@ -44,11 +44,13 @@ LOCAL = [("WCAX", "https://www.wcax.com/arc/outboundfeeds/rss/?outputType=xml"),
 NATIONAL = [("Fox News", "https://moxie.foxnews.com/google-publisher/latest.xml"),
             ("New York Post", "https://nypost.com/feed/"),
             ("CBS News", "https://www.cbsnews.com/latest/rss/main"),
-            ("ABC News", "https://abcnews.go.com/abcnews/topstories")]
+            ("ABC News", "https://abcnews.go.com/abcnews/topstories"),
+            ("NBC News", "https://feeds.nbcnews.com/nbcnews/public/news"),
+            ("Reuters", "https://news.google.com/rss/search?q=when:1d+site:reuters.com&hl=en-US&gl=US&ceid=US:en")]
 loc = [];  [loc.extend(feed(s, u)) for s, u in LOCAL]
 save("headlines.json", pick(loc, 3, 12))
 nat = [];  [nat.extend(feed(s, u)) for s, u in NATIONAL]
-save("national.json", pick(nat, 3, 15))
+save("national.json", pick(nat, 3, 18))
 
 # NFL standings (ESPN public JSON) — walk the tree for any node holding standings entries
 LOG = []
