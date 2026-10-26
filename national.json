@@ -1,23 +1,71 @@
 {
- "updated": "2026-10-26T22:37:35.425206+00:00",
+ "updated": "2026-10-26T23:33:11.962722+00:00",
  "items": [
   {
-   "title": "College profs go gloriously old school to fight disturbing new trend sweeping schools",
-   "link": "https://nypost.com/2026/10/26/opinion/college-profs-go-old-school-to-fight-disturbing-trend-sweeping-schools/",
+   "title": "Ben & Jerry\u2019s founders explore deal to separate brand from owner after previous clashes: report",
+   "link": "https://nypost.com/2026/10/26/business/ben-jerrys-founders-explore-deal-to-separate-brand-from-owner-report/",
    "source": "New York Post",
-   "ts": 1793054219.0
+   "ts": 1793057383.0
   },
   {
-   "title": "3-year-old \u2018traumatized\u2019 after police called after he was playing soccer \u2018too good\u2019",
-   "link": "https://nypost.com/2026/10/26/sports/3-year-old-soccer-star-traumatized-after-police-called/",
-   "source": "New York Post",
-   "ts": 1793054201.0
+   "title": "DOJ seeking to charge Comey with conspiring to disclose national defense information",
+   "link": "https://abcnews.com/Politics/doj-seeks-charge-comey-conspiring-disclose-national-defense/story?id=137584148",
+   "source": "ABC News",
+   "ts": 1793057288.0
   },
   {
-   "title": "Ex-Warriors star calls for GM Mike Dunleavy\u2019s job over Steph Curry roster failure",
-   "link": "https://nypost.com/2026/10/26/sports/ex-warriors-star-demarcus-cousins-calls-out-gm-mike-dunleavy-over-steph-curry-failure/",
+   "title": "California illegal migrant\u2019s ICE fantasy implodes after she was busted on video at fast food joint",
+   "link": "https://nypost.com/2026/10/26/us-news/la-woman-pleads-guilty-to-staging-fake-ice-kidnapping-hoax/",
    "source": "New York Post",
-   "ts": 1793054163.0
+   "ts": 1793057221.0
+  },
+  {
+   "title": "Extended Interview: Homeland Security's James Percival on third-country deportations",
+   "link": "https://www.cbsnews.com/video/homeland-security-james-percival-third-country-deportations-interview/",
+   "source": "CBS News",
+   "ts": 1793056980.0
+  },
+  {
+   "title": "Austin Reaves is shooting the lights out \u2014 and making NBA history along the way",
+   "link": "https://nypost.com/2026/10/26/sports/austin-reaves-stunning-efficiency-is-proven-with-this-stat/",
+   "source": "New York Post",
+   "ts": 1793056880.0
+  },
+  {
+   "title": "DOJ takes steps to charge James Comey again",
+   "link": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
+   "source": "CBS News",
+   "ts": 1793056870.0
+  },
+  {
+   "title": "Republican, Democratic strategists break down pre-midterm rhetoric from Trump, Obama",
+   "link": "https://www.cbsnews.com/video/republican-democratic-strategists-pre-midterm-rhetoric-trump-obama/",
+   "source": "CBS News",
+   "ts": 1793056593.0
+  },
+  {
+   "title": "Trump administration loses push to block California votes from alleged noncitizens",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTW01WVRuSHIxWnkzWXd6czZLd3cwc1ZIRUFvTEt6VFNnNndPT2pNeFg1NXk0SXFiMXlGU0w2TWt0Z2d2b2tfcGNqUFdWRVdvenI5eHN0OTAxM01feU5BYjk1WU5EYjFheGFFbzBmN2FtOU5fYnprc21Iejl3VzA2MmN5aHl6NEZmbS0yZlNvYW91TjF1Y2VvYmQzRl9tYml5YU5JMGg3VmIzcXdZNDlUUGVpVWNqc3c?oc=5",
+   "source": "Reuters",
+   "ts": 1793055110.0
+  },
+  {
+   "title": "Jon Gosselin claims he's 'perfect strangers now' with six of his kids after years of no contact",
+   "link": "https://www.foxnews.com/entertainment/jon-gosselin-claims-hes-perfect-strangers-now-six-his-kids-after-years-no-contact",
+   "source": "Fox News",
+   "ts": 1793054791.0
+  },
+  {
+   "title": "Merck drug extends survival in endometrial cancer trial, wins US priority review",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEdIZ0VwaGxubUJfcXBfUGhJTnliUTV0ZUU0SFNKdmlqd0VKdFBOSUdqZUFmLWRvT3N3Q0ZGZGd2a2FoejlrLXZXX3NOaThwX2RnbzFTcUREQ2FjOTdnQ2dlQzZQWUg0R1U3ejZJSTBudGNOWWxWY2pEanpuYllLZUlDNXlmX0VqLXJyZnBHSF9kRTktZlpVbmpMUk5zNzA3ZlBrZkZiaHVvYko0YTJGWl9iV0NLVWhhRkZMWDYtS0gwODhkV3NFYU13UWVhNEdwT1AzQkxxTEw?oc=5",
+   "source": "Reuters",
+   "ts": 1793054245.0
+  },
+  {
+   "title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1JXYWUtZ2l1TGNtSDlwbkN6SkxUR1RxaWZjQnFpNk8yTzBuLTR5OEUxQ296SmZEd3dDS25tMjh1eW5hRGg4X1gtVUpVQi1UbWIyYXpJQmh6NGxpX011WWlEYWh0Z3FKRm55UUl6UnpKUTZmM3lhUElLNUVIb0tkWDBYVkI1LXI2aWxwT1Q2aUpSZjhOcUVxaTByX21WVlExQVE?oc=5",
+   "source": "Reuters",
+   "ts": 1793054146.0
   },
   {
    "title": "Deadly security risks prompt updated travel warnings for 13 countries",
@@ -26,28 +74,10 @@
    "ts": 1793054008.0
   },
   {
-   "title": "Johnny Garcia, Democrat running for Congress, says Republican voters are \"fed up\" with GOP policies",
-   "link": "https://www.cbsnews.com/video/johnny-garcia-democrat-congress-says-republican-voters-fed-up-gop-policies/",
-   "source": "CBS News",
-   "ts": 1793053643.0
-  },
-  {
-   "title": "DOJ takes steps to charge James Comey again",
-   "link": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
-   "source": "CBS News",
-   "ts": 1793053409.0
-  },
-  {
    "title": "Trump offers $1M reward for voter fraud tips that result in conviction",
    "link": "https://abcnews.com/Politics/trump-offers-1m-reward-people-report-voter-fraud/story?id=137581908",
    "source": "ABC News",
    "ts": 1793053216.0
-  },
-  {
-   "title": "Breaking down how Israel's elections work as Netanyahu faces opposition threat",
-   "link": "https://www.cbsnews.com/video/breaking-down-how-israels-elections-work-netanyahu-faces-opposition-threat/",
-   "source": "CBS News",
-   "ts": 1793052986.0
   },
   {
    "title": "Trump offers $1 million reward for voter fraud tips that lead to convictions",
@@ -62,34 +92,10 @@
    "ts": 1793052034.0
   },
   {
-   "title": "Robert Griffin III says he would '100%' take Baylor's vacant head football coach job",
-   "link": "https://www.foxnews.com/outkick-sports/robert-griffin-iii-100-percent-take-baylor-vacant-head-football-coach-job",
-   "source": "Fox News",
-   "ts": 1793051896.0
-  },
-  {
-   "title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1JXYWUtZ2l1TGNtSDlwbkN6SkxUR1RxaWZjQnFpNk8yTzBuLTR5OEUxQ296SmZEd3dDS25tMjh1eW5hRGg4X1gtVUpVQi1UbWIyYXpJQmh6NGxpX011WWlEYWh0Z3FKRm55UUl6UnpKUTZmM3lhUElLNUVIb0tkWDBYVkI1LXI2aWxwT1Q2aUpSZjhOcUVxaTByX21WVlExQVE?oc=5",
-   "source": "Reuters",
-   "ts": 1793051662.0
-  },
-  {
    "title": "James Comey faces two new federal charges",
    "link": "https://www.nbcnews.com/video/james-comey-faces-two-new-federal-charges-272257605808",
    "source": "NBC News",
    "ts": 1793051564.0
-  },
-  {
-   "title": "Microsoft offers buyouts to around 60,000 employees to contain costs",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3V6RnhJNUdQRC1uU19vNFk4YUR3MVlHbmpOdnUxMGo4R2RoWVhvXzAzTGczekw4akxaVjB3VzF4bHRhRFZFTFJ5eGY0ZGFOZ2NtcTBQa0RqZlgzVHlQb0pUcVJjN3RBM3lZTFhjaTNCM3JXLWxzR1F3NTZDLU0teHZyb2FpX2xzajM1UlpVVFRDTmhTRFhpeVR1WWxaT1dva0E0TEVoTjllb3hMSDVFVkRYTnpaQXRhZ0w3ZU9vR1hhQQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793051049.0
-  },
-  {
-   "title": "After Vucic defeat, Serbia waits to learn how student-backed leaders will govern",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWDBXeHFlUjhKM2poLUxJVXp5S1RtbEYzVzdqeEU1d2YzNFpraU02SVhwTzVPUU9ERno4bElMZzdGQ1JJY2NraXMtRExidHpOOEtUZkVBaFk3Z2RxVjJhSHJELTFqdUx0SThqV3N5cGcwWUl2cUcxbTZrcHZBS0dXRU56MzNFTExhc0VzT1VvQUV1ejBQZlpONTgtcEFwNXRScTJVcXdGSHpmZkpXdVBsRDFGcy1wVzg?oc=5",
-   "source": "Reuters",
-   "ts": 1793050982.0
   },
   {
    "title": "James Comey charged for a third time by the Trump administration",
@@ -102,12 +108,6 @@
    "link": "https://abcnews.com/US/famu-shooting-15-year-arrested-connection/story?id=137567977",
    "source": "ABC News",
    "ts": 1793044065.0
-  },
-  {
-   "title": "These key Senate races will determine which party controls the body next year",
-   "link": "https://abcnews.com/Politics/key-senate-races-determine-party-controls-body-year/story?id=137301095",
-   "source": "ABC News",
-   "ts": 1793038292.0
   }
  ]
 }
