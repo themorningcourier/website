@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-26T07:54:02.202413+00:00",
+ "updated": "2026-10-26T08:47:53.279359+00:00",
  "items": [
+  {
+   "title": "Morning news brief",
+   "link": "https://www.npr.org/2026/10/26/nx-s1-6012093/morning-news-brief",
+   "source": "NPR",
+   "ts": 1793004173.0
+  },
+  {
+   "title": "Eric Bauza, known as the iconic voice behind Looney Tunes' Bugs Bunny, dies at 46",
+   "link": "https://www.mynbc5.com/article/eric-bauza-voice-actor-bugs-bunny-dies-at-46/74244701",
+   "source": "WPTZ",
+   "ts": 1793004060.0
+  },
+  {
+   "title": "Another mainly dry week lies ahead",
+   "link": "https://www.wcax.com/2026/10/26/another-mainly-dry-week-lies-ahead/",
+   "source": "WCAX",
+   "ts": 1793002088.0
+  },
   {
    "title": "Eric Bauza, the modern voice of Bugs Bunny, Daffy Duck and more, dies at 46",
    "link": "https://www.wcax.com/2026/10/26/eric-bauza-modern-voice-bugs-bunny-daffy-duck-more-dies-46/",
@@ -20,22 +38,10 @@
    "ts": 1792985220.0
   },
   {
-   "title": "Large fire at seafood processing plant prompts evacuations in Oregon city",
-   "link": "https://www.wcax.com/2026/10/25/large-fire-seafood-processing-plant-prompts-evacuations-oregon-city/",
-   "source": "WCAX",
-   "ts": 1792982673.0
-  },
-  {
    "title": "Bodycam video: Officers rescue man from burning Jeep in dramatic early morning crash",
    "link": "https://www.mynbc5.com/article/bodycam-video-officers-save-driver-burning-jeep-massachusetts/74243304",
    "source": "WPTZ",
    "ts": 1792982640.0
-  },
-  {
-   "title": "Bolsonaro calls for Brazil election results to be 'annulled' after loss to Trump-critic Lula",
-   "link": "https://www.mynbc5.com/article/brazil-presidential-election/74242711",
-   "source": "WPTZ",
-   "ts": 1792981020.0
   },
   {
    "title": "Brazil's left-wing President Lula elected for fourth term",
@@ -48,12 +54,6 @@
    "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
    "source": "NPR",
    "ts": 1792960535.0
-  },
-  {
-   "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
-   "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
-   "source": "NPR",
-   "ts": 1792950635.0
   },
   {
    "title": "Teen food pantry tackles food insecurity",
