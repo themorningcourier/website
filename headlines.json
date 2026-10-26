@@ -1,29 +1,35 @@
 {
- "updated": "2026-10-25T23:56:49.958263+00:00",
+ "updated": "2026-10-26T00:56:43.484466+00:00",
  "items": [
   {
-   "title": "NASCAR race at Talladega was stopped after Joey Logano's car goes airborne in scary 15-car wreck",
+   "title": "Trump critic Lula wins reelection in Brazil, securing fourth presidential term",
+   "link": "https://www.mynbc5.com/article/brazil-presidential-election/74242711",
+   "source": "WPTZ",
+   "ts": 1792975560.0
+  },
+  {
+   "title": "Brazil's left-wing President Lula elected for fourth term",
+   "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+   "source": "NPR",
+   "ts": 1792974900.0
+  },
+  {
+   "title": "35-year-old bull rider identified after fatal accident at a rodeo in Ohio",
+   "link": "https://www.mynbc5.com/article/bull-rider-dies-accident-ohio-fox-hollow-rodeo/74242714",
+   "source": "WPTZ",
+   "ts": 1792974660.0
+  },
+  {
+   "title": "NASCAR race at Talladega was stopped after Joey Logano's car went airborne in scary 15-car wreck",
    "link": "https://www.mynbc5.com/article/joey-logano-talladega-airborne-crash-15-car-wreck/74242477",
    "source": "WPTZ",
-   "ts": 1792971300.0
+   "ts": 1792974660.0
   },
   {
    "title": "You Can Quote Me: Oct. 25, 2026",
    "link": "https://www.wcax.com/2026/10/25/you-can-quote-me-oct-25-2026/",
    "source": "WCAX",
    "ts": 1792970519.0
-  },
-  {
-   "title": "Burlington hosts Halloween Roll and Stroll",
-   "link": "https://www.mynbc5.com/article/burlington-17th-halloween-roll-and-stroll/74242772",
-   "source": "WPTZ",
-   "ts": 1792970280.0
-  },
-  {
-   "title": "Winooski farmers market ends season with Halloween festivities",
-   "link": "https://www.mynbc5.com/article/winooski-farmers-market-ends-halloween/74242764",
-   "source": "WPTZ",
-   "ts": 1792970160.0
   },
   {
    "title": "Large fire at seafood processing plant prompts evacuations in Oregon city",
@@ -48,12 +54,6 @@
    "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
    "source": "NPR",
    "ts": 1792950635.0
-  },
-  {
-   "title": "Venezuela's opposition leader Mar\u00eda Corina Machado returns after months in exile",
-   "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
-   "source": "NPR",
-   "ts": 1792945121.0
   },
   {
    "title": "Teen food pantry tackles food insecurity",

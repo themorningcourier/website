@@ -1,23 +1,77 @@
 {
- "updated": "2026-10-25T23:56:49.958263+00:00",
+ "updated": "2026-10-26T00:56:43.484466+00:00",
  "items": [
   {
-   "title": "Movie star-linked donut shop reveals closing date for LA store \u2014 but says it\u2019s not the end",
-   "link": "https://nypost.com/2026/10/25/us-news/movie-star-danny-trejos-donut-shop-reveals-closing-date-for-la-store-but-says-its-not-the-end/",
+   "title": "Kyle Shanahan has no answers for 49ers\u2019 kicking mess as bye week arrives",
+   "link": "https://nypost.com/2026/10/25/sports/kyle-shanahan-has-no-answers-for-49ers-kicking-mess-as-bye-week-arrives/",
    "source": "New York Post",
-   "ts": 1792972500.0
+   "ts": 1792976193.0
   },
   {
-   "title": "How a New Mexico lawsuit \u2018win\u2019 vs. Meta could tank the whole US economy",
-   "link": "https://nypost.com/2026/10/25/opinion/new-mexico-lawsuit-vs-meta-could-tank-the-whole-us-economy/",
+   "title": "Dead body found next to Disneyland Resort entrance",
+   "link": "https://nypost.com/2026/10/25/us-news/body-found-near-disneyland-resort-sign-in-anaheim-police-investigating/",
    "source": "New York Post",
-   "ts": 1792972231.0
+   "ts": 1792976034.0
   },
   {
-   "title": "At least 12 injured, including 6 children, in shooting near Florida A&M",
-   "link": "https://www.cbsnews.com/news/tallahassee-florida-shooting-a-m-university/",
+   "title": "Trump critic Lula wins reelection in Brazil, securing fourth presidential term",
+   "link": "https://nypost.com/2026/10/25/world-news/trump-critic-lula-wins-reelection-in-brazil-securing-fourth-presidential-term/",
+   "source": "New York Post",
+   "ts": 1792975885.0
+  },
+  {
+   "title": "Lula wins fourth term as Brazil's president",
+   "link": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/",
    "source": "CBS News",
-   "ts": 1792972140.0
+   "ts": 1792975713.0
+  },
+  {
+   "title": "Israel drills for surprise attack with massive military exercise as expert invokes 1973 war",
+   "link": "https://www.foxnews.com/world/israel-drills-surprise-attack-massive-military-exercise-expert-invokes-1973-war",
+   "source": "Fox News",
+   "ts": 1792975344.0
+  },
+  {
+   "title": "Five economic challenges facing Brazil's re-elected President Lula",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHk0a1NUT2ZNSm9tR2JkZnJ1YUtTdHRRVk1UQ05BbXpXYmtNYy1fY2MzaklhQ09YVGRmOUdHaW4yMVhsX1RpRGRacHFrNFpOcEFsRlBJcWpMSElnNGFKaVNCZTlzSC1RMFpyc1BuY2txb0NEd3I4X3hDTUNpcVh3clpDb19YVFdiOGRsNF9LQ0xBRWVPR2dEZzd2M0UzNElWNzNHOWZPcFhwcGp1ejZ1VGluaUM3Yk0?oc=5",
+   "source": "Reuters",
+   "ts": 1792975080.0
+  },
+  {
+   "title": "Conservative wave hits roadblock in Brazil as Lula holds off Bolsonaro challenge",
+   "link": "https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge",
+   "source": "Fox News",
+   "ts": 1792974474.0
+  },
+  {
+   "title": "Poll finds Democrats still boosted by voters' economic concerns",
+   "link": "https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/",
+   "source": "CBS News",
+   "ts": 1792973601.0
+  },
+  {
+   "title": "Todd Blanche challenges Dana Bash for only citing part of Constitution during heated election clash",
+   "link": "https://www.foxnews.com/media/todd-blanche-challenges-dana-bash-only-citing-part-constitution-during-heated-election-clash",
+   "source": "Fox News",
+   "ts": 1792973491.0
+  },
+  {
+   "title": "Four Corners region faces more flood threats following days of heavy rain",
+   "link": "https://www.cbsnews.com/news/four-corners-floods-heavy-rain/",
+   "source": "CBS News",
+   "ts": 1792972978.0
+  },
+  {
+   "title": "Libya summons US envoy to protest at Trump remarks",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb0trLWxfVngxTXZ6bG1KQmRScmRXODNGd3RsYjRLMnBDSUU3U244WUcyS25RcVVXVEQ0M1k4TVIxM0psOFZfeWRLNkJIenVHWHhwM1NRYWNreEJUUlRBa0lWdE1uMFNZR2hKZFhDSFlEeFByaF9CMUJJR0NEOV9KQmR6OW1tWUFlVGVvelF5VTQxWFE?oc=5",
+   "source": "Reuters",
+   "ts": 1792972800.0
+  },
+  {
+   "title": "Trump says Canada tariff deal coming 'soon' at Michigan border rally",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdEJMMGdRVDJoVkVSSGFSV1FvRmJMTy1LWnZhMWRzeUFjNlN4QUFKQ2tZc285cEs4akdIZ0dvZzJtSTBWU3ZwX1VGX2l3TllKVGxfNnh0Vm5rOTVtX2JpLXhwOXdJTEJURVBjYjRLS3hWSHk4bXBCT3lIWmZGMS1YTE5WQmpYVTVWcEk3YnE3WWV6anVTdElYUlV0Q3o4cnF2N0Z1NXJlazBvcG9L?oc=5",
+   "source": "Reuters",
+   "ts": 1792972582.0
   },
   {
    "title": "Appeals court hears arguments in Trump admin's voting suit against California",
@@ -26,70 +80,10 @@
    "ts": 1792972118.0
   },
   {
-   "title": "At least 11 wounded, some children, in Tallahassee shooting near Florida A&M",
-   "link": "https://www.cbsnews.com/video/at-least-11-wounded-some-children-tallahassee-shooting-florida-am/",
-   "source": "CBS News",
-   "ts": 1792972054.0
-  },
-  {
-   "title": "Rams deliver statement win over Raiders with season hanging in the balance",
-   "link": "https://nypost.com/2026/10/25/sports/rams-deliver-statement-win-over-raiders-with-season-hanging-in-the-balance/",
-   "source": "New York Post",
-   "ts": 1792972033.0
-  },
-  {
-   "title": "Israel to close West Bank crossings before elections amid military operation",
-   "link": "https://www.cbsnews.com/news/israel-military-operation-west-bank-elections/",
-   "source": "CBS News",
-   "ts": 1792971960.0
-  },
-  {
-   "title": "NFL's French national anthem performer Nina Tonji alters words to La Marseillaise, sparking outrage in France",
-   "link": "https://www.foxnews.com/outkick-sports/nfl-french-national-anthem-performer-nina-tonji-alters-words-la-marseillaise-sparking-outrage-france",
-   "source": "Fox News",
-   "ts": 1792971375.0
-  },
-  {
-   "title": "Mourinho gives Real Madrid the answers to Barcelona test in return to Clasico",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGhYVU14enlVTDFwcDEwSG5zMnZHdmplRzZtY2psSXRON2c4WUtJNG54WmVFSHF1NkhFblB1TExWS2pNb1U3NkM5VUt4b2I1V0VZaUJyY0FIUWt6akxKb29LalA1RlhIZ1RPVGpmY2RXNjlrdXlsNUl4SkFmeW1fV2FUeVc4TlVRZVpiVllyb25TX3dDaDFlb2pzSG5QYWI5cGN3OGM3czFNbmpvVC1uZmR6U2Q?oc=5",
-   "source": "Reuters",
-   "ts": 1792971223.0
-  },
-  {
    "title": "Trump leans into Islamophobic rhetoric at Michigan rally",
    "link": "https://www.nbcnews.com/politics/2026-election/trump-leans-islamophobic-rhetoric-michigan-rally-rcna605572",
    "source": "NBC News",
    "ts": 1792971147.0
-  },
-  {
-   "title": "Oil prices down almost $1 in early trading",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2J2QlNheno1OW9FdmN3RTJWVHF1RXdLX0VQSGlKSkZlZEtNTnFxU3FUd1Zab1FPME1felpOVl9oM1oyNXc0T2xkdDZhc0JfUVlSTFU4Vm9aYWRrd1BhQmw1QThZRDZHbEZZR3Y5UlhNaDlWWm8tbjU2bjVtaFRVM0VMcml2OXY4TUtxNXRZU2c3c0lC?oc=5",
-   "source": "Reuters",
-   "ts": 1792970743.0
-  },
-  {
-   "title": "DAVID MARCUS: The future of the GOP in New England rides on Maine\u2019s Senate vote",
-   "link": "https://www.foxnews.com/opinion/david-marcus-future-gop-new-england-rides-maines-senate-vote",
-   "source": "Fox News",
-   "ts": 1792970617.0
-  },
-  {
-   "title": "Zelenskiy says US fully resumes warnings on ballistic strikes",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlJXU0EwamQyaDFJX05mT0UxSlNjMlBZTG9DN184ejRsOWMtSmJiVUtsVW1fV2NlVFBmUG1TVV9UVmRYZm5WcFhpOU9EV3hZWXF4R2ZFMVFkOUFPUmxOQTRMR2R6WGlFVVIyTDZJNTZqajFxaVphUjlhM3JqMkVRUUJKWTJqbm5aT0pkYmJqU3poanNDM0tkRkVvOUwySmx1UUdsZkR5MlVQVjRRU18ycnRDbDBscmpxTDdHYUFrUQ?oc=5",
-   "source": "Reuters",
-   "ts": 1792970429.0
-  },
-  {
-   "title": "Steve Hilton hits Dem governor's 2028 pitch by calling out Newsom's rail record",
-   "link": "https://www.foxnews.com/media/steve-hilton-hits-dem-governors-2028-pitch-calling-out-newsoms-rail-record",
-   "source": "Fox News",
-   "ts": 1792970015.0
-  },
-  {
-   "title": "Venezuelan opposition leader returns after months in exile",
-   "link": "https://www.nbcnews.com/nightly-news/video/venezuelan-opposition-leader-returns-after-months-in-exile-272202309835",
-   "source": "NBC News",
-   "ts": 1792969868.0
   },
   {
    "title": "Crackdown in the West Bank days ahead of Israeli elections",
@@ -98,16 +92,22 @@
    "ts": 1792969730.0
   },
   {
-   "title": "12 injured, including 6 children, in shooting near Florida university, police say",
-   "link": "https://abcnews.com/US/12-injured-including-6-children-shooting-florida-university/story?id=137549623",
-   "source": "ABC News",
-   "ts": 1792963160.0
+   "title": "Fire at seafood plant forces evacuations in Oregon",
+   "link": "https://www.nbcnews.com/nightly-news/video/fire-at-seafood-plant-forces-evacuations-in-oregon-272202309804",
+   "source": "NBC News",
+   "ts": 1792969521.0
   },
   {
    "title": "US Marine indicted in alleged Okinawa robbery homicide",
    "link": "https://abcnews.com/International/us-marine-indicted-alleged-okinawa-robbery-homicide/story?id=137553792",
    "source": "ABC News",
    "ts": 1792952001.0
+  },
+  {
+   "title": "Open Senate seat up for grabs in Iowa as candidates tout populism, bipartisanship",
+   "link": "https://abcnews.com/Politics/open-senate-seat-grabs-iowa-candidates-tout-populism/story?id=137550408",
+   "source": "ABC News",
+   "ts": 1792950940.0
   }
  ]
 }
