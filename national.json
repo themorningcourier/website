@@ -1,83 +1,95 @@
 {
- "updated": "2026-10-26T19:44:29.611011+00:00",
+ "updated": "2026-10-26T20:38:09.470953+00:00",
  "items": [
   {
-   "title": "Harryween is this weekend. Here\u2019s how much last-minute MSG tickets cost",
-   "link": "https://nypost.com/2026/10/26/ticket-sales/get-last-minute-harryween-tickets-for-harry-styles-final-msg-show/",
+   "title": "Hulk Hogan\u2019s daughter lashes out with claim $5.9M family home was sold for \u2018dirty money\u2019",
+   "link": "https://nypost.com/2026/10/26/sports/hulk-hogans-daughter-brooke-lashes-out-as-family-home-is-sold-dirty-money/",
    "source": "New York Post",
-   "ts": 1793043845.0
+   "ts": 1793047028.0
   },
   {
-   "title": "Brutal study ranks the worst governors in America \u2013 and it\u2019s terrible news for Gavin Newsom",
-   "link": "https://nypost.com/2026/10/26/us-news/californias-gavin-newsom-ranked-among-the-worst-governors-in-us/",
+   "title": "Cowboys vs. Eagles betting promos: Collect $5K in sportsbook, prediction market bonuses for \u2018Monday Night Football\u2019",
+   "link": "https://nypost.com/2026/10/26/betting/cowboys-vs-eagles-betting-promos-collect-5k-in-sportsbook-prediction-market-bonuses-for-monday-night-football/",
    "source": "New York Post",
-   "ts": 1793043530.0
+   "ts": 1793046900.0
   },
   {
-   "title": "MTA faces $900M budget hole by 2030 while cash-strapped agency continues to hike fares, fees",
-   "link": "https://nypost.com/2026/10/26/us-news/mta-faces-900m-budget-hole-by-2030-while-cash-strapped-agency-continues-to-hike-fares-fees/",
+   "title": "Adam Brody divulges regret from Leighton Meester proposal more than a decade after popping question",
+   "link": "https://pagesix.com/2026/10/26/celebrity-news/adam-brody-shares-regret-about-leighton-meester-proposal/",
    "source": "New York Post",
-   "ts": 1793043433.0
+   "ts": 1793046734.0
   },
   {
-   "title": "'Star Trek' actor Walter Koenig dies at 90",
-   "link": "https://abcnews.com/GMA/Culture/star-trek-actor-walter-koenig-dies-90/story?id=137576960",
-   "source": "ABC News",
-   "ts": 1793043367.0
-  },
-  {
-   "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Eagles-Cowboys on Monday Night Football",
-   "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-eagles-cowboys-monday-night-football",
+   "title": "Brazilian election sends US progressives into online fever as key irregularity stokes result uncertainty",
+   "link": "https://www.foxnews.com/politics/brazilian-election-sends-us-progressives-online-fever-key-irregularity-stokes-result-uncertainty",
    "source": "Fox News",
-   "ts": 1793043336.0
-  },
-  {
-   "title": "Sophie Cunningham's cowboy hat message has fans talking, Holly Rowe's WNBA Finals plan & Is Texas' field gray?",
-   "link": "https://www.foxnews.com/outkick-sports/sophie-cunninghams-cowboy-hat-message-fans-talking-holly-rowes-wnba-finals-plan-texas-field-gray",
-   "source": "Fox News",
-   "ts": 1793043212.0
-  },
-  {
-   "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 for Rays vs Brewers Game 3",
-   "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-rays-vs-brewers-game-3",
-   "source": "Fox News",
-   "ts": 1793043085.0
-  },
-  {
-   "title": "Dollar General overcharged people at checkout for years, FTC says",
-   "link": "https://www.cbsnews.com/news/dollar-general-sued-ftc-overcharging-prices/",
-   "source": "CBS News",
-   "ts": 1793042650.0
-  },
-  {
-   "title": "Notable Deaths in 2026",
-   "link": "https://www.cbsnews.com/pictures/notable-deaths-in-2026/",
-   "source": "CBS News",
-   "ts": 1793042520.0
-  },
-  {
-   "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1UzRjJ6M0VaSXoydWlIZ2pzc2tGcUZtMjlzR1JhUE9UR0llUERrRWRJNUdTRWNNQU9IUUEycmZUVk40cEtCSjZ5TzRqZVRWT1JvMEtmQmlENklzd19LLWlDREZZakJ0MWdTOTZleEdBN1FVRFJGMGxHWnpkY2owdVFSQ0FWWHNFcWlPTUtpb1ZDRkZrY0tUMkZrdHRJMnFJZEZveXVQaG41OHFibWFyMWpfNG9jTlR0aTM1enNKT18?oc=5",
-   "source": "Reuters",
-   "ts": 1793042384.0
-  },
-  {
-   "title": "Microsoft offers buyouts to around 60,000 employees to contain costs",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3V6RnhJNUdQRC1uU19vNFk4YUR3MVlHbmpOdnUxMGo4R2RoWVhvXzAzTGczekw4akxaVjB3VzF4bHRhRFZFTFJ5eGY0ZGFOZ2NtcTBQa0RqZlgzVHlQb0pUcVJjN3RBM3lZTFhjaTNCM3JXLWxzR1F3NTZDLU0teHZyb2FpX2xzajM1UlpVVFRDTmhTRFhpeVR1WWxaT1dva0E0TEVoTjllb3hMSDVFVkRYTnpaQXRhZ0w3ZU9vR1hhQQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793042286.0
-  },
-  {
-   "title": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFIxVXVVYl90WFZodTB6bHpqOWN3aktZSHNDYTlaM3I5S1FoeU14U1NRVE1mVTJtSDV3ZHk1cHRiWDh6elBNamVIeE5tN2VvRDEyWXBPT1dyNW5KSXFyaE5PVEFOS1NyQW1CNkVVblN6SW1PeVg3aHQxY3B6WmhHU3cxM0gtdTNRLTY1NWo0R284RzQtSmVtTnRxVnR6MTVkNWVsU3djY1d2SURPNmo0N05CUFJZekpIUklNTmRxazZHVTNrbEFN?oc=5",
-   "source": "Reuters",
-   "ts": 1793042286.0
+   "ts": 1793046686.0
   },
   {
    "title": "Iran shrugs off Trump's attack threats, says diplomacy ongoing",
    "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
    "source": "CBS News",
-   "ts": 1793041203.0
+   "ts": 1793046542.0
+  },
+  {
+   "title": "Trump offers $1M reward for people who report voter fraud in past, upcoming elections",
+   "link": "https://abcnews.com/Politics/trump-offers-1m-reward-people-report-voter-fraud/story?id=137581908",
+   "source": "ABC News",
+   "ts": 1793046542.0
+  },
+  {
+   "title": "McDonald's McRib returns for limited time, but customers in some cities will miss out",
+   "link": "https://www.foxnews.com/food-drink/mcdonalds-mcrib-returns-limited-time-customers-some-cities-miss-out",
+   "source": "Fox News",
+   "ts": 1793046298.0
+  },
+  {
+   "title": "Illegal immigrant accused of beheading Iwo Jima monument granted bond",
+   "link": "https://www.foxnews.com/us/illegal-immigrant-accused-beheading-iwo-jima-monument-granted-bond",
+   "source": "Fox News",
+   "ts": 1793046269.0
+  },
+  {
+   "title": "Texas redistricting left these Latino voters confused, but will it impact midterm vote?",
+   "link": "https://www.nbcnews.com/politics/2026-election/texas-redistricting-left-latino-voters-confused-will-impact-midterm-vo-rcna605709",
+   "source": "NBC News",
+   "ts": 1793046101.0
+  },
+  {
+   "title": "Is the Federal Reserve likely to raise interest rates this week?",
+   "link": "https://www.cbsnews.com/news/federal-reserve-interest-rates-october-meeting/",
+   "source": "CBS News",
+   "ts": 1793045430.0
+  },
+  {
+   "title": "Man charged with mailing threatening letters with white substance to members of Congress",
+   "link": "https://www.nbcnews.com/politics/justice-department/man-charged-mailing-threatening-letters-white-substance-congress-rcna605793",
+   "source": "NBC News",
+   "ts": 1793044689.0
+  },
+  {
+   "title": "Bishops lament White House meeting that produced photo with Trump",
+   "link": "https://www.cbsnews.com/news/trump-photo-bishops-white-house-meeting/",
+   "source": "CBS News",
+   "ts": 1793044627.0
+  },
+  {
+   "title": "DoorDash in talks to buy Instacart, WSJ reports",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkI1dVc1WGVsRGwyMkZtNFFfR3NpaFR2M2JTQ05POTBkZ29lSVpuelFJVWFCTC1tNEJ3Y0F6YUxHWUJkWjJqcm1KWnhNajVxNk5iUFZuck9ZV0tOVEdxYjlxcG0ycUk5UUlyU3l6bnpJY0NFMDJqcXJ4cWJGeUJRbTV5YTVtQy1CSXlTUmZn?oc=5",
+   "source": "Reuters",
+   "ts": 1793043823.0
+  },
+  {
+   "title": "Trump offers $1 million for tipoffs that lead to voter fraud convictions",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa255OHlMWDc5cnpYZjlEcVlZRzF0aVdua2Q2emRRZHo1R2t4cHhmM2RacExuLTBOS0RzdkhWZ3FEdHBSQ0VKSFpRUGpiMW45VVFCM0xibWpPRU1UeXpBVDVzVFEybVQ4VUdpUVQtS21EX25BeXNTdlZLSmdCQ2ZCd1p6Mm5mbmZhb0JqU2tZdW12ZGdGRnpzNi1sNWd4VU9kRVlhYjJGV1N2dw?oc=5",
+   "source": "Reuters",
+   "ts": 1793043703.0
+  },
+  {
+   "title": "Surgery Partners to be taken private by Bon Secours affiliate in $5.7 billion deal",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjFmVWM4cEV5RmFxYjFyM2M3RHhsX1J5bllpQlFTbGM1SjZ0NDdNaHdwaVdGZTUzd05lQy01dFN2MDd5YnpJQ1RxT185WURobHRiVEhva0NlSl9HRWRWNXlYOWlnTXgtVF9UTHc5WFpyYUZ2SFZweDhFb29pcWhHLXYwRmRuWW42TW5PR3JJc1l4dTNIX09nZktDd1pPaWtueTRRVmFhY1g3czM4dnB2dTZn?oc=5",
+   "source": "Reuters",
+   "ts": 1793043343.0
   },
   {
    "title": "Anthropic preps for IPO in major step for AI company",
@@ -92,22 +104,10 @@
    "ts": 1793039921.0
   },
   {
-   "title": "Ulta\u2019s Early Black Friday sale has Clinique, Medicube and more up to 50% off",
-   "link": "https://www.nbcnews.com/select/shopping/ulta-early-black-friday-sale-2026-rcna605751",
-   "source": "NBC News",
-   "ts": 1793039737.0
-  },
-  {
    "title": "These key Senate races will determine which party controls the body next year",
    "link": "https://abcnews.com/Politics/key-senate-races-determine-party-controls-body-year/story?id=137301095",
    "source": "ABC News",
    "ts": 1793038292.0
-  },
-  {
-   "title": "Walter Koenig, actor who played Chekov on original \u2018Star Trek\u2019 series, dies at 90",
-   "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/walter-koenig-actor-played-chekov-original-star-trek-series-dies-90-rcna605743",
-   "source": "NBC News",
-   "ts": 1793037353.0
   }
  ]
 }
