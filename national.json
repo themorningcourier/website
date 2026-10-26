@@ -1,89 +1,101 @@
 {
- "updated": "2026-10-26T17:41:04.882603+00:00",
+ "updated": "2026-10-26T18:49:46.722779+00:00",
  "items": [
   {
-   "title": "Microsoft offers buyouts to 60,000 workers as it invests more in AI",
-   "link": "https://www.cbsnews.com/news/microsoft-buyouts-60000-workers-artificial-intelligence-layoffs/",
-   "source": "CBS News",
-   "ts": 1793036398.0
-  },
-  {
-   "title": "Walter Koenig, actor who played Chekov on \"Star Trek,\" dies at 90",
-   "link": "https://www.cbsnews.com/news/walter-koenig-dies-age-90-chekov-star-trek/",
-   "source": "CBS News",
-   "ts": 1793036389.0
-  },
-  {
-   "title": "LAFC fan caught yelling racist slur at South Korea\u2019s Son Heung-min after MLS game",
-   "link": "https://nypost.com/2026/10/26/sports/lafc-fan-caught-yelling-racist-slur-son-heung-min/",
+   "title": "It\u2019s your last call to save up to 80% on Wayfair rugs during October Way Day",
+   "link": "https://nypost.com/shopping/wayfair-way-day-rugs-carpets-sales-deals-october-2026/",
    "source": "New York Post",
-   "ts": 1793036235.0
+   "ts": 1793040444.0
   },
   {
-   "title": "Meta unveils staggering $95B AI buildout \u2014 fueled by offerings of new stock",
-   "link": "https://nypost.com/2026/10/26/business/meta-unveils-staggering-95b-ai-buildout-fueled-by-offerings-of-new-stock/",
+   "title": "US man accused of killing wife, daughter in Rome has prosecutor request life sentence",
+   "link": "https://nypost.com/2026/10/26/world-news/man-accused-of-killing-wife-daughter-prosecutor-requests-life-sentence/",
    "source": "New York Post",
-   "ts": 1793036028.0
+   "ts": 1793040435.0
   },
   {
-   "title": "Slow starts for Knicks, Nets have oddsmakers questioning their season-long outlook",
-   "link": "https://nypost.com/2026/10/26/betting/slow-starts-for-knicks-nets-have-oddsmakers-questioning-their-season-long-outlook/",
-   "source": "New York Post",
-   "ts": 1793036021.0
-  },
-  {
-   "title": "Vatican confirms Pope Leo's Latin America trip after post-surgery checkup",
-   "link": "https://abcnews.com/International/wireStory/vatican-confirms-pope-leos-latin-america-trip-after-137577740",
+   "title": "Inmate serving life sentence escapes prison",
+   "link": "https://abcnews.com/US/convicted-murderer-escapes-tennessee-prison-authorities/story?id=137573001",
    "source": "ABC News",
-   "ts": 1793036021.0
+   "ts": 1793040396.0
+  },
+  {
+   "title": "Haley Stevens ripped by fellow Dems for refusing to explicitly back El-Sayed: 'Stay the f--- off television'",
+   "link": "https://www.foxnews.com/politics/haley-stevens-ripped-fellow-dems-refusing-explicitly-back-el-sayed-stay-f-off-television",
+   "source": "Fox News",
+   "ts": 1793040357.0
+  },
+  {
+   "title": "Wild moment Steve Hilton finds himself in the middle of maniac fighting security on streets of LA",
+   "link": "https://nypost.com/2026/10/26/us-news/steve-hilton-films-la-street-fight-between-shirtless-man-security-guard/",
+   "source": "New York Post",
+   "ts": 1793040342.0
+  },
+  {
+   "title": "Obama judge rules Trump DOJ illegally fired James Comey's daughter, rejects sweeping Article II claim",
+   "link": "https://www.foxnews.com/politics/obama-judge-rules-trump-doj-illegally-fired-james-comeys-daughter-rejects-sweeping-article-ii-claim",
+   "source": "Fox News",
+   "ts": 1793040065.0
+  },
+  {
+   "title": "Lincoln Riley\u2019s USC tenure could end with loss against Ohio State\u2019s backup quarterback, and $70m buyout",
+   "link": "https://www.foxnews.com/outkick-sports/lincoln-riley-usc-tenure-could-end-loss-against-ohio-state-backup-quarterback-70m-buyout",
+   "source": "Fox News",
+   "ts": 1793039853.0
   },
   {
    "title": "Iran shrugs off Trump's attack threats, says diplomacy ongoing",
    "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
    "source": "CBS News",
-   "ts": 1793035705.0
+   "ts": 1793039546.0
   },
   {
-   "title": "Tennessee inmate convicted of murder escapes from prison, manhunt underway: Officials",
-   "link": "https://www.foxnews.com/us/tennessee-inmate-convicted-murder-escapes-prison-manhunt-underway-officials",
-   "source": "Fox News",
-   "ts": 1793035665.0
+   "title": "These key Senate races will determine which party controls the body next year",
+   "link": "https://abcnews.com/Politics/key-senate-races-determine-party-controls-body-year/story?id=137301095",
+   "source": "ABC News",
+   "ts": 1793038292.0
+  },
+  {
+   "title": "Microsoft offers buyouts to 60,000 workers as it invests more in AI",
+   "link": "https://www.cbsnews.com/news/microsoft-buyouts-60000-workers-artificial-intelligence-layoffs/",
+   "source": "CBS News",
+   "ts": 1793038026.0
+  },
+  {
+   "title": "New poll shows why Democrats, Republicans are voting in the midterm elections",
+   "link": "https://www.cbsnews.com/video/new-poll-shows-why-democrats-republicans-are-voting-in-the-midterm-elections/",
+   "source": "CBS News",
+   "ts": 1793037929.0
+  },
+  {
+   "title": "Walter Koenig, actor who played Chekov on original \u2018Star Trek\u2019 series, dies at 90",
+   "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/walter-koenig-actor-played-chekov-original-star-trek-series-dies-90-rcna605743",
+   "source": "NBC News",
+   "ts": 1793037353.0
+  },
+  {
+   "title": "French student protesters say government offered them deal, but they want more",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ29JWE91SUo5Q1BiMHhCZFdKRHhVWWV0YlV2STRCV3ZTNXZCcUVBTzMya0k1QmxyWkpVTWFWNzBscEZ2NXd3ZElSS3gzUEpNUER4ajlyX1d6cVpyMzJ3ZWpITEJJd0RSVU1hb181SkRfTnJWSWUtZEl6WVVxeXcxNnYteUdzanBEak5xOXA4aDkzdUV6bENXeEdSLUlOM3FPZklLdnV6TF9CR3c?oc=5",
+   "source": "Reuters",
+   "ts": 1793037244.0
+  },
+  {
+   "title": "Swiss woman with Ebola evacuated from Nigeria to Geneva",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2JzYTNSSkhYZVdfa2VWN092SzJLc3I1d3dWdjhtQjIzcHNFVVJYUVN0N3d4MllSZTJyTEtyYkEzeGx0TXljcDZpNkZfZlBLbXMtY0VUcHdsV2JabXlkYzlhZTZKRi03dEhqeTZYZk15SlBseW9iMHRCLU9ueFR0TVQyUWtrZHJwU0E4UVVIcGZPczVCRURkNzQyZXVCREJpRExJWjFqenVHYUFCSjlMWDREN216Y1U?oc=5",
+   "source": "Reuters",
+   "ts": 1793036793.0
+  },
+  {
+   "title": "Head of Mexico's electoral authority resigns amid corruption allegations",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHBRckFsU2Y0QkxqVW8zMXlNcXNpQkVNbkE3Um1jQ0puZWxTNGJWbkMxUDcyVjM0OEtxdFpqY3c1ZEk0dC1iYTFzS1dpQ2RtQVUxa0VqdEFSYnYtMVZud1A0enZ0Rmttd29DR0oxZXN5WnJaWk5jSWpKWmJldGVIYnQ2TjJnSjVGLWR3YmlZajR0bFhmMVFaVnYxU0p3WjRXT1JoUk9yN05aYjFvTFk1Y0phOUZ6X2pILXdR?oc=5",
+   "source": "Reuters",
+   "ts": 1793036691.0
   },
   {
    "title": "Trump told DOJ to sue to block Alaska Senate results if Republican narrowly loses",
    "link": "https://abcnews.com/US/doj-preemptively-sues-block-alaska-senate-results-republican/story?id=137512876",
    "source": "ABC News",
    "ts": 1793035545.0
-  },
-  {
-   "title": "Audi CEO faces backlash after joining Trump at midterm campaign rally",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaC1sRVBIdlJKRXRwLVp2Y2RtYjVoUFRoSU00anpHOHdsMzR0ZUJfcmoybHF5UG5PRW1uZVc0VTdIV1hJWVR3R0t0cGljZDlkNGppY0VjaXVmRlBQMWs3alMxS2NCbjRpakVTbzVoOTRZYVdxbmRJVmE0NnZ6MGdHM1VYUmhCMmlERHFrX3BnR1lhSjJFY1htZlhvbWxUWERzWWJCVGh1WEhJeUF2UW8xVm50ME1rNDJ1Y2pjQVp1dG1UTVd4dEp2aHZPdE5jMWI0ekNPNzhnY1V0UQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793034470.0
-  },
-  {
-   "title": "Trump isn't done overhauling the White House \u2014 and his next move could hit the media where it works",
-   "link": "https://www.foxnews.com/politics/trump-isnt-done-overhauling-white-house-his-next-move-could-hit-media-where-works",
-   "source": "Fox News",
-   "ts": 1793034315.0
-  },
-  {
-   "title": "Michael Douglas doesn't 'feel bad' about affair revelations from 'before Catherine'",
-   "link": "https://www.foxnews.com/entertainment/michael-douglas-doesnt-feel-bad-about-affair-revelations-from-before-catherine",
-   "source": "Fox News",
-   "ts": 1793034053.0
-  },
-  {
-   "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1UzRjJ6M0VaSXoydWlIZ2pzc2tGcUZtMjlzR1JhUE9UR0llUERrRWRJNUdTRWNNQU9IUUEycmZUVk40cEtCSjZ5TzRqZVRWT1JvMEtmQmlENklzd19LLWlDREZZakJ0MWdTOTZleEdBN1FVRFJGMGxHWnpkY2owdVFSQ0FWWHNFcWlPTUtpb1ZDRkZrY0tUMkZrdHRJMnFJZEZveXVQaG41OHFibWFyMWpfNG9jTlR0aTM1enNKT18?oc=5",
-   "source": "Reuters",
-   "ts": 1793033596.0
-  },
-  {
-   "title": "US retailers face record holiday delivery prices from surcharges tied to costlier diesel",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb2dYaFN6ZU5pODlkRWJja25NUURBRGhvTW8yLVEwUklsei13aVZlTnk0S1M2eTR0bFhHUEdzOGdEZjNRM0tTNW1VRGowQVd1SnJrTG9kZHptWUxjU21KdnVhMGItTGxmV2Z0emlYeDZJZFMxU1U5aVZMTGpiV1NoNTlJVURIeDZTSmx4dnc1Y293ZnV2ZHpjQlNPdGtSSUZqdGdtbFlfNjRxYzY1SnQ1YVZJalVFcW0yZ0ZJd2lkdjl5YThoNW5wSGRMZG9SdzJnVDhLU3FUSHE?oc=5",
-   "source": "Reuters",
-   "ts": 1793033424.0
   },
   {
    "title": "How to clean wooden utensils and avoid getting splinters in your food",
@@ -96,18 +108,6 @@
    "link": "https://www.nbcnews.com/politics/trump-administration/doj-justice-maurene-comey-court-reinstate-rcna605720",
    "source": "NBC News",
    "ts": 1793031024.0
-  },
-  {
-   "title": "Judge reinstates Maurene Comey after ruling her firing unlawful",
-   "link": "https://abcnews.com/US/judge-reinstates-maurene-comey-after-ruling-firing-unlawful/story?id=137575599",
-   "source": "ABC News",
-   "ts": 1793029704.0
-  },
-  {
-   "title": "House Democrats call on DOJ to name  special counsel in Epstein case",
-   "link": "https://www.nbcnews.com/politics/congress/house-democrats-call-doj-name-special-counsel-epstein-case-rcna605269",
-   "source": "NBC News",
-   "ts": 1793029227.0
   }
  ]
 }
