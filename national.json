@@ -1,47 +1,95 @@
 {
- "updated": "2026-10-26T09:46:14.911731+00:00",
+ "updated": "2026-10-26T10:43:16.830738+00:00",
  "items": [
   {
-   "title": "Israelis set to decide whether Netanyahu still deserves to lead after Oct. 7 attacks",
-   "link": "https://nypost.com/2026/10/26/world-news/netanyahu-oct-7-and-whats-at-stake-in-israels-2026-election/",
-   "source": "New York Post",
-   "ts": 1793007000.0
-  },
-  {
-   "title": "Delegations meet in Iran with Middle East on edge over potential for renewed fighting",
-   "link": "https://nypost.com/2026/10/26/world-news/delegations-meet-in-iran-with-middle-east-on-edge-over-potential-for-renewed-fighting/",
-   "source": "New York Post",
-   "ts": 1793006913.0
-  },
-  {
-   "title": "Eric Bauza, who voiced Bugs Bunny and Daffy Duck, dead at 46",
-   "link": "https://pagesix.com/2026/10/26/entertainment/eric-bauza-who-voiced-looney-tunes-characters-bugs-bunny-and-daffy-duck-dies-at-46/",
-   "source": "New York Post",
-   "ts": 1793006286.0
-  },
-  {
-   "title": "These key Senate races will determine which party controls the body next year",
-   "link": "https://abcnews.com/Politics/key-senate-races-determine-party-controls-body-year/story?id=137301095",
+   "title": "Iran live updates: Houthis claim new missile attack on Riyadh airport",
+   "link": "https://abcnews.com/International/live-updates/iran-live-updates-houthis-claim-new-attack-riyadh/?id=137563447",
    "source": "ABC News",
-   "ts": 1793006123.0
+   "ts": 1793011350.0
   },
   {
-   "title": "Trump restored the Department of War. Now it\u2019s up to Congress to finish the job",
-   "link": "https://www.foxnews.com/opinion/trump-restored-department-of-war-now-congress-finish-job",
-   "source": "Fox News",
-   "ts": 1793005250.0
+   "title": "WATCH:  Man arrested near film set",
+   "link": "https://abcnews.com/video/137559310/",
+   "source": "ABC News",
+   "ts": 1793010903.0
   },
   {
-   "title": "California wants to spend $25 billion to put homebuyers deeper in debt",
-   "link": "https://www.foxnews.com/opinion/california-wants-spend-25-billion-put-homebuyers-deeper-debt",
+   "title": "WWE star Drew McIntyre offers sobering reminder amid spate of deaths to hit pro wrestling world",
+   "link": "https://www.foxnews.com/outkick-sports/wwe-star-drew-mcintyre-offers-sobering-reminder-amid-spate-deaths-hit-pro-wrestling-world",
    "source": "Fox News",
-   "ts": 1793005234.0
+   "ts": 1793010877.0
   },
   {
-   "title": "AI is changing everything. Universities must teach Americans how to keep up",
-   "link": "https://www.foxnews.com/opinion/ai-changing-everything-universities-must-teach-americans-keep-up",
+   "title": "American Jews who fled to Israel over rising antisemitism could prove decisive for Netanyahu\u2019s future",
+   "link": "https://nypost.com/2026/10/26/world-news/american-jews-who-fled-to-israel-over-antisemitism-could-prove-decisive-for-netanyahu/",
+   "source": "New York Post",
+   "ts": 1793010600.0
+  },
+  {
+   "title": "Japan indicts U.S. Marine on murder charge over woman's killing",
+   "link": "https://www.cbsnews.com/news/us-marine-indicted-murder-charge-woman-killing-japan/",
+   "source": "CBS News",
+   "ts": 1793010309.0
+  },
+  {
+   "title": "Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3?oc=5",
+   "source": "Reuters",
+   "ts": 1793010189.0
+  },
+  {
+   "title": "Woman, 93, outwits scammer, helps get him arrested, police say",
+   "link": "https://www.cbsnews.com/news/woman-93-outwits-would-be-scammer-gets-him-arrested-police-say/",
+   "source": "CBS News",
+   "ts": 1793010164.0
+  },
+  {
+   "title": "WATCH:  School janitor gets special honor in tearful ceremony",
+   "link": "https://abcnews.com/video/137564545/",
+   "source": "ABC News",
+   "ts": 1793009937.0
+  },
+  {
+   "title": "Co-working spaces rebranding with high-end amenities, including  suites",
+   "link": "https://nypost.com/2026/10/26/business/co-working-spaces-rebranding-with-high-end-amenities-including-suites/",
+   "source": "New York Post",
+   "ts": 1793009700.0
+  },
+  {
+   "title": "Nigeria's Ebola patient on medical evacuation flight to Switzerland, condition stable",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2JzYTNSSkhYZVdfa2VWN092SzJLc3I1d3dWdjhtQjIzcHNFVVJYUVN0N3d4MllSZTJyTEtyYkEzeGx0TXljcDZpNkZfZlBLbXMtY0VUcHdsV2JabXlkYzlhZTZKRi03dEhqeTZYZk15SlBseW9iMHRCLU9ueFR0TVQyUWtrZHJwU0E4UVVIcGZPczVCRURkNzQyZXVCREJpRExJWjFqenVHYUFCSjlMWDREN216Y1U?oc=5",
+   "source": "Reuters",
+   "ts": 1793009232.0
+  },
+  {
+   "title": "NFL Week 7: A divisional duel in Detroit, and Aaron Rodgers keeps winning",
+   "link": "https://www.nbcnews.com/sports/nfl/nfl-week-7-detroit-lions-green-bay-packers-aaron-rodgers-rcna605618",
+   "source": "NBC News",
+   "ts": 1793009040.0
+  },
+  {
+   "title": "Teen accused of stepsister\u2019s cruise ship murder buys time to consider plea but won\u2019t get \u2018sweet\u2019 deal: expert",
+   "link": "https://www.foxnews.com/us/teen-accused-stepsister-cruise-ship-murder-buys-time-consider-plea-wont-get-sweet-deal-expert",
    "source": "Fox News",
-   "ts": 1793005224.0
+   "ts": 1793008854.0
+  },
+  {
+   "title": "Prince Harry making 'big mistake' that could destroy chance of royal reconciliation: expert",
+   "link": "https://www.foxnews.com/entertainment/prince-harry-making-big-mistake-destroy-chance-royal-reconciliation-expert",
+   "source": "Fox News",
+   "ts": 1793008832.0
+  },
+  {
+   "title": "A game-changing new treatment just arrived for one of the deadliest cancers \u2014 here\u2019s why doctors are so excited",
+   "link": "https://nypost.com/2026/10/26/health/game-changing-new-treatment-just-arrived-for-one-of-the-deadliest-cancers/",
+   "source": "New York Post",
+   "ts": 1793008800.0
+  },
+  {
+   "title": "Oil spill off UAE widens, satellite images show, prompting more beach closures",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHhFSkdqM0dlc3lWWVViWVlQMDNlNnRVQkxSUWttcWR5R19wV3dvclAyOGtmNVFZMEI2YVVheGVlLUlJNTB3bzZGeDlqRTEtMGZiRk5ZN0x1dWs4a2VNaElUUW1Yd0lxaFRpTjhtVDdael9uaEpHa2kxTllSWVRHSjVIMUVLQmJSNUlGZDF5S0JEOXJ0Rk5GR1lFN0thcWNqSW15RmVsMUFrOUpGeE9lMm1oNVZVNFdjaVQ2VFJielNUM29rMG1BZUd3?oc=5",
+   "source": "Reuters",
+   "ts": 1793007030.0
   },
   {
    "title": "Trump attacks El-Sayed over his faith, calls him \"jihadist\"",
@@ -50,64 +98,16 @@
    "ts": 1793003761.0
   },
   {
-   "title": "India's Tata Communications to spend $450 million on AI connectivity infrastructure",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWkFzTTI0b0otQXlyRGllcFhzUTY0c1RJcUJCX2R6aF9UUUt5VXd2UzFwdlBsN21ld1Y0Q05uWEFEMlhJbWtDTDFrTU80MjBCR2RLbzRtUlNaMDExYkJfYllhNXk3bVJCamxXM3p5ZEIwOHduMEQ5aTFDV1o5d0VIOVFqeWo0bGUzdWE0b2dCTUNZR2NoNlVHSUtJTEhkUlhxeUtJM3lKWnNsdmNuTTl3bHFPVWh3Q183NlR0NFNjaTI1V25KMmNYdTQtczlaNkk?oc=5",
-   "source": "Reuters",
-   "ts": 1793003730.0
-  },
-  {
-   "title": "Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3?oc=5",
-   "source": "Reuters",
-   "ts": 1793003673.0
-  },
-  {
-   "title": "Galp, Moeve scrap talks to combine refining, fuel retail businesses",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUdmRHBJcVJmcko1NVpEVHRETC1hVFI2NFhYLXdvcFBuVFJxRFA3X0FmWWR2ZWFEelRWbHJfdDc5b3RhNFI4SzB1OXBLWkcwbnF0amRmTXJYVXFKa1Z1eFV5T3FZSzV6SWlxUUpMenZ1WG5hbzAybGFWb1luMU10NjVFbHBrM0d3UlEwVWVqanVfLThBTXRNbWxhZ0ZodjZRZHFsTXhkMUVaMVVaaS1xdzJQNXY?oc=5",
-   "source": "Reuters",
-   "ts": 1793003639.0
-  },
-  {
-   "title": "Trump says he's weighing Iran deal vs. action to \"finish them\"",
-   "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
-   "source": "CBS News",
-   "ts": 1793002208.0
-  },
-  {
-   "title": "Iran live updates: Houthis claim new missile attack on Riyadh airport",
-   "link": "https://abcnews.com/International/live-updates/iran-live-updates-houthis-claim-new-attack-riyadh/?id=137563447",
-   "source": "ABC News",
-   "ts": 1792999054.0
-  },
-  {
-   "title": "Jordan says 3 arrested in deadly attack on Greek Orthodox church",
-   "link": "https://www.cbsnews.com/news/jordan-deadly-attack-greek-orthodox-church-3-arrests/",
-   "source": "CBS News",
-   "ts": 1792998600.0
-  },
-  {
    "title": "Seahawks defense dominates Patrick Mahomes, Kenneth Walker III in big win",
    "link": "https://www.nbcnews.com/sports/nfl/seattle-seahawks-kansas-city-chiefs-nfl-patrick-mahomes-result-rcna605649",
    "source": "NBC News",
    "ts": 1792988710.0
   },
   {
-   "title": "Trump critic Lula wins reelection in Brazil, securing fourth presidential term",
-   "link": "https://abcnews.com/Business/wireStory/brazil-faces-tense-lula-bolsonaro-runoff-us-influence-137548341",
-   "source": "ABC News",
-   "ts": 1792975150.0
-  },
-  {
    "title": "Trump leans into Islamophobic rhetoric at Michigan rally",
    "link": "https://www.nbcnews.com/politics/2026-election/trump-leans-islamophobic-rhetoric-michigan-rally-rcna605572",
    "source": "NBC News",
    "ts": 1792971147.0
-  },
-  {
-   "title": "Voters sound off about the economy ahead of critical midterm elections",
-   "link": "https://www.nbcnews.com/nightly-news/video/voters-sound-off-about-the-economy-ahead-of-critical-midterm-elections-272202309818",
-   "source": "NBC News",
-   "ts": 1792969580.0
   }
  ]
 }
