@@ -1,17 +1,35 @@
 {
- "updated": "2026-10-26T02:38:06.177680+00:00",
+ "updated": "2026-10-26T03:37:50.405743+00:00",
  "items": [
   {
-   "title": "Absurd court farce on noncitizen ballots leaves Voter ID as the only cure",
-   "link": "https://nypost.com/2026/10/25/opinion/absurd-non-citizen-voting-farce-leaves-voter-id-as-only-cure/",
+   "title": "Omar Cooper Jr. giving Jets what they\u2019re missing from Garrett Wilson",
+   "link": "https://nypost.com/2026/10/25/sports/omar-cooper-jr-giving-jets-what-theyre-missing-in-garrett-wilson/",
    "source": "New York Post",
-   "ts": 1792981817.0
+   "ts": 1792985836.0
   },
   {
-   "title": "Reckless visitors are destroying Yellowstone\u2019s iconic thermal pools with trash",
-   "link": "https://nypost.com/2026/10/25/us-news/reckless-visitors-are-destroying-yellowstones-iconic-thermal-pools-with-trash/",
+   "title": "These Knicks have had bad stretches before, so don\u2019t panic at 0-3 \u2014 yet",
+   "link": "https://nypost.com/2026/10/25/sports/these-knicks-have-had-bad-stretches-before-so-dont-panic-at-0-3-yet/",
    "source": "New York Post",
-   "ts": 1792981710.0
+   "ts": 1792985623.0
+  },
+  {
+   "title": "Packers\u2019 Xavier McKinney blasts \u2018bulls\u2013t\u2019 officiating after controversial calls in loss to Lions",
+   "link": "https://nypost.com/2026/10/25/sports/xavier-mckinney-goes-off-on-bulls-t-officiating-in-packers-loss/",
+   "source": "New York Post",
+   "ts": 1792984358.0
+  },
+  {
+   "title": "Thunder star Jalen 'J-Dub' Williams stretchered off court after gruesome left leg injury leaves him stunned",
+   "link": "https://www.foxnews.com/outkick-sports/thunder-star-jalen-j-dub-williams-stretchered-off-court-gruesome-left-leg-injury-leaves-him-stunned",
+   "source": "Fox News",
+   "ts": 1792983666.0
+  },
+  {
+   "title": "Bruce Blakeman calls Kathy Hochul Zohran Mamdani's 'puppet' during New York campaign rally",
+   "link": "https://www.foxnews.com/politics/bruce-blakeman-calls-kathy-hochul-zohran-mamdani-puppet-new-york-campaign-rally",
+   "source": "Fox News",
+   "ts": 1792982013.0
   },
   {
    "title": "Venezuela opposition leader Mar\u00eda Corina Machado returns to country",
@@ -20,10 +38,10 @@
    "ts": 1792981654.0
   },
   {
-   "title": "LA\u2019s top federal prosecutor scorches California after noncitizen voters battle",
-   "link": "https://nypost.com/2026/10/25/us-news/las-top-federal-prosecutor-scorches-california-after-noncitizen-voters-showdown/",
-   "source": "New York Post",
-   "ts": 1792981539.0
+   "title": "Indian shares on track for muted open as oil concerns persist, Fed in focus",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGYzcFZiRkE2TE1hWGJhSDY1UldIcGcyQlBJSmttbjVOSmNPcUNhWG5LWjdMcEZkRzVfSnd6MGVCc3RlZmpXLUI1Sm03REFQeEtCYVRUNTNHampNX21PQXl3YlZLNkgtWVhjX2dxOGwwZVF0WUhUMHh0TDJoQ0RKUHk4dFdlMnVleVo1UnJTcUNIWkxxdnhxYnAxbVZZMU5hZ18yQ1NBdDlvLXhKRjdNWUkwcw?oc=5",
+   "source": "Reuters",
+   "ts": 1792981440.0
   },
   {
    "title": "Lula wins fourth term as Brazil's president",
@@ -38,34 +56,16 @@
    "ts": 1792980575.0
   },
   {
+   "title": "China's Communist Party opens fifth plenum",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkd0OE5rNWV6aVVmTDhZbDZKMm8xLTFHaVdNUzZfV2VYVEU5V2dnSGV6Z0lEQjRQV1Z1OGh6cEc5TVV2ZWZTTTY2c2F2LTI3Y1Vaem5XTEt1RkRuaHFCamNSUkhCNlNWQVVRaWtyZUs2cWp1aFg5ZktyWDZoV19vX0pCZGpfZDRrd0tUSE03T1dIMU0?oc=5",
+   "source": "Reuters",
+   "ts": 1792980240.0
+  },
+  {
    "title": "Opposition leader Machado greets supporters after returning to Venezuela",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fRDRVeUprNmxlQWd1dE1xVXFJNXlfaGdhY0VyVllUVWhSNHphNm1QS3ZpN2tQcWFTZlhRMW42WWhUcjZwemhWRk1vMjVVYUFxd2NYWUR5VEczNTlEdlVZUGVlSW83bjQ?oc=5",
    "source": "Reuters",
    "ts": 1792980225.0
-  },
-  {
-   "title": "Currency markets subdued ahead of pivotal central bank week",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlRGQXNlMDJDS0ZlQnJqVlI0Q3FOUUhyZmpfcUY2TDJNOTA5a0NDMEc5QWpKZ3NrQlZ0QWJSMERlU2wzQlFxcWF0OVFRVlNOSUYydEdiaU5LaTFvVDMxTk5NWTF6NVVFZEdRcW8tOHpZRnlmWDhiRnV3QlllYnVtVldqTGllWmY2RnF1MWVlMFRBT0xWbHliN3pWM3NhQnNzRV80ZHJ5T0M?oc=5",
-   "source": "Reuters",
-   "ts": 1792980120.0
-  },
-  {
-   "title": "College homecoming party turns to chaos as deck collapses, leaving at least 28 people injured",
-   "link": "https://www.foxnews.com/us/college-homecoming-party-turns-chaos-deck-collapses-leaving-28-people-injured",
-   "source": "Fox News",
-   "ts": 1792979284.0
-  },
-  {
-   "title": "Ninth Circuit questions Trump DOJ's emergency request to set aside 20,000 California mail ballots",
-   "link": "https://www.foxnews.com/politics/ninth-circuit-questions-trump-doj-emergency-request-set-aside-20000-california-mail-ballots",
-   "source": "Fox News",
-   "ts": 1792977966.0
-  },
-  {
-   "title": "Trump adds Norway to vulgar list of countries, citing Nobel snub",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXhaU2ZZaldmV2c3LU1hT0FHOFpEUko5d0ZaSDN0SG50cUMzYXdsX2tEUHM3bzR6N01JSzhVWEFjMS1jQVc5c3J0REc2ZjVVZl83WUFEeEpIQXFnUHVWcXlhNW02NkUxbUZCV0N6bTFuakdZblJMRTdPaUg5bmZ0c3AzbVNGXzRPSU5sUllUT3VTQV9TbHRoN1BjNU9GQ002cmhYNA?oc=5",
-   "source": "Reuters",
-   "ts": 1792976940.0
   },
   {
    "title": "Gina Hinojosa says there's \"deep disappointment\" in both parties",

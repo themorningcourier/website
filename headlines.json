@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-26T02:38:06.177680+00:00",
+ "updated": "2026-10-26T03:37:50.405743+00:00",
  "items": [
+  {
+   "title": "Historic SS United States set to become world's largest artificial reef",
+   "link": "https://www.mynbc5.com/article/ss-united-states-artificial-reef-destin-florida/74243316",
+   "source": "WPTZ",
+   "ts": 1792985220.0
+  },
+  {
+   "title": "Large fire at seafood processing plant prompts evacuations in Oregon city",
+   "link": "https://www.wcax.com/2026/10/25/large-fire-seafood-processing-plant-prompts-evacuations-oregon-city/",
+   "source": "WCAX",
+   "ts": 1792982673.0
+  },
+  {
+   "title": "Bodycam video: Officers rescue man from burning Jeep in dramatic early morning crash",
+   "link": "https://www.mynbc5.com/article/bodycam-video-officers-save-driver-burning-jeep-massachusetts/74243304",
+   "source": "WPTZ",
+   "ts": 1792982640.0
+  },
   {
    "title": "Bolsonaro calls for Brazil election results to be 'annulled' after loss to Trump-critic Lula",
    "link": "https://www.mynbc5.com/article/brazil-presidential-election/74242711",
@@ -8,22 +26,10 @@
    "ts": 1792981020.0
   },
   {
-   "title": "9th Circuit questions DOJ demand to set aside 20,000 California mail ballots",
-   "link": "https://www.mynbc5.com/article/doj-california-mail-ballots-9th-circuit/74243130",
-   "source": "WPTZ",
-   "ts": 1792979400.0
-  },
-  {
    "title": "Mother dies trying to save her 2 sons after they were swept away while snorkeling",
    "link": "https://www.wcax.com/2026/10/26/mother-dies-trying-save-her-2-sons-after-they-were-swept-away-while-snorkeling/",
    "source": "WCAX",
    "ts": 1792979307.0
-  },
-  {
-   "title": "UVM women's soccer falls to New Hampshire, 4-3",
-   "link": "https://www.mynbc5.com/article/uvm-womens-soccer-falls-to-new-hampshire-4-3/74243142",
-   "source": "WPTZ",
-   "ts": 1792977180.0
   },
   {
    "title": "Brazil's left-wing President Lula elected for fourth term",
@@ -36,12 +42,6 @@
    "link": "https://www.wcax.com/2026/10/25/you-can-quote-me-oct-25-2026/",
    "source": "WCAX",
    "ts": 1792970519.0
-  },
-  {
-   "title": "Large fire at seafood processing plant prompts evacuations in Oregon city",
-   "link": "https://www.wcax.com/2026/10/25/large-fire-seafood-processing-plant-prompts-evacuations-oregon-city/",
-   "source": "WCAX",
-   "ts": 1792967688.0
   },
   {
    "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
