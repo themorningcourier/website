@@ -1,35 +1,95 @@
 {
- "updated": "2026-10-26T20:38:09.470953+00:00",
+ "updated": "2026-10-26T21:37:30.784050+00:00",
  "items": [
   {
-   "title": "Hulk Hogan\u2019s daughter lashes out with claim $5.9M family home was sold for \u2018dirty money\u2019",
-   "link": "https://nypost.com/2026/10/26/sports/hulk-hogans-daughter-brooke-lashes-out-as-family-home-is-sold-dirty-money/",
+   "title": "No NBA GM voted for Luka Doncic for projected MVP? You\u2019ve got to be joking",
+   "link": "https://nypost.com/2026/10/26/sports/no-nba-gm-voted-for-luka-doncic-for-projected-mvp-youve-got-to-be-joking/",
    "source": "New York Post",
-   "ts": 1793047028.0
+   "ts": 1793050463.0
   },
   {
-   "title": "Cowboys vs. Eagles betting promos: Collect $5K in sportsbook, prediction market bonuses for \u2018Monday Night Football\u2019",
-   "link": "https://nypost.com/2026/10/26/betting/cowboys-vs-eagles-betting-promos-collect-5k-in-sportsbook-prediction-market-bonuses-for-monday-night-football/",
+   "title": "Fanatics Sportsbook promo code NYPOST350: Bet $20, get $350 in FanCash for Warriors vs. Nuggets",
+   "link": "https://nypost.com/2026/10/26/betting/fanatics-sportsbook-promo-code-nypost350-bet-20-get-350-in-fancash-for-warriors-vs-nuggets/",
    "source": "New York Post",
-   "ts": 1793046900.0
+   "ts": 1793050200.0
   },
   {
-   "title": "Adam Brody divulges regret from Leighton Meester proposal more than a decade after popping question",
-   "link": "https://pagesix.com/2026/10/26/celebrity-news/adam-brody-shares-regret-about-leighton-meester-proposal/",
+   "title": "Blakeman backed by police unions from across NYS as gov race enters final stretch: \u2018Common sense\u2019",
+   "link": "https://nypost.com/2026/10/26/us-news/blakeman-backed-by-police-unions-from-across-nys-as-gov-race-enters-final-stretch/",
    "source": "New York Post",
-   "ts": 1793046734.0
+   "ts": 1793050042.0
   },
   {
-   "title": "Brazilian election sends US progressives into online fever as key irregularity stokes result uncertainty",
-   "link": "https://www.foxnews.com/politics/brazilian-election-sends-us-progressives-online-fever-key-irregularity-stokes-result-uncertainty",
-   "source": "Fox News",
-   "ts": 1793046686.0
-  },
-  {
-   "title": "Iran shrugs off Trump's attack threats, says diplomacy ongoing",
-   "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
+   "title": "Analyzing Democratic, Republican strategies to sway voters",
+   "link": "https://www.cbsnews.com/video/analyzing-democratic-republican-strategies-to-sway-voters/",
    "source": "CBS News",
-   "ts": 1793046542.0
+   "ts": 1793049768.0
+  },
+  {
+   "title": "James Comey charged for a third time by the Trump administration",
+   "link": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963",
+   "source": "NBC News",
+   "ts": 1793049661.0
+  },
+  {
+   "title": "Ukraine disputes Elon Musk's claim that drone strikes violated Starlink's terms",
+   "link": "https://www.cbsnews.com/video/ukraine-disputes-elon-musks-claim-drone-strikes-violated-starlinks-terms/",
+   "source": "CBS News",
+   "ts": 1793048903.0
+  },
+  {
+   "title": "New test could flag which men need aggressive prostate cancer treatment and which don't",
+   "link": "https://www.foxnews.com/health/new-test-flag-which-men-need-aggressive-prostate-cancer-treatment",
+   "source": "Fox News",
+   "ts": 1793048785.0
+  },
+  {
+   "title": "EXCLUSIVE US, Canada working on deal to ease steel, auto tariffs, sources say",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1JXYWUtZ2l1TGNtSDlwbkN6SkxUR1RxaWZjQnFpNk8yTzBuLTR5OEUxQ296SmZEd3dDS25tMjh1eW5hRGg4X1gtVUpVQi1UbWIyYXpJQmh6NGxpX011WWlEYWh0Z3FKRm55UUl6UnpKUTZmM3lhUElLNUVIb0tkWDBYVkI1LXI2aWxwT1Q2aUpSZjhOcUVxaTByX21WVlExQVE?oc=5",
+   "source": "Reuters",
+   "ts": 1793048607.0
+  },
+  {
+   "title": "The benefits \u2014 and perils \u2014 of expanding the map: From the Politics Desk",
+   "link": "https://www.nbcnews.com/politics/politics-news/benefits-perils-expanding-map-politics-desk-rcna605796",
+   "source": "NBC News",
+   "ts": 1793048400.0
+  },
+  {
+   "title": "Trump campaigning in red states to reassure Republican voters",
+   "link": "https://www.cbsnews.com/video/trump-campaigning-red-states-reassure-republican-voters/",
+   "source": "CBS News",
+   "ts": 1793048288.0
+  },
+  {
+   "title": "Former Colombian president accused of exploiting dozens of women for presidential parties",
+   "link": "https://www.foxnews.com/world/former-colombian-president-accused-exploiting-dozens-women-presidential-parties",
+   "source": "Fox News",
+   "ts": 1793048141.0
+  },
+  {
+   "title": "Dan Rather's withering criticism of CBS 'doesn't reflect reality,' network insider says",
+   "link": "https://www.foxnews.com/media/dan-rathers-withering-criticism-cbs-doesnt-reflect-reality-network-insider-says",
+   "source": "Fox News",
+   "ts": 1793048024.0
+  },
+  {
+   "title": "Data center group jumps into the Kansas governor\u2019s race to boost Republicans",
+   "link": "https://www.nbcnews.com/politics/2026-election/data-center-group-kansas-governor-race-boost-republicans-rcna605801",
+   "source": "NBC News",
+   "ts": 1793047928.0
+  },
+  {
+   "title": "Trend hedge funds saw worst week since 2024 as AI stocks fell, Goldman says",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaXVkNFhCYXZGZWdiZXZLTHFHMnJoN1VHWlc5QWNRSTcwRThfV2lvejJsdDdzbzE3S09XVzVneWJOVmJTSWJRRFliSVNFTzc2TEJxYlZKZ2tEVTM1dG5OR2h6MkVFUE9OM04yY1Jjd3B2VUVXSmtsTjMxQzUtd2JfZy1JbVBpYmg5bHR6Tm1PQzBrdWxkbWV1MjFfTkdlYlozSXlfaWt2X3UxUl9BV0tkN3kyNW5HeXZRREVmcEdwWQ?oc=5",
+   "source": "Reuters",
+   "ts": 1793047625.0
+  },
+  {
+   "title": "EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi\u2019s privacy law",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5",
+   "source": "Reuters",
+   "ts": 1793047319.0
   },
   {
    "title": "Trump offers $1M reward for people who report voter fraud in past, upcoming elections",
@@ -38,70 +98,10 @@
    "ts": 1793046542.0
   },
   {
-   "title": "McDonald's McRib returns for limited time, but customers in some cities will miss out",
-   "link": "https://www.foxnews.com/food-drink/mcdonalds-mcrib-returns-limited-time-customers-some-cities-miss-out",
-   "source": "Fox News",
-   "ts": 1793046298.0
-  },
-  {
-   "title": "Illegal immigrant accused of beheading Iwo Jima monument granted bond",
-   "link": "https://www.foxnews.com/us/illegal-immigrant-accused-beheading-iwo-jima-monument-granted-bond",
-   "source": "Fox News",
-   "ts": 1793046269.0
-  },
-  {
-   "title": "Texas redistricting left these Latino voters confused, but will it impact midterm vote?",
-   "link": "https://www.nbcnews.com/politics/2026-election/texas-redistricting-left-latino-voters-confused-will-impact-midterm-vo-rcna605709",
-   "source": "NBC News",
-   "ts": 1793046101.0
-  },
-  {
-   "title": "Is the Federal Reserve likely to raise interest rates this week?",
-   "link": "https://www.cbsnews.com/news/federal-reserve-interest-rates-october-meeting/",
-   "source": "CBS News",
-   "ts": 1793045430.0
-  },
-  {
-   "title": "Man charged with mailing threatening letters with white substance to members of Congress",
-   "link": "https://www.nbcnews.com/politics/justice-department/man-charged-mailing-threatening-letters-white-substance-congress-rcna605793",
-   "source": "NBC News",
-   "ts": 1793044689.0
-  },
-  {
-   "title": "Bishops lament White House meeting that produced photo with Trump",
-   "link": "https://www.cbsnews.com/news/trump-photo-bishops-white-house-meeting/",
-   "source": "CBS News",
-   "ts": 1793044627.0
-  },
-  {
-   "title": "DoorDash in talks to buy Instacart, WSJ reports",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkI1dVc1WGVsRGwyMkZtNFFfR3NpaFR2M2JTQ05POTBkZ29lSVpuelFJVWFCTC1tNEJ3Y0F6YUxHWUJkWjJqcm1KWnhNajVxNk5iUFZuck9ZV0tOVEdxYjlxcG0ycUk5UUlyU3l6bnpJY0NFMDJqcXJ4cWJGeUJRbTV5YTVtQy1CSXlTUmZn?oc=5",
-   "source": "Reuters",
-   "ts": 1793043823.0
-  },
-  {
-   "title": "Trump offers $1 million for tipoffs that lead to voter fraud convictions",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa255OHlMWDc5cnpYZjlEcVlZRzF0aVdua2Q2emRRZHo1R2t4cHhmM2RacExuLTBOS0RzdkhWZ3FEdHBSQ0VKSFpRUGpiMW45VVFCM0xibWpPRU1UeXpBVDVzVFEybVQ4VUdpUVQtS21EX25BeXNTdlZLSmdCQ2ZCd1p6Mm5mbmZhb0JqU2tZdW12ZGdGRnpzNi1sNWd4VU9kRVlhYjJGV1N2dw?oc=5",
-   "source": "Reuters",
-   "ts": 1793043703.0
-  },
-  {
-   "title": "Surgery Partners to be taken private by Bon Secours affiliate in $5.7 billion deal",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjFmVWM4cEV5RmFxYjFyM2M3RHhsX1J5bllpQlFTbGM1SjZ0NDdNaHdwaVdGZTUzd05lQy01dFN2MDd5YnpJQ1RxT185WURobHRiVEhva0NlSl9HRWRWNXlYOWlnTXgtVF9UTHc5WFpyYUZ2SFZweDhFb29pcWhHLXYwRmRuWW42TW5PR3JJc1l4dTNIX09nZktDd1pPaWtueTRRVmFhY1g3czM4dnB2dTZn?oc=5",
-   "source": "Reuters",
-   "ts": 1793043343.0
-  },
-  {
-   "title": "Anthropic preps for IPO in major step for AI company",
-   "link": "https://abcnews.com/Business/anthropic-formally-files-initial-public-stock-offering-major/story?id=137570700",
+   "title": "15-year-old arrested in connection with shooting near FAMU",
+   "link": "https://abcnews.com/US/famu-shooting-15-year-arrested-connection/story?id=137567977",
    "source": "ABC News",
-   "ts": 1793040666.0
-  },
-  {
-   "title": "2nd-generation Apple AirTags are at their lowest price ever: Shop now before it\u2019s gone",
-   "link": "https://www.nbcnews.com/select/shopping/apple-airtag-2-deal-of-the-day-rcna605757",
-   "source": "NBC News",
-   "ts": 1793039921.0
+   "ts": 1793044065.0
   },
   {
    "title": "These key Senate races will determine which party controls the body next year",
