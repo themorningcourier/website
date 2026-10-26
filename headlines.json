@@ -1,17 +1,47 @@
 {
- "updated": "2026-10-26T08:47:53.279359+00:00",
+ "updated": "2026-10-26T09:46:14.911731+00:00",
  "items": [
   {
-   "title": "Morning news brief",
-   "link": "https://www.npr.org/2026/10/26/nx-s1-6012093/morning-news-brief",
+   "title": "Japan's former PM Yasuo Fukuda, proponent of ties with China, dies at 90",
+   "link": "https://www.mynbc5.com/article/japans-former-pm-takeo-fukuda-dies-90/74245258",
+   "source": "WPTZ",
+   "ts": 1793007600.0
+  },
+  {
+   "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+   "link": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
    "source": "NPR",
-   "ts": 1793004173.0
+   "ts": 1793006556.0
+  },
+  {
+   "title": "Singer Chris Brown to be sentenced over bottle attack at a London nightclub",
+   "link": "https://www.mynbc5.com/article/singer-chris-brown-bottle-attack-sentencing-nightclub/74245147",
+   "source": "WPTZ",
+   "ts": 1793006340.0
+  },
+  {
+   "title": "A 10-year-old boy and his teacher drowned on a school trip. Here\u2019s what officials say happened",
+   "link": "https://www.wcax.com/2026/10/26/10-year-old-boy-his-teacher-drowned-school-trip-heres-what-officials-say-happened/",
+   "source": "WCAX",
+   "ts": 1793006179.0
+  },
+  {
+   "title": "Loggers say Roadless Rule repeal won't solve their biggest challenges",
+   "link": "https://www.npr.org/2026/10/26/nx-s1-6009247/loggers-say-roadless-rule-repeal-wont-solve-their-biggest-challenges",
+   "source": "NPR",
+   "ts": 1793005200.0
+  },
+  {
+   "title": "How AI is transforming hurricane forecasts",
+   "link": "https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias",
+   "source": "NPR",
+   "ts": 1793005200.0
   },
   {
    "title": "Eric Bauza, known as the iconic voice behind Looney Tunes' Bugs Bunny, dies at 46",
    "link": "https://www.mynbc5.com/article/eric-bauza-voice-actor-bugs-bunny-dies-at-46/74244701",
    "source": "WPTZ",
-   "ts": 1793004060.0
+   "ts": 1793005080.0
   },
   {
    "title": "Another mainly dry week lies ahead",
@@ -24,36 +54,6 @@
    "link": "https://www.wcax.com/2026/10/26/eric-bauza-modern-voice-bugs-bunny-daffy-duck-more-dies-46/",
    "source": "WCAX",
    "ts": 1792994763.0
-  },
-  {
-   "title": "A few sprinkles are possible on Monday, otherwise most of the week will be dry.  Tuesday will be quite chilly, then it warms back up again later in the week.",
-   "link": "https://www.wcax.com/2026/10/26/few-sprinkles-are-possible-monday-otherwise-most-week-will-be-dry-tuesday-will-be-quite-chilly-then-it-warms-back-up-again-later-week/",
-   "source": "WCAX",
-   "ts": 1792985860.0
-  },
-  {
-   "title": "Historic SS United States set to become world's largest artificial reef",
-   "link": "https://www.mynbc5.com/article/ss-united-states-artificial-reef-destin-florida/74243316",
-   "source": "WPTZ",
-   "ts": 1792985220.0
-  },
-  {
-   "title": "Bodycam video: Officers rescue man from burning Jeep in dramatic early morning crash",
-   "link": "https://www.mynbc5.com/article/bodycam-video-officers-save-driver-burning-jeep-massachusetts/74243304",
-   "source": "WPTZ",
-   "ts": 1792982640.0
-  },
-  {
-   "title": "Brazil's left-wing President Lula elected for fourth term",
-   "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
-   "source": "NPR",
-   "ts": 1792974900.0
-  },
-  {
-   "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
-   "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
-   "source": "NPR",
-   "ts": 1792960535.0
   },
   {
    "title": "Teen food pantry tackles food insecurity",
