@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-26T03:37:50.405743+00:00",
+ "updated": "2026-10-26T04:38:27.762416+00:00",
  "items": [
+  {
+   "title": "A few sprinkles are possible on Monday, otherwise most of the week will be dry.  Tuesday will be quite chilly, then it warms back up again later in the week.",
+   "link": "https://www.wcax.com/2026/10/26/few-sprinkles-are-possible-monday-otherwise-most-week-will-be-dry-tuesday-will-be-quite-chilly-then-it-warms-back-up-again-later-week/",
+   "source": "WCAX",
+   "ts": 1792985860.0
+  },
   {
    "title": "Historic SS United States set to become world's largest artificial reef",
    "link": "https://www.mynbc5.com/article/ss-united-states-artificial-reef-destin-florida/74243316",
@@ -36,12 +42,6 @@
    "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
    "source": "NPR",
    "ts": 1792974900.0
-  },
-  {
-   "title": "You Can Quote Me: Oct. 25, 2026",
-   "link": "https://www.wcax.com/2026/10/25/you-can-quote-me-oct-25-2026/",
-   "source": "WCAX",
-   "ts": 1792970519.0
   },
   {
    "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
