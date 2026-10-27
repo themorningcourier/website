@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-27T06:10:58.992244+00:00",
+ "updated": "2026-10-27T07:27:10.040067+00:00",
  "items": [
+  {
+   "title": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or",
+   "link": "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor",
+   "source": "NPR",
+   "ts": 1793082654.0
+  },
   {
    "title": "Music icon Donnie Iris dies at 83",
    "link": "https://www.mynbc5.com/article/donnie-iris-dies/74254168",
@@ -18,12 +24,6 @@
    "link": "https://www.npr.org/2026/10/27/nx-s1-6019094/mlb-world-series-tuesday",
    "source": "NPR",
    "ts": 1793079944.0
-  },
-  {
-   "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
-   "link": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
-   "source": "NPR",
-   "ts": 1793078818.0
   },
   {
    "title": "Ceasefire brokered by Melania Trump starts in southern Ukraine",
