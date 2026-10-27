@@ -1,47 +1,53 @@
 {
- "updated": "2026-10-27T18:17:01.169150+00:00",
+ "updated": "2026-10-27T19:24:36.841896+00:00",
  "items": [
   {
-   "title": "Firefighters from 3 states battling New York brush fire",
-   "link": "https://www.wcax.com/2026/10/27/firefighters-3-states-battling-new-york-brush-fire/",
-   "source": "WCAX",
-   "ts": 1793124603.0
-  },
-  {
-   "title": "Alex Pretti\u2019s family says feds are still stonewalling efforts for justice",
-   "link": "https://www.mynbc5.com/article/alex-pretti-doj-minneapolis-shooting-victims-rights/74259513",
+   "title": "Interstate 89 North in Randolph, Northfield, Vermont closed due to crash, VTRANS says",
+   "link": "https://www.mynbc5.com/article/interstate-89-north-in-randolph-northfield-closed/74263809",
    "source": "WPTZ",
-   "ts": 1793124600.0
+   "ts": 1793128860.0
   },
   {
-   "title": "Brazilian police searching for Fl\u00e1vio Bolsonaro after he reportedly failed to surrender passports",
+   "title": "Political candidate charged with child molestation days before election",
+   "link": "https://www.wcax.com/2026/10/27/political-candidate-charged-with-child-molestation-days-before-election/",
+   "source": "WCAX",
+   "ts": 1793128853.0
+  },
+  {
+   "title": "Special needs teacher accused of pouring hot sauce on student\u2019s tongue as a punishment",
+   "link": "https://www.wcax.com/2026/10/27/special-needs-teacher-accused-pouring-hot-sauce-students-tongue-punishment/",
+   "source": "WCAX",
+   "ts": 1793128509.0
+  },
+  {
+   "title": "TRAFFIC ALERT: Crash closes I-89 northbound in Randolph-Northfield area",
+   "link": "https://www.wcax.com/2026/10/27/traffic-alert-crash-closes-i-89-northbound-randolph-northfield-area/",
+   "source": "WCAX",
+   "ts": 1793128326.0
+  },
+  {
+   "title": "Utah authorities connect serial killer Ted Bundy to another 1970s homicide",
+   "link": "https://www.mynbc5.com/article/ted-bundy-utah-teen-1974-murder-dna/74263368",
+   "source": "WPTZ",
+   "ts": 1793127060.0
+  },
+  {
+   "title": "Proposal 3 protects the rights earlier generations fought for",
+   "link": "https://vtdigger.org/2026/10/27/opinion-proposal-3-protects-the-rights-earlier-generations-fought-for/",
+   "source": "VTDigger",
+   "ts": 1793126841.0
+  },
+  {
+   "title": "Fl\u00e1vio Bolsonaro heads to US following Brazil election loss despite ban from leaving country",
    "link": "https://www.mynbc5.com/article/flavio-bolsonaros-whereabouts-unknown-brazil/74262909",
    "source": "WPTZ",
-   "ts": 1793123940.0
+   "ts": 1793126400.0
   },
   {
    "title": "Big Labor isn\u2019t playing straight with Vermonters about Prop 3",
    "link": "https://vtdigger.org/2026/10/27/opinion-big-labor-isnt-playing-straight-with-vermonters-about-prop-3/",
    "source": "VTDigger",
    "ts": 1793123916.0
-  },
-  {
-   "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates",
-   "link": "https://www.mynbc5.com/article/microsoft-quarter-global-workforce-voluntary-buyouts-ai-spending-accelerates/74251995",
-   "source": "WPTZ",
-   "ts": 1793123640.0
-  },
-  {
-   "title": "Missing woman reportedly found alive in Mexico, but her family has doubts",
-   "link": "https://www.wcax.com/2026/10/27/missing-woman-reportedly-found-alive-mexico-her-family-has-doubts/",
-   "source": "WCAX",
-   "ts": 1793122659.0
-  },
-  {
-   "title": "Aging Untold: Hospice doesn\u2019t have to happen at home",
-   "link": "https://www.wcax.com/2026/10/27/aging-untold-hospice-doesnt-have-happen-home/",
-   "source": "WCAX",
-   "ts": 1793122595.0
   },
   {
    "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/10/27/hadley-kistler-is-gearing-up-for-a-career-as-an-early-childhood-educator/",
    "source": "VTDigger",
    "ts": 1793108174.0
-  },
-  {
-   "title": "Local Fairlee developers want to build an apartment block. Their neighbors are standing in the way.",
-   "link": "https://vtdigger.org/2026/10/26/local-fairlee-developers-want-to-build-an-apartment-block-their-neighbors-are-standing-in-the-way/",
-   "source": "VTDigger",
-   "ts": 1793056403.0
   }
  ]
 }
