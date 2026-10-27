@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T03:14:05.822014+00:00",
+ "updated": "2026-10-27T04:12:20.408518+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -127,16 +127,16 @@
      "pct": 0.64285713
     },
     {
-     "name": "Eagles",
-     "abbr": "PHI",
-     "rec": "2-4",
-     "pct": 0.33333334
-    },
-    {
      "name": "Cowboys",
      "abbr": "DAL",
-     "rec": "2-4",
-     "pct": 0.33333334
+     "rec": "3-4",
+     "pct": 0.42857143
+    },
+    {
+     "name": "Eagles",
+     "abbr": "PHI",
+     "rec": "2-5",
+     "pct": 0.2857143
     },
     {
      "name": "Commanders",
