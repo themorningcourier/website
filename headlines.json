@@ -1,23 +1,29 @@
 {
- "updated": "2026-10-27T00:04:18.009934+00:00",
+ "updated": "2026-10-27T00:49:41.066953+00:00",
  "items": [
+  {
+   "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+   "link": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+   "source": "NPR",
+   "ts": 1793061105.0
+  },
+  {
+   "title": "Trump administration asks Washington to set aside ballots from 400 voters it says may be noncitizens",
+   "link": "https://www.mynbc5.com/article/trump-washington-ballots-400-voters-noncitizens/74253062",
+   "source": "WPTZ",
+   "ts": 1793060220.0
+  },
+  {
+   "title": "Music icon Donnie Iris dies at 83",
+   "link": "https://www.mynbc5.com/article/donnie-iris-dies/74254168",
+   "source": "WPTZ",
+   "ts": 1793059860.0
+  },
   {
    "title": "Amy Acton addresses Ramaswamy ad in one-on-one interview: 'There\u2019s no low'",
    "link": "https://www.mynbc5.com/article/amy-acton-addresses-ramaswamy-ad-interview/74253894",
    "source": "WPTZ",
    "ts": 1793058300.0
-  },
-  {
-   "title": "Appeals court declines to rule on federal bid to set aside California ballots of alleged noncitizens",
-   "link": "https://www.mynbc5.com/article/appeals-court-california-ballots-alleged-noncitizens/74253826",
-   "source": "WPTZ",
-   "ts": 1793057940.0
-  },
-  {
-   "title": "Vermont state officials say they\u2019re prepared for election day, reminding voters of resources",
-   "link": "https://www.mynbc5.com/article/vt-state-officials-say-theyre-prepared-for-election-day-reminding-voters-of-resources/74253611",
-   "source": "WPTZ",
-   "ts": 1793057280.0
   },
   {
    "title": "Local Fairlee developers want to build an apartment block. Their neighbors are standing in the way.",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
    "source": "NPR",
    "ts": 1793039881.0
-  },
-  {
-   "title": "AI giant Anthropic files for an IPO that could break records",
-   "link": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
-   "source": "NPR",
-   "ts": 1793024183.0
   }
  ]
 }
