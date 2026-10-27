@@ -1,53 +1,89 @@
 {
- "updated": "2026-10-27T09:17:31.164517+00:00",
+ "updated": "2026-10-27T10:17:19.050192+00:00",
  "items": [
   {
-   "title": "Feds crack down on stolen car pipeline to Mexican cartels as 13 charged in border scheme",
-   "link": "https://nypost.com/2026/10/27/us-news/feds-crack-down-on-stolen-car-pipeline-to-mexican-cartels-as-13-charged-in-border-scheme/",
+   "title": "Trump blasts Senate for not making daylight saving permanent, jokes clock changes makes him late",
+   "link": "https://nypost.com/2026/10/27/us-news/trump-blasts-senate-for-not-making-daylight-saving-permanent-jokes-clock-changes-makes-him-late/",
    "source": "New York Post",
-   "ts": 1793092524.0
+   "ts": 1793096130.0
   },
   {
-   "title": "Obama cozies up to Dem Party's socialist wing as former president makes surprising midterm moves",
-   "link": "https://www.foxnews.com/politics/obama-cozies-dem-partys-socialist-wing-former-president-makes-surprising-midterm-moves",
-   "source": "Fox News",
-   "ts": 1793091649.0
-  },
-  {
-   "title": "Trump-backed senator admits GOP faces nightmare scenario in state Republicans haven't lost in 90 years",
-   "link": "https://www.foxnews.com/politics/trump-backed-senator-admits-gop-faces-nightmare-scenario-state-republicans-havent-lost-90-years",
-   "source": "Fox News",
-   "ts": 1793091633.0
-  },
-  {
-   "title": "LIZ PEEK: Five reasons Republicans could defy the polls and shock Democrats on Election Day",
-   "link": "https://www.foxnews.com/opinion/liz-peek-five-reasons-republicans-could-defy-polls-shock-democrats-election-day",
-   "source": "Fox News",
-   "ts": 1793091618.0
-  },
-  {
-   "title": "John Thune's balancing act: Inside his push to save the GOP majority",
-   "link": "https://www.cbsnews.com/news/john-thune-midterms-trump-senate-majority/",
+   "title": "8-month Iran war looms large over Israeli election",
+   "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
    "source": "CBS News",
-   "ts": 1793091601.0
+   "ts": 1793096082.0
   },
   {
-   "title": "Inside Matthew Perry\u2019s \u2018struggle\u2019 ahead of the 2021 \u2018Friends\u2019 reunion",
-   "link": "https://pagesix.com/2026/10/27/entertainment/inside-matthew-perrys-struggle-ahead-of-the-2021-friends-reunion/",
-   "source": "New York Post",
-   "ts": 1793091600.0
+   "title": "How election officials are working to mitigate growing distrust ahead of midterms",
+   "link": "https://abcnews.com/US/georgia-election-officials-working-mitigate-distrust-ahead-midterms/story?id=137515118",
+   "source": "ABC News",
+   "ts": 1793095915.0
   },
   {
-   "title": "Send Mamdani a message \u2014 vote \u2018NO\u2019 on all five New York City ballot proposals",
-   "link": "https://nypost.com/2026/10/27/opinion/send-mamdani-a-message-no-on-all-five-nyc-ballot-questions/",
-   "source": "New York Post",
-   "ts": 1793091600.0
+   "title": "Damian Lillard has no regrets about the journey that brought him back to Portland",
+   "link": "https://www.nbcnews.com/sports/nba/damian-lillard-portland-trail-blazers-nba-season-rcna605770",
+   "source": "NBC News",
+   "ts": 1793095440.0
   },
   {
-   "title": "Hospital beds for the nation's sickest kids are disappearing",
-   "link": "https://www.cbsnews.com/news/pediatric-intensive-care-units-closing-nationwide/",
+   "title": "GREGG JARRETT: In a tortured defense of Ilhan Omar, the New York Times reaches for its darkest Trump analogy",
+   "link": "https://www.foxnews.com/opinion/gregg-jarrett-tortured-defense-ilhan-omar-new-york-times-reaches-darkest-trump-analogy",
+   "source": "Fox News",
+   "ts": 1793095248.0
+  },
+  {
+   "title": "Trump supporters confront Iran, affordability concerns with a message for critics: 'Give him time'",
+   "link": "https://www.foxnews.com/politics/trump-supporters-confront-iran-affordability-concerns-message-critics-give-him-time",
+   "source": "Fox News",
+   "ts": 1793095227.0
+  },
+  {
+   "title": "'Dark money\u2019 group accused of 'scheme' to tip election in favor of Democrats, manipulate GOP voters",
+   "link": "https://www.foxnews.com/politics/dark-money-group-accused-scheme-tip-election-favor-democrats-manipulate-gop-voters",
+   "source": "Fox News",
+   "ts": 1793095224.0
+  },
+  {
+   "title": "In Trump's pardon economy, victims lost out on $119M in restitution",
+   "link": "https://www.cbsnews.com/news/trump-pardons-crime-victims-lose-millions-restitution/",
    "source": "CBS News",
-   "ts": 1793091600.0
+   "ts": 1793095208.0
+  },
+  {
+   "title": "Buying a home in NYC costs city dwellers a shocking amount more per month than renting: report",
+   "link": "https://nypost.com/2026/10/27/real-estate/buying-a-home-in-nyc-costs-nearly-7k-more-per-month-than-renting/",
+   "source": "New York Post",
+   "ts": 1793095200.0
+  },
+  {
+   "title": "New \u2018prestige porn\u2019 makes sex the ultimate luxury \u2014 and hot older women the main characters",
+   "link": "https://nypost.com/2026/10/27/lifestyle/new-prestige-porn-makes-sex-the-ultimate-luxury-and-hot-older-women-the-main-characters/",
+   "source": "New York Post",
+   "ts": 1793095200.0
+  },
+  {
+   "title": "DOJ seeking to charge Comey with conspiring to disclose national defense information",
+   "link": "https://abcnews.com/Politics/doj-seeks-charge-comey-conspiring-disclose-national-defense/story?id=137584148",
+   "source": "ABC News",
+   "ts": 1793095171.0
+  },
+  {
+   "title": "TikTok parent ByteDance's founder is China's richest person again",
+   "link": "https://www.cbsnews.com/news/tiktok-bytedance-zhang-yiming-chinas-richest-person/",
+   "source": "CBS News",
+   "ts": 1793093737.0
+  },
+  {
+   "title": "Abortion is on the ballot in Missouri again. Here's what to know about Amendment 3",
+   "link": "https://abcnews.com/Health/abortion-ballot-missouri-amendment-3/story?id=137443465",
+   "source": "ABC News",
+   "ts": 1793093051.0
+  },
+  {
+   "title": "Congo's Ebola cases surpass 10,000 as fears grow of wider African spread",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUFIUG9BWUhXLUlUbkJBaWVyaEhLRm93el9SZWN2ZUpmWVc5aHJFSWwxNW5rTjJiNEJJUFFXRHBDS1doMjV4SERTSHNDNzJnOHEweDQ3bFlUVThHRzlYcGwxUXVSa3haLXh2dm9vdGtja2lvVWVud25XcWZuMFg0WmpuRF9YU3JSek9OMHJYS3ZLbS1PX3l3UXZZNDJoVjBMamVuN3dQVWU2QnZfN2xESmtwVUhYZExfY2ZtcGd6Q2NXN0U?oc=5",
+   "source": "Reuters",
+   "ts": 1793092165.0
   },
   {
    "title": "Amid 2028 speculation, Wes Moore urges Marylanders to back him on redistricting",
@@ -56,58 +92,22 @@
    "ts": 1793091600.0
   },
   {
-   "title": "Iran shrugs off Trump's attack threats, says diplomacy ongoing",
-   "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
-   "source": "CBS News",
-   "ts": 1793091049.0
-  },
-  {
    "title": "Attackers kill 60 people in Ethiopia's conflict-hit Oromiya region, Orthodox church says",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGtvS3dNTTA0X053NTVISG1ZNDktWDFhR3YtdEM2ODVjd0NiSEVBclZMazRXakZyVmoyVndQQ2Z2Y2VIcExKMjJnMXVvUkVQUDZsOGx1SDJZbkh2X3o4VFJHenpqQWkzWDVzM1A5emt5SndWUGt0LWdsUlU4a0phcUlEQ01ITGRSMDI3MVlPOE5YdTl3NmlPbnZvaExtWTlsMDdZclF3TzY5VzZFR1pSOEdHLTVxUE55WkcxTWdFa3BSY1hoQnc?oc=5",
    "source": "Reuters",
    "ts": 1793087263.0
   },
   {
-   "title": "Fire breaks out in deprived area of Seoul's Gangnam district",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHhGVkF6djQ0Wm15Qi00T3lLTUJBby1lUTRVYWpaYThmc19IYTZNb0pLTm02UmNfS3ZOcm1DUjZZdnUyZFVDZzhIR21JTjg2dDhnM0dWcjk4U1JYRDEwVkNWOVFjVUprczZscGdMMV82UlBrWmZJWUt5NDJYYTkxOVU0Q3FfRHRwSzlVd1Y2MlRoTGRaMU1yelZMUU55ZEVvTmFPb1NLeF9oZDBPTnZn?oc=5",
+   "title": "Gold eases on firmer dollar ahead of Fed decision",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5",
    "source": "Reuters",
-   "ts": 1793086820.0
-  },
-  {
-   "title": "King Charles heads to Caribbean as calls for slavery reparations grow",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSldOOVRaS0FjRlZiQTh4eFhkTHlZdGx3U20zX3oxcUo2N2VxNnZNV2ZReDdRbVFvUFNfbVpUaEVYRms4dUJfUEFLNG1pS1Z1V3hRT0tsVi1YV29fb21nLTM4OUxFSk1BUjJ3YTFlMnZZZmJEVWI0QTRQZnRWbkdyWEJuOWFoQ1F1bFRQdW91aU5TT293RjViREE5Ump4WkN0OE0teHIxVQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793085583.0
-  },
-  {
-   "title": "How Trump\u2019s \u2018little detour\u2019 to Iran became a roadblock in the midterm elections",
-   "link": "https://abcnews.com/Politics/wireStory/trumps-detour-iran-roadblock-midterm-elections-137593812",
-   "source": "ABC News",
-   "ts": 1793083589.0
-  },
-  {
-   "title": "Judge extends court-ordered block on Trump\u2019s renovation plans for public golf course",
-   "link": "https://abcnews.com/Politics/wireStory/judge-extends-court-ordered-block-trumps-renovation-plans-137590006",
-   "source": "ABC News",
-   "ts": 1793083171.0
-  },
-  {
-   "title": "Trump and Rubio plan to visit oil tanker carrying Venezuelan crude in Texas",
-   "link": "https://abcnews.com/Politics/wireStory/trump-rubio-plan-visit-oil-tanker-carrying-venezuelan-137592774",
-   "source": "ABC News",
-   "ts": 1793082628.0
+   "ts": 1793087233.0
   },
   {
    "title": "NAACP decries viral videos of group wearing KKK robes in El Paso, Texas",
    "link": "https://www.nbcnews.com/news/us-news/kkk-robes-videos-el-paso-texas-rcna605842",
    "source": "NBC News",
    "ts": 1793072671.0
-  },
-  {
-   "title": "Judge further extends block on Trump administration\u2019s removing trees at D.C. golf course",
-   "link": "https://www.nbcnews.com/politics/trump-administration/judge-extends-block-trump-officials-removing-trees-dc-golf-course-east-rcna605852",
-   "source": "NBC News",
-   "ts": 1793070092.0
   }
  ]
 }
