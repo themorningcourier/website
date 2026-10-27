@@ -1,29 +1,41 @@
 {
- "updated": "2026-10-27T05:11:39.590549+00:00",
+ "updated": "2026-10-27T06:10:58.992244+00:00",
  "items": [
   {
-   "title": "A quick guide to Israel's high-stakes elections",
-   "link": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+   "title": "Music icon Donnie Iris dies at 83",
+   "link": "https://www.mynbc5.com/article/donnie-iris-dies/74254168",
+   "source": "WPTZ",
+   "ts": 1793080380.0
+  },
+  {
+   "title": "Jay-Z picks himself to headline the Super Bowl halftime show in Southern California",
+   "link": "https://www.npr.org/2026/10/27/g-s1-150043/super-bowl-halftime-jay-z",
    "source": "NPR",
-   "ts": 1793076870.0
+   "ts": 1793079978.0
+  },
+  {
+   "title": "Brewers rout the Rays 10-1 to move within a win of their first World Series title",
+   "link": "https://www.npr.org/2026/10/27/nx-s1-6019094/mlb-world-series-tuesday",
+   "source": "NPR",
+   "ts": 1793079944.0
+  },
+  {
+   "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+   "link": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
+   "source": "NPR",
+   "ts": 1793078818.0
+  },
+  {
+   "title": "Ceasefire brokered by Melania Trump starts in southern Ukraine",
+   "link": "https://www.mynbc5.com/article/melania-trump-ceasefire-starts-southern-ukraine/74255531",
+   "source": "WPTZ",
+   "ts": 1793077800.0
   },
   {
    "title": "Taylor Swift inducted into Nashville Songwriters Hall of Fame",
    "link": "https://www.mynbc5.com/article/taylor-swift-songwriters-hall-of-fame/74254790",
    "source": "WPTZ",
    "ts": 1793073900.0
-  },
-  {
-   "title": "Brewers crush Rays in World Series Game 3",
-   "link": "https://www.mynbc5.com/article/brewers-crush-rays-world-series-game-3/74254954",
-   "source": "WPTZ",
-   "ts": 1793073900.0
-  },
-  {
-   "title": "Music icon Donnie Iris dies at 83",
-   "link": "https://www.mynbc5.com/article/donnie-iris-dies/74254168",
-   "source": "WPTZ",
-   "ts": 1793072880.0
   },
   {
    "title": "Vermont sees 40% jump in Amtrak ridership since before pandemic",
@@ -44,12 +56,6 @@
    "ts": 1793065662.0
   },
   {
-   "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
-   "link": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
-   "source": "NPR",
-   "ts": 1793061105.0
-  },
-  {
    "title": "Local Fairlee developers want to build an apartment block. Their neighbors are standing in the way.",
    "link": "https://vtdigger.org/2026/10/26/local-fairlee-developers-want-to-build-an-apartment-block-their-neighbors-are-standing-in-the-way/",
    "source": "VTDigger",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/10/26/voter-voices-from-the-upper-valley/",
    "source": "VTDigger",
    "ts": 1793051864.0
-  },
-  {
-   "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
-   "link": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
-   "source": "NPR",
-   "ts": 1793040103.0
   }
  ]
 }
