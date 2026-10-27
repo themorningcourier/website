@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-27T04:12:20.408518+00:00",
+ "updated": "2026-10-27T05:11:39.590549+00:00",
  "items": [
+  {
+   "title": "A quick guide to Israel's high-stakes elections",
+   "link": "https://www.npr.org/2026/10/27/g-s1-149944/israel-election-guide",
+   "source": "NPR",
+   "ts": 1793076870.0
+  },
   {
    "title": "Taylor Swift inducted into Nashville Songwriters Hall of Fame",
    "link": "https://www.mynbc5.com/article/taylor-swift-songwriters-hall-of-fame/74254790",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
    "source": "NPR",
    "ts": 1793040103.0
-  },
-  {
-   "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
-   "link": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
-   "source": "NPR",
-   "ts": 1793039881.0
   }
  ]
 }
