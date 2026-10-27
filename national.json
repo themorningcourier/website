@@ -1,11 +1,47 @@
 {
- "updated": "2026-10-27T07:27:10.040067+00:00",
+ "updated": "2026-10-27T08:19:42.471080+00:00",
  "items": [
+  {
+   "title": "Russia, Ukraine begin Oleshky ceasefire but keep up strikes elsewhere",
+   "link": "https://nypost.com/2026/10/27/world-news/russia-ukraine-begin-oleshky-ceasefire-but-keep-up-strikes-elsewhere/",
+   "source": "New York Post",
+   "ts": 1793088641.0
+  },
+  {
+   "title": "These factors could decide Netanyahu's fate in Israel's election",
+   "link": "https://www.cbsnews.com/news/israel-election-benjamin-netanyahu-political-fate-key-factors/",
+   "source": "CBS News",
+   "ts": 1793088507.0
+  },
+  {
+   "title": "Israel heads into deeply divided election as Oct. 7 reckoning looms: What to know",
+   "link": "https://www.foxnews.com/world/israel-heads-deeply-divided-election-oct-7-reckoning-looms-what-know",
+   "source": "Fox News",
+   "ts": 1793088035.0
+  },
+  {
+   "title": "Iran shrugs off Trump's attack threats, says diplomacy ongoing",
+   "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
+   "source": "CBS News",
+   "ts": 1793087914.0
+  },
+  {
+   "title": "Feds crack down on stolen car pipeline to Mexican cartels as 13 charged in border scheme",
+   "link": "https://www.foxnews.com/us/mexican-cartels-stolen-vehicles-el-paso",
+   "source": "Fox News",
+   "ts": 1793086078.0
+  },
   {
    "title": "Australian judge rejects prisoner\u2019s human rights challenge to Vegemite ban",
    "link": "https://nypost.com/2026/10/27/world-news/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban/",
    "source": "New York Post",
    "ts": 1793085984.0
+  },
+  {
+   "title": "King Charles heads to Caribbean as calls for slavery reparations grow",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSldOOVRaS0FjRlZiQTh4eFhkTHlZdGx3U20zX3oxcUo2N2VxNnZNV2ZReDdRbVFvUFNfbVpUaEVYRms4dUJfUEFLNG1pS1Z1V3hRT0tsVi1YV29fb21nLTM4OUxFSk1BUjJ3YTFlMnZZZmJEVWI0QTRQZnRWbkdyWEJuOWFoQ1F1bFRQdW91aU5TT293RjViREE5Ump4WkN0OE0teHIxVQ?oc=5",
+   "source": "Reuters",
+   "ts": 1793085583.0
   },
   {
    "title": "All the biggest revelations from Netflix\u2019s Matthew Perry documentary",
@@ -14,22 +50,34 @@
    "ts": 1793084460.0
   },
   {
-   "title": "Dear Abby: My friend is reselling the expensive birthday gifts I give her son",
-   "link": "https://nypost.com/2026/10/27/lifestyle/dear-abby-my-friend-is-reselling-the-expensive-birthday-gifts-i-give-her-son/",
-   "source": "New York Post",
-   "ts": 1793084400.0
-  },
-  {
-   "title": "Gold eases on firmer dollar ahead of Fed decision",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWIyeWVhRnVBaHZfV05HanpZVFJzZDZiaC1MTEFVX0JEbWc5RVhRV3htMnJFMDNCVjBPWTJISkhha3ZWc3otaXBCTGloREJidmlqOWtXMTQ4Zks2aTA5czBzNC1OdGNuVXlqLVZ4TTk3M1VUSEZvdVdCLXV3bHJsZXBHSktGcXR0dk1wS2VYdWYxTm9ueGc?oc=5",
+   "title": "Several injured in car ramming in northern Germany, suspects at large",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGNpSXFlWUtPc3poUC1jaFpLTk1MOXlLTE9OSnNIT1BrS3BtX2Racy1rUGd0a21UcUJYcmoybGVQWWZZb2pVTmRhV2QxNndBNi1IeDg4OHhsMTFwTVFTbWozS0h2VmxsMG4wTTdmcFp2TUdVZEM5a0NFMklHeWN6TkN0QUVHVU54S2IwZWxxSU8zQVZGZFVqNVZLMWh5endBVFV3?oc=5",
    "source": "Reuters",
-   "ts": 1793079960.0
+   "ts": 1793083800.0
   },
   {
-   "title": "Iran shrugs off Trump's attack threats, says diplomacy ongoing",
-   "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
-   "source": "CBS News",
-   "ts": 1793079795.0
+   "title": "How Trump\u2019s \u2018little detour\u2019 to Iran became a roadblock in the midterm elections",
+   "link": "https://abcnews.com/Politics/wireStory/trumps-detour-iran-roadblock-midterm-elections-137593812",
+   "source": "ABC News",
+   "ts": 1793083589.0
+  },
+  {
+   "title": "Judge extends court-ordered block on Trump\u2019s renovation plans for public golf course",
+   "link": "https://abcnews.com/Politics/wireStory/judge-extends-court-ordered-block-trumps-renovation-plans-137590006",
+   "source": "ABC News",
+   "ts": 1793083171.0
+  },
+  {
+   "title": "Trump and Rubio plan to visit oil tanker carrying Venezuelan crude in Texas",
+   "link": "https://abcnews.com/Politics/wireStory/trump-rubio-plan-visit-oil-tanker-carrying-venezuelan-137592774",
+   "source": "ABC News",
+   "ts": 1793082628.0
+  },
+  {
+   "title": "No pressure from US to cut Russian oil imports, Indian oil minister says",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2RTRUViV01oOW1kdndvVWFsbGFMYzJNRWE1ZjloY19FMGRmUVozY3lQOG5Tck9PbDM4WGJnV0dLSG5CeEtvd3ZXd2NVR0UwbHdnT1FDbTFXczhDVkYwbVpXSVh1T21reUgxNHdXNVFpTkF3cFJiSkRkSlVlUDRrTW9TSzR0WnpmVF9tR24yWnlNUmtuQTNEdUdUc05Xcnd3NjB6OERDQmJ2dHpWRGk5VVRTUmE2QQ?oc=5",
+   "source": "Reuters",
+   "ts": 1793081580.0
   },
   {
    "title": "Pat McAfee invokes Charlie Kirk killing as Utah post sparks 'uncomfortable' GameDay visit",
@@ -38,40 +86,10 @@
    "ts": 1793077540.0
   },
   {
-   "title": "These factors could decide Netanyahu's fate in Israel's election",
-   "link": "https://www.cbsnews.com/news/israel-election-benjamin-netanyahu-political-fate-key-factors/",
-   "source": "CBS News",
-   "ts": 1793077303.0
-  },
-  {
-   "title": "Morning Bid: All eyes on AI",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1FTNEdiYXRpWS1wOU9OM1d6S0ZSZHNXc2p1RDYxRHJHR3dvTTR6QUhPb0ROYUNyeWpTaW1Hb1BUYUlpSnR3NHJ4OGh2eXRYSDFIN0VRVzhoRlRGSC1pUTZWdUdTbDJiNEtaVzBQZmF0R3ZfcThBWnU3OGppcWdGV1QwX2NwMm9JenZKQm1R?oc=5",
-   "source": "Reuters",
-   "ts": 1793076000.0
-  },
-  {
    "title": "DOJ takes steps to charge James Comey again",
    "link": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
    "source": "CBS News",
    "ts": 1793075933.0
-  },
-  {
-   "title": "EU seeks to widen market access to counter trade restrictions, Germany's Merz says",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkZSOUw3U0tLdEdHZUF4ckFzWXBYOTVzSThCRFU4a1B5dWFXSG9jLTNZanJGOXo1Q0ktS3FFeUpJMEpUMkhPOVl0RTVPalVrYlZOS0hGM09ISWxyMmZuVUE0dmp6RTEzZHA1N3BiUHRYbUw4eUw5WTdOZm9ZdWo3ZjBoQ1B4WlVqbVdMYW85TkFSSFY2SFI4MHA1OS1ZX0t6Z191MGEwRUkwOHRxQmtlYQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793074020.0
-  },
-  {
-   "title": "Florida mom arrested after Vegas trip left 4 kids without overnight supervision: deputies",
-   "link": "https://www.foxnews.com/us/florida-mom-arrested-after-vegas-trip-left-4-kids-without-overnight-supervision-deputies",
-   "source": "Fox News",
-   "ts": 1793073791.0
-  },
-  {
-   "title": "Brewers ride ridiculous, record-setting eight-run inning to dominant 3-0 World Series lead over Rays",
-   "link": "https://www.foxnews.com/outkick-sports/brewers-ride-ridiculous-record-setting-eight-run-inning-dominant-3-0-world-series-lead-rays",
-   "source": "Fox News",
-   "ts": 1793073682.0
   },
   {
    "title": "NAACP decries viral videos of group wearing KKK robes in El Paso, Texas",
@@ -80,28 +98,10 @@
    "ts": 1793072671.0
   },
   {
-   "title": "WATCH:  Record early voting in key states as Trump, Obama appeal to voters on campaign trail",
-   "link": "https://abcnews.com/video/137585748/",
-   "source": "ABC News",
-   "ts": 1793072364.0
-  },
-  {
-   "title": "Jay-Z  announced as Super Bowl LXI halftime show performer",
-   "link": "https://abcnews.com/GMA/Culture/jay-announced-super-bowl-lxi-halftime-show-performer/story?id=137415711",
-   "source": "ABC News",
-   "ts": 1793071247.0
-  },
-  {
    "title": "Judge further extends block on Trump administration\u2019s removing trees at D.C. golf course",
    "link": "https://www.nbcnews.com/politics/trump-administration/judge-extends-block-trump-officials-removing-trees-dc-golf-course-east-rcna605852",
    "source": "NBC News",
    "ts": 1793070092.0
-  },
-  {
-   "title": "Appeals court declines to step in on Trump administration's California voting case",
-   "link": "https://abcnews.com/Politics/appeals-court-rejects-trump-admins-voting-lawsuit-california/story?id=137586284",
-   "source": "ABC News",
-   "ts": 1793068555.0
   },
   {
    "title": "Jay-Z to headline Super Bowl halftime show",
