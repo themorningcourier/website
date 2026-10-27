@@ -1,77 +1,89 @@
 {
- "updated": "2026-10-26T23:33:11.962722+00:00",
+ "updated": "2026-10-27T00:04:18.009934+00:00",
  "items": [
   {
-   "title": "Ben & Jerry\u2019s founders explore deal to separate brand from owner after previous clashes: report",
-   "link": "https://nypost.com/2026/10/26/business/ben-jerrys-founders-explore-deal-to-separate-brand-from-owner-report/",
+   "title": "Pat McAfee vows not to return to University of Utah: \u2018I was very uncomfortable\u2019",
+   "link": "https://nypost.com/2026/10/26/sports/pat-mcafee-vows-not-to-return-to-university-of-utah/",
    "source": "New York Post",
-   "ts": 1793057383.0
+   "ts": 1793059398.0
+  },
+  {
+   "title": "Apple confirms some reports of iPhone Duo cracking near the seam",
+   "link": "https://www.cbsnews.com/video/apple-confirms-reports-iphone-duo-cracking-near-seam/",
+   "source": "CBS News",
+   "ts": 1793058895.0
+  },
+  {
+   "title": "Detransitioner says she was denied opportunity to deliver Talarico a message at CNN town hall",
+   "link": "https://www.foxnews.com/media/detransitioner-says-she-denied-opportunity-deliver-talarico-message-cnn-town-hall",
+   "source": "Fox News",
+   "ts": 1793058768.0
+  },
+  {
+   "title": "Raiders coach keeping Kirk Cousins as starting QB despite 4-game win streak, top pick Fernando Mendoza waiting",
+   "link": "https://www.foxnews.com/outkick-sports/raiders-coach-keeping-kirk-cousins-starting-qb-despite-4-game-win-streak-top-pick-fernando-mendoza-waiting",
+   "source": "Fox News",
+   "ts": 1793058659.0
+  },
+  {
+   "title": "Details as Elon Musk says Ukraine violated Starlink's terms and conditions",
+   "link": "https://www.cbsnews.com/video/details-as-elon-musk-says-ukraine-violated-starlinks-terms-and-conditions/",
+   "source": "CBS News",
+   "ts": 1793058360.0
+  },
+  {
+   "title": "Embattled Ilhan Omar jokes with Hasan Piker about Trump admin probe \u2014 as critics blast event with controversial lefty streamer",
+   "link": "https://nypost.com/2026/10/26/us-news/ilhan-omar-jokes-with-hasan-piker-about-trump-probe-as-critics-blast-event-with-controversial-lefty-streamer/",
+   "source": "New York Post",
+   "ts": 1793058335.0
+  },
+  {
+   "title": "49ers not trying out kickers despite Eddy Pineiro\u2019s continued struggles",
+   "link": "https://nypost.com/2026/10/26/sports/49ers-not-trying-out-kickers-despite-eddy-pineiros-struggles/",
+   "source": "New York Post",
+   "ts": 1793058244.0
+  },
+  {
+   "title": "Explainer: Serbia's new leaders face host of tough challenges",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNTRFU0EzLUl3eFBOWEpjUDBKSmh3ZjQyd1ZIQlVlQm0wS0pRM203aEhwSXZocXowZFdzbFVlOU9iREJtbXpfMmswbjdoLTlvQmUtV1pzNHhHdENZQXRwQ1h0S2VSR3Q0REE0VFpkcUtBaUpCWWRxNEZFMGtrRTBVSThLcE9TRW03LVFDd1FRT1h6Zw?oc=5",
+   "source": "Reuters",
+   "ts": 1793058092.0
+  },
+  {
+   "title": "Illegal alien pleads guilty to staging fake kidnapping to target Border Patrol",
+   "link": "https://www.foxnews.com/us/illegal-alien-pleads-guilty-staging-fake-kidnapping-target-border-patrol",
+   "source": "Fox News",
+   "ts": 1793058056.0
+  },
+  {
+   "title": "Authorities launch manhunt for convicted killer who escaped Tennessee prison",
+   "link": "https://www.nbcnews.com/news/us-news/manhunt-murderer-escaped-tennessee-rcna605826",
+   "source": "NBC News",
+   "ts": 1793058038.0
+  },
+  {
+   "title": "DOJ takes steps to charge James Comey again",
+   "link": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
+   "source": "CBS News",
+   "ts": 1793058034.0
+  },
+  {
+   "title": "COMMENTARY: AI gloom revives the specter of stagflation: McGeever\u200b",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRm13Sm5yUE5uMDZnT2s5a2NmWEhIeUllOVdUVkpzTWZTX0pOZGxmQnNCVGNnZElxeEhncmNWT3VleWVTdVhaSGJiVElUbDhOWWdWZTNtbFJnQTdoaFdoNVFwVW5KWURmMDEtNWRKZWFSLUROUFdDcWRHTHRocm5UdmxReVd5Q2FoRHlMZ1AzdTdhYncwV2dFZk5FVHBXMUFlQnliT0hkaldQLWczQ0pXbWJER3pOVmR4VHRZNDZn?oc=5",
+   "source": "Reuters",
+   "ts": 1793057447.0
+  },
+  {
+   "title": "Equities end higher as Anthropic's IPO filing buoys AI stocks",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
+   "source": "Reuters",
+   "ts": 1793057321.0
   },
   {
    "title": "DOJ seeking to charge Comey with conspiring to disclose national defense information",
    "link": "https://abcnews.com/Politics/doj-seeks-charge-comey-conspiring-disclose-national-defense/story?id=137584148",
    "source": "ABC News",
    "ts": 1793057288.0
-  },
-  {
-   "title": "California illegal migrant\u2019s ICE fantasy implodes after she was busted on video at fast food joint",
-   "link": "https://nypost.com/2026/10/26/us-news/la-woman-pleads-guilty-to-staging-fake-ice-kidnapping-hoax/",
-   "source": "New York Post",
-   "ts": 1793057221.0
-  },
-  {
-   "title": "Extended Interview: Homeland Security's James Percival on third-country deportations",
-   "link": "https://www.cbsnews.com/video/homeland-security-james-percival-third-country-deportations-interview/",
-   "source": "CBS News",
-   "ts": 1793056980.0
-  },
-  {
-   "title": "Austin Reaves is shooting the lights out \u2014 and making NBA history along the way",
-   "link": "https://nypost.com/2026/10/26/sports/austin-reaves-stunning-efficiency-is-proven-with-this-stat/",
-   "source": "New York Post",
-   "ts": 1793056880.0
-  },
-  {
-   "title": "DOJ takes steps to charge James Comey again",
-   "link": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
-   "source": "CBS News",
-   "ts": 1793056870.0
-  },
-  {
-   "title": "Republican, Democratic strategists break down pre-midterm rhetoric from Trump, Obama",
-   "link": "https://www.cbsnews.com/video/republican-democratic-strategists-pre-midterm-rhetoric-trump-obama/",
-   "source": "CBS News",
-   "ts": 1793056593.0
-  },
-  {
-   "title": "Trump administration loses push to block California votes from alleged noncitizens",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTW01WVRuSHIxWnkzWXd6czZLd3cwc1ZIRUFvTEt6VFNnNndPT2pNeFg1NXk0SXFiMXlGU0w2TWt0Z2d2b2tfcGNqUFdWRVdvenI5eHN0OTAxM01feU5BYjk1WU5EYjFheGFFbzBmN2FtOU5fYnprc21Iejl3VzA2MmN5aHl6NEZmbS0yZlNvYW91TjF1Y2VvYmQzRl9tYml5YU5JMGg3VmIzcXdZNDlUUGVpVWNqc3c?oc=5",
-   "source": "Reuters",
-   "ts": 1793055110.0
-  },
-  {
-   "title": "Jon Gosselin claims he's 'perfect strangers now' with six of his kids after years of no contact",
-   "link": "https://www.foxnews.com/entertainment/jon-gosselin-claims-hes-perfect-strangers-now-six-his-kids-after-years-no-contact",
-   "source": "Fox News",
-   "ts": 1793054791.0
-  },
-  {
-   "title": "Merck drug extends survival in endometrial cancer trial, wins US priority review",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONEdIZ0VwaGxubUJfcXBfUGhJTnliUTV0ZUU0SFNKdmlqd0VKdFBOSUdqZUFmLWRvT3N3Q0ZGZGd2a2FoejlrLXZXX3NOaThwX2RnbzFTcUREQ2FjOTdnQ2dlQzZQWUg0R1U3ejZJSTBudGNOWWxWY2pEanpuYllLZUlDNXlmX0VqLXJyZnBHSF9kRTktZlpVbmpMUk5zNzA3ZlBrZkZiaHVvYko0YTJGWl9iV0NLVWhhRkZMWDYtS0gwODhkV3NFYU13UWVhNEdwT1AzQkxxTEw?oc=5",
-   "source": "Reuters",
-   "ts": 1793054245.0
-  },
-  {
-   "title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1JXYWUtZ2l1TGNtSDlwbkN6SkxUR1RxaWZjQnFpNk8yTzBuLTR5OEUxQ296SmZEd3dDS25tMjh1eW5hRGg4X1gtVUpVQi1UbWIyYXpJQmh6NGxpX011WWlEYWh0Z3FKRm55UUl6UnpKUTZmM3lhUElLNUVIb0tkWDBYVkI1LXI2aWxwT1Q2aUpSZjhOcUVxaTByX21WVlExQVE?oc=5",
-   "source": "Reuters",
-   "ts": 1793054146.0
-  },
-  {
-   "title": "Deadly security risks prompt updated travel warnings for 13 countries",
-   "link": "https://www.foxnews.com/travel/deadly-security-risks-prompt-updated-travel-warnings-13-countries",
-   "source": "Fox News",
-   "ts": 1793054008.0
   },
   {
    "title": "Trump offers $1M reward for voter fraud tips that result in conviction",
@@ -86,28 +98,16 @@
    "ts": 1793052588.0
   },
   {
-   "title": "Not even sky high gas prices or the Iran war will stop Trump supporters voting MAGA",
-   "link": "https://www.foxnews.com/politics/sky-high-gas-prices-iran-war-wont-stop-trump-supporters-voting-maga",
-   "source": "Fox News",
-   "ts": 1793052034.0
+   "title": "Inmate serving life sentence escapes prison",
+   "link": "https://abcnews.com/US/convicted-murderer-escapes-tennessee-prison-authorities/story?id=137573001",
+   "source": "ABC News",
+   "ts": 1793052540.0
   },
   {
    "title": "James Comey faces two new federal charges",
    "link": "https://www.nbcnews.com/video/james-comey-faces-two-new-federal-charges-272257605808",
    "source": "NBC News",
    "ts": 1793051564.0
-  },
-  {
-   "title": "James Comey charged for a third time by the Trump administration",
-   "link": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963",
-   "source": "NBC News",
-   "ts": 1793049661.0
-  },
-  {
-   "title": "15-year-old arrested in connection with shooting near FAMU",
-   "link": "https://abcnews.com/US/famu-shooting-15-year-arrested-connection/story?id=137567977",
-   "source": "ABC News",
-   "ts": 1793044065.0
   }
  ]
 }
