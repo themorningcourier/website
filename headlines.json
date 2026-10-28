@@ -1,29 +1,41 @@
 {
- "updated": "2026-10-28T10:48:41.136367+00:00",
+ "updated": "2026-10-28T11:44:52.234650+00:00",
  "items": [
+  {
+   "title": "Pedestrian hit by vehicle near central Vermont elementary school; police seek information",
+   "link": "https://www.mynbc5.com/article/pedestrian-hit-by-car-near-elementary-school-fairlee/74268059",
+   "source": "WPTZ",
+   "ts": 1793187480.0
+  },
+  {
+   "title": "Homestretch: Will Trump's trips to ruby red states and swing districts sway voters?",
+   "link": "https://www.mynbc5.com/article/will-trump-trips-to-red-states-swing-districts-sway-voters/74268274",
+   "source": "WPTZ",
+   "ts": 1793187060.0
+  },
+  {
+   "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+   "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+   "source": "NPR",
+   "ts": 1793186935.0
+  },
+  {
+   "title": "At least 30 killed after trains collide in Spain, officials say",
+   "link": "https://www.mynbc5.com/article/deadly-train-collision-central-spain-october-2026/74269187",
+   "source": "WPTZ",
+   "ts": 1793186880.0
+  },
+  {
+   "title": "House fire displaces three people in Burlington",
+   "link": "https://www.wcax.com/2026/10/28/house-fire-displaces-three-people-burlington/",
+   "source": "WCAX",
+   "ts": 1793184814.0
+  },
   {
    "title": "Driver and dog seriously injured hitting parked tanker truck on I-89, police say",
    "link": "https://www.wcax.com/2026/10/28/driver-dog-seriously-injured-hitting-parked-tanker-truck-i-89-police-say/",
    "source": "WCAX",
    "ts": 1793184408.0
-  },
-  {
-   "title": "Vermont towns issue burn bans as fire risk remains high",
-   "link": "https://www.mynbc5.com/article/fire-danger-high-vt-ny/74269457",
-   "source": "WPTZ",
-   "ts": 1793184300.0
-  },
-  {
-   "title": "At least 10 killed after trains collide in Spain, officials say",
-   "link": "https://www.mynbc5.com/article/deadly-train-collision-central-spain-october-2026/74269187",
-   "source": "WPTZ",
-   "ts": 1793182740.0
-  },
-  {
-   "title": "South End fire displaces three people in Burlington, fire department says",
-   "link": "https://www.mynbc5.com/article/three-displaced-burlington-house-fire/74269223",
-   "source": "WPTZ",
-   "ts": 1793182680.0
   },
   {
    "title": "PROGRAMMING NOTE: Vermont Governor debate to shorten 6 p.m. news; CBS Evening News starts at 6:30 p.m.",
@@ -32,16 +44,10 @@
    "ts": 1793182344.0
   },
   {
-   "title": "At least 10 dead in crash between 2 trains in Spain",
+   "title": "At least 30 dead in crash between two trains in central Spain, media say",
    "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
    "source": "NPR",
    "ts": 1793182186.0
-  },
-  {
-   "title": "Fairlee man seriously hurt after hit-and-run near Vermont elementary school",
-   "link": "https://www.wcax.com/2026/10/28/fairlee-man-seriously-hurt-after-hit-and-run-near-vermont-elementary-school/",
-   "source": "WCAX",
-   "ts": 1793181053.0
   },
   {
    "title": "Build or tax? Vermont\u2019s governor candidates emphasize different elements of housing policy.",
@@ -52,12 +58,6 @@
   {
    "title": "How a lifelong Republican came to lead the data center battle in Ohio",
    "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
-   "source": "NPR",
-   "ts": 1793178000.0
-  },
-  {
-   "title": "Why many student voters have a right to choose where to register to vote",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
    "source": "NPR",
    "ts": 1793178000.0
   },
