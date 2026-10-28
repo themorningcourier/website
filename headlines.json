@@ -1,17 +1,41 @@
 {
- "updated": "2026-10-28T12:55:30.723790+00:00",
+ "updated": "2026-10-28T14:00:42.526330+00:00",
  "items": [
   {
-   "title": "Salem police lift shelter-in-place order related to search for 'armed and dangerous' fugitive",
-   "link": "https://www.mynbc5.com/article/salem-police-manhunt-nh/74268327",
+   "title": "New Mexico man risks life to save families from floodwaters: 'I jumped in'",
+   "link": "https://www.mynbc5.com/article/new-mexico-man-families-from-floodwaters-i-jumped-in/74271661",
    "source": "WPTZ",
-   "ts": 1793191920.0
+   "ts": 1793195400.0
   },
   {
-   "title": "At least 30 killed after trains collide in Spain, officials say",
+   "title": "'Banana hero' goes viral after woman dressed in costume calls 911",
+   "link": "https://www.mynbc5.com/article/banana-hero-crash-bar-orlando-florida/74271327",
+   "source": "WPTZ",
+   "ts": 1793195040.0
+  },
+  {
+   "title": "Death toll from train collision in central Spain rises to 64, authorities say",
    "link": "https://www.mynbc5.com/article/deadly-train-collision-central-spain-october-2026/74269187",
    "source": "WPTZ",
-   "ts": 1793190780.0
+   "ts": 1793193120.0
+  },
+  {
+   "title": "What's gone up even faster than gas or rent? The cost of caregiving",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
+   "source": "NPR",
+   "ts": 1793192733.0
+  },
+  {
+   "title": "Barre school district still battling budget issues with another vote on the horizon",
+   "link": "https://www.wcax.com/2026/10/28/barre-school-district-still-battling-budget-issues-with-another-vote-horizon/",
+   "source": "WCAX",
+   "ts": 1793192499.0
+  },
+  {
+   "title": "State senator from Rutland County arrested, jailed on domestic assault charge",
+   "link": "https://vtdigger.org/2026/10/28/state-senator-from-rutland-county-arrested-jailed-on-domestic-assault-charge/",
+   "source": "VTDigger",
+   "ts": 1793192290.0
   },
   {
    "title": "Butter sold in 10 states recalled over possible yeast, mold and E. coli contamination",
@@ -20,22 +44,10 @@
    "ts": 1793190426.0
   },
   {
-   "title": "\ufeff2 Colorado college students remain missing after hike, search continues",
-   "link": "https://www.mynbc5.com/article/colorado-college-students-missing-hike/74269576",
-   "source": "WPTZ",
-   "ts": 1793189280.0
-  },
-  {
    "title": "InvestigateTV+: Bringing the hospital to neighborhoods",
    "link": "https://www.wcax.com/2026/10/28/investigatetv-bringing-hospital-neighborhoods/",
    "source": "WCAX",
    "ts": 1793188828.0
-  },
-  {
-   "title": "She was born with eight fingers on one hand. Her family traveled to America for the surgery",
-   "link": "https://www.wcax.com/2026/10/28/she-was-born-with-eight-fingers-one-hand-her-family-traveled-america-surgery/",
-   "source": "WCAX",
-   "ts": 1793188669.0
   },
   {
    "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
@@ -44,7 +56,7 @@
    "ts": 1793186935.0
   },
   {
-   "title": "At least 30 dead in crash between two trains in central Spain, media say",
+   "title": "Dozens are dead in a high-speed train crash in Spain",
    "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
    "source": "NPR",
    "ts": 1793182186.0
@@ -56,22 +68,10 @@
    "ts": 1793178900.0
   },
   {
-   "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
-   "source": "NPR",
-   "ts": 1793178000.0
-  },
-  {
    "title": "As flooding increases and federal aid shrinks, Vermont is not prepared to manage disaster recovery",
    "link": "https://vtdigger.org/2026/10/28/as-flooding-increases-and-federal-aid-shrinks-vermont-is-not-prepared-to-manage-disaster-recovery/",
    "source": "VTDigger",
    "ts": 1793177700.0
-  },
-  {
-   "title": "After probe, concerns over Barre City officer\u2019s credibility puts dozens of criminal cases in limbo",
-   "link": "https://vtdigger.org/2026/10/27/after-probe-concerns-over-barre-city-officers-credibility-puts-dozens-of-criminal-cases-in-limbo/",
-   "source": "VTDigger",
-   "ts": 1793141095.0
   }
  ]
 }
