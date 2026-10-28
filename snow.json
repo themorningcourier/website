@@ -1,0 +1,778 @@
+{
+ "updated": "2026-10-28T18:42:17.489844+00:00",
+ "season": "2026-27",
+ "start": "2026-11-01",
+ "end": "2027-04-01",
+ "latest": {
+  "cities": {
+   "BTV": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": 0.2,
+    "season": 0.0,
+    "season_normal": 0.2,
+    "season_dep": -0.2,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T05:37:00+00:00",
+    "name": "Burlington, VT"
+   },
+   "BOS": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": 0.1,
+    "season": 0.0,
+    "season_normal": 0.1,
+    "season_dep": -0.1,
+    "final": true,
+    "issued": "2026-10-28T05:25:00+00:00",
+    "name": "Boston, MA"
+   },
+   "PWM": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": 0.1,
+    "season": 0.0,
+    "season_normal": 0.1,
+    "season_dep": -0.1,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T08:34:00+00:00",
+    "name": "Portland, ME"
+   },
+   "CAR": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.6,
+    "month_normal": 1.2,
+    "season": 0.6,
+    "season_normal": 1.3,
+    "season_dep": -0.7,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T05:47:00+00:00",
+    "name": "Caribou, ME"
+   },
+   "CON": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": 0.6,
+    "season": 0.0,
+    "season_normal": 0.6,
+    "season_dep": -0.6,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T08:34:00+00:00",
+    "name": "Concord, NH"
+   },
+   "ALB": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": 0.2,
+    "season": 0.0,
+    "season_normal": 0.2,
+    "season_dep": -0.2,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T06:23:00+00:00",
+    "name": "Albany, NY"
+   },
+   "SYR": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": 0.1,
+    "season": 0.0,
+    "season_normal": 0.1,
+    "season_dep": -0.1,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T05:28:00+00:00",
+    "name": "Syracuse, NY"
+   },
+   "BUF": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": 0.7,
+    "season": 0.0,
+    "season_normal": 0.7,
+    "season_dep": -0.7,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T05:42:00+00:00",
+    "name": "Buffalo, NY"
+   },
+   "NYC": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": 0.1,
+    "season": 0.0,
+    "season_normal": 0.1,
+    "season_dep": -0.1,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T06:16:00+00:00",
+    "name": "New York (Central Park)"
+   },
+   "ERI": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": 0.0,
+    "season": 0.0,
+    "season_normal": 0.0,
+    "season_dep": 0.0,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T06:28:00+00:00",
+    "name": "Erie, PA"
+   },
+   "DTW": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": 0.0,
+    "season": 0.0,
+    "season_normal": 0.0,
+    "season_dep": 0.0,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T05:37:00+00:00",
+    "name": "Detroit, MI"
+   },
+   "ORD": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": 0.1,
+    "season": 0.0,
+    "season_normal": 0.1,
+    "season_dep": -0.1,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T06:48:00+00:00",
+    "name": "Chicago, IL"
+   },
+   "MSP": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": 0.6,
+    "season": 0.0,
+    "season_normal": 0.6,
+    "season_dep": -0.6,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T06:34:00+00:00",
+    "name": "Minneapolis, MN"
+   },
+   "DEN": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": null,
+    "season": 0.0,
+    "season_normal": null,
+    "season_dep": null,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T07:31:00+00:00",
+    "name": "Denver, CO"
+   },
+   "SLC": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.0,
+    "month_normal": 0.3,
+    "season": 0.0,
+    "season_normal": 0.3,
+    "season_dep": -0.3,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T07:24:00+00:00",
+    "name": "Salt Lake City, UT"
+   },
+   "ANC": {
+    "date": "2026-10-27",
+    "valid": true,
+    "day": 0.0,
+    "trace": false,
+    "month": 0.9,
+    "month_normal": 4.5,
+    "season": 0.9,
+    "season_normal": 4.9,
+    "season_dep": -4.0,
+    "depth": 0.0,
+    "final": true,
+    "issued": "2026-10-28T09:59:00+00:00",
+    "name": "Anchorage, AK"
+   }
+  },
+  "top": [
+   [
+    "ENEA2",
+    "ESTER 5NE",
+    "584",
+    "7.900",
+    "24.000",
+    "2026-10-27 07:00"
+   ],
+   [
+    "FAOA2",
+    "COLLEGE OBSERVATORY",
+    "617",
+    "5.400",
+    "24.000",
+    "2026-10-27 07:45"
+   ],
+   [
+    "WY-LN-2",
+    "SMOOT 4.9 SSE, WY",
+    "6975",
+    "5.400",
+    "24.000",
+    "2026-10-27 13:00"
+   ],
+   [
+    "GSCA2",
+    "GOLDSTREAM CREEK",
+    "577",
+    "4.700",
+    "24.000",
+    "2026-10-27 14:00"
+   ],
+   [
+    "DPRS2",
+    "DUPREE 15SSE",
+    "2392",
+    "4.500",
+    "24.000",
+    "2026-10-27 14:00"
+   ],
+   [
+    "GGWM8",
+    "GLASGOW WFO",
+    "2280",
+    "1.000",
+    "6.000",
+    "2026-10-27 18:00"
+   ],
+   [
+    "PVRN1",
+    "PLAINSVIEW RANCH",
+    "4642",
+    "3.000",
+    "24.000",
+    "2026-10-27 14:00"
+   ],
+   [
+    "SD-SL-8",
+    "AGAR 9.7 W, SD",
+    "1883",
+    "3.000",
+    "24.000",
+    "2026-10-27 13:00"
+   ],
+   [
+    "ID-CR-1",
+    "SODA SPRINGS 1.3 WSW, ID",
+    "5771",
+    "2.000",
+    "24.000",
+    "2026-10-27 13:00"
+   ],
+   [
+    "KYLS2",
+    "KYLE",
+    "2946",
+    "2.000",
+    "24.000",
+    "2026-10-27 13:00"
+   ]
+  ],
+  "home": {
+   "stowe": {
+    "name": "Stowe / Mt. Mansfield",
+    "rows": [
+     [
+      "CT-TL-30",
+      "2026-10-28 12:30",
+      "0.000",
+      "24.000",
+      "522",
+      "MANSFIELD CENTER 2.7 NE, CT"
+     ],
+     [
+      "MA-BR-61",
+      "2026-10-28 09:00",
+      "0.000",
+      "24.000",
+      "223",
+      "MANSFIELD 2.4 ENE, MA"
+     ],
+     [
+      "NJ-WR-17",
+      "2026-10-28 11:00",
+      "0.000",
+      "24.000",
+      "630",
+      "MANSFIELD TWP 2.6 WNW, NJ"
+     ],
+     [
+      "OH-RC-14",
+      "2026-10-28 12:00",
+      "0.000",
+      "24.000",
+      "1027",
+      "MANSFIELD 7.3 ENE, OH"
+     ],
+     [
+      "OH-RC-14",
+      "2026-10-28 11:00",
+      "0.000",
+      "24.000",
+      "1027",
+      "MANSFIELD 7.3 ENE, OH"
+     ]
+    ]
+   },
+   "snowshoe": {
+    "name": "Snowshoe, WV",
+    "rows": [
+     [
+      "SNOW2",
+      "2026-10-28 09:00",
+      "0.000",
+      "24.000",
+      "4780",
+      "SNOWSHOE"
+     ]
+    ]
+   }
+  }
+ },
+ "log": {
+  "2026-10-28": {
+   "cities": {
+    "BTV": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": 0.2,
+     "season": 0.0,
+     "season_normal": 0.2,
+     "season_dep": -0.2,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T05:37:00+00:00",
+     "name": "Burlington, VT"
+    },
+    "BOS": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": 0.1,
+     "season": 0.0,
+     "season_normal": 0.1,
+     "season_dep": -0.1,
+     "final": true,
+     "issued": "2026-10-28T05:25:00+00:00",
+     "name": "Boston, MA"
+    },
+    "PWM": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": 0.1,
+     "season": 0.0,
+     "season_normal": 0.1,
+     "season_dep": -0.1,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T08:34:00+00:00",
+     "name": "Portland, ME"
+    },
+    "CAR": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.6,
+     "month_normal": 1.2,
+     "season": 0.6,
+     "season_normal": 1.3,
+     "season_dep": -0.7,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T05:47:00+00:00",
+     "name": "Caribou, ME"
+    },
+    "CON": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": 0.6,
+     "season": 0.0,
+     "season_normal": 0.6,
+     "season_dep": -0.6,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T08:34:00+00:00",
+     "name": "Concord, NH"
+    },
+    "ALB": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": 0.2,
+     "season": 0.0,
+     "season_normal": 0.2,
+     "season_dep": -0.2,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T06:23:00+00:00",
+     "name": "Albany, NY"
+    },
+    "SYR": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": 0.1,
+     "season": 0.0,
+     "season_normal": 0.1,
+     "season_dep": -0.1,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T05:28:00+00:00",
+     "name": "Syracuse, NY"
+    },
+    "BUF": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": 0.7,
+     "season": 0.0,
+     "season_normal": 0.7,
+     "season_dep": -0.7,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T05:42:00+00:00",
+     "name": "Buffalo, NY"
+    },
+    "NYC": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": 0.1,
+     "season": 0.0,
+     "season_normal": 0.1,
+     "season_dep": -0.1,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T06:16:00+00:00",
+     "name": "New York (Central Park)"
+    },
+    "ERI": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": 0.0,
+     "season": 0.0,
+     "season_normal": 0.0,
+     "season_dep": 0.0,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T06:28:00+00:00",
+     "name": "Erie, PA"
+    },
+    "DTW": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": 0.0,
+     "season": 0.0,
+     "season_normal": 0.0,
+     "season_dep": 0.0,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T05:37:00+00:00",
+     "name": "Detroit, MI"
+    },
+    "ORD": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": 0.1,
+     "season": 0.0,
+     "season_normal": 0.1,
+     "season_dep": -0.1,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T06:48:00+00:00",
+     "name": "Chicago, IL"
+    },
+    "MSP": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": 0.6,
+     "season": 0.0,
+     "season_normal": 0.6,
+     "season_dep": -0.6,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T06:34:00+00:00",
+     "name": "Minneapolis, MN"
+    },
+    "DEN": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": null,
+     "season": 0.0,
+     "season_normal": null,
+     "season_dep": null,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T07:31:00+00:00",
+     "name": "Denver, CO"
+    },
+    "SLC": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.0,
+     "month_normal": 0.3,
+     "season": 0.0,
+     "season_normal": 0.3,
+     "season_dep": -0.3,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T07:24:00+00:00",
+     "name": "Salt Lake City, UT"
+    },
+    "ANC": {
+     "date": "2026-10-27",
+     "valid": true,
+     "day": 0.0,
+     "trace": false,
+     "month": 0.9,
+     "month_normal": 4.5,
+     "season": 0.9,
+     "season_normal": 4.9,
+     "season_dep": -4.0,
+     "depth": 0.0,
+     "final": true,
+     "issued": "2026-10-28T09:59:00+00:00",
+     "name": "Anchorage, AK"
+    }
+   },
+   "top": [
+    [
+     "ENEA2",
+     "ESTER 5NE",
+     "584",
+     "7.900",
+     "24.000",
+     "2026-10-27 07:00"
+    ],
+    [
+     "FAOA2",
+     "COLLEGE OBSERVATORY",
+     "617",
+     "5.400",
+     "24.000",
+     "2026-10-27 07:45"
+    ],
+    [
+     "WY-LN-2",
+     "SMOOT 4.9 SSE, WY",
+     "6975",
+     "5.400",
+     "24.000",
+     "2026-10-27 13:00"
+    ],
+    [
+     "GSCA2",
+     "GOLDSTREAM CREEK",
+     "577",
+     "4.700",
+     "24.000",
+     "2026-10-27 14:00"
+    ],
+    [
+     "DPRS2",
+     "DUPREE 15SSE",
+     "2392",
+     "4.500",
+     "24.000",
+     "2026-10-27 14:00"
+    ],
+    [
+     "GGWM8",
+     "GLASGOW WFO",
+     "2280",
+     "1.000",
+     "6.000",
+     "2026-10-27 18:00"
+    ],
+    [
+     "PVRN1",
+     "PLAINSVIEW RANCH",
+     "4642",
+     "3.000",
+     "24.000",
+     "2026-10-27 14:00"
+    ],
+    [
+     "SD-SL-8",
+     "AGAR 9.7 W, SD",
+     "1883",
+     "3.000",
+     "24.000",
+     "2026-10-27 13:00"
+    ],
+    [
+     "ID-CR-1",
+     "SODA SPRINGS 1.3 WSW, ID",
+     "5771",
+     "2.000",
+     "24.000",
+     "2026-10-27 13:00"
+    ],
+    [
+     "KYLS2",
+     "KYLE",
+     "2946",
+     "2.000",
+     "24.000",
+     "2026-10-27 13:00"
+    ]
+   ],
+   "home": {
+    "stowe": {
+     "name": "Stowe / Mt. Mansfield",
+     "rows": [
+      [
+       "CT-TL-30",
+       "2026-10-28 12:30",
+       "0.000",
+       "24.000",
+       "522",
+       "MANSFIELD CENTER 2.7 NE, CT"
+      ],
+      [
+       "MA-BR-61",
+       "2026-10-28 09:00",
+       "0.000",
+       "24.000",
+       "223",
+       "MANSFIELD 2.4 ENE, MA"
+      ],
+      [
+       "NJ-WR-17",
+       "2026-10-28 11:00",
+       "0.000",
+       "24.000",
+       "630",
+       "MANSFIELD TWP 2.6 WNW, NJ"
+      ],
+      [
+       "OH-RC-14",
+       "2026-10-28 12:00",
+       "0.000",
+       "24.000",
+       "1027",
+       "MANSFIELD 7.3 ENE, OH"
+      ],
+      [
+       "OH-RC-14",
+       "2026-10-28 11:00",
+       "0.000",
+       "24.000",
+       "1027",
+       "MANSFIELD 7.3 ENE, OH"
+      ]
+     ]
+    },
+    "snowshoe": {
+     "name": "Snowshoe, WV",
+     "rows": [
+      [
+       "SNOW2",
+       "2026-10-28 09:00",
+       "0.000",
+       "24.000",
+       "4780",
+       "SNOWSHOE"
+      ]
+     ]
+    }
+   }
+  }
+ }
+}
