@@ -1,0 +1,22 @@
+name: Snow desk data
+on:
+  schedule:
+    - cron: "40 7,8,9 * * *"
+  push:
+    paths:
+      - "scripts/snow.py"
+      - ".github/workflows/snow.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  snow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/snow.py
+      - run: |
+          git config user.name "The Morning Courier"
+          git config user.email "jaybe2527@gmail.com"
+          git add snow.json snow_debug.json
+          git diff --cached --quiet || (git commit -m "Update snow desk data" && git pull --rebase && git push)
