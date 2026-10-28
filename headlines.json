@@ -1,23 +1,41 @@
 {
- "updated": "2026-10-28T08:00:26.985753+00:00",
+ "updated": "2026-10-28T08:53:40.244581+00:00",
  "items": [
+  {
+   "title": "Morning news brief",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6012226/morning-news-brief",
+   "source": "NPR",
+   "ts": 1793177253.0
+  },
+  {
+   "title": "Pedestrian hit by vehicle near central Vermont elementary school; police seek information",
+   "link": "https://www.mynbc5.com/article/pedestrian-hit-by-car-near-elementary-school-fairlee/74268059",
+   "source": "WPTZ",
+   "ts": 1793176440.0
+  },
+  {
+   "title": "Cold morning, but warmer weather lies ahead",
+   "link": "https://www.wcax.com/2026/10/28/cold-morning-warmer-weather-lies-ahead/",
+   "source": "WCAX",
+   "ts": 1793175154.0
+  },
   {
    "title": "Crews battle wildfire after vehicle fire in Underhill",
    "link": "https://www.mynbc5.com/article/crews-battle-wildfire-after-vehicle-fire-in-underhill/74266234",
    "source": "WPTZ",
-   "ts": 1793174280.0
+   "ts": 1793174400.0
+  },
+  {
+   "title": "A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes",
+   "source": "NPR",
+   "ts": 1793174271.0
   },
   {
    "title": "BSD says search warrant executed at former administrator\u2019s home",
    "link": "https://www.mynbc5.com/article/bsd-says-search-warrant-executed-at-former-administrators-home/74265319",
    "source": "WPTZ",
    "ts": 1793174160.0
-  },
-  {
-   "title": "Small plane makes emergency landing at Burlington airport",
-   "link": "https://www.mynbc5.com/article/small-plane-makes-emergency-landing-at-burlington-airport/74266418",
-   "source": "WPTZ",
-   "ts": 1793173320.0
   },
   {
    "title": "Son indicted in mother\u2019s death; medical staff say she had feces, insects in hair",
@@ -32,28 +50,10 @@
    "ts": 1793168131.0
   },
   {
-   "title": "Rays stun Brewers with 2-run rally in 12th inning and force World Series Game 5",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-6020169/rays-brewers-game-5",
-   "source": "NPR",
-   "ts": 1793168008.0
-  },
-  {
    "title": "Canned fruit sold at Walmart recalled in several states",
    "link": "https://www.wcax.com/2026/10/28/canned-fruit-sold-walmart-recalled-several-states/",
    "source": "WCAX",
    "ts": 1793166102.0
-  },
-  {
-   "title": "H.S. playoffs for Tuesday, October 27",
-   "link": "https://www.wcax.com/2026/10/28/hs-playoffs-tuesday-october-27/",
-   "source": "WCAX",
-   "ts": 1793158987.0
-  },
-  {
-   "title": "U.S. to issue visas to Fl\u00e1vio Bolsonaro as his whereabouts remain unclear",
-   "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
-   "source": "NPR",
-   "ts": 1793152688.0
   },
   {
    "title": "After probe, concerns over Barre City officer\u2019s credibility puts dozens of criminal cases in limbo",
