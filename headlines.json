@@ -1,47 +1,47 @@
 {
- "updated": "2026-10-28T22:43:16.396096+00:00",
+ "updated": "2026-10-28T23:39:32.427983+00:00",
  "items": [
   {
-   "title": "Vt. Legislature\u2019s balance of power could shape next governor\u2019s agenda",
-   "link": "https://www.wcax.com/2026/10/28/vt-legislatures-balance-power-could-shape-next-governors-agenda/",
+   "title": "Driver found dead after pursuit tied to Moira death investigation",
+   "link": "https://www.mynbc5.com/article/investigation-south-woods-road-moira-ny/74264615",
+   "source": "WPTZ",
+   "ts": 1793230140.0
+  },
+  {
+   "title": "College professor among 2 found dead in home; suspect in custody, police say",
+   "link": "https://www.wcax.com/2026/10/28/college-professor-among-2-found-dead-home-suspect-custody-police-say/",
    "source": "WCAX",
-   "ts": 1793226449.0
+   "ts": 1793230119.0
+  },
+  {
+   "title": "Man says he was scammed by fake life insurance agent shortly after sister\u2019s death",
+   "link": "https://www.wcax.com/2026/10/28/man-says-he-was-scammed-by-fake-life-insurance-agent-shortly-after-sisters-death/",
+   "source": "WCAX",
+   "ts": 1793229966.0
+  },
+  {
+   "title": "Shrewsbury: Moose that courted cow still has town talking 40 years later",
+   "link": "https://www.wcax.com/2026/10/28/shrewsbury-moose-that-courted-cow-still-has-town-talking-40-years-later/",
+   "source": "WCAX",
+   "ts": 1793229630.0
+  },
+  {
+   "title": "Police in South Carolina close Hayden Panettiere death investigation with no charges",
+   "link": "https://www.mynbc5.com/article/hayden-panettiere-case-closed-greenville-police/74277755",
+   "source": "WPTZ",
+   "ts": 1793229480.0
+  },
+  {
+   "title": "Perkins Museum of Geology reopens at UVM after six-year closure",
+   "link": "https://www.mynbc5.com/article/perkins-museum-of-geology-reopens/74277873",
+   "source": "WPTZ",
+   "ts": 1793229480.0
   },
   {
    "title": "Trump administration will allow pharmacies to make popular peptides",
    "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
    "source": "NPR",
    "ts": 1793226408.0
-  },
-  {
-   "title": "For politics, what is an October surprise?",
-   "link": "https://www.wcax.com/2026/10/28/politics-what-is-an-october-surprise/",
-   "source": "WCAX",
-   "ts": 1793226328.0
-  },
-  {
-   "title": "Vermont state senator, accused of domestic assault, enters not guilty plea at Wednesday arraignment",
-   "link": "https://www.mynbc5.com/article/vt-senator-arrested-assault-rutland-county/74271421",
-   "source": "WPTZ",
-   "ts": 1793226240.0
-  },
-  {
-   "title": "Library says person threw box of cockroaches at a staff member, prompting closure",
-   "link": "https://www.wcax.com/2026/10/28/library-says-person-threw-box-cockroaches-staff-member-prompting-closure/",
-   "source": "WCAX",
-   "ts": 1793225979.0
-  },
-  {
-   "title": "Candidates for Vermont auditor share how they would handle the job if elected",
-   "link": "https://www.mynbc5.com/article/candidates-for-vt-auditor-share-how-they-would-handle-the-job-if-elected/74277078",
-   "source": "WPTZ",
-   "ts": 1793225760.0
-  },
-  {
-   "title": "Driver found dead after pursuit tied to Moira death investigation",
-   "link": "https://www.mynbc5.com/article/investigation-south-woods-road-moira-ny/74264615",
-   "source": "WPTZ",
-   "ts": 1793225520.0
   },
   {
    "title": "Accountability court docket to continue in \u2018modified fashion\u2019",
@@ -56,6 +56,12 @@
    "ts": 1793224418.0
   },
   {
+   "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+   "source": "NPR",
+   "ts": 1793223987.0
+  },
+  {
    "title": "FBI investigates former Burlington school administrator in alleged $1.8 million fraud",
    "link": "https://vtdigger.org/2026/10/28/fbi-investigates-former-burlington-school-administrator-in-alleged-1-8-million-fraud/",
    "source": "VTDigger",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
    "source": "NPR",
    "ts": 1793222109.0
-  },
-  {
-   "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
-   "source": "NPR",
-   "ts": 1793210853.0
   }
  ]
 }
