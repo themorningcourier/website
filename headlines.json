@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-28T03:45:55.703820+00:00",
+ "updated": "2026-10-28T04:47:30.826884+00:00",
  "items": [
+  {
+   "title": "FEC campaign finance filings website experiences outage ahead of midterm elections",
+   "link": "https://www.mynbc5.com/article/fec-filing-system-website-outage-midterms/74267170",
+   "source": "WPTZ",
+   "ts": 1793162160.0
+  },
+  {
+   "title": "3 charged with conspiracy to commit murder in alleged Georgia school shooting plot",
+   "link": "https://www.mynbc5.com/article/canton-georgia-school-shooting-plot-arrests/74267109",
+   "source": "WPTZ",
+   "ts": 1793160240.0
+  },
   {
    "title": "2026 VPA Boys' Soccer Playoff Bracket",
    "link": "https://www.mynbc5.com/article/2026-vpa-boys-soccer-playoff-bracket/74173432",
@@ -8,22 +20,10 @@
    "ts": 1793159040.0
   },
   {
-   "title": "2026 VPA Field Hockey Playoff Bracket",
-   "link": "https://www.mynbc5.com/article/2026-vpa-field-hockey-playoff-bracket/74173746",
-   "source": "WPTZ",
-   "ts": 1793158920.0
-  },
-  {
-   "title": "North Country program hosts candlelight vigil to raise awareness for domestic, sexual violence",
-   "link": "https://www.mynbc5.com/article/north-country-support-survivors-domestic-violence-honor/74266513",
-   "source": "WPTZ",
-   "ts": 1793158680.0
-  },
-  {
-   "title": "Partnerships between ICE and local police surge, report finds",
-   "link": "https://www.npr.org/2026/10/27/nx-s1-6014746/287g-local-police-immigration-ice",
-   "source": "NPR",
-   "ts": 1793157572.0
+   "title": "H.S. playoffs for Tuesday, October 27",
+   "link": "https://www.wcax.com/2026/10/28/hs-playoffs-tuesday-october-27/",
+   "source": "WCAX",
+   "ts": 1793158987.0
   },
   {
    "title": "Engineered log jam to protect Route 117 embankment in Jericho",
@@ -36,12 +36,6 @@
    "link": "https://www.wcax.com/2026/10/28/24-year-old-deputy-killed-crash-with-coal-truck-while-duty-sheriffs-office-says/",
    "source": "WCAX",
    "ts": 1793156482.0
-  },
-  {
-   "title": "How the One Big Beautiful Bill Act is impacting the midterms",
-   "link": "https://www.wcax.com/2026/10/28/how-gops-signature-bill-is-impacting-election-2026/",
-   "source": "WCAX",
-   "ts": 1793155807.0
   },
   {
    "title": "U.S. to issue visas to Fl\u00e1vio Bolsonaro as his whereabouts remain unclear",
@@ -72,6 +66,12 @@
    "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
    "source": "NPR",
    "ts": 1793135877.0
+  },
+  {
+   "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
+   "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+   "source": "NPR",
+   "ts": 1793133939.0
   }
  ]
 }
