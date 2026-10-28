@@ -1,35 +1,95 @@
 {
- "updated": "2026-10-28T09:51:43.463772+00:00",
+ "updated": "2026-10-28T10:48:41.136367+00:00",
  "items": [
-  {
-   "title": "Hugh Grant\u2019s iconic \u2018Notting Hill\u2019 blue-door home in London hits market for $10M",
-   "link": "https://nypost.com/2026/10/28/real-estate/hugh-grants-iconic-notting-hill-blue-door-home-in-london-hits-market-for-10m/",
-   "source": "New York Post",
-   "ts": 1793180867.0
-  },
   {
    "title": "No clear winner in Israeli election as polls suggest stalemate",
    "link": "https://www.cbsnews.com/news/israel-election-exit-polls-stalemate/",
    "source": "CBS News",
-   "ts": 1793180642.0
+   "ts": 1793184349.0
   },
   {
-   "title": "Hochul holds 14-point lead over Blakeman in home stretch of NY governor\u2019s race",
-   "link": "https://nypost.com/2026/10/28/us-news/hochul-holds-14-point-lead-over-blakeman-in-home-stretch-of-ny-governors-race/",
+   "title": "At least 30 killed in train collision on high-speed line in Spain",
+   "link": "https://abcnews.com/International/10-killed-train-collision-high-speed-line-spain/story?id=137633323",
+   "source": "ABC News",
+   "ts": 1793184216.0
+  },
+  {
+   "title": "Boy dies, 4 family members critical after fire rips through Bronx apartment: report",
+   "link": "https://nypost.com/2026/10/28/us-news/boy-dies-4-family-members-critical-after-fire-rips-through-bronx-apartment-report/",
    "source": "New York Post",
-   "ts": 1793180440.0
+   "ts": 1793184162.0
   },
   {
-   "title": "At least 10 dead as two trains crash in Spain, authorities say",
+   "title": "What Aaron Glenn needs to do to rescue his Jets job for next year",
+   "link": "https://nypost.com/2026/10/28/sports/what-jets-aaron-glenn-needs-to-do-to-rescue-his-job-for-2027/",
+   "source": "New York Post",
+   "ts": 1793184000.0
+  },
+  {
+   "title": "At least 10 dead in high-speed train crash in Spain",
    "link": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
    "source": "CBS News",
-   "ts": 1793179880.0
+   "ts": 1793183891.0
   },
   {
-   "title": "What's next for Ilhan Omar? Former immigration judge breaks down legal risks amid federal probes",
-   "link": "https://www.foxnews.com/politics/whats-next-ilhan-omar-former-immigration-judge-breaks-down-legal-risks-amid-federal-probes",
+   "title": "Inside Melania Trump's secret diplomatic role in the Russia-Ukraine ceasefire deal",
+   "link": "https://www.foxnews.com/politics/inside-melania-trumps-secret-diplomatic-role-russia-ukraine-ceasefire-deal",
    "source": "Fox News",
-   "ts": 1793179834.0
+   "ts": 1793183616.0
+  },
+  {
+   "title": "WATCH:  King tides swamp homes with seawater in South Florida and California coasts",
+   "link": "https://abcnews.com/video/137619368/",
+   "source": "ABC News",
+   "ts": 1793183471.0
+  },
+  {
+   "title": "Deep in Trump country, a new generation reveals the divide behind Texas' tight Senate race",
+   "link": "https://www.foxnews.com/politics/deep-trump-country-new-generation-reveals-divide-behind-texas-tight-senate-race",
+   "source": "Fox News",
+   "ts": 1793183421.0
+  },
+  {
+   "title": "Nobody talks about this shocking side effect of childbirth \u2014 these products were lifesavers",
+   "link": "https://nypost.com/2026/10/28/health/review-of-parasol-and-postpartum-panty-party-recovery-underwear/",
+   "source": "New York Post",
+   "ts": 1793183400.0
+  },
+  {
+   "title": "U.S. military strike alleged drug boat in Pacific, killing 5 people",
+   "link": "https://www.cbsnews.com/news/us-military-destroys-alleged-drug-boat-pacific-5-killed/",
+   "source": "CBS News",
+   "ts": 1793183280.0
+  },
+  {
+   "title": "Netanyahu defies exit polls as vote shifts in his favor, but majority remains elusive",
+   "link": "https://www.foxnews.com/world/netanyahu-defies-exit-polls-vote-shifts-his-favor-majority-remains-elusive",
+   "source": "Fox News",
+   "ts": 1793182220.0
+  },
+  {
+   "title": "The former youth pastor leading one of the NFL\u2019s best offenses",
+   "link": "https://www.nbcnews.com/sports/nfl/former-youth-pastor-leading-one-nfls-best-offenses-rcna601954",
+   "source": "NBC News",
+   "ts": 1793181720.0
+  },
+  {
+   "title": "Stellantis operating profit rises as cost cuts gain traction",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcy04bFRZODBHbmRnMHpGWWVIcW1ab0NoLWZVeXFkdWszd0dHYWwyQVI4dFJLVVdGTy1KbHZTa0lUYi1NNGtIVWg5eWlxcktWQ0lDMDR3VFd1al83ZFB5TlBnX1ZMdGlpVmhUNGJzNmVSQWUwbEFFcXluaWlQZ0NyUUtrXzlNMHJRZ2ZuNWJFeUpfS0VQTDd1T1hicWcxTzlSR0x5bDNjWmRoTGc?oc=5",
+   "source": "Reuters",
+   "ts": 1793181570.0
+  },
+  {
+   "title": "At least 30 dead after two trains collide in Spain",
+   "link": "https://www.nbcnews.com/world/spain/spain-train-crash-high-speed-collision-toledo-rcna606070",
+   "source": "NBC News",
+   "ts": 1793181057.0
+  },
+  {
+   "title": "Two high-speed trains collide in Spain, at least 10 dead",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
+   "source": "Reuters",
+   "ts": 1793180620.0
   },
   {
    "title": "Qatari mediators present Iran with new deal to end the war, official says",
@@ -38,76 +98,16 @@
    "ts": 1793178472.0
   },
   {
-   "title": "ISIS-supporting minor attacks cop guarding Israeli Embassy in Belgrade with knives \u2013 before being fatally shot: report",
-   "link": "https://nypost.com/2026/10/28/world-news/isis-supporting-minor-attacks-cop-guarding-israeli-embassy-in-belgrade-with-knives-before-being-fatally-shot-report/",
-   "source": "New York Post",
-   "ts": 1793178284.0
-  },
-  {
-   "title": "MEHEK COOKE: Trump\u2019s record is the GOP\u2019s best weapon in the midterms",
-   "link": "https://www.foxnews.com/opinion/mehek-cooke-trumps-record-gops-best-weapon-midterms",
-   "source": "Fox News",
-   "ts": 1793178051.0
-  },
-  {
-   "title": "Dem eyeing Sen comeback to fix \u2018broken DC system\u2019 raked in cash from establishment Queen: 'Jekyll and Hyde'",
-   "link": "https://www.foxnews.com/politics/dem-eyeing-sen-comeback-fix-broken-dc-system-raked-cash-establishment-queen-jekyll-hyde",
-   "source": "Fox News",
-   "ts": 1793178037.0
-  },
-  {
-   "title": "Two high-speed trains collide in Spain, rail operator says",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
-   "source": "Reuters",
-   "ts": 1793177895.0
-  },
-  {
-   "title": "Policeman kills knife attacker outside Israeli embassy in Serbia",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ09lVDktVzU0MWp0RUxkY2V2SWhzNjVpMDMzdG1hZjVHTUJFUTFfWWlRRXFtZGJtTW0td25oeHhsTVRTbXZyNG0wTURZeEhQSndxeDFxdnlPd3k0ZGdqSTVOcjNJT1ZEdmdoREFLUFVQSWVMR2tyWGFxSk9NVEhCVWVub1k3UWQ3UWlQYm9WNnhqRFJGbXBkVUJLcnllN1g1YUF5YWxB?oc=5",
-   "source": "Reuters",
-   "ts": 1793177623.0
-  },
-  {
-   "title": "Bolsonaro lands in US days after election defeat: Sources",
-   "link": "https://abcnews.com/International/brazilian-authorities-investigating-flvio-bolsonaro-fled-us-election/story?id=137618388",
-   "source": "ABC News",
-   "ts": 1793175347.0
-  },
-  {
-   "title": "Brazil's Fl\u00e1vio Bolsonaro heading for Ecuador, Argentina says",
-   "link": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/",
-   "source": "CBS News",
-   "ts": 1793171040.0
-  },
-  {
    "title": "US cruise ship ends global voyage due to fuel costs; 200 passengers lose their homes",
    "link": "https://abcnews.com/Business/wireStory/us-cruise-ship-ends-global-voyage-asia-due-137628208",
    "source": "ABC News",
    "ts": 1793170911.0
   },
   {
-   "title": "Trump's cure for Republicans' midterm woes is more Trump. Will it work?",
-   "link": "https://abcnews.com/Politics/wireStory/trumps-cure-republicans-midterm-woes-trump-work-137628658",
-   "source": "ABC News",
-   "ts": 1793170824.0
-  },
-  {
    "title": "James Talarico faces off against Trump in dueling Texas rallies in election\u2019s final days",
    "link": "https://www.nbcnews.com/politics/2026-election/james-talarico-faces-trump-dueling-texas-rallies-elections-final-days-rcna605629",
    "source": "NBC News",
    "ts": 1793158725.0
-  },
-  {
-   "title": "GOP Sen. Lisa Murkowski endorses Democratic candidate in Alaska governor\u2019s race",
-   "link": "https://www.nbcnews.com/politics/2026-election/lisa-murkowski-endorses-democrat-alaska-governor-race-rcna606045",
-   "source": "NBC News",
-   "ts": 1793158066.0
-  },
-  {
-   "title": "Trump says he\u2019ll roll back Biden-era methane rules for oil and gas companies",
-   "link": "https://www.nbcnews.com/science/climate-change/trump-methane-rules-leaks-emissions-oil-gas-rcna605983",
-   "source": "NBC News",
-   "ts": 1793151467.0
   }
  ]
 }

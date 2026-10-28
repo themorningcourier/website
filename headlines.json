@@ -1,11 +1,47 @@
 {
- "updated": "2026-10-28T09:51:43.463772+00:00",
+ "updated": "2026-10-28T10:48:41.136367+00:00",
  "items": [
   {
-   "title": "US cruise ship suspends global voyage in Asia due to fuel costs, passengers stranded",
-   "link": "https://www.mynbc5.com/article/us-cruise-asia-suspended-fuel-costs-passengers-stranded/74268634",
+   "title": "Driver and dog seriously injured hitting parked tanker truck on I-89, police say",
+   "link": "https://www.wcax.com/2026/10/28/driver-dog-seriously-injured-hitting-parked-tanker-truck-i-89-police-say/",
+   "source": "WCAX",
+   "ts": 1793184408.0
+  },
+  {
+   "title": "Vermont towns issue burn bans as fire risk remains high",
+   "link": "https://www.mynbc5.com/article/fire-danger-high-vt-ny/74269457",
    "source": "WPTZ",
-   "ts": 1793179260.0
+   "ts": 1793184300.0
+  },
+  {
+   "title": "At least 10 killed after trains collide in Spain, officials say",
+   "link": "https://www.mynbc5.com/article/deadly-train-collision-central-spain-october-2026/74269187",
+   "source": "WPTZ",
+   "ts": 1793182740.0
+  },
+  {
+   "title": "South End fire displaces three people in Burlington, fire department says",
+   "link": "https://www.mynbc5.com/article/three-displaced-burlington-house-fire/74269223",
+   "source": "WPTZ",
+   "ts": 1793182680.0
+  },
+  {
+   "title": "PROGRAMMING NOTE: Vermont Governor debate to shorten 6 p.m. news; CBS Evening News starts at 6:30 p.m.",
+   "link": "https://www.wcax.com/2026/10/28/programming-note-vermont-governor-debate-shorten-6-pm-news-cbs-evening-news-starts-630-pm/",
+   "source": "WCAX",
+   "ts": 1793182344.0
+  },
+  {
+   "title": "At least 10 dead in crash between 2 trains in Spain",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+   "source": "NPR",
+   "ts": 1793182186.0
+  },
+  {
+   "title": "Fairlee man seriously hurt after hit-and-run near Vermont elementary school",
+   "link": "https://www.wcax.com/2026/10/28/fairlee-man-seriously-hurt-after-hit-and-run-near-vermont-elementary-school/",
+   "source": "WCAX",
+   "ts": 1793181053.0
   },
   {
    "title": "Build or tax? Vermont\u2019s governor candidates emphasize different elements of housing policy.",
@@ -14,14 +50,8 @@
    "ts": 1793178900.0
   },
   {
-   "title": "Brewers relief pitcher breaks postseason record",
-   "link": "https://www.mynbc5.com/article/milwaukee-brewers-aaron-ashby-postseason-record/74268388",
-   "source": "WPTZ",
-   "ts": 1793178600.0
-  },
-  {
-   "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
+   "title": "How a lifelong Republican came to lead the data center battle in Ohio",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
    "source": "NPR",
    "ts": 1793178000.0
   },
@@ -32,40 +62,10 @@
    "ts": 1793178000.0
   },
   {
-   "title": "Partnerships between ICE and local police surge, report finds",
-   "link": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
-   "source": "NPR",
-   "ts": 1793178000.0
-  },
-  {
-   "title": "Brewers player ties 98-year-old record set by Babe Ruth during World Series",
-   "link": "https://www.mynbc5.com/article/world-series-babe-ruth-chourio/74268173",
-   "source": "WPTZ",
-   "ts": 1793177700.0
-  },
-  {
    "title": "As flooding increases and federal aid shrinks, Vermont is not prepared to manage disaster recovery",
    "link": "https://vtdigger.org/2026/10/28/as-flooding-increases-and-federal-aid-shrinks-vermont-is-not-prepared-to-manage-disaster-recovery/",
    "source": "VTDigger",
    "ts": 1793177700.0
-  },
-  {
-   "title": "Cold morning, but warmer weather lies ahead",
-   "link": "https://www.wcax.com/2026/10/28/cold-morning-warmer-weather-lies-ahead/",
-   "source": "WCAX",
-   "ts": 1793175154.0
-  },
-  {
-   "title": "Son indicted in mother\u2019s death; medical staff say she had feces, insects in hair",
-   "link": "https://www.wcax.com/2026/10/28/son-indicted-mothers-death-medical-staff-say-she-had-feces-insects-hair/",
-   "source": "WCAX",
-   "ts": 1793169051.0
-  },
-  {
-   "title": "Canned fruit sold at Walmart recalled in several states",
-   "link": "https://www.wcax.com/2026/10/28/canned-fruit-sold-walmart-recalled-several-states/",
-   "source": "WCAX",
-   "ts": 1793166102.0
   },
   {
    "title": "After probe, concerns over Barre City officer\u2019s credibility puts dozens of criminal cases in limbo",
