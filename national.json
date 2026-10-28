@@ -1,95 +1,101 @@
 {
- "updated": "2026-10-28T14:00:42.526330+00:00",
+ "updated": "2026-10-28T14:56:27.096832+00:00",
  "items": [
   {
-   "title": "US and UK prepare for nightmare war scenarios",
-   "link": "https://nypost.com/video/us-and-uk-prepare-for-nightmare-war-scenarios/",
+   "title": "Flavio Bolsonaro arrives in the US after fleeing Brazil following election defeat",
+   "link": "https://abcnews.com/International/brazilian-authorities-investigating-flvio-bolsonaro-fled-us-election/story?id=137618388",
+   "source": "ABC News",
+   "ts": 1793199338.0
+  },
+  {
+   "title": "FDA recalls butter brand over potential illness caused by E.coli, mold and yeast",
+   "link": "https://nypost.com/2026/10/28/lifestyle/fda-recalls-plant-based-miyoko-butter-due-to-e-coli-mold-and-yeast/",
    "source": "New York Post",
-   "ts": 1793196032.0
+   "ts": 1793199063.0
   },
   {
-   "title": "At least 64 reported dead in high-speed train crash in Spain",
-   "link": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/",
-   "source": "CBS News",
-   "ts": 1793195941.0
+   "title": "DeForest Buckner responds to George Kittle\u2019s comments on 49ers blockbuster trade",
+   "link": "https://nypost.com/2026/10/28/sports/deforest-buckner-respond-george-kittles-comments-49ers-trade/",
+   "source": "New York Post",
+   "ts": 1793199045.0
   },
   {
-   "title": "NFL fans horrified by Nicholas Cage's John Madden impression in upcoming movie: 'Embarrassing'",
-   "link": "https://www.foxnews.com/outkick-sports/nfl-fans-horrified-nicholas-cage-john-madden-impression-upcoming-movie-embarrassing",
+   "title": "Malik Beasley agrees to plead guilty for role in gambling scandal in about-face",
+   "link": "https://nypost.com/2026/10/28/sports/malik-beasley-agrees-to-plead-guilty-for-role-in-gambling-scandal/",
+   "source": "New York Post",
+   "ts": 1793199022.0
+  },
+  {
+   "title": "Former Obama aide declares Jewish Michiganders have a 'moral obligation' to support El-Sayed",
+   "link": "https://www.foxnews.com/media/former-obama-aide-declares-jewish-michiganders-have-moral-obligation-support-el-sayed",
    "source": "Fox News",
-   "ts": 1793195781.0
+   "ts": 1793198890.0
   },
   {
-   "title": "Candice Swanepoel\u2019s friendship with Tom Brady ex Joan Smalls shattered amid dating news",
-   "link": "https://pagesix.com/video/candice-swanepoels-friendship-with-tom-brady-ex-joan-smalls-shattered-amid-dating-news/",
-   "source": "New York Post",
-   "ts": 1793195736.0
+   "title": "Husband arrested in wife's disappearance after family kept getting mystery texts",
+   "link": "https://www.foxnews.com/us/husband-arrested-wifes-disappearance-family-kept-getting-mystery-texts",
+   "source": "Fox News",
+   "ts": 1793198861.0
   },
   {
-   "title": "Trump warns Gulf allies to prepare for fresh blitz on Iran after midterm elections: report",
-   "link": "https://nypost.com/2026/10/28/us-news/trump-warns-gulf-allies-to-prepare-for-fresh-blitz-on-iran-after-midterm-elections-report/",
-   "source": "New York Post",
-   "ts": 1793195706.0
+   "title": "Nevada caught between AI job growth and job losses",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVF1SXJGdUFXOTE0REU0QU95Zm44ckxxMzRZSXVPakNTQkFFcjVKMHUtcWdSODFzeTRST2U3SHZWRWxSUjJGUUVRdUoxLUVNWHRKUFlxUktKOUhGdGo2SjM5VVJPUk5LbXNjcW5QbGcwM3diaDV0c05OV3BQS1hwSjJB?oc=5",
+   "source": "Reuters",
+   "ts": 1793198830.0
   },
   {
-   "title": "Brazil's Fl\u00e1vio Bolsonaro leaves country after losing election",
+   "title": "Mystery woman arrested in American's death after manhunt in Costa Rican tourist destination",
+   "link": "https://www.foxnews.com/us/mystery-woman-arrested-americans-death-manhunt-costa-rican-tourist-destination",
+   "source": "Fox News",
+   "ts": 1793198659.0
+  },
+  {
+   "title": "GE Vernova boosts grid push with $9 billion Trench deal, lifts revenue forecast",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObF9CRlpMQ1Vnb3hHT19ZaXJ2UjFrOVdORXRNVEp6TnZSMjRlcFpKVllVdDNTYWQ2V3FpMnRLMlI0SEhmQmh3bDBrUHI0SEQtaFFiQ0tyTzVteFpWb19lMkZyaThLLS13UExxVG1EaVNaZGxEZHFJYXBDVUI4cVpNU3dGSGc3amJUcEFMdGlES3FFVl9IeHg0X3UtMEQtR25SYWtNTEFSS3pQRGNUZEE?oc=5",
+   "source": "Reuters",
+   "ts": 1793197887.0
+  },
+  {
+   "title": "Qatari mediators hand Iran new proposal to end the war",
+   "link": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+   "source": "CBS News",
+   "ts": 1793197769.0
+  },
+  {
+   "title": "WATCH:  All eyes on rising prices",
+   "link": "https://abcnews.com/video/137634065/",
+   "source": "ABC News",
+   "ts": 1793197475.0
+  },
+  {
+   "title": "Lilly's retatrutide outshines Ozempic on weight loss, blood sugar control in trial",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ0hwalh5b1g1NFZERG9jUUhSdzNwWHN1RHgyd2JwLXFKRHotc3l5S1JJZ3lpNHJYdGFpb2M1dG8zNzhfeXNjd0ZRUHN2bklUNlo1S05iVjZsbjhUQzlsMUJyLXVCSlNjamtTY2tWRVl3aVhXcXdnc3pEY0tFQ2JrYXdBTFJ1SGlSenllamh2M0JJNTIzQ1Y0WVhuamtIODBGRkFXbzZxRnAxclFvREp6V0pxaFVabnpXZTBQQ2xTTFlGaGlDcFZxMQ?oc=5",
+   "source": "Reuters",
+   "ts": 1793197364.0
+  },
+  {
+   "title": "Jennifer Lawrence just launched a hair care line, and you can already save on the staples",
+   "link": "https://www.nbcnews.com/select/shopping/mes-hair-care-launch-rcna606094",
+   "source": "NBC News",
+   "ts": 1793197200.0
+  },
+  {
+   "title": "Midterm campaigns make final push as early voters hit the polls",
+   "link": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
+   "source": "CBS News",
+   "ts": 1793197102.0
+  },
+  {
+   "title": "Fl\u00e1vio Bolsonaro leaves Brazil, lands in U.S. after election loss",
    "link": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/",
    "source": "CBS News",
-   "ts": 1793195640.0
-  },
-  {
-   "title": "Thune calls Ohio race 'ground zero' in 'knife fight' for Senate while rallying with Husted",
-   "link": "https://www.foxnews.com/politics/thune-calls-ohio-race-ground-zero-knife-fight-senate-rallying-husted",
-   "source": "Fox News",
-   "ts": 1793195529.0
+   "ts": 1793196995.0
   },
   {
    "title": "WATCH:  Tampa Bay Rays keep World Series dreams alive",
    "link": "https://abcnews.com/video/137634949/",
    "source": "ABC News",
    "ts": 1793195414.0
-  },
-  {
-   "title": "Justin Tucker signs with Chiefs after serving 10-game suspension over sexual misconduct allegations: reports",
-   "link": "https://www.foxnews.com/outkick-sports/justin-tucker-signs-chiefs-serving-10-game-suspension-sexual-misconduct-allegations-reports",
-   "source": "Fox News",
-   "ts": 1793195116.0
-  },
-  {
-   "title": "Rays stun Brewers with rally in 12th inning and force World Series Game 5",
-   "link": "https://abcnews.com/Sports/wireStory/rays-stun-brewers-2-run-rally-12th-inning-137629987",
-   "source": "ABC News",
-   "ts": 1793194840.0
-  },
-  {
-   "title": "Christina Applegate tells MS community: \"I'm still your warrior\"",
-   "link": "https://www.cbsnews.com/video/christina-applegate-tells-ms-community-im-still-your-warrior/",
-   "source": "CBS News",
-   "ts": 1793194809.0
-  },
-  {
-   "title": "PODCAST: A hawkish hold?",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZnZKamx2ODNvd2VhSExDbFlwTll2VjV5OURxVHFuUjRWamRNcF9fb0ZiQnpmSVVFTDNHOTFVbmE1QmhWalpPeENCSzlEX21JWkZhUVZ2RHRUN3puUktVOU44V0pzSTkyS2xLaVB4R3k5Wkp1LVVOa3g3ell5bzB1RVNtbw?oc=5",
-   "source": "Reuters",
-   "ts": 1793194529.0
-  },
-  {
-   "title": "Flavio Bolsonaro expected to land in Miami shortly after Trump offers Brazil exit",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXM0WlJ4eWFnOU96alFqZTd5VklwV1pETlVBNjdhejYzX0hXUHQzZFczWkxRMzhxOGhzOWJqSGdwRTlubFRqMTJQckJ5NXljSFFqYzB2UXRReTVCc0lDR3BvOVlhcERydVBUU3duZFA3THNRZmt1OGZseURzeDAwX2ZCSE5tX3pRUUJ0elpaMU5odHFkcmhJQVU5OS1yRGp4N0FPVVVEWWJQMXFWNHQyOExkVWVjVFQtVDl3SGcybkt3ZzRE?oc=5",
-   "source": "Reuters",
-   "ts": 1793194194.0
-  },
-  {
-   "title": "WATCH:  CDC report warns of 'urgent' threat of drug-resistant bacteria",
-   "link": "https://abcnews.com/video/137638049/",
-   "source": "ABC News",
-   "ts": 1793193866.0
-  },
-  {
-   "title": "US regulator proposes new rules to speed up LNG projects",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjVWVk14cUgyMXRJZjVrbHBMcjZOTzF4ME5hamM3MGU4TU5jX1pReUJUYm5jVU52LTk0emJRWEtHUG9Ua1cyOVBYQnBuS2Z2RjhMclYzY3JzRTRQNG8wd01meG51LS1Ielk5V09BYnRYWUY4dC1LdmQ2aGQyWlNScC1KTG5kOElfbTItOWF6TkNwZlE0ZzE4cVlDalFUN2NkNy03VFkzZjZEUQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793193086.0
   },
   {
    "title": "No Clear Winner Yet in Israeli Election",
@@ -102,12 +108,6 @@
    "link": "https://www.nbcnews.com/sports/nfl/former-youth-pastor-leading-one-nfls-best-offenses-rcna601954",
    "source": "NBC News",
    "ts": 1793181720.0
-  },
-  {
-   "title": "Spain train crash leaves at least 64 dead in second major collision this year",
-   "link": "https://www.nbcnews.com/world/spain/spain-train-crash-high-speed-collision-toledo-rcna606070",
-   "source": "NBC News",
-   "ts": 1793181057.0
   }
  ]
 }
