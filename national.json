@@ -1,47 +1,89 @@
 {
- "updated": "2026-10-28T21:43:18.165525+00:00",
+ "updated": "2026-10-28T22:43:16.396096+00:00",
  "items": [
   {
-   "title": "Family-favorite California pumpkin patch linked to E. coli outbreak",
-   "link": "https://nypost.com/2026/10/28/us-news/popular-california-pumpkin-patch-linked-to-e-coli-outbreak/",
+   "title": "Sean McVay makes surprising trade deadline admission as Rams rivals reload",
+   "link": "https://nypost.com/2026/10/28/sports/sean-mcvay-reveals-rams-nfl-trade-deadline-plans-as-nfc-west-rivals-make-blockbuster-moves/",
    "source": "New York Post",
-   "ts": 1793223701.0
+   "ts": 1793227364.0
   },
   {
-   "title": "Mamdani campaign guru admits DSA wants to \u2018take over\u2019 the Democratic Party by running AOC for president in 2028",
-   "link": "https://nypost.com/2026/10/28/us-news/mamdani-campaign-guru-admits-dsa-wants-to-take-over-the-democratic-party-by-running-aoc-for-president-in-2028/",
+   "title": "Hochul refuses to say if she\u2019ll join Mamdani\u2019s tax-the-rich crusade \u2014 months after rejecting calls for hikes",
+   "link": "https://nypost.com/2026/10/28/us-news/hochul-refuses-to-pledge-to-keep-ny-taxes-flat-as-shes-pressured-to-join-mamdanis-tax-the-rich-crusade/",
    "source": "New York Post",
-   "ts": 1793223666.0
+   "ts": 1793226912.0
   },
   {
-   "title": "SPLC alleges DOJ is treating witness as a member of prosecution team",
-   "link": "https://www.cbsnews.com/news/southern-poverty-law-center-doj-witness-f-9/",
-   "source": "CBS News",
-   "ts": 1793223552.0
-  },
-  {
-   "title": "Of course the power-hungry left is shamelessly celebrating an authoritarian thug in Brazil",
-   "link": "https://nypost.com/2026/10/28/opinion/the-left-is-celebrating-an-authoritarian-thug-in-brazil/",
-   "source": "New York Post",
-   "ts": 1793223547.0
-  },
-  {
-   "title": "Federal reserve holds interest rates steady despite high inflation",
-   "link": "https://www.cbsnews.com/video/federal-reserve-holds-interest-rates-steady-despite-high-inflation/",
-   "source": "CBS News",
-   "ts": 1793223364.0
-  },
-  {
-   "title": "Experts react to new findings on CTE in former NFL players",
-   "link": "https://www.cbsnews.com/news/cte-research-nfl-boston-university/",
-   "source": "CBS News",
-   "ts": 1793223360.0
-  },
-  {
-   "title": "Actor Mandy Patinkin urges Jewish voters to support Abdul El-Sayed for their own 'safety'",
-   "link": "https://www.foxnews.com/media/actor-mandy-patinkin-urges-jewish-voters-support-abdul-el-sayed-own-safety",
+   "title": "Milwaukee Brewers manager Pat Murphy may have cost his team a chance to clinch the World Series",
+   "link": "https://www.foxnews.com/outkick-sports/milwaukee-brewers-manager-pat-murphy-may-have-cost-his-team-chance-clinch-world-series",
    "source": "Fox News",
-   "ts": 1793223038.0
+   "ts": 1793226625.0
+  },
+  {
+   "title": "NY\u2019s top business group sits out governor\u2019s race after backing Hochul in 2022",
+   "link": "https://nypost.com/2026/10/28/us-news/nys-top-business-group-sits-out-governors-race-after-backing-kathy-hochul-in-2022/",
+   "source": "New York Post",
+   "ts": 1793226515.0
+  },
+  {
+   "title": "Watch: Democratic candidate Brad Lander on his ban from Israel, Senate race",
+   "link": "https://www.cbsnews.com/video/democratic-candidate-brad-lander-on-his-ban-from-israel-senate-race/",
+   "source": "CBS News",
+   "ts": 1793226387.0
+  },
+  {
+   "title": "Midterm elections live updates: Trump heads to Ohio, Obama rallies in Georgia",
+   "link": "https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278",
+   "source": "ABC News",
+   "ts": 1793226043.0
+  },
+  {
+   "title": "Dolores Huerta, activist who stood behind farmers and Latinos, dies at 96",
+   "link": "https://www.cbsnews.com/video/dolores-huerta-labor-and-civil-rights-activist-dies/",
+   "source": "CBS News",
+   "ts": 1793225894.0
+  },
+  {
+   "title": "Watch: Michigan voters discuss Senate race",
+   "link": "https://www.cbsnews.com/video/watch-michigan-voters-discuss-senate-race/",
+   "source": "CBS News",
+   "ts": 1793225577.0
+  },
+  {
+   "title": "Wayfair fall clearance sale: Shop bedding, sofas and more, up to 82% off",
+   "link": "https://www.foxnews.com/deals/wayfair-fall-sale",
+   "source": "Fox News",
+   "ts": 1793225255.0
+  },
+  {
+   "title": "Some wellness peptides will become widely available, HHS says",
+   "link": "https://abcnews.com/Health/wellness-peptides-become-widely-hhs/story?id=137650076",
+   "source": "ABC News",
+   "ts": 1793225249.0
+  },
+  {
+   "title": "Levi's sale: Save 30% sitewide when you buy two or more items",
+   "link": "https://www.foxnews.com/deals/levis-sale",
+   "source": "Fox News",
+   "ts": 1793224971.0
+  },
+  {
+   "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
+   "source": "Reuters",
+   "ts": 1793224295.0
+  },
+  {
+   "title": "Flavio Bolsonaro, from US, declares himself rightful leader of Brazil after losing election",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXM0WlJ4eWFnOU96alFqZTd5VklwV1pETlVBNjdhejYzX0hXUHQzZFczWkxRMzhxOGhzOWJqSGdwRTlubFRqMTJQckJ5NXljSFFqYzB2UXRReTVCc0lDR3BvOVlhcERydVBUU3duZFA3THNRZmt1OGZseURzeDAwX2ZCSE5tX3pRUUJ0elpaMU5odHFkcmhJQVU5OS1yRGp4N0FPVVVEWWJQMXFWNHQyOExkVWVjVFQtVDl3SGcybkt3ZzRE?oc=5",
+   "source": "Reuters",
+   "ts": 1793224153.0
+  },
+  {
+   "title": "Election polls in New Zealand continue to show no clear outcome",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV195V053Xzk0NjBOR2hydFBDYWw4QkNsVDNIekZsTkViakRHNGEybTd1M2otSF9jZmtmTWNFX0daSVA5bDRmV1JlSWNhRmdLdDR2SWRPQnJ1REhmY3hncHc2UzAzQ0wtOU1vTDdBN3B2VXlSRlR5cUJWLWhybUVuQVJPYmd0RWlYOUlzOWxsQmROQUdrV1phUUVsNDRsdFhqeGwxOWpHNTNWWUVlYWc0c2pn?oc=5",
+   "source": "Reuters",
+   "ts": 1793223048.0
   },
   {
    "title": "Dolores Huerta, civil rights icon, dies at 96",
@@ -50,46 +92,10 @@
    "ts": 1793222835.0
   },
   {
-   "title": "Brewers star Jackson Chourio becomes first player to since Babe Ruth achieve historic World Series feat",
-   "link": "https://www.foxnews.com/outkick-sports/brewers-star-jackson-chourio-becomes-first-player-since-babe-ruth-achieve-historic-world-series-feat",
-   "source": "Fox News",
-   "ts": 1793222767.0
-  },
-  {
-   "title": "Legendary host Ernie Johnson announces he is stepping away from 'Inside the NBA' after this season",
-   "link": "https://www.foxnews.com/outkick-sports/legendary-host-ernie-johnson-announces-stepping-away-inside-nba-after-season",
-   "source": "Fox News",
-   "ts": 1793222231.0
-  },
-  {
-   "title": "Federal Reserve holds interest rates steady as midterm elections loom",
-   "link": "https://abcnews.com/Business/federal-reserve-set-issue-interest-rate-decision-midterm/story?id=137599228",
-   "source": "ABC News",
-   "ts": 1793222128.0
-  },
-  {
-   "title": "Flavio Bolsonaro, from US, declares himself rightful president-elect of Brazil",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXM0WlJ4eWFnOU96alFqZTd5VklwV1pETlVBNjdhejYzX0hXUHQzZFczWkxRMzhxOGhzOWJqSGdwRTlubFRqMTJQckJ5NXljSFFqYzB2UXRReTVCc0lDR3BvOVlhcERydVBUU3duZFA3THNRZmt1OGZseURzeDAwX2ZCSE5tX3pRUUJ0elpaMU5odHFkcmhJQVU5OS1yRGp4N0FPVVVEWWJQMXFWNHQyOExkVWVjVFQtVDl3SGcybkt3ZzRE?oc=5",
-   "source": "Reuters",
-   "ts": 1793222079.0
-  },
-  {
-   "title": "US sways more countries to oppose UN resolution condemning its Cuba embargo",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVRGVWZFcktIT3J0X1JWZTI5eTMyM3RXYzkzNGdLclhLcUthY08zNk04SFhuRU4yR0g1OTNyRVI2aVlFYVkxdmZaRTBFZ3BNcTFrT2ZxWWduQTV2ajhvWWpReV9mSWFnSnA5akttbFdNQ0VvUV9mNjVKZXBJc2hwUFJBaEhIRnFsMndEd1RfSXJoTGNyaHBLUDFxWEtuZHBoVHpfVjI4VTd4X3duV2NMZ1ZRQ0NReGhubXBaXzhLTQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793221962.0
-  },
-  {
    "title": "Hayden Panettiere\u2019s death is ruled accidental, and police investigation is closed",
    "link": "https://www.nbcnews.com/news/us-news/hayden-panettieres-death-ruled-accidental-police-investigation-closed-rcna606223",
    "source": "NBC News",
    "ts": 1793221728.0
-  },
-  {
-   "title": "Microsoft cloud revenue beats estimates in sign that AI bet is paying off",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTNUYVRBd0RuOWg5SUc2SzFCSTR1TGJsRndOTjNDWmtkeU1fRHZwWUxaakxsdE9sSV8tZzZDMXpXV2dDNDhhbTMyM291Z0Rua2lNSEwxaVZlTVVMbG5icUY1dllTNm9QVEk1R0NpdHdNRzVmSFA2MXZublNmaGN4NXJ5RGdMeWhiTHZmdENGX0t6UUdGaWNLS0JkbkVHWkRONXk5dkg0ZFA1T3Q0dGVR?oc=5",
-   "source": "Reuters",
-   "ts": 1793221590.0
   },
   {
    "title": "Meet the Democrats trying to flip the script on gun rights: From the Politics Desk",
@@ -102,12 +108,6 @@
    "link": "https://www.nbcnews.com/select/shopping/do-water-leak-detectors-work-rcna606203",
    "source": "NBC News",
    "ts": 1793220927.0
-  },
-  {
-   "title": "Peltola campaign under fire after report it recruited 2nd Dan Sullivan in Senate race",
-   "link": "https://abcnews.com/Politics/peltola-campaign-fire-after-report-recruited-dan-sullivan/story?id=137646458",
-   "source": "ABC News",
-   "ts": 1793220733.0
   }
  ]
 }
