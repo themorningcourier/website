@@ -1,41 +1,59 @@
 {
- "updated": "2026-10-28T17:48:35.340760+00:00",
+ "updated": "2026-10-28T18:50:53.432512+00:00",
  "items": [
   {
-   "title": "Driver found dead after pursuit tied to Moira death investigation",
-   "link": "https://www.mynbc5.com/article/investigation-south-woods-road-moira-ny/74264615",
+   "title": "First responders recovering body on Camel\u2019s Hump",
+   "link": "https://www.mynbc5.com/article/first-responders-recover-body-on-camels-hump/74275087",
    "source": "WPTZ",
-   "ts": 1793208660.0
+   "ts": 1793212680.0
   },
   {
-   "title": "Man accused of threatening girl with a gun to get in his car later determined to have .292 BAC, deputies say",
-   "link": "https://www.wcax.com/2026/10/28/man-accused-threatening-girl-with-gun-get-his-car-later-determined-have-292-bac-deputies-say/",
-   "source": "WCAX",
-   "ts": 1793207912.0
+   "title": "Tom Jones postpones tour dates to recover from illness",
+   "link": "https://www.mynbc5.com/article/tom-jones-reschedules-california-tour-dates/74272417",
+   "source": "WPTZ",
+   "ts": 1793212500.0
+  },
+  {
+   "title": "Federal Reserve keeps rates unchanged despite elevated inflation",
+   "link": "https://www.mynbc5.com/article/federal-reserve-key-rate-decision/74275062",
+   "source": "WPTZ",
+   "ts": 1793212380.0
   },
   {
    "title": "Vermont state senator taken into custody, accused of domestic assault",
    "link": "https://www.wcax.com/2026/10/28/vermont-state-senator-taken-into-custody-accused-domestic-assault/",
    "source": "WCAX",
-   "ts": 1793207599.0
+   "ts": 1793212080.0
   },
   {
-   "title": "Aging Untold: Fat-free doesn\u2019t always mean healthy",
-   "link": "https://www.wcax.com/2026/10/28/aging-untold-fat-free-doesnt-always-mean-healthy/",
+   "title": "Police search for missing 7-year-old last seen with pregnant mother, who is believed to be suffering a mental health crisis",
+   "link": "https://www.wcax.com/2026/10/28/police-search-missing-7-year-old-last-seen-with-pregnant-mother-who-is-believed-be-suffering-mental-health-crisis/",
    "source": "WCAX",
-   "ts": 1793206950.0
+   "ts": 1793211354.0
   },
   {
-   "title": "New study suggests 3 in 4 former NFL players who died from 2008 to 2023 had CTE",
-   "link": "https://www.mynbc5.com/article/new-study-former-nfl-players-cte-rate/74274014",
-   "source": "WPTZ",
-   "ts": 1793206860.0
+   "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
+   "source": "NPR",
+   "ts": 1793210853.0
   },
   {
-   "title": "Subject of New Hampshire manhunt taken into custody",
-   "link": "https://www.mynbc5.com/article/salem-police-manhunt-nh/74268327",
-   "source": "WPTZ",
-   "ts": 1793206560.0
+   "title": "Fed holds interest rates steady even as inflation remains stubborn",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+   "source": "NPR",
+   "ts": 1793210682.0
+  },
+  {
+   "title": "Listen to rural Vermont before you vote",
+   "link": "https://vtdigger.org/2026/10/28/opinion-listen-to-rural-vermont-before-you-vote/",
+   "source": "VTDigger",
+   "ts": 1793209729.0
+  },
+  {
+   "title": "\u2018She was screaming for her life\u2019: Terrifying attempted kidnapping caught on video",
+   "link": "https://www.wcax.com/2026/10/28/she-was-screaming-her-life-terrifying-attempted-kidnapping-caught-video/",
+   "source": "WCAX",
+   "ts": 1793209568.0
   },
   {
    "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
@@ -44,34 +62,16 @@
    "ts": 1793203843.0
   },
   {
-   "title": "What's gone up even faster than gas or rent? The cost of caregiving",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
-   "source": "NPR",
-   "ts": 1793192733.0
-  },
-  {
    "title": "State senator from Rutland County arrested, jailed on domestic assault charge",
    "link": "https://vtdigger.org/2026/10/28/state-senator-from-rutland-county-arrested-jailed-on-domestic-assault-charge/",
    "source": "VTDigger",
    "ts": 1793192290.0
   },
   {
-   "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
-   "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
-   "source": "NPR",
-   "ts": 1793186935.0
-  },
-  {
    "title": "Build or tax? Vermont\u2019s governor candidates emphasize different elements of housing policy.",
    "link": "https://vtdigger.org/2026/10/28/build-or-tax-vermonts-governor-candidates-emphasize-different-elements-of-housing-policy/",
    "source": "VTDigger",
    "ts": 1793178900.0
-  },
-  {
-   "title": "As flooding increases and federal aid shrinks, Vermont is not prepared to manage disaster recovery",
-   "link": "https://vtdigger.org/2026/10/28/as-flooding-increases-and-federal-aid-shrinks-vermont-is-not-prepared-to-manage-disaster-recovery/",
-   "source": "VTDigger",
-   "ts": 1793177700.0
   }
  ]
 }
