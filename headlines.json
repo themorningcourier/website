@@ -1,17 +1,53 @@
 {
- "updated": "2026-10-28T08:53:40.244581+00:00",
+ "updated": "2026-10-28T09:51:43.463772+00:00",
  "items": [
   {
-   "title": "Morning news brief",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-6012226/morning-news-brief",
-   "source": "NPR",
-   "ts": 1793177253.0
+   "title": "US cruise ship suspends global voyage in Asia due to fuel costs, passengers stranded",
+   "link": "https://www.mynbc5.com/article/us-cruise-asia-suspended-fuel-costs-passengers-stranded/74268634",
+   "source": "WPTZ",
+   "ts": 1793179260.0
   },
   {
-   "title": "Pedestrian hit by vehicle near central Vermont elementary school; police seek information",
-   "link": "https://www.mynbc5.com/article/pedestrian-hit-by-car-near-elementary-school-fairlee/74268059",
+   "title": "Build or tax? Vermont\u2019s governor candidates emphasize different elements of housing policy.",
+   "link": "https://vtdigger.org/2026/10/28/build-or-tax-vermonts-governor-candidates-emphasize-different-elements-of-housing-policy/",
+   "source": "VTDigger",
+   "ts": 1793178900.0
+  },
+  {
+   "title": "Brewers relief pitcher breaks postseason record",
+   "link": "https://www.mynbc5.com/article/milwaukee-brewers-aaron-ashby-postseason-record/74268388",
    "source": "WPTZ",
-   "ts": 1793176440.0
+   "ts": 1793178600.0
+  },
+  {
+   "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
+   "source": "NPR",
+   "ts": 1793178000.0
+  },
+  {
+   "title": "Why many student voters have a right to choose where to register to vote",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
+   "source": "NPR",
+   "ts": 1793178000.0
+  },
+  {
+   "title": "Partnerships between ICE and local police surge, report finds",
+   "link": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
+   "source": "NPR",
+   "ts": 1793178000.0
+  },
+  {
+   "title": "Brewers player ties 98-year-old record set by Babe Ruth during World Series",
+   "link": "https://www.mynbc5.com/article/world-series-babe-ruth-chourio/74268173",
+   "source": "WPTZ",
+   "ts": 1793177700.0
+  },
+  {
+   "title": "As flooding increases and federal aid shrinks, Vermont is not prepared to manage disaster recovery",
+   "link": "https://vtdigger.org/2026/10/28/as-flooding-increases-and-federal-aid-shrinks-vermont-is-not-prepared-to-manage-disaster-recovery/",
+   "source": "VTDigger",
+   "ts": 1793177700.0
   },
   {
    "title": "Cold morning, but warmer weather lies ahead",
@@ -20,34 +56,10 @@
    "ts": 1793175154.0
   },
   {
-   "title": "Crews battle wildfire after vehicle fire in Underhill",
-   "link": "https://www.mynbc5.com/article/crews-battle-wildfire-after-vehicle-fire-in-underhill/74266234",
-   "source": "WPTZ",
-   "ts": 1793174400.0
-  },
-  {
-   "title": "A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes",
-   "source": "NPR",
-   "ts": 1793174271.0
-  },
-  {
-   "title": "BSD says search warrant executed at former administrator\u2019s home",
-   "link": "https://www.mynbc5.com/article/bsd-says-search-warrant-executed-at-former-administrators-home/74265319",
-   "source": "WPTZ",
-   "ts": 1793174160.0
-  },
-  {
    "title": "Son indicted in mother\u2019s death; medical staff say she had feces, insects in hair",
    "link": "https://www.wcax.com/2026/10/28/son-indicted-mothers-death-medical-staff-say-she-had-feces-insects-hair/",
    "source": "WCAX",
    "ts": 1793169051.0
-  },
-  {
-   "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
-   "link": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
-   "source": "NPR",
-   "ts": 1793168131.0
   },
   {
    "title": "Canned fruit sold at Walmart recalled in several states",
@@ -60,18 +72,6 @@
    "link": "https://vtdigger.org/2026/10/27/after-probe-concerns-over-barre-city-officers-credibility-puts-dozens-of-criminal-cases-in-limbo/",
    "source": "VTDigger",
    "ts": 1793141095.0
-  },
-  {
-   "title": "Pownal will consider a 5-year permitting pause on data center facilities",
-   "link": "https://vtdigger.org/2026/10/27/pownal-will-consider-a-5-year-permitting-pause-on-data-center-facilities/",
-   "source": "VTDigger",
-   "ts": 1793137832.0
-  },
-  {
-   "title": "Southwestern Vermont rail gets an upgrade to help the region\u2019s economy",
-   "link": "https://vtdigger.org/2026/10/27/southwestern-vermont-rail-gets-an-upgrade-to-help-the-regions-economy/",
-   "source": "VTDigger",
-   "ts": 1793136389.0
   }
  ]
 }
