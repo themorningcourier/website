@@ -1,6 +1,18 @@
 {
- "updated": "2026-10-28T01:57:00.717362+00:00",
+ "updated": "2026-10-28T02:48:15.485678+00:00",
  "items": [
+  {
+   "title": "NY's congressional candidates final push before election",
+   "link": "https://www.mynbc5.com/article/candidates-in-new-yorks-21st-congressional-district-ramp-up/74266683",
+   "source": "WPTZ",
+   "ts": 1793154720.0
+  },
+  {
+   "title": "U.S. to issue visas to Fl\u00e1vio Bolsonaro as his whereabouts remain unclear",
+   "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+   "source": "NPR",
+   "ts": 1793152688.0
+  },
   {
    "title": "VIDEO: Great white shark lunges at woman reaching to touch it",
    "link": "https://www.mynbc5.com/article/great-white-shark-lunges-video/74260855",
@@ -12,12 +24,6 @@
    "link": "https://www.mynbc5.com/article/small-plane-makes-emergency-landing-at-burlington-airport/74266418",
    "source": "WPTZ",
    "ts": 1793149980.0
-  },
-  {
-   "title": "Driver found dead after pursuit tied to Moira death investigation",
-   "link": "https://www.mynbc5.com/article/investigation-south-woods-road-moira-ny/74264615",
-   "source": "WPTZ",
-   "ts": 1793149320.0
   },
   {
    "title": "Couple charged after 4 children removed from \u2018deplorable conditions\u2019, police say",
@@ -62,16 +68,10 @@
    "ts": 1793135877.0
   },
   {
-   "title": "Israel's election turnout soars, lifting opposition hopes of beating Netanyahu",
+   "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
    "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
    "source": "NPR",
    "ts": 1793133939.0
-  },
-  {
-   "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
-   "link": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
-   "source": "NPR",
-   "ts": 1793130792.0
   }
  ]
 }
