@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T18:42:17.489844+00:00",
+ "updated": "2026-10-28T18:43:16.797780+00:00",
  "season": "2026-27",
  "start": "2026-11-01",
  "end": "2027-04-01",
@@ -246,144 +246,109 @@
    }
   },
   "top": [
-   [
-    "ENEA2",
-    "ESTER 5NE",
-    "584",
-    "7.900",
-    "24.000",
-    "2026-10-27 07:00"
-   ],
-   [
-    "FAOA2",
-    "COLLEGE OBSERVATORY",
-    "617",
-    "5.400",
-    "24.000",
-    "2026-10-27 07:45"
-   ],
-   [
-    "WY-LN-2",
-    "SMOOT 4.9 SSE, WY",
-    "6975",
-    "5.400",
-    "24.000",
-    "2026-10-27 13:00"
-   ],
-   [
-    "GSCA2",
-    "GOLDSTREAM CREEK",
-    "577",
-    "4.700",
-    "24.000",
-    "2026-10-27 14:00"
-   ],
-   [
-    "DPRS2",
-    "DUPREE 15SSE",
-    "2392",
-    "4.500",
-    "24.000",
-    "2026-10-27 14:00"
-   ],
-   [
-    "GGWM8",
-    "GLASGOW WFO",
-    "2280",
-    "1.000",
-    "6.000",
-    "2026-10-27 18:00"
-   ],
-   [
-    "PVRN1",
-    "PLAINSVIEW RANCH",
-    "4642",
-    "3.000",
-    "24.000",
-    "2026-10-27 14:00"
-   ],
-   [
-    "SD-SL-8",
-    "AGAR 9.7 W, SD",
-    "1883",
-    "3.000",
-    "24.000",
-    "2026-10-27 13:00"
-   ],
-   [
-    "ID-CR-1",
-    "SODA SPRINGS 1.3 WSW, ID",
-    "5771",
-    "2.000",
-    "24.000",
-    "2026-10-27 13:00"
-   ],
-   [
-    "KYLS2",
-    "KYLE",
-    "2946",
-    "2.000",
-    "24.000",
-    "2026-10-27 13:00"
-   ]
+   {
+    "id": "ENEA2",
+    "name": "Ester 5Ne",
+    "state": "AK",
+    "elev_ft": "584",
+    "inches": 7.9,
+    "hours": 24.0,
+    "time": "2026-10-27 07:00"
+   },
+   {
+    "id": "FAOA2",
+    "name": "College Observatory",
+    "state": "AK",
+    "elev_ft": "617",
+    "inches": 5.4,
+    "hours": 24.0,
+    "time": "2026-10-27 07:45"
+   },
+   {
+    "id": "WY-LN-2",
+    "name": "Smoot 4.9 Sse, Wy",
+    "state": "WY",
+    "elev_ft": "6975",
+    "inches": 5.4,
+    "hours": 24.0,
+    "time": "2026-10-27 13:00"
+   },
+   {
+    "id": "GSCA2",
+    "name": "Goldstream Creek",
+    "state": "AK",
+    "elev_ft": "577",
+    "inches": 4.7,
+    "hours": 24.0,
+    "time": "2026-10-27 14:00"
+   },
+   {
+    "id": "DPRS2",
+    "name": "Dupree 15Sse",
+    "state": "SD",
+    "elev_ft": "2392",
+    "inches": 4.5,
+    "hours": 24.0,
+    "time": "2026-10-27 14:00"
+   },
+   {
+    "id": "GGWM8",
+    "name": "Glasgow Wfo",
+    "state": "MT",
+    "elev_ft": "2280",
+    "inches": 1.0,
+    "hours": 6.0,
+    "time": "2026-10-27 18:00"
+   },
+   {
+    "id": "PVRN1",
+    "name": "Plainsview Ranch",
+    "state": "NE",
+    "elev_ft": "4642",
+    "inches": 3.0,
+    "hours": 24.0,
+    "time": "2026-10-27 14:00"
+   },
+   {
+    "id": "SD-SL-8",
+    "name": "Agar 9.7 W, Sd",
+    "state": "SD",
+    "elev_ft": "1883",
+    "inches": 3.0,
+    "hours": 24.0,
+    "time": "2026-10-27 13:00"
+   },
+   {
+    "id": "ID-CR-1",
+    "name": "Soda Springs 1.3 Wsw, Id",
+    "state": "ID",
+    "elev_ft": "5771",
+    "inches": 2.0,
+    "hours": 24.0,
+    "time": "2026-10-27 13:00"
+   },
+   {
+    "id": "KYLS2",
+    "name": "Kyle",
+    "state": "SD",
+    "elev_ft": "2946",
+    "inches": 2.0,
+    "hours": 24.0,
+    "time": "2026-10-27 13:00"
+   }
   ],
   "home": {
-   "stowe": {
-    "name": "Stowe / Mt. Mansfield",
-    "rows": [
-     [
-      "CT-TL-30",
-      "2026-10-28 12:30",
-      "0.000",
-      "24.000",
-      "522",
-      "MANSFIELD CENTER 2.7 NE, CT"
-     ],
-     [
-      "MA-BR-61",
-      "2026-10-28 09:00",
-      "0.000",
-      "24.000",
-      "223",
-      "MANSFIELD 2.4 ENE, MA"
-     ],
-     [
-      "NJ-WR-17",
-      "2026-10-28 11:00",
-      "0.000",
-      "24.000",
-      "630",
-      "MANSFIELD TWP 2.6 WNW, NJ"
-     ],
-     [
-      "OH-RC-14",
-      "2026-10-28 12:00",
-      "0.000",
-      "24.000",
-      "1027",
-      "MANSFIELD 7.3 ENE, OH"
-     ],
-     [
-      "OH-RC-14",
-      "2026-10-28 11:00",
-      "0.000",
-      "24.000",
-      "1027",
-      "MANSFIELD 7.3 ENE, OH"
-     ]
-    ]
-   },
    "snowshoe": {
     "name": "Snowshoe, WV",
-    "rows": [
-     [
-      "SNOW2",
-      "2026-10-28 09:00",
-      "0.000",
-      "24.000",
-      "4780",
-      "SNOWSHOE"
-     ]
+    "reports": [
+     {
+      "id": "SNOW2",
+      "name": "Snowshoe",
+      "inches": 0.0,
+      "hours": 24.0,
+      "time": "2026-10-28 09:00",
+      "elev_ft": "4780"
+     }
     ]
    }
   }
@@ -632,144 +597,109 @@
     }
    },
    "top": [
-    [
-     "ENEA2",
-     "ESTER 5NE",
-     "584",
-     "7.900",
-     "24.000",
-     "2026-10-27 07:00"
-    ],
-    [
-     "FAOA2",
-     "COLLEGE OBSERVATORY",
-     "617",
-     "5.400",
-     "24.000",
-     "2026-10-27 07:45"
-    ],
-    [
-     "WY-LN-2",
-     "SMOOT 4.9 SSE, WY",
-     "6975",
-     "5.400",
-     "24.000",
-     "2026-10-27 13:00"
-    ],
-    [
-     "GSCA2",
-     "GOLDSTREAM CREEK",
-     "577",
-     "4.700",
-     "24.000",
-     "2026-10-27 14:00"
-    ],
-    [
-     "DPRS2",
-     "DUPREE 15SSE",
-     "2392",
-     "4.500",
-     "24.000",
-     "2026-10-27 14:00"
-    ],
-    [
-     "GGWM8",
-     "GLASGOW WFO",
-     "2280",
-     "1.000",
-     "6.000",
-     "2026-10-27 18:00"
-    ],
-    [
-     "PVRN1",
-     "PLAINSVIEW RANCH",
-     "4642",
-     "3.000",
-     "24.000",
-     "2026-10-27 14:00"
-    ],
-    [
-     "SD-SL-8",
-     "AGAR 9.7 W, SD",
-     "1883",
-     "3.000",
-     "24.000",
-     "2026-10-27 13:00"
-    ],
-    [
-     "ID-CR-1",
-     "SODA SPRINGS 1.3 WSW, ID",
-     "5771",
-     "2.000",
-     "24.000",
-     "2026-10-27 13:00"
-    ],
-    [
-     "KYLS2",
-     "KYLE",
-     "2946",
-     "2.000",
-     "24.000",
-     "2026-10-27 13:00"
-    ]
+    {
+     "id": "ENEA2",
+     "name": "Ester 5Ne",
+     "state": "AK",
+     "elev_ft": "584",
+     "inches": 7.9,
+     "hours": 24.0,
+     "time": "2026-10-27 07:00"
+    },
+    {
+     "id": "FAOA2",
+     "name": "College Observatory",
+     "state": "AK",
+     "elev_ft": "617",
+     "inches": 5.4,
+     "hours": 24.0,
+     "time": "2026-10-27 07:45"
+    },
+    {
+     "id": "WY-LN-2",
+     "name": "Smoot 4.9 Sse, Wy",
+     "state": "WY",
+     "elev_ft": "6975",
+     "inches": 5.4,
+     "hours": 24.0,
+     "time": "2026-10-27 13:00"
+    },
+    {
+     "id": "GSCA2",
+     "name": "Goldstream Creek",
+     "state": "AK",
+     "elev_ft": "577",
+     "inches": 4.7,
+     "hours": 24.0,
+     "time": "2026-10-27 14:00"
+    },
+    {
+     "id": "DPRS2",
+     "name": "Dupree 15Sse",
+     "state": "SD",
+     "elev_ft": "2392",
+     "inches": 4.5,
+     "hours": 24.0,
+     "time": "2026-10-27 14:00"
+    },
+    {
+     "id": "GGWM8",
+     "name": "Glasgow Wfo",
+     "state": "MT",
+     "elev_ft": "2280",
+     "inches": 1.0,
+     "hours": 6.0,
+     "time": "2026-10-27 18:00"
+    },
+    {
+     "id": "PVRN1",
+     "name": "Plainsview Ranch",
+     "state": "NE",
+     "elev_ft": "4642",
+     "inches": 3.0,
+     "hours": 24.0,
+     "time": "2026-10-27 14:00"
+    },
+    {
+     "id": "SD-SL-8",
+     "name": "Agar 9.7 W, Sd",
+     "state": "SD",
+     "elev_ft": "1883",
+     "inches": 3.0,
+     "hours": 24.0,
+     "time": "2026-10-27 13:00"
+    },
+    {
+     "id": "ID-CR-1",
+     "name": "Soda Springs 1.3 Wsw, Id",
+     "state": "ID",
+     "elev_ft": "5771",
+     "inches": 2.0,
+     "hours": 24.0,
+     "time": "2026-10-27 13:00"
+    },
+    {
+     "id": "KYLS2",
+     "name": "Kyle",
+     "state": "SD",
+     "elev_ft": "2946",
+     "inches": 2.0,
+     "hours": 24.0,
+     "time": "2026-10-27 13:00"
+    }
    ],
    "home": {
-    "stowe": {
-     "name": "Stowe / Mt. Mansfield",
-     "rows": [
-      [
-       "CT-TL-30",
-       "2026-10-28 12:30",
-       "0.000",
-       "24.000",
-       "522",
-       "MANSFIELD CENTER 2.7 NE, CT"
-      ],
-      [
-       "MA-BR-61",
-       "2026-10-28 09:00",
-       "0.000",
-       "24.000",
-       "223",
-       "MANSFIELD 2.4 ENE, MA"
-      ],
-      [
-       "NJ-WR-17",
-       "2026-10-28 11:00",
-       "0.000",
-       "24.000",
-       "630",
-       "MANSFIELD TWP 2.6 WNW, NJ"
-      ],
-      [
-       "OH-RC-14",
-       "2026-10-28 12:00",
-       "0.000",
-       "24.000",
-       "1027",
-       "MANSFIELD 7.3 ENE, OH"
-      ],
-      [
-       "OH-RC-14",
-       "2026-10-28 11:00",
-       "0.000",
-       "24.000",
-       "1027",
-       "MANSFIELD 7.3 ENE, OH"
-      ]
-     ]
-    },
     "snowshoe": {
      "name": "Snowshoe, WV",
-     "rows": [
-      [
-       "SNOW2",
-       "2026-10-28 09:00",
-       "0.000",
-       "24.000",
-       "4780",
-       "SNOWSHOE"
-      ]
+     "reports": [
+      {
+       "id": "SNOW2",
+       "name": "Snowshoe",
+       "inches": 0.0,
+       "hours": 24.0,
+       "time": "2026-10-28 09:00",
+       "elev_ft": "4780"
+      }
      ]
     }
    }
