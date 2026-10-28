@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-28T05:45:43.149507+00:00",
+ "updated": "2026-10-28T06:54:59.529450+00:00",
  "items": [
+  {
+   "title": "Son indicted in mother\u2019s death; medical staff say she had feces, insects in hair",
+   "link": "https://www.wcax.com/2026/10/28/son-indicted-mothers-death-medical-staff-say-she-had-feces-insects-hair/",
+   "source": "WCAX",
+   "ts": 1793169051.0
+  },
+  {
+   "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
+   "link": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
+   "source": "NPR",
+   "ts": 1793168131.0
+  },
+  {
+   "title": "Rays stun Brewers with 2-run rally in 12th inning and force World Series Game 5",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6020169/rays-brewers-game-5",
+   "source": "NPR",
+   "ts": 1793168008.0
+  },
   {
    "title": "Canned fruit sold at Walmart recalled in several states",
    "link": "https://www.wcax.com/2026/10/28/canned-fruit-sold-walmart-recalled-several-states/",
@@ -32,12 +50,6 @@
    "ts": 1793158987.0
   },
   {
-   "title": "Engineered log jam to protect Route 117 embankment in Jericho",
-   "link": "https://www.wcax.com/2026/10/28/engineered-log-jam-protect-route-117-embankment-jericho/",
-   "source": "WCAX",
-   "ts": 1793157002.0
-  },
-  {
    "title": "U.S. to issue visas to Fl\u00e1vio Bolsonaro as his whereabouts remain unclear",
    "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
    "source": "NPR",
@@ -60,18 +72,6 @@
    "link": "https://vtdigger.org/2026/10/27/southwestern-vermont-rail-gets-an-upgrade-to-help-the-regions-economy/",
    "source": "VTDigger",
    "ts": 1793136389.0
-  },
-  {
-   "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
-   "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
-   "source": "NPR",
-   "ts": 1793135877.0
-  },
-  {
-   "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
-   "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
-   "source": "NPR",
-   "ts": 1793133939.0
   }
  ]
 }
