@@ -1,59 +1,65 @@
 {
- "updated": "2026-10-29T15:56:23.532656+00:00",
+ "updated": "2026-10-29T16:56:04.693808+00:00",
  "items": [
   {
-   "title": "Tickets available for Shelburne Museum\u2019s \u2018Winter Lights\u2019",
-   "link": "https://www.wcax.com/2026/10/29/tickets-available-shelburne-museums-winter-lights/",
+   "title": "We Walk the Line: Turning loss into a lifeline",
+   "link": "https://www.wcax.com/2026/10/29/we-walk-line-turning-loss-into-lifeline/",
    "source": "WCAX",
-   "ts": 1793288738.0
+   "ts": 1793292765.0
   },
   {
-   "title": "Senate is skeptical about making daylight saving time permanent despite Trump's pressure",
-   "link": "https://www.mynbc5.com/article/senate-stalls-permanent-daylight-saving-time-bill/74284453",
+   "title": "Families hold out hope for loved ones missing after deadly Spain train crash",
+   "link": "https://www.mynbc5.com/article/families-missing-deadly-spain-train-crash/74285268",
    "source": "WPTZ",
-   "ts": 1793288640.0
+   "ts": 1793292300.0
+  },
+  {
+   "title": "Police identify man found dead on Camel\u2019s Hump",
+   "link": "https://www.wcax.com/2026/10/29/police-identify-man-found-dead-camels-hump/",
+   "source": "WCAX",
+   "ts": 1793291990.0
+  },
+  {
+   "title": "Israelis await final election results as claim of foreign interference emerges",
+   "link": "https://www.wcax.com/2026/10/29/israelis-await-final-election-results-claim-foreign-interference-emerges/",
+   "source": "WCAX",
+   "ts": 1793291867.0
+  },
+  {
+   "title": "Noah Kahan announces Last of the Bugs World Tour 2027: See dates in our region",
+   "link": "https://www.mynbc5.com/article/noah-kahan-2027-tour-dates/74285120",
+   "source": "WPTZ",
+   "ts": 1793291460.0
+  },
+  {
+   "title": "Vermont play series inspires national movement ahead of Election Day",
+   "link": "https://www.mynbc5.com/article/vermont-plays-national-movement-midterms/74282562",
+   "source": "WPTZ",
+   "ts": 1793291460.0
+  },
+  {
+   "title": "Dartmouth provost resigns after review finds undisclosed AI use",
+   "link": "https://vtdigger.org/2026/10/29/dartmouth-provost-resigns-after-review-finds-undisclosed-ai-use/",
+   "source": "VTDigger",
+   "ts": 1793289557.0
+  },
+  {
+   "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+   "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+   "source": "NPR",
+   "ts": 1793289507.0
+  },
+  {
+   "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+   "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
+   "source": "NPR",
+   "ts": 1793289226.0
   },
   {
    "title": "Who benefits when massive AI data centers come to town?",
    "link": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
    "source": "NPR",
    "ts": 1793288519.0
-  },
-  {
-   "title": "\u2018Breaking Away\u2019 actress Barbara Barrie dies by medically assisted suicide, reports say",
-   "link": "https://www.wcax.com/2026/10/29/breaking-away-actress-barbara-barrie-dies-by-medically-assisted-suicide-reports-say/",
-   "source": "WCAX",
-   "ts": 1793288505.0
-  },
-  {
-   "title": "802 News: Breaking down the race for Vermont Governor, plus in-depth interviews with Amanda Janoo, Phil Scott",
-   "link": "https://www.wcax.com/2026/10/21/802-news-interviews-with-amanda-janoo-phil-scott/",
-   "source": "WCAX",
-   "ts": 1793287993.0
-  },
-  {
-   "title": "Senate races to watch in the 2026 midterm election",
-   "link": "https://www.mynbc5.com/article/key-senate-races-2026-midterm-election/74265586",
-   "source": "WPTZ",
-   "ts": 1793287920.0
-  },
-  {
-   "title": "Lindsay Clancy may testify in Patrick Clancy's wrongful death lawsuit, attorney says",
-   "link": "https://www.mynbc5.com/article/patrick-clancys-attorneys-due-in-court-in-wrongful-death-lawsuit/74283914",
-   "source": "WPTZ",
-   "ts": 1793286300.0
-  },
-  {
-   "title": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
-   "link": "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",
-   "source": "NPR",
-   "ts": 1793285531.0
-  },
-  {
-   "title": "A stress-free guide to organizing important paperwork and documents",
-   "link": "https://www.npr.org/2026/10/29/nx-s1-6020623/a-stress-free-guide-to-organizing-important-paperwork-and-documents",
-   "source": "NPR",
-   "ts": 1793284712.0
   },
   {
    "title": "Accountability court docket to continue in \u2018modified fashion\u2019",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/10/28/voter-voices-at-the-cambridge-dump-unease-about-vermonts-future/",
    "source": "VTDigger",
    "ts": 1793224418.0
-  },
-  {
-   "title": "FBI investigates former Burlington school administrator in alleged $1.8 million fraud",
-   "link": "https://vtdigger.org/2026/10/28/fbi-investigates-former-burlington-school-administrator-in-alleged-1-8-million-fraud/",
-   "source": "VTDigger",
-   "ts": 1793222502.0
   }
  ]
 }
