@@ -1,11 +1,53 @@
 {
- "updated": "2026-10-29T02:50:27.821696+00:00",
+ "updated": "2026-10-29T03:49:14.230925+00:00",
  "items": [
   {
-   "title": "Pat McAfee reveals story behind bulletproof vest protection \u2014 and world-rattling social media threats he\u2019s received",
-   "link": "https://nypost.com/2026/10/28/sports/pat-mcafee-reveals-story-behind-bulletproof-vest-protection/",
+   "title": "Brewers defeat Rays in 5 games to win first World Series in franchise history",
+   "link": "https://www.cbsnews.com/news/world-series-milwaukee-brewers-defeat-tampa-bay-rays/",
+   "source": "CBS News",
+   "ts": 1793245709.0
+  },
+  {
+   "title": "Warriors barely hang on vs Ant-less Timberwolves despite Steph Curry\u2019s nuclear night",
+   "link": "https://nypost.com/2026/10/28/sports/steph-curry-warriors-timberwolves/",
    "source": "New York Post",
-   "ts": 1793241599.0
+   "ts": 1793245197.0
+  },
+  {
+   "title": "Kristaps Porzingis gets major medical procedure done amid Warriors absence",
+   "link": "https://nypost.com/2026/10/28/sports/kristaps-porzingis-major-medical-procedure-warriors-absence/",
+   "source": "New York Post",
+   "ts": 1793244715.0
+  },
+  {
+   "title": "Trump, Obama trade barbs at dueling primetime rallies days before midterm elections",
+   "link": "https://nypost.com/2026/10/28/us-news/trump-obama-trade-barbs-at-dueling-primetime-rallies-days-before-midterm-elections/",
+   "source": "New York Post",
+   "ts": 1793244694.0
+  },
+  {
+   "title": "Brewers beat the Rays 4-1 to win the first World Series title in franchise history",
+   "link": "https://abcnews.com/Sports/wireStory/brewers-beat-rays-4-1-game-5-win-137662472",
+   "source": "ABC News",
+   "ts": 1793244276.0
+  },
+  {
+   "title": "Milwaukee Brewers defeat Tampa Bay Rays to claim first World Series title",
+   "link": "https://www.nbcnews.com/sports/mlb/milwaukee-brewers-tampa-bay-rays-world-series-game-5-result-rcna605974",
+   "source": "NBC News",
+   "ts": 1793243645.0
+  },
+  {
+   "title": "Brewers win World Series for first time in franchise history with Game 5 victory over Rays",
+   "link": "https://www.foxnews.com/outkick-sports/brewers-win-world-series-first-time-franchise-history-game-5-victory-over-rays",
+   "source": "Fox News",
+   "ts": 1793243641.0
+  },
+  {
+   "title": "Sen Dan Sullivan brands Peltola\u2019s alleged ballot scheme a \u2018scandal at the highest order\u2019",
+   "link": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order",
+   "source": "Fox News",
+   "ts": 1793242733.0
   },
   {
    "title": "Judge rejects DOJ's push to force California to set aside ballots",
@@ -14,10 +56,10 @@
    "ts": 1793241580.0
   },
   {
-   "title": "Chilling final texts of Long Island mom of four who fatally drove SUV into family pool revealed",
-   "link": "https://nypost.com/2026/10/28/us-news/final-texts-of-long-island-mom-of-four-who-died-after-driving-suv-into-pool-revealed/",
-   "source": "New York Post",
-   "ts": 1793240930.0
+   "title": "Asian shares fall as Alphabet earnings miss drags Wall St futures lower",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbTZuQXNrYUZEUEdVMGdDOEljdHJ1bW0zeHR6Yl9nYXp5dWd0cXU2WGk2QXVITW5xOVhlOUNVYm83QzFaRDZXcFdaZDZXa2xUd2otaXRjcmhmaWZ2aF8zVC03WFc5RkliNkhLZjk1MzhqUHBGZ3NmdmRKbF9CSklOUzhBQQ?oc=5",
+   "source": "Reuters",
+   "ts": 1793240880.0
   },
   {
    "title": "2 right-wing provocateurs facing election-related charges in Minnesota",
@@ -26,40 +68,22 @@
    "ts": 1793240108.0
   },
   {
-   "title": "Red Bulls star Emil Forsberg expected to leave after sprint season",
-   "link": "https://nypost.com/2026/10/28/sports/red-bulls-emil-forsberg-expected-to-leave-after-sprint-season/",
-   "source": "New York Post",
-   "ts": 1793240024.0
-  },
-  {
    "title": "Garrett Wilson doesn't want to be traded \u2013 but he admitted he's sick of losing with Jets",
    "link": "https://www.foxnews.com/outkick-sports/garrett-wilson-doesnt-want-traded-admitted-sick-losing-jets",
    "source": "Fox News",
    "ts": 1793239937.0
   },
   {
+   "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5",
+   "source": "Reuters",
+   "ts": 1793239860.0
+  },
+  {
    "title": "Qatari mediators hand Iran new proposal to end the war",
    "link": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
    "source": "CBS News",
    "ts": 1793239535.0
-  },
-  {
-   "title": "Big 12 Conference addresses offensive chants from UCF fans directed at BYU during upset win",
-   "link": "https://www.foxnews.com/outkick-sports/big-12-conference-addresses-offensive-chants-ucf-fans-directed-byu-upset-win",
-   "source": "Fox News",
-   "ts": 1793239070.0
-  },
-  {
-   "title": "Jon Lovitz reacts to Crystal Hefner's label as Playboy's 'No. 1 customer'",
-   "link": "https://www.foxnews.com/entertainment/jon-lovitz-reacts-crystal-hefners-label-playboys-no-1-customer",
-   "source": "Fox News",
-   "ts": 1793238491.0
-  },
-  {
-   "title": "Obama and Trump hold dueling rallies as midterm campaigns make final pitch",
-   "link": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
-   "source": "CBS News",
-   "ts": 1793238380.0
   },
   {
    "title": "Brazil\u2019s Fl\u00e1vio Bolsonaro arrives in U.S. after losing election",
@@ -80,34 +104,10 @@
    "ts": 1793235989.0
   },
   {
-   "title": "Samsung posts record profit in Q3 on AI chip boom",
+   "title": "Samsung sees chip shortage worsening, but keeps investors in suspense on returns",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JmLWlsUUNaZ2g5VnF1TU1IZU5rWDV6T1ZLdXJBdmJrVnpHanBobFBiWjNkaXJGMjE1MUlqMlVrOGJOaHVrU18yVkRBWFVoOENmVjhqYVA3Vy1EdkdXTDN1REJPQWpVdFp5MFdlMzFhMXhEVUdBQS01STRwTW41R2RKWWloUHBhYUNVY2tyR19Geld5RHc?oc=5",
    "source": "Reuters",
    "ts": 1793235360.0
-  },
-  {
-   "title": "Memorable moments from Trump rallies ahead of the midterms",
-   "link": "https://www.nbcnews.com/video/memorable-moments-from-trump-rallies-ahead-of-the-midterms-272445509530",
-   "source": "NBC News",
-   "ts": 1793235242.0
-  },
-  {
-   "title": "Judge rejects US Justice Dept bid to block votes from alleged noncitizens in California",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMFZqTWtocU00NE9tc1BJemlmckVHUjIzQlVyLTJhUklOS0YwcURmVXowUlZUUzVlNTlZOWplM1pBZmROOVB0NDNPX3lNRWctWVZTNlotUm1oQUlvdDI1UGZ6MjN0MG1xWUd3dnB3T2NxWFNPaFpqWFFmUzZLcW8xZmI0cmRpTVlRSi1NQlZrVUVqR2RoT3dENGhyZm02NFcxckVIamhBcXlNYzZ0R0dsQ2pUN3dQQkhIaGc?oc=5",
-   "source": "Reuters",
-   "ts": 1793234640.0
-  },
-  {
-   "title": "Peltola campaign under fire after report it recruited 2nd Dan Sullivan in Senate race",
-   "link": "https://abcnews.com/Politics/peltola-campaign-fire-after-report-recruited-dan-sullivan/story?id=137646458",
-   "source": "ABC News",
-   "ts": 1793233703.0
-  },
-  {
-   "title": "Oil prices fall as peace hopes offset fears of growing Middle East conflict",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793233680.0
   }
  ]
 }
