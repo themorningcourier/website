@@ -1,35 +1,47 @@
 {
- "updated": "2026-10-29T06:55:51.887543+00:00",
+ "updated": "2026-10-29T08:02:44.771333+00:00",
  "items": [
   {
-   "title": "Diabetic Aerom\u00e9xico passenger fumes as he\u2019s denied boarding flight with Great Dane service dog",
-   "link": "https://nypost.com/2026/10/29/world-news/aeromexico-passenger-matias-rodriguez-fumes-as-hes-denied-boarding-flight-with-great-dane-service-dog/",
+   "title": "TSA officers find bizarre weapon with \u2018Wolverine-style claws, Freddy Krueger blades\u2019 at Seattle airport",
+   "link": "https://nypost.com/2026/10/29/us-news/seattle-airport-tsa-finds-bizarre-weapon-with-wolverine-style-claws-freddy-krueger-blades/",
    "source": "New York Post",
-   "ts": 1793256444.0
+   "ts": 1793258780.0
+  },
+  {
+   "title": "Warriors admit they have finishing problem after narrow win over Timberwolves",
+   "link": "https://nypost.com/2026/10/29/sports/warriors-admit-they-have-finishing-problem-after-narrow-win/",
+   "source": "New York Post",
+   "ts": 1793257631.0
+  },
+  {
+   "title": "Portland Public Schools rescinds ban on woman who questioned child\u2019s gender identity assignment",
+   "link": "https://nypost.com/2026/10/29/us-news/portland-public-schools-unbans-mom-allison-roberts-who-opposed-gender-curriculum/",
+   "source": "New York Post",
+   "ts": 1793257395.0
   },
   {
    "title": "Qatari mediators hand Iran new proposal to end the war",
    "link": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
    "source": "CBS News",
-   "ts": 1793256197.0
+   "ts": 1793257253.0
   },
   {
-   "title": "James Webb Telescope captured spooky new image thousands of light-years away",
-   "link": "https://nypost.com/2026/10/29/lifestyle/james-webb-telescope-captured-spooky-new-image-thousands-of-light-years-away/",
-   "source": "New York Post",
-   "ts": 1793255768.0
+   "title": "Why most journalists are tired of fact-checking Donald Trump",
+   "link": "https://www.foxnews.com/opinion/why-most-journalists-tired-fact-checking-donald-trump",
+   "source": "Fox News",
+   "ts": 1793257251.0
+  },
+  {
+   "title": "South Korea says considering deployment options to Strait of Hormuz, including aircraft",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa0hrZWR2U1dyeG1NekMtUlJORFZ6M1dHUWNDbDFFWTU0bldwU3RwM0hEVGVDVExpeV9rLUtNOFMxdTVWX0pOa2d2Z2ZwZTBRM0pNSU5Md0RSWW82Zmkzb0JzemVjSUlQRTdDMExKZHpvbnRSaTItSVZ5VnBBcVVHSzg1eklqSnAtZF9DRm5UMFhibDJGMHQ4eGZXWGY0RllZMDdHZHhVb2h1WjJORzBEaGhBYk81ZGp1V3BxMWhETDNFQnptQllBS0cyMXY4ZkQz?oc=5",
+   "source": "Reuters",
+   "ts": 1793256300.0
   },
   {
    "title": "Trump says Peltola \"shouldn't be allowed to run\" due to second Dan Sullivan",
    "link": "https://www.cbsnews.com/news/trump-peltola-dan-sullivan-alaska-senate/",
    "source": "CBS News",
    "ts": 1793255456.0
-  },
-  {
-   "title": "Hegseth fires top Pentagon war planner Brett Sylvia in latest military shake-up",
-   "link": "https://nypost.com/2026/10/29/us-news/hegseth-fires-top-pentagon-war-planner-brett-sylvia-in-latest-military-shake-up/",
-   "source": "New York Post",
-   "ts": 1793254806.0
   },
   {
    "title": "How LADWP's rates compare to other utilities in Southern California",
@@ -50,22 +62,16 @@
    "ts": 1793250029.0
   },
   {
+   "title": "Toyota September sales, production slide for a third straight month",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOejl4aDJTNUhOallocW9CaDh1SGYza1RWdXFRQXNoN1VIaVJWZndabDdWcFZoVmpBRlB5YTFwVFdOc0hkYUtJY0RKRzZQYmhHRGNfVDFqZEp6SHdBai1mRkR4enJ3Y1JwV3lEUHNYdGZaX1ppMWJVNFd5M3g4Rk96RTc4SXl2V3p5M3M2N3VERmxGdkRPbXR5RjB6X3hfc0lqMjRXSkFtN3NVN194cXVMbTQ3M0poWjZ3eE1FR1BFV0ZCQWpP?oc=5",
+   "source": "Reuters",
+   "ts": 1793248920.0
+  },
+  {
    "title": "DHS investigates massive data breach exposing 40,000 employees, including ICE and Border Patrol agents",
    "link": "https://www.foxnews.com/us/dhs-investigates-massive-data-breach-exposing-40000-employees-including-ice-border-patrol-agents",
    "source": "Fox News",
    "ts": 1793248273.0
-  },
-  {
-   "title": "Gold slips as markets assess Fed signals, await US inflation data",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlhrT3hjaWJ0VXJlcHYxRUdvdVJsVEpGN2lzQXA4a1pLNW5SdklwTFpMYmRNTGRNQ2w2MTRTR2g0UUJfMkx0c21Ja1Fqbzd4eVk1U1gySHF5cnYwQ0FqUzFWWVVMVXpWaUMtQ3d2VGs1TERHQ0dtbFpMWWgxbVpoVS13bGRORTByVkZaS0piSjNxYTk0eUtoZ0ItV2wxbzNnOXhCM2R1bW1Sa1laZUE?oc=5",
-   "source": "Reuters",
-   "ts": 1793247900.0
-  },
-  {
-   "title": "Ukraine sends drones towards Moscow, Russia strikes Kharkiv, officials say",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb3F1YnVQRFlzek5JbUlNWWRDWEQySFVzemNFQ0p0VHhjUTBMdnQ3VktON3FFaWE5VENiVFJSaTl3TTlzZVluQnlTT1NFR3gybTMyTjR2eVRsN0lrNlJSVkVweGFyTW5odGtDYm52SW85Smx1LWEyYnhUaWZNMUxjZHpXNG1VdDVpR3NmcWh4SnpFVVByVlZJQWNySjBFM1R3NWwwUThYZmRJX2toQzRGTjdEcnI4ZzdmLUo4SVpR?oc=5",
-   "source": "Reuters",
-   "ts": 1793247600.0
   },
   {
    "title": "A top general pushed out at Pentagon's Joint Staff",
@@ -90,12 +96,6 @@
    "link": "https://www.foxnews.com/outkick-sports/brewers-win-world-series-first-time-franchise-history-game-5-victory-over-rays",
    "source": "Fox News",
    "ts": 1793243641.0
-  },
-  {
-   "title": "Sen Dan Sullivan brands Peltola\u2019s alleged ballot scheme a \u2018scandal at the highest order\u2019",
-   "link": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order",
-   "source": "Fox News",
-   "ts": 1793242733.0
   },
   {
    "title": "2 right-wing provocateurs facing election-related charges in Minnesota",
