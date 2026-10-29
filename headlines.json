@@ -1,59 +1,65 @@
 {
- "updated": "2026-10-29T21:44:16.407091+00:00",
+ "updated": "2026-10-29T22:44:23.074411+00:00",
  "items": [
   {
-   "title": "Vermont AG announces $4.5 million settlement with General Motors",
-   "link": "https://www.mynbc5.com/article/vermont-ag-announces-45-million-settlement-with-general-motors/74286707",
+   "title": "DOJ subpoenas California election officials as special master takes up disputed voter claims",
+   "link": "https://www.mynbc5.com/article/doj-subpoenas-california-officials-special-master-election/74288304",
    "source": "WPTZ",
-   "ts": 1793310060.0
+   "ts": 1793313480.0
   },
   {
-   "title": "Let the wealthy help keep Vermont rural",
-   "link": "https://vtdigger.org/2026/10/29/opinion-let-the-wealthy-help-keep-vermont-rural/",
+   "title": "Hugh Jackman, William Shatner and George Takei among those paying tribute to Patrick Stewart",
+   "link": "https://www.mynbc5.com/article/hugh-jackman-william-shatner-george-takei-paying-tribute-patrick-stewart/74288291",
+   "source": "WPTZ",
+   "ts": 1793313420.0
+  },
+  {
+   "title": "79-year-old man killed after collision with fire truck",
+   "link": "https://www.wcax.com/2026/10/29/79-year-old-man-killed-after-collision-with-fire-truck/",
+   "source": "WCAX",
+   "ts": 1793313330.0
+  },
+  {
+   "title": "Scott, Janoo outline competing economic views in WCAX debate",
+   "link": "https://www.wcax.com/2026/10/29/scott-janoo-outline-competing-economic-views-wcax-debate/",
+   "source": "WCAX",
+   "ts": 1793313309.0
+  },
+  {
+   "title": "Woman's legacy honored in Barre with more than 300 carved pumpkins",
+   "link": "https://www.mynbc5.com/article/pumpkins-decorate-barre-neighborhood-honor-womans-legacy/74287272",
+   "source": "WPTZ",
+   "ts": 1793313120.0
+  },
+  {
+   "title": "Lois A. Schumacher",
+   "link": "https://vtdigger.org/2026/10/29/obituary-lois-a-schumacher/",
    "source": "VTDigger",
-   "ts": 1793309866.0
+   "ts": 1793312355.0
   },
   {
-   "title": "Candidates for Congress Becca Balint and Gerald Malloy enter final stretch of campaign",
-   "link": "https://www.mynbc5.com/article/becca-balint-gerald-malloy-congress-2026/74284781",
-   "source": "WPTZ",
-   "ts": 1793309820.0
-  },
-  {
-   "title": "Vermont programs offer support to keep homes warm this winter",
-   "link": "https://www.mynbc5.com/article/vermont-wheels-for-warmth-button-up/74287767",
-   "source": "WPTZ",
-   "ts": 1793309760.0
-  },
-  {
-   "title": "Button Up Vermont event promotes home weatherization",
-   "link": "https://www.wcax.com/2026/10/29/button-up-vermont-event-promotes-home-weatherization/",
+   "title": "Vermonters to decide 2 constitutional amendments next week",
+   "link": "https://www.wcax.com/2026/10/29/vermonters-decide-2-constitutional-amendments-next-week/",
    "source": "WCAX",
-   "ts": 1793309626.0
+   "ts": 1793312127.0
   },
   {
-   "title": "Dartmouth hosts AI conference on what must remain human",
-   "link": "https://www.wcax.com/2026/10/29/dartmouth-hosts-ai-conference-what-must-remain-human/",
-   "source": "WCAX",
-   "ts": 1793309471.0
+   "title": "Bennington Battle Monument dig reveals possible historic tavern, artifacts",
+   "link": "https://vtdigger.org/2026/10/29/bennington-battle-monument-dig-reveals-possible-historic-tavern-artifacts/",
+   "source": "VTDigger",
+   "ts": 1793311134.0
   },
   {
-   "title": "Vermont to get $4.5M in data privacy settlement with General Motors",
-   "link": "https://www.wcax.com/2026/10/29/vermont-get-45m-data-privacy-settlement-with-general-motors/",
-   "source": "WCAX",
-   "ts": 1793309457.0
+   "title": "Vermont to receive $4.5M settlement from General Motors following data privacy investigation",
+   "link": "https://vtdigger.org/2026/10/29/vermont-to-receive-4-5-settlement-from-general-motors-following-data-privacy-investigation/",
+   "source": "VTDigger",
+   "ts": 1793310305.0
   },
   {
    "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
    "link": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
    "source": "NPR",
    "ts": 1793305753.0
-  },
-  {
-   "title": "Voter voices from Rutland\u2019s downtown Walmart plaza",
-   "link": "https://vtdigger.org/2026/10/29/voter-voices-from-rutlands-downtown-walmart-plaza/",
-   "source": "VTDigger",
-   "ts": 1793304604.0
   },
   {
    "title": "What killed 500-plus penguins? How scientists solved the mystery",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/10/29/nx-s1-5996687/anhedonia-quiz-high-functioning-depression",
    "source": "NPR",
    "ts": 1793304000.0
-  },
-  {
-   "title": "November brings an end to foliage season \u2014\u00a0but it\u2019s not winter yet",
-   "link": "https://vtdigger.org/2026/10/29/november-brings-an-end-to-foliage-season-but-its-not-winter-yet/",
-   "source": "VTDigger",
-   "ts": 1793301227.0
   }
  ]
 }
