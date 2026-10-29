@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-29T08:02:44.771333+00:00",
+ "updated": "2026-10-29T08:55:45.760458+00:00",
  "items": [
+  {
+   "title": "Morning news brief",
+   "link": "https://www.npr.org/2026/10/29/nx-s1-6012227/morning-news-brief",
+   "source": "NPR",
+   "ts": 1793263661.0
+  },
+  {
+   "title": "Tennessee governor suspects Christa Pike\u2019s sentence will stay the same after failed execution",
+   "link": "https://www.wcax.com/2026/10/29/tennessee-governor-suspects-christa-pikes-sentence-will-stay-same-after-failed-execution/",
+   "source": "WCAX",
+   "ts": 1793263439.0
+  },
+  {
+   "title": "US bans imports from 3 Chinese biotech companies over forced labor allegations",
+   "link": "https://www.mynbc5.com/article/us-bans-imports-chinese-biotech-companies-labor-allegations/74280233",
+   "source": "WPTZ",
+   "ts": 1793263320.0
+  },
+  {
+   "title": "Police arrest 78-year-old from Sullivan County; accused of the driving wrong way on I-89",
+   "link": "https://www.mynbc5.com/article/wrong-way-driver-interstate-89-nh/74280022",
+   "source": "WPTZ",
+   "ts": 1793262780.0
+  },
+  {
+   "title": "Warm & mild for now, a \u201cghostly chill\u201d for Halloween",
+   "link": "https://www.wcax.com/2026/10/29/warm-mild-now-ghostly-chill-halloween/",
+   "source": "WCAX",
+   "ts": 1793262148.0
+  },
   {
    "title": "Fire at von Trapp Family Resort in Stowe; No Injuries Reported",
    "link": "https://www.mynbc5.com/article/fire-at-von-trapp-family-resort-in-stowe-no-injuries-reported/74278505",
@@ -20,40 +50,10 @@
    "ts": 1793252272.0
   },
   {
-   "title": "Device as small as 'grain of rice' offers hope for rare eye disease",
-   "link": "https://www.mynbc5.com/article/device-offers-new-hope-for-rare-eye-disease/74279710",
-   "source": "WPTZ",
-   "ts": 1793251860.0
-  },
-  {
    "title": "Brewers beat the Rays to win the first World Series title in franchise history",
    "link": "https://www.npr.org/2026/10/29/nx-s1-6021953/brewers-win-first-world-series-title",
    "source": "NPR",
    "ts": 1793249364.0
-  },
-  {
-   "title": "Best friends become rivals during World Series",
-   "link": "https://www.mynbc5.com/article/best-friends-become-rivals-world-series/74279462",
-   "source": "WPTZ",
-   "ts": 1793247300.0
-  },
-  {
-   "title": "H.S. playoff semifinals for Wednesday, October 28",
-   "link": "https://www.wcax.com/2026/10/29/hs-playoff-semifinals-wednesday-october-28/",
-   "source": "WCAX",
-   "ts": 1793245450.0
-  },
-  {
-   "title": "UVM hoops teams sweep St. Mike\u2019s to wrap exhibition schedule",
-   "link": "https://www.wcax.com/2026/10/29/uvm-hoops-teams-sweep-st-mikes-wrap-exhibition-schedule/",
-   "source": "WCAX",
-   "ts": 1793245312.0
-  },
-  {
-   "title": "Hackers expose the identities of more than 40,000 DHS employees",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
-   "source": "NPR",
-   "ts": 1793244530.0
   },
   {
    "title": "Accountability court docket to continue in \u2018modified fashion\u2019",
