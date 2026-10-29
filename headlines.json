@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-29T09:53:23.613990+00:00",
+ "updated": "2026-10-29T10:50:59.100472+00:00",
  "items": [
+  {
+   "title": "Officials: Fire at US nuclear site results in no contamination found outside lab",
+   "link": "https://www.mynbc5.com/article/authorities-fire-us-nuclear-site-response-contamination/74280791",
+   "source": "WPTZ",
+   "ts": 1793267460.0
+  },
   {
    "title": "Indictment: 6 accused of filing 9,000 fraudulent tax returns seeking $177 million in refunds",
    "link": "https://www.wcax.com/2026/10/29/indictment-6-accused-filing-9000-fraudulent-tax-returns-seeking-177-million-refunds/",
@@ -42,12 +48,6 @@
    "link": "https://www.wcax.com/2026/10/29/tennessee-governor-suspects-christa-pikes-sentence-will-stay-same-after-failed-execution/",
    "source": "WCAX",
    "ts": 1793263439.0
-  },
-  {
-   "title": "US bans imports from 3 Chinese biotech companies over forced labor allegations",
-   "link": "https://www.mynbc5.com/article/us-bans-imports-chinese-biotech-companies-labor-allegations/74280233",
-   "source": "WPTZ",
-   "ts": 1793263320.0
   },
   {
    "title": "Warm & mild for now, a \u201cghostly chill\u201d for Halloween",
