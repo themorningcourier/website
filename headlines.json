@@ -1,11 +1,41 @@
 {
- "updated": "2026-10-29T08:55:45.760458+00:00",
+ "updated": "2026-10-29T09:53:23.613990+00:00",
  "items": [
   {
-   "title": "Morning news brief",
-   "link": "https://www.npr.org/2026/10/29/nx-s1-6012227/morning-news-brief",
+   "title": "Indictment: 6 accused of filing 9,000 fraudulent tax returns seeking $177 million in refunds",
+   "link": "https://www.wcax.com/2026/10/29/indictment-6-accused-filing-9000-fraudulent-tax-returns-seeking-177-million-refunds/",
+   "source": "WCAX",
+   "ts": 1793267108.0
+  },
+  {
+   "title": "North Korea fires missile barrage toward the sea as tensions with South rise",
+   "link": "https://www.mynbc5.com/article/north-korea-missile-barrage-tensions-south-rise/74280650",
+   "source": "WPTZ",
+   "ts": 1793265300.0
+  },
+  {
+   "title": "How AI drones are influencing the course of the Ukraine war",
+   "link": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
    "source": "NPR",
-   "ts": 1793263661.0
+   "ts": 1793264520.0
+  },
+  {
+   "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
+   "link": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
+   "source": "NPR",
+   "ts": 1793264400.0
+  },
+  {
+   "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+   "link": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
+   "source": "NPR",
+   "ts": 1793264400.0
+  },
+  {
+   "title": "South Korean prosecutor seeks death penalty for ex-President Yoon over martial law debacle",
+   "link": "https://www.mynbc5.com/article/south-korean-ex-president-yoon-martial-law/74280500",
+   "source": "WPTZ",
+   "ts": 1793264220.0
   },
   {
    "title": "Tennessee governor suspects Christa Pike\u2019s sentence will stay the same after failed execution",
@@ -20,40 +50,10 @@
    "ts": 1793263320.0
   },
   {
-   "title": "Police arrest 78-year-old from Sullivan County; accused of the driving wrong way on I-89",
-   "link": "https://www.mynbc5.com/article/wrong-way-driver-interstate-89-nh/74280022",
-   "source": "WPTZ",
-   "ts": 1793262780.0
-  },
-  {
    "title": "Warm & mild for now, a \u201cghostly chill\u201d for Halloween",
    "link": "https://www.wcax.com/2026/10/29/warm-mild-now-ghostly-chill-halloween/",
    "source": "WCAX",
    "ts": 1793262148.0
-  },
-  {
-   "title": "Fire at von Trapp Family Resort in Stowe; No Injuries Reported",
-   "link": "https://www.mynbc5.com/article/fire-at-von-trapp-family-resort-in-stowe-no-injuries-reported/74278505",
-   "source": "WPTZ",
-   "ts": 1793257500.0
-  },
-  {
-   "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
-   "link": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
-   "source": "NPR",
-   "ts": 1793254211.0
-  },
-  {
-   "title": "Border Patrol agent charged with murder in wife\u2019s death",
-   "link": "https://www.wcax.com/2026/10/29/border-patrol-agent-charged-with-murder-wifes-death/",
-   "source": "WCAX",
-   "ts": 1793252272.0
-  },
-  {
-   "title": "Brewers beat the Rays to win the first World Series title in franchise history",
-   "link": "https://www.npr.org/2026/10/29/nx-s1-6021953/brewers-win-first-world-series-title",
-   "source": "NPR",
-   "ts": 1793249364.0
   },
   {
    "title": "Accountability court docket to continue in \u2018modified fashion\u2019",
