@@ -1,17 +1,53 @@
 {
- "updated": "2026-10-29T01:57:27.400339+00:00",
+ "updated": "2026-10-29T02:50:27.821696+00:00",
  "items": [
+  {
+   "title": "Pat McAfee reveals story behind bulletproof vest protection \u2014 and world-rattling social media threats he\u2019s received",
+   "link": "https://nypost.com/2026/10/28/sports/pat-mcafee-reveals-story-behind-bulletproof-vest-protection/",
+   "source": "New York Post",
+   "ts": 1793241599.0
+  },
   {
    "title": "Judge rejects DOJ's push to force California to set aside ballots",
    "link": "https://www.cbsnews.com/news/judge-rejects-trump-california-mail-ballots/",
    "source": "CBS News",
-   "ts": 1793239022.0
+   "ts": 1793241580.0
   },
   {
-   "title": "Dolores Huerta \u2014 labor leader who revealed Cesar Chavez\u2019s secrets",
-   "link": "https://nypost.com/2026/10/28/opinion/dolores-huerta-labor-leader-who-revealed-cesar-chavezs-secrets/",
+   "title": "Chilling final texts of Long Island mom of four who fatally drove SUV into family pool revealed",
+   "link": "https://nypost.com/2026/10/28/us-news/final-texts-of-long-island-mom-of-four-who-died-after-driving-suv-into-pool-revealed/",
    "source": "New York Post",
-   "ts": 1793238795.0
+   "ts": 1793240930.0
+  },
+  {
+   "title": "2 right-wing provocateurs facing election-related charges in Minnesota",
+   "link": "https://abcnews.com/US/2-wing-provocateurs-facing-election-related-charges-minnesota/story?id=137646933",
+   "source": "ABC News",
+   "ts": 1793240108.0
+  },
+  {
+   "title": "Red Bulls star Emil Forsberg expected to leave after sprint season",
+   "link": "https://nypost.com/2026/10/28/sports/red-bulls-emil-forsberg-expected-to-leave-after-sprint-season/",
+   "source": "New York Post",
+   "ts": 1793240024.0
+  },
+  {
+   "title": "Garrett Wilson doesn't want to be traded \u2013 but he admitted he's sick of losing with Jets",
+   "link": "https://www.foxnews.com/outkick-sports/garrett-wilson-doesnt-want-traded-admitted-sick-losing-jets",
+   "source": "Fox News",
+   "ts": 1793239937.0
+  },
+  {
+   "title": "Qatari mediators hand Iran new proposal to end the war",
+   "link": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+   "source": "CBS News",
+   "ts": 1793239535.0
+  },
+  {
+   "title": "Big 12 Conference addresses offensive chants from UCF fans directed at BYU during upset win",
+   "link": "https://www.foxnews.com/outkick-sports/big-12-conference-addresses-offensive-chants-ucf-fans-directed-byu-upset-win",
+   "source": "Fox News",
+   "ts": 1793239070.0
   },
   {
    "title": "Jon Lovitz reacts to Crystal Hefner's label as Playboy's 'No. 1 customer'",
@@ -26,22 +62,10 @@
    "ts": 1793238380.0
   },
   {
-   "title": "Halloween haunted house manager accused of being \u2018dangerous serial sexual predator\u2019: \u2018Monsters are real\u2019",
-   "link": "https://nypost.com/2026/10/28/us-news/halloween-haunted-house-manager-accused-of-being-dangeorus-serial-sexual-predator-monsters-are-real/",
-   "source": "New York Post",
-   "ts": 1793238246.0
-  },
-  {
-   "title": "Rams\u2019 kicking carousel takes another wild turn as Josh Karty returns with a secret weapon",
-   "link": "https://nypost.com/2026/10/28/sports/rams-bring-back-josh-karty-amid-kicking-chaos-as-former-starter-reveals-hidden-injury/",
-   "source": "New York Post",
-   "ts": 1793238022.0
-  },
-  {
-   "title": "Dem strategist shrugs off Alaska ballot scandal on MS NOW, insists 'this stuff happens all the time'",
-   "link": "https://www.foxnews.com/media/dem-strategist-shrugs-off-alaska-ballot-scandal-ms-now-insists-stuff-happens-all-time",
-   "source": "Fox News",
-   "ts": 1793237841.0
+   "title": "Brazil\u2019s Fl\u00e1vio Bolsonaro arrives in U.S. after losing election",
+   "link": "https://www.nbcnews.com/video/brazil-s-flavio-bolsonaro-arrives-in-u-s-after-losing-election-272444997786",
+   "source": "NBC News",
+   "ts": 1793237712.0
   },
   {
    "title": "Manhunt grows for escaped murderer who may have left area where truck was ditched",
@@ -50,22 +74,16 @@
    "ts": 1793237525.0
   },
   {
-   "title": "Eagles' Saquon Barkley says NFL directed him to sell stake in prediction market platform",
-   "link": "https://www.foxnews.com/outkick-sports/eagles-saquon-barkley-nfl-directed-sell-stake-prediction-market-platform",
-   "source": "Fox News",
-   "ts": 1793236907.0
-  },
-  {
-   "title": "RFK Jr. to ease access to unapproved peptides, draft policy states",
-   "link": "https://www.cbsnews.com/news/rfk-jr-to-ease-access-unapproved-peptides-draft-policy/",
-   "source": "CBS News",
-   "ts": 1793236856.0
-  },
-  {
    "title": "Judge rejects Trump admin request for order to segregate 20,000 Calif. ballots",
    "link": "https://abcnews.com/Politics/judge-rejects-trump-administration-request-order-segregate-20000/story?id=137660006",
    "source": "ABC News",
    "ts": 1793235989.0
+  },
+  {
+   "title": "Samsung posts record profit in Q3 on AI chip boom",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JmLWlsUUNaZ2g5VnF1TU1IZU5rWDV6T1ZLdXJBdmJrVnpHanBobFBiWjNkaXJGMjE1MUlqMlVrOGJOaHVrU18yVkRBWFVoOENmVjhqYVA3Vy1EdkdXTDN1REJPQWpVdFp5MFdlMzFhMXhEVUdBQS01STRwTW41R2RKWWloUHBhYUNVY2tyR19Geld5RHc?oc=5",
+   "source": "Reuters",
+   "ts": 1793235360.0
   },
   {
    "title": "Memorable moments from Trump rallies ahead of the midterms",
@@ -74,10 +92,10 @@
    "ts": 1793235242.0
   },
   {
-   "title": "Judge denies Trump administration request to segregate alleged noncitizen ballots in California",
-   "link": "https://www.nbcnews.com/politics/justice-department/judge-rules-california-ballots-alleged-non-citizen-voters-trump-doj-rcna606100",
-   "source": "NBC News",
-   "ts": 1793235164.0
+   "title": "Judge rejects US Justice Dept bid to block votes from alleged noncitizens in California",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMFZqTWtocU00NE9tc1BJemlmckVHUjIzQlVyLTJhUklOS0YwcURmVXowUlZUUzVlNTlZOWplM1pBZmROOVB0NDNPX3lNRWctWVZTNlotUm1oQUlvdDI1UGZ6MjN0MG1xWUd3dnB3T2NxWFNPaFpqWFFmUzZLcW8xZmI0cmRpTVlRSi1NQlZrVUVqR2RoT3dENGhyZm02NFcxckVIamhBcXlNYzZ0R0dsQ2pUN3dQQkhIaGc?oc=5",
+   "source": "Reuters",
+   "ts": 1793234640.0
   },
   {
    "title": "Peltola campaign under fire after report it recruited 2nd Dan Sullivan in Senate race",
@@ -86,28 +104,10 @@
    "ts": 1793233703.0
   },
   {
-   "title": "US oil prices fall as investors gauge risks to Mideast supply",
+   "title": "Oil prices fall as peace hopes offset fears of growing Middle East conflict",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5",
    "source": "Reuters",
    "ts": 1793233680.0
-  },
-  {
-   "title": "Bloomberg, two trading firms agree to pay Trump\u2019s Truth Social for faster access to president\u2019s posts, sources say",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdm9qWW1wa0JpT2tGTDBZNDBRZUtkRU1NaU1pd1gtZzBCNGtqZXZmRm5wZDAzRmJ0TEloNGZmX1RvaXRBckVfdjJqTEVxLVdZZ1ZLWXFyNGh0Tm8wYWx5ZnNpVGl4YmF1NnZnd2EzY3MteVk3N0RmMS0tV21ESi1jOVdrRlp5OG12ZFBZRDBBSmhXV3NNeHIzaWI4b2xJR2dTREQ0UDBfdExQejcwUF8walFGUnNRdm9aaFpCQ0ZTRndoZw?oc=5",
-   "source": "Reuters",
-   "ts": 1793233260.0
-  },
-  {
-   "title": "Early vote one week out shows Democratic enthusiasm in Texas, Georgia: Analysis",
-   "link": "https://abcnews.com/Politics/democratic-enthusiasm-frequent-voters-key-states-texas-georgia/story?id=137580266",
-   "source": "ABC News",
-   "ts": 1793232192.0
-  },
-  {
-   "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793231614.0
   }
  ]
 }

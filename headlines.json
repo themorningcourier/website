@@ -1,41 +1,47 @@
 {
- "updated": "2026-10-29T01:57:27.400339+00:00",
+ "updated": "2026-10-29T02:50:27.821696+00:00",
  "items": [
+  {
+   "title": "Boil water order in effect for Montpelier neighborhood",
+   "link": "https://www.wcax.com/2026/10/29/boil-water-order-effect-montpelier-neighborhood/",
+   "source": "WCAX",
+   "ts": 1793241839.0
+  },
+  {
+   "title": "Route 5 shut down in Newbury following car crash",
+   "link": "https://www.wcax.com/2026/10/29/route-5-shut-down-newbury-following-car-crash/",
+   "source": "WCAX",
+   "ts": 1793241553.0
+  },
+  {
+   "title": "State's Attorney pens letter calling out alleged behavior by Barre City officer",
+   "link": "https://www.mynbc5.com/article/states-attorney-letter-barre-city-officer/74275649",
+   "source": "WPTZ",
+   "ts": 1793241300.0
+  },
+  {
+   "title": "Cooper Pratt sets World Series record",
+   "link": "https://www.mynbc5.com/article/cooper-pratt-sets-world-series-record/74278857",
+   "source": "WPTZ",
+   "ts": 1793240460.0
+  },
+  {
+   "title": "Forecasters are predicting a warmer and wetter winter. Here's how El Ni\u00f1o will affect your region.",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter",
+   "source": "NPR",
+   "ts": 1793240445.0
+  },
+  {
+   "title": "NFL players help build mobility ramp for veteran in need",
+   "link": "https://www.mynbc5.com/article/cincinnati-bengals-risner-operation-ramp-it-up/74275324",
+   "source": "WPTZ",
+   "ts": 1793239680.0
+  },
   {
    "title": "Rutland senator arrested, pleads not guilty to domestic assault",
    "link": "https://www.wcax.com/2026/10/28/rutland-senator-arrested-pleads-not-guilty-domestic-assault/",
    "source": "WCAX",
    "ts": 1793238372.0
-  },
-  {
-   "title": "Scott, Janoo face off in Vermont governor\u2019s debate",
-   "link": "https://www.wcax.com/2026/10/29/scott-janoo-face-off-vermont-governors-debate/",
-   "source": "WCAX",
-   "ts": 1793238001.0
-  },
-  {
-   "title": "Defeated Brazilian presidential candidate Fl\u00e1vio Bolsonaro and his family land in Miami",
-   "link": "https://www.mynbc5.com/article/flavio-bolsonaro-miami-fleeing-brazil-election/74271855",
-   "source": "WPTZ",
-   "ts": 1793237400.0
-  },
-  {
-   "title": "New York enacts ban on \u2018unsafe\u2019 chatbot behavior with kids as states push AI regulation boundaries",
-   "link": "https://www.wcax.com/2026/10/29/new-york-enacts-ban-unsafe-chatbot-behavior-with-kids-states-push-ai-regulation-boundaries/",
-   "source": "WCAX",
-   "ts": 1793237359.0
-  },
-  {
-   "title": "Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting",
-   "link": "https://www.mynbc5.com/article/judge-denies-federal-request-segregate-california-ballots/74278468",
-   "source": "WPTZ",
-   "ts": 1793236740.0
-  },
-  {
-   "title": "Alvin K. Hellerstein, a federal judge who handled Trump, Maduro and 9/11 cases, dies at 92",
-   "link": "https://www.mynbc5.com/article/alvin-hellerstein-dies-at-92-trump-maduro-911/74275395",
-   "source": "WPTZ",
-   "ts": 1793236680.0
   },
   {
    "title": "Judge denies the Justice Department's bid to stop processing California ballots",
@@ -60,12 +66,6 @@
    "link": "https://vtdigger.org/2026/10/28/voter-voices-at-the-cambridge-dump-unease-about-vermonts-future/",
    "source": "VTDigger",
    "ts": 1793224418.0
-  },
-  {
-   "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
-   "source": "NPR",
-   "ts": 1793223987.0
   },
   {
    "title": "FBI investigates former Burlington school administrator in alleged $1.8 million fraud",
