@@ -1,29 +1,95 @@
 {
- "updated": "2026-10-29T11:46:06.899697+00:00",
+ "updated": "2026-10-29T12:56:12.266355+00:00",
  "items": [
   {
-   "title": "Mysterious Roman fort discovered in remote area could prove ancient legend has roots in reality",
-   "link": "https://nypost.com/2026/10/29/lifestyle/roman-fort-discovered-ties-to-legend-of-magnus-maximus/",
+   "title": "DoorDash gobbles up Instacart in $17 billion deal",
+   "link": "https://www.cbsnews.com/news/doordash-buys-instacart-in-17-billion-deal/",
+   "source": "CBS News",
+   "ts": 1793278542.0
+  },
+  {
+   "title": "Jack Smith got draft GOP fundraising emails, Trump donor info, documents show",
+   "link": "https://nypost.com/2026/10/29/us-news/jack-smith-got-draft-gop-fundraising-emails-trump-donor-info-documents-show/",
    "source": "New York Post",
-   "ts": 1793273994.0
+   "ts": 1793278444.0
   },
   {
    "title": "Live Updates: Alaska's ballot controversy and more from campaign trail",
    "link": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
    "source": "CBS News",
-   "ts": 1793273957.0
+   "ts": 1793277843.0
   },
   {
-   "title": "Whistleblower says DEA let fentanyl pills hit the streets",
-   "link": "https://www.cbsnews.com/news/dea-whistleblower-fentanyl-pills/",
-   "source": "CBS News",
-   "ts": 1793273925.0
+   "title": "Mom defends daughter charged in brutal school beating: \u2018She\u2019s not a criminal, she\u2019s a child\u2019",
+   "link": "https://nypost.com/2026/10/29/us-news/mom-defends-daughter-charged-in-brutal-school-beating-shes-not-a-criminal-shes-a-child/",
+   "source": "New York Post",
+   "ts": 1793277778.0
+  },
+  {
+   "title": "US economy grew at 3.4% annualized rate in 3rd quarter, government data shows",
+   "link": "https://abcnews.com/Business/gdp-report-set-provide-snapshot-economy-ahead-midterm/story?id=137635585",
+   "source": "ABC News",
+   "ts": 1793277667.0
+  },
+  {
+   "title": "Hillary Clinton says she regrets not dealing with 'reckless' Jim Comey in 2016",
+   "link": "https://www.foxnews.com/media/hillary-clinton-says-she-regrets-not-dealing-reckless-jim-comey-2016",
+   "source": "Fox News",
+   "ts": 1793277651.0
   },
   {
    "title": "Ship burns as Iran claims 3 tankers hit mines in Strait of Hormuz",
    "link": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
    "source": "CBS News",
-   "ts": 1793273893.0
+   "ts": 1793277643.0
+  },
+  {
+   "title": "Iran\u2019s hidden web of military agencies is slipping hardware past the US blockade",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDdNT2d1X203WGstY0tRd0xFeXFhWlBQVmlXM2hRRXdzZHQ3UmszXzNXcVE3LTB5TWhUcXJwWUVlSi15cGFUNVFqd2xTNllBQm9PdlphUVQ3bU1pOTI5dUtGb3pZYUstMmpaa2hzbk5RXzd2bVp5YmlhR19nYkNJTjdfTG11amxxZ0dOWXBveEowTC1wRHozRWxPYUx5OXo2TWpjdHRnOXc5eTRQWXN6S2RyWVUxVF8wMGk0?oc=5",
+   "source": "Reuters",
+   "ts": 1793277401.0
+  },
+  {
+   "title": "Lane Kiffin fumes over Alabama kickoff time, accuses SEC of not wanting LSU to win",
+   "link": "https://www.foxnews.com/outkick-sports/lane-kiffin-fumes-alabama-kickoff-time-accuses-sec-not-wanting-lsu-win",
+   "source": "Fox News",
+   "ts": 1793277389.0
+  },
+  {
+   "title": "Mark Cuban tips his cap to WWE stars after two appearances in company: 'Those guys deserve so much respect'",
+   "link": "https://www.foxnews.com/outkick-sports/mark-cuban-tips-cap-wwe-stars-two-appearances-deserve-respect",
+   "source": "Fox News",
+   "ts": 1793277322.0
+  },
+  {
+   "title": "Valkyries vs. Dream Game 6 prediction: Defense to dictate WNBA Finals elimination game",
+   "link": "https://nypost.com/2026/10/29/betting/valkyries-vs-dream-game-6-prediction-wnba-finals-picks-odds-best-bets/",
+   "source": "New York Post",
+   "ts": 1793277000.0
+  },
+  {
+   "title": "Midterm elections live updates: Trump heads to Ohio, Obama rallies in Georgia",
+   "link": "https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278",
+   "source": "ABC News",
+   "ts": 1793276726.0
+  },
+  {
+   "title": "Alaska governor orders probe into alleged effort to confuse Senate voters",
+   "link": "https://abcnews.com/Politics/alaska-governor-orders-probe-alleged-effort-confuse-senate/story?id=137667167",
+   "source": "ABC News",
+   "ts": 1793276461.0
+  },
+  {
+   "title": "DoorDash to Acquire Instacart For $17 Billion",
+   "link": "https://www.today.com/video/doordash-to-acquire-instacart-for-17-billion-272458309807",
+   "source": "NBC News",
+   "ts": 1793276200.0
+  },
+  {
+   "title": "US First Lady praised for Oleshky relief truce as Moscow strikes Ukrainian commuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb181OURQbFRFR1NyNmlZamlYdUppa18yeko2a0YycFZ1MEFzR1FRX1VYV1dqZGxlQ1EzTm5OS3lsNDNaSnhuOTNpT0NPRUhJa3FYdzg4R25fTzF5azY4VDJvb0VaNjZodWZtaGNKWEloMVpaM2VIMHFoMXQyQXYySUxBQmpJUTZCbFdOczhvYlFmeEU4UTJpbFdVTFU0QzR6MnhIS1VLckEwSU5HZ29PNjlzOGJIZ2RYSWlGVmVzNnRsQkk?oc=5",
+   "source": "Reuters",
+   "ts": 1793275869.0
   },
   {
    "title": "Russian drone attack on train station kills 13 in Ukraine\u2019s Dnipro",
@@ -32,82 +98,16 @@
    "ts": 1793273865.0
   },
   {
-   "title": "Spanish rescuers search for victims as train crash death toll rises to 69",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYm9UODU2NnZwekhXd0lSNnVsalJxQmNPbllDOEJBdllTdUwyTFFwY2NIb0F5YXBfWWgzVmxLUUNIV2JnTXgyY2tZNEZGUy1pVTRxT2ozdGFJMXFSck40ZFhKNC1LRXBMQ0ZXd2NHbWg0bk1FT1IwM3oyNHVMbTZJTnB0SjBaeTFwLW1ncFVzUElyWFpVeG5BQ0E4b3g5Sk5wY1BiME5FUGVHN0ZPNWpZQ3lRWGVwUQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793273865.0
-  },
-  {
-   "title": "Two college students who went missing on Ice Mountain hike are found dead: \u2018A gut punch\u2019",
-   "link": "https://nypost.com/2026/10/29/us-news/two-college-students-who-went-missing-on-mountain-hike-are-found-dead/",
-   "source": "New York Post",
-   "ts": 1793273803.0
-  },
-  {
-   "title": "Farmer-funded attack ads targeting Republicans air across rural America",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeFh1UFhvY1FYOW5PdDFOT0V3MERDRm9EUWNmb2ZrYlN6Rk5XbE1mOHN4UW5QUURWQ1JFY0doSG5icl9La1Bwc3NXMVFnZjFZTlpGdkp6M1BhcVBZVDk4eC10YlBYbFE4V3I1UnZYbHpMTVNONjJYY0FKWmZvSlhBZWRESGlpR2pmMFh3cHk5M1NwakZNTDVLQUxSY1ZKamtkOTBncEcxYWZmSlFneEJOSHB1ZzFIWHFqSFVjcTV2VzUyQQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793273740.0
-  },
-  {
-   "title": "Fox News continues cable news lead over MS NOW, CNN in October viewership",
-   "link": "https://www.foxnews.com/media/fox-news-continues-cable-news-lead-ms-now-cnn-october-viewership",
-   "source": "Fox News",
-   "ts": 1793273403.0
-  },
-  {
-   "title": "How Stitches fared on World Series bet and final season tally",
-   "link": "https://nypost.com/2026/10/29/betting/how-stitches-fared-on-world-series-bet-and-final-season-tally/",
-   "source": "New York Post",
-   "ts": 1793273400.0
-  },
-  {
-   "title": "Bass fishing's biggest stars battle for record $1.25 million payday in historic Nashville showdown",
-   "link": "https://www.foxnews.com/outkick-sports/bass-fishing-biggest-stars-battle-record-125-million-payday-historic-nashville-showdown",
-   "source": "Fox News",
-   "ts": 1793273281.0
-  },
-  {
    "title": "DoorDash to acquire Instacart for $17 billion, creating delivery giant",
    "link": "https://www.nbcnews.com/business/corporations/doordash-acquire-instacart-17-billion-rcna605907",
    "source": "NBC News",
    "ts": 1793273227.0
   },
   {
-   "title": "Jake Paul announces Christmas Eve comeback fight in Dubai after broken jaw threatened his career",
-   "link": "https://www.foxnews.com/outkick-sports/jake-paul-announces-christmas-eve-comeback-fight-dubai-broken-jaw-threatened-career",
-   "source": "Fox News",
-   "ts": 1793272794.0
-  },
-  {
-   "title": "WATCH:  Maine\u2019s loggers and fishermen speak up about tariffs and higher diesel costs",
-   "link": "https://abcnews.com/video/137660938/",
-   "source": "ABC News",
-   "ts": 1793272592.0
-  },
-  {
-   "title": "Protests erupt in Spain after train crash kills dozens",
-   "link": "https://www.nbcnews.com/world/spain/spain-train-crash-far-right-protesters-prime-minister-pedro-sanchez-rcna606291",
+   "title": "Brewers Win World Series For First Time in Franchise History",
+   "link": "https://www.today.com/video/brewers-win-world-series-for-first-time-in-franchise-history-272456773933",
    "source": "NBC News",
-   "ts": 1793271082.0
-  },
-  {
-   "title": "Their record is strong. Their roster is battered. Can the Thunder still contend for an NBA title?",
-   "link": "https://www.nbcnews.com/sports/nba/nba-oklahoma-city-thunder-cason-wallace-jalen-williams-injuries-rcna606137",
-   "source": "NBC News",
-   "ts": 1793268941.0
-  },
-  {
-   "title": "2 college students found dead after going missing while hiking, police say",
-   "link": "https://abcnews.com/US/2-college-students-hiking-remain-missing-tent-found/story?id=137641736",
-   "source": "ABC News",
-   "ts": 1793267884.0
-  },
-  {
-   "title": "An 8-year-old girl was attacked by a wolf in a German zoo",
-   "link": "https://abcnews.com/International/wireStory/8-year-girl-attacked-wolf-german-zoo-137666439",
-   "source": "ABC News",
-   "ts": 1793267115.0
+   "ts": 1793273195.0
   }
  ]
 }

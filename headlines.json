@@ -1,11 +1,41 @@
 {
- "updated": "2026-10-29T11:46:06.899697+00:00",
+ "updated": "2026-10-29T12:56:12.266355+00:00",
  "items": [
   {
-   "title": "Expect delays: Multiple crashes reported on I-89 between Georgia and St. Albans",
-   "link": "https://www.mynbc5.com/article/tractor-trailer-rollover-interstate-89-georgia-vt/74282006",
+   "title": "Multi-vehicle crash on I-89 southbound causes traffic delays",
+   "link": "https://www.wcax.com/2026/10/29/multi-vehicle-crash-i-89-southbound-causes-traffic-delays/",
+   "source": "WCAX",
+   "ts": 1793277338.0
+  },
+  {
+   "title": "Vermont state senator, accused of domestic assault, enters not guilty plea at Wednesday arraignment",
+   "link": "https://www.mynbc5.com/article/vt-senator-arrested-assault-rutland-county/74271421",
    "source": "WPTZ",
-   "ts": 1793273940.0
+   "ts": 1793277240.0
+  },
+  {
+   "title": "DoorDash agrees to buy Instacart for $17 billion",
+   "link": "https://www.mynbc5.com/article/doordash-buys-instacart-grocery-delivery/74282734",
+   "source": "WPTZ",
+   "ts": 1793277180.0
+  },
+  {
+   "title": "Fire at von Trapp Family Resort in Stowe; No injuries reported",
+   "link": "https://www.mynbc5.com/article/fire-at-von-trapp-family-resort-in-stowe-no-injuries-reported/74278505",
+   "source": "WPTZ",
+   "ts": 1793277180.0
+  },
+  {
+   "title": "Wheels for Warmth tire program returns",
+   "link": "https://www.wcax.com/2026/10/29/wheels-warmth-tire-program-returns/",
+   "source": "WCAX",
+   "ts": 1793276077.0
+  },
+  {
+   "title": "InvestigateTV+: Tracking the trackers",
+   "link": "https://www.wcax.com/2026/10/29/investigatetv-tracking-trackers/",
+   "source": "WCAX",
+   "ts": 1793275516.0
   },
   {
    "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
@@ -14,44 +44,14 @@
    "ts": 1793273670.0
   },
   {
-   "title": "More Vermonters searching for meals as food shelves try to keep up",
-   "link": "https://www.wcax.com/2026/10/29/more-vermonters-searching-meals-food-shelves-try-keep-up/",
-   "source": "WCAX",
-   "ts": 1793273560.0
-  },
-  {
-   "title": "Driver found dead after pursuit tied to Moira death investigation",
-   "link": "https://www.mynbc5.com/article/investigation-south-woods-road-moira-ny/74264615",
-   "source": "WPTZ",
-   "ts": 1793273220.0
-  },
-  {
-   "title": "Police arrest 78-year-old from Sullivan County; accused of the driving wrong way on I-89",
-   "link": "https://www.mynbc5.com/article/wrong-way-driver-interstate-89-nh/74280022",
-   "source": "WPTZ",
-   "ts": 1793272680.0
-  },
-  {
-   "title": "Tennessee governor suspects Christa Pike\u2019s sentence will stay the same after failed execution",
-   "link": "https://www.wcax.com/2026/10/29/tennessee-governor-suspects-christa-pikes-sentence-will-stay-same-after-failed-execution/",
-   "source": "WCAX",
-   "ts": 1793272656.0
-  },
-  {
-   "title": "TRAFFIC ALERT: Tractor-trailer crash shuts down interstate lane in Georgia",
-   "link": "https://www.wcax.com/2026/10/29/traffic-alert-tractor-trailer-crash-shuts-down-interstate-lane-georgia/",
-   "source": "WCAX",
-   "ts": 1793271342.0
-  },
-  {
    "title": "How AI drones are influencing the course of the Ukraine war",
    "link": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
    "source": "NPR",
    "ts": 1793264520.0
   },
   {
-   "title": "State ballots let voters decide on abortion, taxes, transgender restrictions",
-   "link": "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes",
+   "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
+   "link": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
    "source": "NPR",
    "ts": 1793264400.0
   },
