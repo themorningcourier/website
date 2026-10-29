@@ -1,59 +1,101 @@
 {
- "updated": "2026-10-29T19:51:46.686509+00:00",
+ "updated": "2026-10-29T20:46:06.080755+00:00",
  "items": [
   {
-   "title": "Beloved \u2018Star Trek\u2019 actor Patrick Stewart dead at 86",
-   "link": "https://nypost.com/2026/10/29/entertainment/star-trek-actor-patrick-stewart-dead-at-86/",
-   "source": "New York Post",
-   "ts": 1793303495.0
-  },
-  {
-   "title": "AI deepfakes pose risks to consumers and voters, experts warn",
-   "link": "https://www.cbsnews.com/news/deepfakes-artificial-intelligence-consumer-risks-fraud/",
-   "source": "CBS News",
-   "ts": 1793303144.0
-  },
-  {
-   "title": "Lane Kiffin's own words come back to bite him, MLB's long winter & Paige Spiranac's Halloween costume tease!",
-   "link": "https://www.foxnews.com/outkick-sports/lane-kiffin-words-back-bite-mlb-long-winter-paige-spiranac-halloween-costume-tease",
-   "source": "Fox News",
-   "ts": 1793303090.0
-  },
-  {
-   "title": "Dylan Efron gets real about \u2018DWTS\u2019 drama, training for the NYC Marathon and more with VRT",
-   "link": "https://pagesix.com/video/dylan-efron-gets-real-about-dwts-drama-training-for-the-nyc-marathon-and-more-with-vrt/",
-   "source": "New York Post",
-   "ts": 1793302891.0
-  },
-  {
-   "title": "DOJ vets say politically charged moves close to election violate norms",
-   "link": "https://www.cbsnews.com/news/doj-veterans-say-politically-charged-moves-close-to-election-run-afoul-of-historical-norms/",
-   "source": "CBS News",
-   "ts": 1793302839.0
-  },
-  {
-   "title": "Midterm elections live updates: Trump in South Carolina again as Senate race heats up",
+   "title": "Midterm elections live updates: Trump rallies voters in South Carolina",
    "link": "https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278",
    "source": "ABC News",
-   "ts": 1793302652.0
+   "ts": 1793306649.0
   },
   {
-   "title": "Woman shot outside Virginia GOP headquarters in Richmond, party confirms",
-   "link": "https://www.foxnews.com/us/woman-shot-outside-virginia-gop-headquarters-richmond-party-confirms",
-   "source": "Fox News",
-   "ts": 1793302481.0
-  },
-  {
-   "title": "Steve Hilton rips Xavier Becerra\u2019s proposed mileage tax: \u2018They never stop gouging you\u2019",
-   "link": "https://nypost.com/2026/10/29/us-news/steve-hilton-rips-xavier-becerras-proposed-mileage-tax-on-drivers/",
+   "title": "California\u2019s Prop. 3 tax on top earners holds strong days before election, new poll shows",
+   "link": "https://nypost.com/2026/10/29/us-news/californias-prop-3-tax-on-top-earners-holds-strong-days-before-election-new-poll-shows/",
    "source": "New York Post",
-   "ts": 1793302386.0
+   "ts": 1793306505.0
   },
   {
-   "title": "Spacewalkers begin final phase of a space station upgrade",
-   "link": "https://www.cbsnews.com/news/spacewalkers-begin-final-phase-of-multi-year-space-station-power-system-upgrade/",
+   "title": "What to know about Alaska's Senate race as ballot fight heats up",
+   "link": "https://www.cbsnews.com/news/alaska-senate-two-dan-sullivans-mary-peltola/",
    "source": "CBS News",
-   "ts": 1793302351.0
+   "ts": 1793306440.0
+  },
+  {
+   "title": "'Star Trek,' 'X-Men' star Patrick Stewart dies at 86",
+   "link": "https://abcnews.com/GMA/Culture/star-trek-star-patrick-stewart-dies-86/story?id=137684409",
+   "source": "ABC News",
+   "ts": 1793306351.0
+  },
+  {
+   "title": "A \u2018Shoppetacular\u2019 sale: Shop The Vitamin Shoppe this Black Friday",
+   "link": "https://nypost.com/2026/10/29/shopping/bogo-alert-shop-the-vitamin-shoppes-black-friday-sale/",
+   "source": "New York Post",
+   "ts": 1793306329.0
+  },
+  {
+   "title": "Watch out, Yaxel Lendeborg. You know Luka Doncic will be coming in hot",
+   "link": "https://nypost.com/2026/10/29/sports/luka-doncic-yaxel-lendeborg-fireworks-lakers-warriors/",
+   "source": "New York Post",
+   "ts": 1793306295.0
+  },
+  {
+   "title": "Dem probes could \u2018torture\u2019 young Trump officials with crushing legal bills, subpoenaed conservative warns",
+   "link": "https://www.foxnews.com/politics/dem-probes-torture-young-trump-officials-crushing-legal-bills-subpoenaed-conservative-warns",
+   "source": "Fox News",
+   "ts": 1793306186.0
+  },
+  {
+   "title": "How debates became high-risk and low-reward in the viral era",
+   "link": "https://www.cbsnews.com/news/midterm-elections-debates-viral-high-risk-low-reward/",
+   "source": "CBS News",
+   "ts": 1793306030.0
+  },
+  {
+   "title": "Patrick Stewart, best known for \"Star Trek\" and \"X-Men,\" dies at 86",
+   "link": "https://www.cbsnews.com/news/patrick-stewart-dies-age-86-star-trek-actor/",
+   "source": "CBS News",
+   "ts": 1793305933.0
+  },
+  {
+   "title": "Millions of students caught in California data breach",
+   "link": "https://www.foxnews.com/tech/millions-students-caught-california-data-breach",
+   "source": "Fox News",
+   "ts": 1793305834.0
+  },
+  {
+   "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
+   "source": "Reuters",
+   "ts": 1793305827.0
+  },
+  {
+   "title": "Patrick Stewart, Shakespearean actor turned 'Star Trek' and 'X-Men' star, dies at 86",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWhaZUxRSlZQeF9wYnU2b0k0U2FuYUUyY0RWX3hpZmJTdFVHdk5SeUk4MlpnTXozUjVGdHllRnNXOTdDMUppd2hnbmdOMUVwWThMUGRUaGRuZjVLUTR2eld0aGQwOUt3aXVlYmtLM0xNbHFWUVdRWXVDbFdVekM1T3Q3MURNX2M0cWl0Vi1QNTVUU3o0N1BfZnVnQ2RwRDA1?oc=5",
+   "source": "Reuters",
+   "ts": 1793305543.0
+  },
+  {
+   "title": "Colorado Buffaloes quarterback Julian Lewis recovering in hospital after medical emergency",
+   "link": "https://www.foxnews.com/outkick-sports/colorado-buffaloes-quarterback-julian-lewis-recovering-hospital-medical-emergency",
+   "source": "Fox News",
+   "ts": 1793305218.0
+  },
+  {
+   "title": "Yemen's hospitals buckle as fighting escalates",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2FrR3hGTjlic3RtRHdHQWtvbjJ5cXNPNFExeWlSMGRpOFpIOFk1WFBUX3VoUEs5MWhkMXVIcFlmc3BaMkE0NnlWbXdacUNZRXg0emVrUjhJTENacVRqY2M5aGpvY08wQmhVYWJxbkdOZlB6dzUwZGNLY3ZkUGFQOVJZekxCM19qdVAtajNOdmdrU2JIc0M5QXZuN1M?oc=5",
+   "source": "Reuters",
+   "ts": 1793305016.0
+  },
+  {
+   "title": "Patrick Stewart, actor known for iconic roles in \u2018Star Trek\u2019 and \u2018X-Men,\u2019 dies at 86",
+   "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/patrick-stewart-actor-known-iconic-roles-jean-luc-picard-professor-x-d-rcna606420",
+   "source": "NBC News",
+   "ts": 1793303548.0
+  },
+  {
+   "title": "Audio recordings reveal decisions made moments before deadly train crash in Spain",
+   "link": "https://www.nbcnews.com/world/spain/audio-recordings-decisions-deadly-spain-train-crash-rcna606366",
+   "source": "NBC News",
+   "ts": 1793303148.0
   },
   {
    "title": "Judge blocks Trump administration's Medicaid rule forcing sick recipients to prove frailty",
@@ -62,52 +104,10 @@
    "ts": 1793302336.0
   },
   {
-   "title": "Bears acquire All-Pro defensive lineman Jeffery Simmons from Titans in blockbuster trade",
-   "link": "https://www.foxnews.com/outkick-sports/bears-acquire-all-pro-defensive-lineman-jeffery-simmons-titans-blockbuster-trade",
-   "source": "Fox News",
-   "ts": 1793302229.0
-  },
-  {
-   "title": "ECB flags December hike but sees yield rise hitting growth",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5",
-   "source": "Reuters",
-   "ts": 1793301922.0
-  },
-  {
-   "title": "Alaska dispute threatening to complicate fight for US Senate control",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSHY5R0oyOUtJUmI4bnZKNWFvX2NBNmw2VS0yQ3FnNmNWclVzVkNZYmU1U2diTXU4UE91Rm9wckZYS1ZoYXljM0Ffd01haWlsOVRkNy1WZU1CdnJKVV9EcC1SWExzcDJRTERYd0ZwdDlJeDRXdlQ2ZTdzaTlTQkpDUXZhZnFsTXNXM1NScmZxTi0zbnRfU002VWpsMTFiS1Q2Ymc?oc=5",
-   "source": "Reuters",
-   "ts": 1793301302.0
-  },
-  {
    "title": "Polymarket briefly halts trading after third-party compromise and reports of stolen user funds",
    "link": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
    "source": "NBC News",
    "ts": 1793300956.0
-  },
-  {
-   "title": "Meta loses appeals against interim measures imposed by French regulators",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnJENHVhbWVmOEVkWndYd3l2Y2haUjlPZllvWU5UOWUyd0ljZTZjTzVXN056MG9idWNxZU5sMUZfSF9qZTNXdGM1aHJGQTU0cVpPQmY2c0lYU3YxR0hWR3AxYXltWXdXUWE4d3RVWVRNVEFLZ0xFbDB2ZlZFSzN3Wm5hZlhnZ19WUkxvdEF3UU5IME55dS1tcnBPOVRJOUtJbGlYeG1qODFoTnhLOG53eXR6ZTk?oc=5",
-   "source": "Reuters",
-   "ts": 1793300368.0
-  },
-  {
-   "title": "Prosecutors ask judge to reject Lindsay Clancy defense\u2019s motion to dismiss charges",
-   "link": "https://www.nbcnews.com/news/us-news/prosecutors-ask-judge-reject-lindsay-clancy-defenses-motion-dismiss-ch-rcna606386",
-   "source": "NBC News",
-   "ts": 1793299046.0
-  },
-  {
-   "title": "DOJ issues new wave of subpoenas in criminal probe of Alaska Senate race, sources say",
-   "link": "https://abcnews.com/Politics/alaska-governor-orders-probe-alleged-effort-confuse-senate/story?id=137667167",
-   "source": "ABC News",
-   "ts": 1793298725.0
-  },
-  {
-   "title": "Running in the dark? This reflective running gear will help you stay safe",
-   "link": "https://www.nbcnews.com/select/shopping/best-reflective-running-gear-rcna606333",
-   "source": "NBC News",
-   "ts": 1793298342.0
   }
  ]
 }
