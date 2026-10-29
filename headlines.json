@@ -1,41 +1,47 @@
 {
- "updated": "2026-10-29T00:56:07.897696+00:00",
+ "updated": "2026-10-29T01:57:27.400339+00:00",
  "items": [
   {
-   "title": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say",
-   "link": "https://www.mynbc5.com/article/us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections/74278336",
-   "source": "WPTZ",
-   "ts": 1793235240.0
-  },
-  {
-   "title": "Villa fire breaks out at Trapp Family Lodge",
-   "link": "https://www.wcax.com/2026/10/29/villa-fire-breaks-out-trapp-family-lodge/",
+   "title": "Rutland senator arrested, pleads not guilty to domestic assault",
+   "link": "https://www.wcax.com/2026/10/28/rutland-senator-arrested-pleads-not-guilty-domestic-assault/",
    "source": "WCAX",
-   "ts": 1793234149.0
-  },
-  {
-   "title": "TV personality Ernie Johnson says this will be final season on 'Inside the NBA'",
-   "link": "https://www.mynbc5.com/article/ernie-johnson-final-season-inside-the-nba/74275321",
-   "source": "WPTZ",
-   "ts": 1793233560.0
-  },
-  {
-   "title": "Cornell faculty to move forward with no-confidence vote over handling of sexual assault allegations",
-   "link": "https://www.mynbc5.com/article/cornell-faculty-move-forward-with-no-confidence-vote-sexual-assault-allegations/74277962",
-   "source": "WPTZ",
-   "ts": 1793233380.0
+   "ts": 1793238372.0
   },
   {
    "title": "Scott, Janoo face off in Vermont governor\u2019s debate",
-   "link": "https://www.wcax.com/2026/10/28/watch-live-scott-janoo-face-off-vermont-governors-debate/",
+   "link": "https://www.wcax.com/2026/10/29/scott-janoo-face-off-vermont-governors-debate/",
    "source": "WCAX",
-   "ts": 1793232605.0
+   "ts": 1793238001.0
   },
   {
-   "title": "Driver, dog injured in I-89 crash with tanker truck in Brookfield",
-   "link": "https://www.wcax.com/2026/10/28/driver-dog-injured-i-89-crash-with-tanker-truck-brookfield/",
+   "title": "Defeated Brazilian presidential candidate Fl\u00e1vio Bolsonaro and his family land in Miami",
+   "link": "https://www.mynbc5.com/article/flavio-bolsonaro-miami-fleeing-brazil-election/74271855",
+   "source": "WPTZ",
+   "ts": 1793237400.0
+  },
+  {
+   "title": "New York enacts ban on \u2018unsafe\u2019 chatbot behavior with kids as states push AI regulation boundaries",
+   "link": "https://www.wcax.com/2026/10/29/new-york-enacts-ban-unsafe-chatbot-behavior-with-kids-states-push-ai-regulation-boundaries/",
    "source": "WCAX",
-   "ts": 1793231550.0
+   "ts": 1793237359.0
+  },
+  {
+   "title": "Judge denies federal request to segregate California ballots, says it would 'wreak havoc' on voting",
+   "link": "https://www.mynbc5.com/article/judge-denies-federal-request-segregate-california-ballots/74278468",
+   "source": "WPTZ",
+   "ts": 1793236740.0
+  },
+  {
+   "title": "Alvin K. Hellerstein, a federal judge who handled Trump, Maduro and 9/11 cases, dies at 92",
+   "link": "https://www.mynbc5.com/article/alvin-hellerstein-dies-at-92-trump-maduro-911/74275395",
+   "source": "WPTZ",
+   "ts": 1793236680.0
+  },
+  {
+   "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+   "source": "NPR",
+   "ts": 1793235170.0
   },
   {
    "title": "Trump administration will allow pharmacies to make popular peptides",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/10/28/fbi-investigates-former-burlington-school-administrator-in-alleged-1-8-million-fraud/",
    "source": "VTDigger",
    "ts": 1793222502.0
-  },
-  {
-   "title": "Trump administration wants to remove regulations on a super planet-heating gas",
-   "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
-   "source": "NPR",
-   "ts": 1793222109.0
   }
  ]
 }

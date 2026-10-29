@@ -1,53 +1,83 @@
 {
- "updated": "2026-10-29T00:56:07.897696+00:00",
+ "updated": "2026-10-29T01:57:27.400339+00:00",
  "items": [
-  {
-   "title": "El-Sayed supporters urge progessive policy to fight economic woes",
-   "link": "https://nypost.com/2026/10/28/media/el-sayed-supporters-urge-progessive-policy-to-fight-economic-woes/",
-   "source": "New York Post",
-   "ts": 1793235347.0
-  },
-  {
-   "title": "3 noncitizens indicted on election fraud charges after sprawling California takedown",
-   "link": "https://nypost.com/2026/10/28/us-news/3-noncitizens-indicted-on-election-fraud-charges-after-sprawling-california-takedown/",
-   "source": "New York Post",
-   "ts": 1793235280.0
-  },
-  {
-   "title": "Small California town hit with \u2018sky glow\u2019 as startup tests science fiction tech",
-   "link": "https://nypost.com/2026/10/28/us-news/california-town-blasted-with-artificial-sunlight-as-startup-tests-tech/",
-   "source": "New York Post",
-   "ts": 1793235034.0
-  },
   {
    "title": "Judge rejects DOJ's push to force California to set aside ballots",
    "link": "https://www.cbsnews.com/news/judge-rejects-trump-california-mail-ballots/",
    "source": "CBS News",
-   "ts": 1793234943.0
+   "ts": 1793239022.0
   },
   {
-   "title": "Colts star wide receiver Josh Downs requests trade following sweeping changes: report",
-   "link": "https://www.foxnews.com/outkick-sports/colts-star-wide-receiver-josh-downs-requests-trade-following-sweeping-changes-report",
+   "title": "Dolores Huerta \u2014 labor leader who revealed Cesar Chavez\u2019s secrets",
+   "link": "https://nypost.com/2026/10/28/opinion/dolores-huerta-labor-leader-who-revealed-cesar-chavezs-secrets/",
+   "source": "New York Post",
+   "ts": 1793238795.0
+  },
+  {
+   "title": "Jon Lovitz reacts to Crystal Hefner's label as Playboy's 'No. 1 customer'",
+   "link": "https://www.foxnews.com/entertainment/jon-lovitz-reacts-crystal-hefners-label-playboys-no-1-customer",
    "source": "Fox News",
-   "ts": 1793234493.0
+   "ts": 1793238491.0
   },
   {
-   "title": "What's next as Israel sees no clear winner with 88% of votes counted",
-   "link": "https://www.cbsnews.com/video/whats-next-israel-no-clear-winner-votes-counted/",
+   "title": "Obama and Trump hold dueling rallies as midterm campaigns make final pitch",
+   "link": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/",
    "source": "CBS News",
-   "ts": 1793233991.0
+   "ts": 1793238380.0
   },
   {
-   "title": "CEO says plan is to file for bankruptcy after ending luxury never-ending cruise",
-   "link": "https://www.cbsnews.com/news/mv-odyssey-luxury-never-ending-cruise-ends-fuel-costs/",
-   "source": "CBS News",
-   "ts": 1793233886.0
+   "title": "Halloween haunted house manager accused of being \u2018dangerous serial sexual predator\u2019: \u2018Monsters are real\u2019",
+   "link": "https://nypost.com/2026/10/28/us-news/halloween-haunted-house-manager-accused-of-being-dangeorus-serial-sexual-predator-monsters-are-real/",
+   "source": "New York Post",
+   "ts": 1793238246.0
   },
   {
-   "title": "Barbara Barrie, Oscar-nominated 'Barney Miller' and 'Suddenly Susan' actress, dead at 95",
-   "link": "https://www.foxnews.com/entertainment/barbara-barrie-oscar-nominated-barney-miller-suddenly-susan-actress-dead-95",
+   "title": "Rams\u2019 kicking carousel takes another wild turn as Josh Karty returns with a secret weapon",
+   "link": "https://nypost.com/2026/10/28/sports/rams-bring-back-josh-karty-amid-kicking-chaos-as-former-starter-reveals-hidden-injury/",
+   "source": "New York Post",
+   "ts": 1793238022.0
+  },
+  {
+   "title": "Dem strategist shrugs off Alaska ballot scandal on MS NOW, insists 'this stuff happens all the time'",
+   "link": "https://www.foxnews.com/media/dem-strategist-shrugs-off-alaska-ballot-scandal-ms-now-insists-stuff-happens-all-time",
    "source": "Fox News",
-   "ts": 1793233868.0
+   "ts": 1793237841.0
+  },
+  {
+   "title": "Manhunt grows for escaped murderer who may have left area where truck was ditched",
+   "link": "https://www.nbcnews.com/news/us-news/manhunt-grows-escaped-murderer-may-left-area-truck-was-ditched-rcna606248",
+   "source": "NBC News",
+   "ts": 1793237525.0
+  },
+  {
+   "title": "Eagles' Saquon Barkley says NFL directed him to sell stake in prediction market platform",
+   "link": "https://www.foxnews.com/outkick-sports/eagles-saquon-barkley-nfl-directed-sell-stake-prediction-market-platform",
+   "source": "Fox News",
+   "ts": 1793236907.0
+  },
+  {
+   "title": "RFK Jr. to ease access to unapproved peptides, draft policy states",
+   "link": "https://www.cbsnews.com/news/rfk-jr-to-ease-access-unapproved-peptides-draft-policy/",
+   "source": "CBS News",
+   "ts": 1793236856.0
+  },
+  {
+   "title": "Judge rejects Trump admin request for order to segregate 20,000 Calif. ballots",
+   "link": "https://abcnews.com/Politics/judge-rejects-trump-administration-request-order-segregate-20000/story?id=137660006",
+   "source": "ABC News",
+   "ts": 1793235989.0
+  },
+  {
+   "title": "Memorable moments from Trump rallies ahead of the midterms",
+   "link": "https://www.nbcnews.com/video/memorable-moments-from-trump-rallies-ahead-of-the-midterms-272445509530",
+   "source": "NBC News",
+   "ts": 1793235242.0
+  },
+  {
+   "title": "Judge denies Trump administration request to segregate alleged noncitizen ballots in California",
+   "link": "https://www.nbcnews.com/politics/justice-department/judge-rules-california-ballots-alleged-non-citizen-voters-trump-doj-rcna606100",
+   "source": "NBC News",
+   "ts": 1793235164.0
   },
   {
    "title": "Peltola campaign under fire after report it recruited 2nd Dan Sullivan in Senate race",
@@ -56,16 +86,16 @@
    "ts": 1793233703.0
   },
   {
-   "title": "Mark Walter says he will keep Dodgers 'no matter what' despite federal investigation into businesses",
-   "link": "https://www.foxnews.com/outkick-sports/mark-walter-keep-dodgers-despite-federal-investigation-businesses",
-   "source": "Fox News",
-   "ts": 1793233638.0
+   "title": "US oil prices fall as investors gauge risks to Mideast supply",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5",
+   "source": "Reuters",
+   "ts": 1793233680.0
   },
   {
-   "title": "Early midterm voting data shows enthusiasm ahead of election day",
-   "link": "https://www.nbcnews.com/video/early-midterm-voting-data-shows-enthusiasm-ahead-of-election-day-272440901813",
-   "source": "NBC News",
-   "ts": 1793232717.0
+   "title": "Bloomberg, two trading firms agree to pay Trump\u2019s Truth Social for faster access to president\u2019s posts, sources say",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdm9qWW1wa0JpT2tGTDBZNDBRZUtkRU1NaU1pd1gtZzBCNGtqZXZmRm5wZDAzRmJ0TEloNGZmX1RvaXRBckVfdjJqTEVxLVdZZ1ZLWXFyNGh0Tm8wYWx5ZnNpVGl4YmF1NnZnd2EzY3MteVk3N0RmMS0tV21ESi1jOVdrRlp5OG12ZFBZRDBBSmhXV3NNeHIzaWI4b2xJR2dTREQ0UDBfdExQejcwUF8walFGUnNRdm9aaFpCQ0ZTRndoZw?oc=5",
+   "source": "Reuters",
+   "ts": 1793233260.0
   },
   {
    "title": "Early vote one week out shows Democratic enthusiasm in Texas, Georgia: Analysis",
@@ -74,40 +104,10 @@
    "ts": 1793232192.0
   },
   {
-   "title": "WATCH:  David Muir remembers the life and legacy of Barbara Barrie",
-   "link": "https://abcnews.com/video/137655632/",
-   "source": "ABC News",
-   "ts": 1793231782.0
-  },
-  {
-   "title": "Hayden Panettiere overdose death ruled an accident",
-   "link": "https://www.nbcnews.com/nightly-news/video/hayden-panettiere-overdose-death-ruled-an-accident-272439877854",
-   "source": "NBC News",
-   "ts": 1793231646.0
-  },
-  {
    "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
    "source": "Reuters",
    "ts": 1793231614.0
-  },
-  {
-   "title": "CNN, MS NOW, Politico expand lawsuit over White House access limits",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjh0VFR2ZmRGMGE0Q1JxeGpJZWhrRGJaV0VrSHl3TmpFVXFpZUwzcTljRzYxUldDUGp3VXdVUEU0UFVwbUpSSjFLWHFCYjNOZkd2STdXWW92SDlrclZLOUF4UGE3LWQxcHlqdnE0dTh4bUlZZVhNRHYtZHZqMjJkOEdoVWh3d21MNGpLdklidjdOVlZ3cHJTcUxfd3FzeHdtcFNFQTcwbzB4Q2w4RUVNeDRtWGFBTXRfM2c?oc=5",
-   "source": "Reuters",
-   "ts": 1793230738.0
-  },
-  {
-   "title": "Fed's Warsh announces changes in how future FOMC meetings will go",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3k2UHRGbkFLQmRDN3h4WHJyQWoyWnkxOHVkY0JqNHRFSFBER25td3pVVEhJX0pRQnhXdzJiR2FnSG11cGpSYnlQeVRFSnFuTi1mVDNtSTRVOUVwWHVwN2E1SEhiRmVmMFVTcm5oaHl3Q1pLRHY3NUVmeTdEekk0UXVwOTBHREFkZTV1dVhuTG0wa2I1RDFndWFSQ2JEWGNqcjBDcnNLZXM3X280?oc=5",
-   "source": "Reuters",
-   "ts": 1793230360.0
-  },
-  {
-   "title": "Labor rights icon Dolores Huerta dies at 96",
-   "link": "https://www.nbcnews.com/nightly-news/video/labor-rights-icon-dolores-huerta-dies-at-96-272435781540",
-   "source": "NBC News",
-   "ts": 1793228399.0
   }
  ]
 }
