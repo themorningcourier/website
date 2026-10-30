@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-30T00:57:36.888898+00:00",
+ "updated": "2026-10-30T01:58:32.702932+00:00",
  "items": [
+  {
+   "title": "Green Mountain Transit keeps inoperable electric buses in storage to avoid repaying federal grant",
+   "link": "https://www.wcax.com/2026/10/30/green-mountain-transit-keeps-inoperable-electric-buses-storage-avoid-repaying-federal-grant/",
+   "source": "WCAX",
+   "ts": 1793324302.0
+  },
+  {
+   "title": "Justice Department issues subpoenas to California election workers",
+   "link": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
+   "source": "NPR",
+   "ts": 1793324154.0
+  },
+  {
+   "title": "Youth sports coach sentenced for sexually assaulting 12-year-old girl he coached",
+   "link": "https://www.wcax.com/2026/10/30/youth-sports-coach-sentenced-sexually-assaulting-12-year-old-girl-he-coached/",
+   "source": "WCAX",
+   "ts": 1793323400.0
+  },
+  {
+   "title": "Coach June Jones dies at 73",
+   "link": "https://www.mynbc5.com/article/june-jones-hawaii-nfl-dies-at-73/74289493",
+   "source": "WPTZ",
+   "ts": 1793322180.0
+  },
   {
    "title": "2 helicopters carrying a total of 3 people collide midair in Oregon",
    "link": "https://www.mynbc5.com/article/2-helicopters-collide-midair-oregon/74289533",
@@ -18,24 +42,6 @@
    "link": "https://www.wcax.com/2026/10/30/american-airlines-flight-charlotte-lands-burlington-after-mechanical-issue/",
    "source": "WCAX",
    "ts": 1793321009.0
-  },
-  {
-   "title": "Three candidates face off for Vermont treasurer",
-   "link": "https://www.mynbc5.com/article/three-candidates-face-off-for-vt-treasurer/74288654",
-   "source": "WPTZ",
-   "ts": 1793320620.0
-  },
-  {
-   "title": "Bluebird Barbecue in Burlington to close after 17 years",
-   "link": "https://www.wcax.com/2026/10/29/bluebird-barbecue-burlington-close-after-17-years/",
-   "source": "WCAX",
-   "ts": 1793318386.0
-  },
-  {
-   "title": "Record number of female candidates in 2026 midterms",
-   "link": "https://www.wcax.com/2026/10/29/record-number-female-candidates-2026-midterms/",
-   "source": "WCAX",
-   "ts": 1793317160.0
   },
   {
    "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
    "source": "NPR",
    "ts": 1793305753.0
-  },
-  {
-   "title": "Some rural Republicans in California say redistricting has left them without a voice",
-   "link": "https://www.npr.org/2026/10/29/nx-s1-5902139/some-rural-republicans-in-california-say-redistricting-has-left-them-without-a-voice",
-   "source": "NPR",
-   "ts": 1793305171.0
   }
  ]
 }
