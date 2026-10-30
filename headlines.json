@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-30T08:56:20.889738+00:00",
+ "updated": "2026-10-30T09:53:35.355515+00:00",
  "items": [
+  {
+   "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+   "link": "https://www.mynbc5.com/article/binance-hack-north-korea-6-billion/74292412",
+   "source": "WPTZ",
+   "ts": 1793353560.0
+  },
+  {
+   "title": "Air defense systems deployed at Mar-a-Lago and Palm Beach airport",
+   "link": "https://www.mynbc5.com/article/florida-mar-a-lago-air-defense-systems-missiles/74292127",
+   "source": "WPTZ",
+   "ts": 1793352060.0
+  },
+  {
+   "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
+   "link": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
+   "source": "NPR",
+   "ts": 1793350800.0
+  },
+  {
+   "title": "Here are the Senate races to watch ahead of Election Day",
+   "link": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
+   "source": "NPR",
+   "ts": 1793350800.0
+  },
+  {
+   "title": "Democrats seek to weaken the Republican lead in state legislatures",
+   "link": "https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania",
+   "source": "NPR",
+   "ts": 1793350800.0
+  },
   {
    "title": "A nice, but cooler weekend on the way",
    "link": "https://www.wcax.com/2026/10/30/nice-cooler-weekend-way/",
@@ -26,30 +56,6 @@
    "ts": 1793337644.0
   },
   {
-   "title": "Trial date set for man charged with attacking White House correspondents\u2019 dinner",
-   "link": "https://www.mynbc5.com/article/trial-date-set-white-house-correspondents-dinner/74290802",
-   "source": "WPTZ",
-   "ts": 1793336580.0
-  },
-  {
-   "title": "Dyslexia expert offers steps to improve reading fluency",
-   "link": "https://www.mynbc5.com/article/dyslexia-expert-five-minute-daily-drills-reading-fluency/74290702",
-   "source": "WPTZ",
-   "ts": 1793334540.0
-  },
-  {
-   "title": "Justice Department issues subpoenas to California election workers",
-   "link": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
-   "source": "NPR",
-   "ts": 1793324154.0
-  },
-  {
-   "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
-   "link": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate",
-   "source": "NPR",
-   "ts": 1793312618.0
-  },
-  {
    "title": "Lois A. Schumacher",
    "link": "https://vtdigger.org/2026/10/29/obituary-lois-a-schumacher/",
    "source": "VTDigger",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/10/29/vermont-to-receive-4-5-settlement-from-general-motors-following-data-privacy-investigation/",
    "source": "VTDigger",
    "ts": 1793310305.0
-  },
-  {
-   "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
-   "link": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
-   "source": "NPR",
-   "ts": 1793305753.0
   }
  ]
 }
