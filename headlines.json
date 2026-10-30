@@ -1,41 +1,47 @@
 {
- "updated": "2026-10-30T18:48:14.296262+00:00",
+ "updated": "2026-10-30T19:49:07.049829+00:00",
  "items": [
   {
-   "title": "Fire crews battle garage and house fire in Ellenburg Center, NY",
-   "link": "https://www.mynbc5.com/article/fire-crews-battle-garage-and-house-fire-in-ellenburg/74298081",
+   "title": "Vermont and New York Halloween forecast: See conditions for trick or treat times",
+   "link": "https://www.mynbc5.com/article/vermont-new-york-halloween-forecast/74298449",
    "source": "WPTZ",
-   "ts": 1793385540.0
+   "ts": 1793389500.0
+  },
+  {
+   "title": "ACLU releases video of ICE agent slashing tires of a legal observer in Oregon",
+   "link": "https://www.mynbc5.com/article/aclu-releases-video-of-ice-agent-slashing-tires-of-a-legal-observer-in-oregon/74297840",
+   "source": "WPTZ",
+   "ts": 1793389500.0
+  },
+  {
+   "title": "Voter voices from Milton\u2019s Bombardier Park",
+   "link": "https://vtdigger.org/2026/10/30/voters-voices-from-miltons-bombardier-park/",
+   "source": "VTDigger",
+   "ts": 1793388725.0
+  },
+  {
+   "title": "Spain\u2019s latest deadly train crash puts human error and systemic failure under scrutiny",
+   "link": "https://www.mynbc5.com/article/spains-deadly-train-crash-human-error-systemic-failure-scrutiny/74298365",
+   "source": "WPTZ",
+   "ts": 1793388720.0
+  },
+  {
+   "title": "Aging Untold: When health changes your sex life, intimacy doesn\u2019t have to disappear",
+   "link": "https://www.wcax.com/2026/10/30/aging-untold-when-health-changes-your-sex-life-intimacy-doesnt-have-disappear/",
+   "source": "WCAX",
+   "ts": 1793386767.0
+  },
+  {
+   "title": "21-year-old woman arrested for social media post threatening to assassinate Trump",
+   "link": "https://www.wcax.com/2026/10/30/21-year-old-woman-arrested-social-media-post-threatening-assassinate-trump/",
+   "source": "WCAX",
+   "ts": 1793386144.0
   },
   {
    "title": "91-year-old track and field world record holder continues to compete",
    "link": "https://www.wcax.com/2026/10/30/91-year-old-track-field-world-record-holder-continues-compete/",
    "source": "WCAX",
    "ts": 1793385235.0
-  },
-  {
-   "title": "Eerily chilly into Halloween, at least sunshine prevails the entire weekend",
-   "link": "https://www.wcax.com/2026/10/30/eerily-chilly-into-halloween-least-sunshine-prevails-entire-weekend/",
-   "source": "WCAX",
-   "ts": 1793385108.0
-  },
-  {
-   "title": "Vermont voter guide: Everything you need to know ahead of the Midterm Elections",
-   "link": "https://www.mynbc5.com/article/vermont-voter-guide-2026-midterms/74080649",
-   "source": "WPTZ",
-   "ts": 1793384340.0
-  },
-  {
-   "title": "Brewers revel in their first World Series win with Milwaukee parade",
-   "link": "https://www.mynbc5.com/article/milwaukee-brewers-world-series-parade/74297557",
-   "source": "WPTZ",
-   "ts": 1793384160.0
-  },
-  {
-   "title": "103 year-old skydiver",
-   "link": "https://www.wcax.com/2026/10/30/103-year-old-skydiver/",
-   "source": "WCAX",
-   "ts": 1793383300.0
   },
   {
    "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/10/29/bennington-battle-monument-dig-reveals-possible-historic-tavern-artifacts/",
    "source": "VTDigger",
    "ts": 1793311134.0
-  },
-  {
-   "title": "Vermont to receive $4.5M settlement from General Motors following data privacy investigation",
-   "link": "https://vtdigger.org/2026/10/29/vermont-to-receive-4-5-settlement-from-general-motors-following-data-privacy-investigation/",
-   "source": "VTDigger",
-   "ts": 1793310305.0
   }
  ]
 }
