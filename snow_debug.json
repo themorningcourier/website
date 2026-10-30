@@ -1,97 +1,61 @@
 {
- "updated": "2026-10-29T10:23:18.728487+00:00",
+ "updated": "2026-10-30T08:24:42.633551+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "ENEA2",
-     "name": "Ester 5Ne",
-     "state": "AK",
-     "elev_ft": "584",
-     "inches": 7.9,
+     "id": "ASFW1",
+     "name": "Rainier Paradise Ranger Stn",
+     "state": "WA",
+     "elev_ft": "5390",
+     "inches": 12.0,
      "hours": 24.0,
-     "time": "2026-10-27 07:00"
+     "time": "2026-10-28 19:30"
     },
     {
-     "id": "FAOA2",
-     "name": "College Observatory",
-     "state": "AK",
-     "elev_ft": "617",
-     "inches": 5.4,
-     "hours": 24.0,
-     "time": "2026-10-27 07:45"
-    },
-    {
-     "id": "WY-LN-2",
-     "name": "Smoot 4.9 Sse, Wy",
-     "state": "WY",
-     "elev_ft": "6975",
-     "inches": 5.4,
-     "hours": 24.0,
-     "time": "2026-10-27 13:00"
-    },
-    {
-     "id": "GSCA2",
-     "name": "Goldstream Creek",
-     "state": "AK",
-     "elev_ft": "577",
-     "inches": 4.7,
-     "hours": 24.0,
-     "time": "2026-10-27 14:00"
-    },
-    {
-     "id": "DNPA2",
-     "name": "Mckinley Park",
-     "state": "AK",
-     "elev_ft": "2008",
-     "inches": 4.6,
-     "hours": 24.0,
-     "time": "2026-10-27 16:00"
-    },
-    {
-     "id": "DPRS2",
-     "name": "Dupree 15Sse",
-     "state": "SD",
-     "elev_ft": "2392",
-     "inches": 4.5,
-     "hours": 24.0,
-     "time": "2026-10-27 14:00"
-    },
-    {
-     "id": "GGWM8",
-     "name": "Glasgow Wfo",
+     "id": "MT-DN-5",
+     "name": "Scobey 3.1 Ese, Mt",
      "state": "MT",
-     "elev_ft": "2280",
-     "inches": 1.0,
-     "hours": 6.0,
-     "time": "2026-10-27 18:00"
-    },
-    {
-     "id": "PVRN1",
-     "name": "Plainsview Ranch",
-     "state": "NE",
-     "elev_ft": "4642",
-     "inches": 3.0,
+     "elev_ft": "2484",
+     "inches": 4.0,
      "hours": 24.0,
-     "time": "2026-10-27 14:00"
+     "time": "2026-10-28 14:00"
     },
     {
-     "id": "SD-SL-8",
-     "name": "Agar 9.7 W, Sd",
-     "state": "SD",
-     "elev_ft": "1883",
-     "inches": 3.0,
-     "hours": 24.0,
-     "time": "2026-10-27 13:00"
-    },
-    {
-     "id": "CIRM8",
-     "name": "Circle",
+     "id": "MT-LY-5",
+     "name": "Whitlash 3.7 Sse, Mt",
      "state": "MT",
-     "elev_ft": "2467",
+     "elev_ft": "4419",
+     "inches": 2.2,
+     "hours": 24.0,
+     "time": "2026-10-28 13:00"
+    },
+    {
+     "id": "HYAW1",
+     "name": "Hyak",
+     "state": "WA",
+     "elev_ft": "2559",
      "inches": 2.0,
      "hours": 24.0,
-     "time": "2026-10-27 23:00"
+     "time": "2026-10-28 13:00"
+    },
+    {
+     "id": "MT-MC-5",
+     "name": "Vida 0.3 W, Mt",
+     "state": "MT",
+     "elev_ft": "2379",
+     "inches": 2.0,
+     "hours": 24.0,
+     "time": "2026-10-28 13:00"
+    },
+    {
+     "id": "MT-SH-3",
+     "name": "Outlook 5.6 Wnw, Mt",
+     "state": "MT",
+     "elev_ft": "2238",
+     "inches": 2.0,
+     "hours": 24.0,
+     "time": "2026-10-28 14:00"
     }
    ]
   },
@@ -113,111 +77,111 @@
      ""
     ],
     [
-     "ENEA2",
-     "2026-10-27 07:00",
-     "7.900",
+     "ASFW1",
+     "2026-10-28 19:30",
+     "12.000",
      "24.000",
-     "584",
-     "ESTER 5NE"
+     "5390",
+     "RAINIER PARADISE RANGER STN"
     ],
     [
-     "FAOA2",
-     "2026-10-27 07:45",
-     "5.400",
+     "MT-DN-5",
+     "2026-10-28 14:00",
+     "4.000",
      "24.000",
-     "617",
-     "COLLEGE OBSERVATORY"
+     "2484",
+     "SCOBEY 3.1 ESE, MT"
     ],
     [
-     "WY-LN-2",
-     "2026-10-27 13:00",
-     "5.400",
+     "CAN-MB-162",
+     "2026-10-28 12:00",
+     "2.500",
      "24.000",
-     "6975",
-     "SMOOT 4.9 SSE, WY"
+     "1401",
+     "DURBAN 4.3 WSW, CAN"
     ],
     [
-     "GSCA2",
-     "2026-10-27 14:00",
-     "4.700",
+     "MT-LY-5",
+     "2026-10-28 13:00",
+     "2.200",
      "24.000",
-     "577",
-     "GOLDSTREAM CREEK"
+     "4419",
+     "WHITLASH 3.7 SSE, MT"
     ],
     [
-     "DNPA2",
-     "2026-10-27 16:00",
-     "4.600",
-     "24.000",
-     "2008",
-     "MCKINLEY PARK"
-    ],
-    [
-     "DPRS2",
-     "2026-10-27 14:00",
-     "4.500",
-     "24.000",
-     "2392",
-     "DUPREE 15SSE"
-    ],
-    [
-     "GGWM8",
-     "2026-10-27 18:00",
-     "1.000",
-     "6.000",
-     "2280",
-     "GLASGOW WFO"
-    ],
-    [
-     "PVRN1",
-     "2026-10-27 14:00",
-     "3.000",
-     "24.000",
-     "4642",
-     "PLAINSVIEW RANCH"
-    ],
-    [
-     "SD-SL-8",
-     "2026-10-27 13:00",
-     "3.000",
-     "24.000",
-     "1883",
-     "AGAR 9.7 W, SD"
-    ],
-    [
-     "CIRM8",
-     "2026-10-27 23:00",
+     "CAN-SK-6",
+     "2026-10-28 11:00",
      "2.000",
      "24.000",
-     "2467",
-     "CIRCLE"
+     "1850",
+     "CONQUEST 4.5 N, CAN"
     ],
     [
-     "ID-CR-1",
-     "2026-10-27 13:00",
+     "HYAW1",
+     "2026-10-28 13:00",
      "2.000",
      "24.000",
-     "5771",
-     "SODA SPRINGS 1.3 WSW, ID"
+     "2559",
+     "HYAK"
     ],
     [
-     "KYLS2",
-     "2026-10-27 13:00",
+     "MT-MC-5",
+     "2026-10-28 13:00",
      "2.000",
      "24.000",
-     "2946",
-     "KYLE"
+     "2379",
+     "VIDA 0.3 W, MT"
     ],
     [
-     "NE-SB-7",
-     "2026-10-27 13:00",
+     "MT-SH-3",
+     "2026-10-28 14:00",
      "2.000",
      "24.000",
-     "4278",
-     "GERING 6.4 SSE, NE"
+     "2238",
+     "OUTLOOK 5.6 WNW, MT"
+    ],
+    [
+     "CAN-SK-208",
+     "2026-10-28 13:00",
+     "1.900",
+     "24.000",
+     "1959",
+     "HAFDOR ACRES, CAN"
+    ],
+    [
+     "CAN-AB-233",
+     "2026-10-28 15:00",
+     "1.500",
+     "24.000",
+     "2257",
+     "ST. ALBERT 2.0 SE, CAN"
+    ],
+    [
+     "CAN-SK-3",
+     "2026-10-28 12:00",
+     "1.500",
+     "24.000",
+     "2182",
+     "VIBANK 0.1 N, CAN"
+    ],
+    [
+     "SNKW4",
+     "2026-10-28 14:00",
+     "1.500",
+     "24.000",
+     "6886",
+     "SNAKE RIVER RS - COOP"
+    ],
+    [
+     "CAN-SK-98",
+     "2026-10-28 13:00",
+     "1.400",
+     "24.000",
+     "1906",
+     "REGINA 7.6 NW, CA"
     ]
    ],
-   "count": 12916
+   "count": 13639
   }
  ]
 }
