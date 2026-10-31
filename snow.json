@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T09:15:29.813289+00:00",
+ "updated": "2026-10-31T10:12:22.827483+00:00",
  "season": "2026-27",
  "start": "2026-11-01",
  "end": "2027-04-01",
@@ -230,18 +230,18 @@
     "name": "Salt Lake City, UT"
    },
    "ANC": {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "valid": true,
     "day": 0.0,
     "trace": false,
     "month": 0.9,
-    "month_normal": 5.0,
+    "month_normal": 5.3,
     "season": 0.9,
-    "season_normal": 5.4,
-    "season_dep": -4.5,
+    "season_normal": 5.7,
+    "season_dep": -4.8,
     "depth": 0.0,
     "final": true,
-    "issued": "2026-10-30T09:43:00+00:00",
+    "issued": "2026-10-31T09:45:00+00:00",
     "name": "Anchorage, AK"
    }
   },
@@ -1535,18 +1535,18 @@
      "name": "Salt Lake City, UT"
     },
     "ANC": {
-     "date": "2026-10-29",
+     "date": "2026-10-30",
      "valid": true,
      "day": 0.0,
      "trace": false,
      "month": 0.9,
-     "month_normal": 5.0,
+     "month_normal": 5.3,
      "season": 0.9,
-     "season_normal": 5.4,
-     "season_dep": -4.5,
+     "season_normal": 5.7,
+     "season_dep": -4.8,
      "depth": 0.0,
      "final": true,
-     "issued": "2026-10-30T09:43:00+00:00",
+     "issued": "2026-10-31T09:45:00+00:00",
      "name": "Anchorage, AK"
     }
    },
