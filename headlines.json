@@ -1,11 +1,47 @@
 {
- "updated": "2026-10-31T08:46:07.376786+00:00",
+ "updated": "2026-10-31T09:41:34.785776+00:00",
  "items": [
+  {
+   "title": "Chilly, but quiet on this Halloween.  Warmer weather is in store for Sunday and into next week.",
+   "link": "https://www.wcax.com/2026/10/31/chilly-quiet-this-halloween-warmer-weather-is-store-sunday-into-next-week/",
+   "source": "WCAX",
+   "ts": 1793438860.0
+  },
+  {
+   "title": "What to Do: Saturday, October 31",
+   "link": "https://www.wcax.com/2026/10/31/what-do-saturday-october-31/",
+   "source": "WCAX",
+   "ts": 1793438849.0
+  },
+  {
+   "title": "1 dead, 6 injured in shooting at California Spirit Halloween",
+   "link": "https://www.mynbc5.com/article/fairfield-police-investigate-solano-town-center-incident/74301479",
+   "source": "WPTZ",
+   "ts": 1793438340.0
+  },
   {
    "title": "7 people shot, 1 fatally, at Spirit Halloween store, police say",
    "link": "https://www.wcax.com/2026/10/31/7-people-shot-1-fatally-spirit-halloween-store-police-say/",
    "source": "WCAX",
-   "ts": 1793430639.0
+   "ts": 1793438099.0
+  },
+  {
+   "title": "Do you have seasonal affective disorder? How to tell \u2014 and what to do about it",
+   "link": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
+   "source": "NPR",
+   "ts": 1793437260.0
+  },
+  {
+   "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+   "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+   "source": "NPR",
+   "ts": 1793437200.0
+  },
+  {
+   "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
+   "link": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
+   "source": "NPR",
+   "ts": 1793437200.0
   },
   {
    "title": "'General Hospital' wins outstanding drama series for a record 19th time overall",
@@ -18,36 +54,6 @@
    "link": "https://www.mynbc5.com/article/2026-vpa-football-playoffs-bracket/74298414",
    "source": "WPTZ",
    "ts": 1793419740.0
-  },
-  {
-   "title": "2026 VPA Girls' Soccer Playoff Bracket",
-   "link": "https://www.mynbc5.com/article/2026-vpa-girls-soccer-playoff-bracket/74173583",
-   "source": "WPTZ",
-   "ts": 1793419620.0
-  },
-  {
-   "title": "Chilly but quiet weather for Halloween with highs in the 40s.  Sunday and next week will be warmer.",
-   "link": "https://www.wcax.com/2026/10/31/chilly-quiet-weather-halloween-with-highs-40s-sunday-next-week-will-be-warmer/",
-   "source": "WCAX",
-   "ts": 1793418708.0
-  },
-  {
-   "title": "Peoples boys, Vergennes girls claim D3 soccer titles",
-   "link": "https://www.wcax.com/2026/10/31/peoples-boys-vergennes-girls-claim-d3-soccer-titles/",
-   "source": "WCAX",
-   "ts": 1793418563.0
-  },
-  {
-   "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
-   "link": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump",
-   "source": "NPR",
-   "ts": 1793397978.0
-  },
-  {
-   "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
-   "link": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
-   "source": "NPR",
-   "ts": 1793397412.0
   },
   {
    "title": "The saga of a sweet turnip",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/10/30/opinion-tax-the-rich-to-spare-the-rest-of-us/",
    "source": "VTDigger",
    "ts": 1793391325.0
-  },
-  {
-   "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
-   "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
-   "source": "NPR",
-   "ts": 1793382327.0
   }
  ]
 }
