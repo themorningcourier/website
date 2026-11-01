@@ -1,11 +1,35 @@
 {
- "updated": "2026-11-01T11:38:30.677457+00:00",
+ "updated": "2026-11-01T12:51:21.621459+00:00",
  "items": [
   {
-   "title": "Police: 15-year-old charged after typing 'how to kill the president' on school account",
-   "link": "https://www.mynbc5.com/article/florida-student-threat-president-trump/74304620",
+   "title": "New Burlington police chief will face tall order",
+   "link": "https://vtdigger.org/2026/11/01/new-burlington-police-chief-will-face-tall-order/",
+   "source": "VTDigger",
+   "ts": 1793536380.0
+  },
+  {
+   "title": "Barefoot footprints led to rescue of man lost for days along snowy trail in Oregon",
+   "link": "https://www.mynbc5.com/article/barefoot-footprints-rescue-man-snowy-trail-oregon/74304771",
    "source": "WPTZ",
-   "ts": 1793532120.0
+   "ts": 1793536020.0
+  },
+  {
+   "title": "VSP asking for public's help in identifying suspects who stole ATM in Pittsford Sunday",
+   "link": "https://www.mynbc5.com/article/vsp-help-identifying-suspects-stole-atm-pittsford-sunday/74304715",
+   "source": "WPTZ",
+   "ts": 1793534760.0
+  },
+  {
+   "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
+   "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+   "source": "NPR",
+   "ts": 1793534400.0
+  },
+  {
+   "title": "Villanova, Notre Dame open college basketball season following papal audience",
+   "link": "https://www.mynbc5.com/article/villanova-notre-dame-college-basketball-rome-pope/74304717",
+   "source": "WPTZ",
+   "ts": 1793533680.0
   },
   {
    "title": "Barre arena no longer on thin ice thanks to volunteers",
@@ -18,18 +42,6 @@
    "link": "https://www.wcax.com/2026/11/01/nice-day-today-november-will-be-starting-off-relatively-warm-note/",
    "source": "WCAX",
    "ts": 1793531868.0
-  },
-  {
-   "title": "Early voting, competitive races: What to know about the 2026 midterm elections in 8 charts",
-   "link": "https://www.mynbc5.com/article/2026-midterm-elections-charts/74297098",
-   "source": "WPTZ",
-   "ts": 1793530800.0
-  },
-  {
-   "title": "Search your ZIP code: How sunrises look under permanent daylight saving time",
-   "link": "https://www.mynbc5.com/article/daylight-saving-time-fall-back-permanent-zip-code/74294207",
-   "source": "WPTZ",
-   "ts": 1793530800.0
   },
   {
    "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
@@ -56,22 +68,10 @@
    "ts": 1793523600.0
   },
   {
-   "title": "How one family gave a critical boost to gene therapy research",
-   "link": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
-   "source": "NPR",
-   "ts": 1793523600.0
-  },
-  {
    "title": "1 dead, at least 8 injured in shooting after largest HBCU football game, police say",
    "link": "https://www.wcax.com/2026/11/01/1-dead-least-8-injured-shooting-after-largest-hbcu-football-game-police-say/",
    "source": "WCAX",
    "ts": 1793520906.0
-  },
-  {
-   "title": "Upper Valley\u2019s member-owned co-op battles rising food prices",
-   "link": "https://vtdigger.org/2026/10/31/upper-valleys-member-owned-co-op-battles-rising-food-prices/",
-   "source": "VTDigger",
-   "ts": 1793446560.0
   }
  ]
 }
