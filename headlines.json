@@ -1,29 +1,35 @@
 {
- "updated": "2026-11-01T13:48:38.669584+00:00",
+ "updated": "2026-11-01T14:40:14.606488+00:00",
  "items": [
   {
-   "title": "Public phone now available in downtown Middlebury",
-   "link": "https://vtdigger.org/2026/11/01/public-phone-now-available-in-downtown-middlebury/",
-   "source": "VTDigger",
-   "ts": 1793540760.0
+   "title": "Killington athletic center hopes to bring new athletes to Vermont",
+   "link": "https://www.wcax.com/2026/11/01/killington-athletic-center-hopes-bring-new-athletes-vermont/",
+   "source": "WCAX",
+   "ts": 1793543213.0
   },
   {
-   "title": "Middlebury police clear up confusion after false Halloween report",
-   "link": "https://www.mynbc5.com/article/middlebury-police-fake-report-razor-blade-halloween/74304798",
+   "title": "Taiwan accuses China of harassment after standoff between coast guard ships",
+   "link": "https://www.mynbc5.com/article/taiwan-accuses-china-harassment-standoff-coast-guard-ships/74304938",
    "source": "WPTZ",
-   "ts": 1793540040.0
-  },
-  {
-   "title": "'I am so sorry': Selma Blair issues video apology after plane assault arrest",
-   "link": "https://www.mynbc5.com/article/selma-blair-video-apology-plane-assault-arrest/74304860",
-   "source": "WPTZ",
-   "ts": 1793539560.0
+   "ts": 1793543040.0
   },
   {
    "title": "Things to do: Nov. 1, 2026",
    "link": "https://www.mynbc5.com/article/things-to-do-nov-1-2026/74304869",
    "source": "WPTZ",
-   "ts": 1793539080.0
+   "ts": 1793541180.0
+  },
+  {
+   "title": "Trump plays defense in red states amid Democratic rift in Senate battleground",
+   "link": "https://www.mynbc5.com/article/trump-red-states-senate-battleground/74304656",
+   "source": "WPTZ",
+   "ts": 1793541120.0
+  },
+  {
+   "title": "Public phone now available in downtown Middlebury",
+   "link": "https://vtdigger.org/2026/11/01/public-phone-now-available-in-downtown-middlebury/",
+   "source": "VTDigger",
+   "ts": 1793540760.0
   },
   {
    "title": "State police looking for two suspects in ATM theft at Pittsford gas station",
@@ -60,12 +66,6 @@
    "link": "https://vtdigger.org/2026/11/01/barre-arena-no-longer-on-thin-ice-thanks-to-volunteers/",
    "source": "VTDigger",
    "ts": 1793532060.0
-  },
-  {
-   "title": "A nice day today, and November will be starting off on a relatively warm note.",
-   "link": "https://www.wcax.com/2026/11/01/nice-day-today-november-will-be-starting-off-relatively-warm-note/",
-   "source": "WCAX",
-   "ts": 1793531868.0
   },
   {
    "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
