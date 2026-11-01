@@ -1,17 +1,23 @@
 {
- "updated": "2026-11-01T15:38:47.833218+00:00",
+ "updated": "2026-11-01T16:39:54.835084+00:00",
  "items": [
+  {
+   "title": "Police say 4 dead, 15 injured in separate shootings in Texas on Halloween night",
+   "link": "https://www.mynbc5.com/article/police-4-dead-15-injured-shootings-texas-halloween/74305168",
+   "source": "WPTZ",
+   "ts": 1793549760.0
+  },
+  {
+   "title": "1 killed, 8 injured in shooting after Alabama football game",
+   "link": "https://www.mynbc5.com/article/deadly-shooting-alabama-football-game/74305190",
+   "source": "WPTZ",
+   "ts": 1793547900.0
+  },
   {
    "title": "Data centers need guardrails now",
    "link": "https://vtdigger.org/2026/11/01/opinion-data-centers-need-guardrails-now/",
    "source": "VTDigger",
    "ts": 1793546640.0
-  },
-  {
-   "title": "Police say 4 dead, 15 injured in separate shootings in Texas on Halloween night",
-   "link": "https://www.mynbc5.com/article/police-4-dead-15-injured-shootings-texas-halloween/74305168",
-   "source": "WPTZ",
-   "ts": 1793546400.0
   },
   {
    "title": "ER visits related to tick bites rising in Vermont, according to Vt. health officials",
@@ -36,12 +42,6 @@
    "link": "https://www.wcax.com/2026/11/01/killington-athletic-center-hopes-bring-new-athletes-vermont/",
    "source": "WCAX",
    "ts": 1793543213.0
-  },
-  {
-   "title": "Taiwan accuses China of harassment after standoff between coast guard ships",
-   "link": "https://www.mynbc5.com/article/taiwan-accuses-china-harassment-standoff-coast-guard-ships/74304938",
-   "source": "WPTZ",
-   "ts": 1793543040.0
   },
   {
    "title": "Public phone now available in downtown Middlebury",

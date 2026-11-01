@@ -1,41 +1,83 @@
 {
- "updated": "2026-11-01T15:38:47.833218+00:00",
+ "updated": "2026-11-01T16:39:54.835084+00:00",
  "items": [
   {
-   "title": "Ilhan Omar\u2019s alleged phony marriage: Letters to the Editor \u2014 Nov. 2, 2026",
-   "link": "https://nypost.com/2026/11/01/opinion/ilhan-omars-alleged-phony-marriage-letters/",
+   "title": "Frantic hunt for gunman on the loose after mass shooting killed pregnant woman at California Spirit Halloween",
+   "link": "https://nypost.com/2026/11/01/us-news/cops-hunt-gunman-who-killed-constance-hages-in-fairfield-spirit-halloween-mass-shooting/",
    "source": "New York Post",
-   "ts": 1793547311.0
+   "ts": 1793551134.0
   },
   {
-   "title": "This week on \"Sunday Morning\" (Nov. 1)",
-   "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-1-2026/",
+   "title": "Influencer fighting for her life in ICU after contracting \u2018terrifying\u2019 brain infection on vacation",
+   "link": "https://nypost.com/2026/11/01/lifestyle/influencer-fighting-for-her-life-in-icu-after-contracting-terrifying-brain-infection-on-vacation/",
+   "source": "New York Post",
+   "ts": 1793550934.0
+  },
+  {
+   "title": "Horror fatal car crash sparks chaos on major California freeway",
+   "link": "https://nypost.com/2026/11/01/us-news/fatal-car-crash-sparks-chaos-on-405-freeway-overnight-sunday/",
+   "source": "New York Post",
+   "ts": 1793550920.0
+  },
+  {
+   "title": "Israel\u2019s president says parties need to engage with \u2018open heart\u2019 to avoid fresh election",
+   "link": "https://www.nbcnews.com/world/israel/israel-president-open-heart-fresh-election-rcna606785",
+   "source": "NBC News",
+   "ts": 1793550364.0
+  },
+  {
+   "title": "Kenyan Chepkirui takes back NYC Marathon title",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNGE3NDdNOFBkSlhPa3I1SE9NdWY1U25lQ3BRRElKekZNUmpBeVJtVEl3UF9QTndmNWpTMHdaRlhrVTZGaEp1ZEVaM3NJUnJSTTN1SU1mSDBOQ0pkcFJIQ1dWQVVaYmRYY1REM05hVHUzT3BDN05HSkVwQjREVE5lQlNZdVo4Skc3Tzl6VHJIdWh2QjQ?oc=5",
+   "source": "Reuters",
+   "ts": 1793550223.0
+  },
+  {
+   "title": "Kenya's Sheila Chepkirui, Sweden's Andreas Almgren win 2026 NYC Marathon",
+   "link": "https://www.cbsnews.com/news/nyc-marathon-2026-runners-winners/",
    "source": "CBS News",
+   "ts": 1793550156.0
+  },
+  {
+   "title": "Midterm elections live updates: Trump feeling 'very good' ahead of midterms",
+   "link": "https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278",
+   "source": "ABC News",
+   "ts": 1793549832.0
+  },
+  {
+   "title": "\u2018Please help us\u2019: Savannah Guthrie issues new plea for help in mother\u2019s kidnapping",
+   "link": "https://www.nbcnews.com/news/us-news/savannah-guthrie-issues-new-plea-mothers-kidnapping-rcna606816",
+   "source": "NBC News",
+   "ts": 1793549664.0
+  },
+  {
+   "title": "Shapiro says officials must \"lead by example\" in heated rhetoric",
+   "link": "https://www.cbsnews.com/news/josh-shapiro-pennsylvania-threats-campaign-rhetoric/",
+   "source": "CBS News",
+   "ts": 1793549244.0
+  },
+  {
+   "title": "A new Georgia O'Keeffe exhibit opens a window to unfamiliar works",
+   "link": "https://www.cbsnews.com/news/a-new-georgia-okeeffe-exhibit-opens-a-window-to-unfamiliar-works/",
+   "source": "CBS News",
+   "ts": 1793549093.0
+  },
+  {
+   "title": "Russia's FSB says minor detained over park attack threat after US tip-off",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5",
+   "source": "Reuters",
    "ts": 1793547143.0
   },
   {
-   "title": "Full Interview: Pennsylvania Gov. Josh Shapiro",
-   "link": "https://www.cbsnews.com/video/full-interview-pennsylvania-governor-josh-shapiro/",
-   "source": "CBS News",
-   "ts": 1793547116.0
+   "title": "Trump heads to Iowa, Kansas for rallies before midterms",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2FHcHFUc2FHcFNFdlgyU2xwdjFlUDZ4ZG1aQjk1aDdCYnNFaE5WSXM5Q0E5cHB5Z0tKaWp0QXZ2dThVYjU2ZW1VemZmYmswcm1lUHA3TXhNVVBmUWdSQnRBTVJBdFlHQmlvempGUkFnTFo1aHBTZTZGeU53T3pIYUxXUTFaVGtaLXFldGwyUGRFNTNlWWtn?oc=5",
+   "source": "Reuters",
+   "ts": 1793546849.0
   },
   {
-   "title": "Transcript: Pennsylvania Gov. Josh Shapiro on \"Face the Nation with Margaret Brennan,\" Nov. 1, 2026",
-   "link": "https://www.cbsnews.com/news/josh-shapiro-pennsylvania-governor-11-01-2026/",
-   "source": "CBS News",
-   "ts": 1793547016.0
-  },
-  {
-   "title": "Women\u2019s college basketball preseason top 25: Ranking the title contenders",
-   "link": "https://nypost.com/2026/11/01/sports/womens-college-basketball-preseason-top-25-ranking-the-title-contenders/",
-   "source": "New York Post",
-   "ts": 1793547000.0
-  },
-  {
-   "title": "When Is Season 2 Of \u2018Dutton Ranch\u2019 Coming Out? \u2018Dutton Ranch\u2019 Season 2 Release Date Info",
-   "link": "https://decider.com/2026/11/01/dutton-ranch-season-2-release-date-when-is-season-2-dutton-ranch-coming-out/",
-   "source": "New York Post",
-   "ts": 1793547000.0
+   "title": "Packers' interest in Jonathan Taylor shows desire to move on from Josh Jacobs and his domestic abuse issues",
+   "link": "https://www.foxnews.com/outkick-sports/packers-interest-jonathan-taylor-shows-desire-move-josh-jacobs-domestic-abuse-issues",
+   "source": "Fox News",
+   "ts": 1793546650.0
   },
   {
    "title": "Sen. Tim Scott dodges on whether he would accept the results of the Alaska Senate race",
@@ -44,22 +86,10 @@
    "ts": 1793546367.0
   },
   {
-   "title": "Russia's FSB says minor detained over park attack threat after US tip-off",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5",
-   "source": "Reuters",
-   "ts": 1793544943.0
-  },
-  {
-   "title": "Iran, Qatari mediators hold third day of talks to end US-Iran war",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXU0aVh0RXlJYm1BOUtMU2FncFZnaDY5dVo4LXR0OFhsUzl1V2s0ZHpoeU5VX2d4cjg0RWRXRkRLLVhRRFJ6QlVKd3dEQ3ZtNVF0c0laVUtZZU1DTFB2bVVpN01abDA1RDRBWXJLRzFSVzZpQmFaWFBVaVdhNG9GdEVranBrT2M5NzlmWFVKSXo5QjJla0JLZ2x3SG9pOE9mb0xOaUNaZmxxbzQ4RlVVY04tZnRxZWNLNVBoby1WMXQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793544190.0
-  },
-  {
-   "title": "Serbians mark railway disaster that led to rise of victorious student movement",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXhfY3ZkWXB1R1VpQXBFdmR2S1dBU2p2U2VjUEJsZ2RwcGN1QWNwQVFjOXRrYkswVHF1TWhTMzk4cVpobm5VcXJaaG9NQXlURHh1dVdiVGZRN2hSYS02djZ0NzNoTUxpSnJYbDd1bnQ0ekRQZFJTeVIyU1BpVFBRUDhJaTNUN0J3Vk5WeGRMdlliVWVBNmpuZ1o4djJsLURwblFsdE1yWXlFeHJLMkItOWtvX0Q?oc=5",
-   "source": "Reuters",
-   "ts": 1793544010.0
+   "title": "Fake party invite scam: Can you trust a friend's reply?",
+   "link": "https://www.foxnews.com/tech/fake-party-invite-scam-trust-friends-reply",
+   "source": "Fox News",
+   "ts": 1793545353.0
   },
   {
    "title": "1 dead, 8 injured in Alabama shooting after football game, police say",
@@ -72,36 +102,6 @@
    "link": "https://www.foxnews.com/outkick-sports/paige-spiranac-unloads-halloween-content-america-jenn-sterger-wednesday-addams-capturing-bigfoot",
    "source": "Fox News",
    "ts": 1793542332.0
-  },
-  {
-   "title": "Ancient Roman treasure unearthed at military base, two coins aren't what they seem",
-   "link": "https://www.foxnews.com/travel/ancient-roman-treasure-unearthed-military-base-two-coins-arent-what-they-seem",
-   "source": "Fox News",
-   "ts": 1793541648.0
-  },
-  {
-   "title": "Poll: Voters demand change and a check on Trump, fueling a steep Democratic midterm advantage",
-   "link": "https://www.nbcnews.com/politics/2026-election/poll-voters-demand-change-check-trump-fueling-steep-democratic-midterm-rcna606183",
-   "source": "NBC News",
-   "ts": 1793541640.0
-  },
-  {
-   "title": "Why people really stopped having kids: New study uncovers the surprising reasons families are shrinking",
-   "link": "https://www.foxnews.com/media/why-people-really-stopped-having-kids-new-study-uncovers-surprising-reasons-families-shrinking",
-   "source": "Fox News",
-   "ts": 1793541624.0
-  },
-  {
-   "title": "Minor detained after U.S. warned Russia of possible Moscow terror attack, FSB says",
-   "link": "https://www.nbcnews.com/world/russia/us-warned-russia-possible-moscow-terror-attack-fsb-says-rcna606789",
-   "source": "NBC News",
-   "ts": 1793539212.0
-  },
-  {
-   "title": "Midterm elections live updates: Trump feeling 'very good' ahead of midterms",
-   "link": "https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278",
-   "source": "ABC News",
-   "ts": 1793531772.0
   },
   {
    "title": "WATCH:  The volunteers helping get the NYC marathon running",
