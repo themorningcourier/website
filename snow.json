@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T08:20:49.059938+00:00",
+ "updated": "2026-11-01T09:18:56.681823+00:00",
  "season": "2026-27",
  "start": "2026-11-01",
  "end": "2027-04-01",
@@ -35,7 +35,7 @@
     "name": "Boston, MA"
    },
    "PWM": {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "valid": true,
     "day": 0.0,
     "trace": false,
@@ -46,7 +46,7 @@
     "season_dep": -0.2,
     "depth": 0.0,
     "final": true,
-    "issued": "2026-10-31T08:25:00+00:00",
+    "issued": "2026-11-01T09:18:00+00:00",
     "name": "Portland, ME"
    },
    "CAR": {
@@ -65,18 +65,18 @@
     "name": "Caribou, ME"
    },
    "CON": {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "valid": true,
     "day": 0.0,
     "trace": false,
     "month": 0.0,
-    "month_normal": 0.7,
+    "month_normal": 0.8,
     "season": 0.0,
-    "season_normal": 0.7,
-    "season_dep": -0.7,
+    "season_normal": 0.8,
+    "season_dep": -0.8,
     "depth": 0.0,
     "final": true,
-    "issued": "2026-10-31T08:25:00+00:00",
+    "issued": "2026-11-01T09:18:00+00:00",
     "name": "Concord, NH"
    },
    "ALB": {
@@ -1672,7 +1672,7 @@
      "name": "Boston, MA"
     },
     "PWM": {
-     "date": "2026-10-30",
+     "date": "2026-10-31",
      "valid": true,
      "day": 0.0,
      "trace": false,
@@ -1683,7 +1683,7 @@
      "season_dep": -0.2,
      "depth": 0.0,
      "final": true,
-     "issued": "2026-10-31T08:25:00+00:00",
+     "issued": "2026-11-01T09:18:00+00:00",
      "name": "Portland, ME"
     },
     "CAR": {
@@ -1702,18 +1702,18 @@
      "name": "Caribou, ME"
     },
     "CON": {
-     "date": "2026-10-30",
+     "date": "2026-10-31",
      "valid": true,
      "day": 0.0,
      "trace": false,
      "month": 0.0,
-     "month_normal": 0.7,
+     "month_normal": 0.8,
      "season": 0.0,
-     "season_normal": 0.7,
-     "season_dep": -0.7,
+     "season_normal": 0.8,
+     "season_dep": -0.8,
      "depth": 0.0,
      "final": true,
-     "issued": "2026-10-31T08:25:00+00:00",
+     "issued": "2026-11-01T09:18:00+00:00",
      "name": "Concord, NH"
     },
     "ALB": {
