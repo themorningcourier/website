@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T08:50:24.948926+00:00",
+ "updated": "2026-11-01T09:46:37.348777+00:00",
  "log": [
-  "https://site.api.espn.com/apis/v2/sports/football/nfl/standings?level=3 failed HTTP Error 403: Forbidden",
+  "https://site.api.espn.com/apis/v2/sports/football/nfl/standings?level=3 failed <urlopen error _ssl.c:983: The handshake operation timed out>",
   "https://site.api.espn.com/apis/v2/sports/football/nfl/standings failed HTTP Error 403: Forbidden",
   "https://site.web.api.espn.com/apis/v2/sports/football/nfl/standings?level=3 keys=['uid', 'id', 'name', 'abbreviation', 'shortName', 'children', 'isConference', 'season'] groups=8"
  ]
