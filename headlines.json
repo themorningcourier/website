@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-01T21:12:56.099743+00:00",
+ "updated": "2026-11-01T22:11:46.415277+00:00",
  "items": [
+  {
+   "title": "All 9 people aboard a jet that crashed in Florida have died, transportation secretary says",
+   "link": "https://www.mynbc5.com/article/palm-beach-jet-crash/74305816",
+   "source": "WPTZ",
+   "ts": 1793570460.0
+  },
+  {
+   "title": "Somali pirates seize Iranian fishing vessel, raising fears of attacks on cargo ships",
+   "link": "https://www.mynbc5.com/article/somali-pirates-seize-iranian-fishing-vessel/74305953",
+   "source": "WPTZ",
+   "ts": 1793570100.0
+  },
+  {
+   "title": "Week Ahead in Washington: November 1",
+   "link": "https://www.wcax.com/2026/11/01/week-ahead-washington-november-1/",
+   "source": "WCAX",
+   "ts": 1793569847.0
+  },
+  {
+   "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
+   "link": "https://www.mynbc5.com/article/michigans-senate-race-haley-stevens-mike-rogers-el-sayed/74305377",
+   "source": "WPTZ",
+   "ts": 1793568720.0
+  },
   {
    "title": "Burlington man held on bail after reports of shotgun at City Hall Park",
    "link": "https://www.wcax.com/2026/11/01/burlington-man-held-bail-after-reports-shotgun-city-hall-park/",
@@ -8,28 +32,10 @@
    "ts": 1793566439.0
   },
   {
-   "title": "Business jet carrying 9 people crashes in Florida neighborhood, erupts in a massive fireball",
-   "link": "https://www.mynbc5.com/article/palm-beach-jet-crash/74305816",
-   "source": "WPTZ",
-   "ts": 1793566140.0
-  },
-  {
-   "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
-   "link": "https://www.mynbc5.com/article/judge-dismisses-alaska-senate-certification-lawsuit/74305576",
-   "source": "WPTZ",
-   "ts": 1793564220.0
-  },
-  {
    "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
    "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
    "source": "NPR",
    "ts": 1793562555.0
-  },
-  {
-   "title": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years",
-   "link": "https://www.mynbc5.com/article/heidi-klum-hand-halloween-costume/74305723",
-   "source": "WPTZ",
-   "ts": 1793562300.0
   },
   {
    "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
@@ -48,12 +54,6 @@
    "link": "https://www.wcax.com/2026/11/01/3-firefighters-resign-after-drinking-bar-while-duty-police-reports-says/",
    "source": "WCAX",
    "ts": 1793556759.0
-  },
-  {
-   "title": "2 dead, 4 injured in shooting at nightclub",
-   "link": "https://www.wcax.com/2026/11/01/2-dead-4-injured-shooting-nightclub/",
-   "source": "WCAX",
-   "ts": 1793551916.0
   },
   {
    "title": "Data centers need guardrails now",
