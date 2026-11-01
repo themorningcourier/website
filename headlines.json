@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-01T14:40:14.606488+00:00",
+ "updated": "2026-11-01T15:38:47.833218+00:00",
  "items": [
+  {
+   "title": "Data centers need guardrails now",
+   "link": "https://vtdigger.org/2026/11/01/opinion-data-centers-need-guardrails-now/",
+   "source": "VTDigger",
+   "ts": 1793546640.0
+  },
+  {
+   "title": "Police say 4 dead, 15 injured in separate shootings in Texas on Halloween night",
+   "link": "https://www.mynbc5.com/article/police-4-dead-15-injured-shootings-texas-halloween/74305168",
+   "source": "WPTZ",
+   "ts": 1793546400.0
+  },
+  {
+   "title": "ER visits related to tick bites rising in Vermont, according to Vt. health officials",
+   "link": "https://www.wcax.com/2026/11/01/er-visits-related-tick-bites-rising-vermont-according-vt-health-officials/",
+   "source": "WCAX",
+   "ts": 1793545730.0
+  },
+  {
+   "title": "Police: Investigation remains active after 6 shot near University of Delaware campus on Halloween",
+   "link": "https://www.mynbc5.com/article/police-shooting-near-university-delaware-campus/74305113",
+   "source": "WPTZ",
+   "ts": 1793544960.0
+  },
+  {
+   "title": "In the Garden: Turning apples into tacos",
+   "link": "https://www.wcax.com/2026/11/01/garden-turning-apples-into-tacos/",
+   "source": "WCAX",
+   "ts": 1793544605.0
+  },
   {
    "title": "Killington athletic center hopes to bring new athletes to Vermont",
    "link": "https://www.wcax.com/2026/11/01/killington-athletic-center-hopes-bring-new-athletes-vermont/",
@@ -14,40 +44,16 @@
    "ts": 1793543040.0
   },
   {
-   "title": "Things to do: Nov. 1, 2026",
-   "link": "https://www.mynbc5.com/article/things-to-do-nov-1-2026/74304869",
-   "source": "WPTZ",
-   "ts": 1793541180.0
-  },
-  {
-   "title": "Trump plays defense in red states amid Democratic rift in Senate battleground",
-   "link": "https://www.mynbc5.com/article/trump-red-states-senate-battleground/74304656",
-   "source": "WPTZ",
-   "ts": 1793541120.0
-  },
-  {
    "title": "Public phone now available in downtown Middlebury",
    "link": "https://vtdigger.org/2026/11/01/public-phone-now-available-in-downtown-middlebury/",
    "source": "VTDigger",
    "ts": 1793540760.0
   },
   {
-   "title": "State police looking for two suspects in ATM theft at Pittsford gas station",
-   "link": "https://www.wcax.com/2026/11/01/state-police-looking-two-suspects-atm-theft-pittsford-gas-station/",
-   "source": "WCAX",
-   "ts": 1793539035.0
-  },
-  {
    "title": "Living with high prices in Virginia's 1st Congressional District",
    "link": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
    "source": "NPR",
    "ts": 1793538000.0
-  },
-  {
-   "title": "What to Do: Sunday, November 1",
-   "link": "https://www.wcax.com/2026/11/01/what-do-sunday-november-1/",
-   "source": "WCAX",
-   "ts": 1793537655.0
   },
   {
    "title": "New Burlington police chief will face tall order",
@@ -60,12 +66,6 @@
    "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
    "source": "NPR",
    "ts": 1793534400.0
-  },
-  {
-   "title": "Barre arena no longer on thin ice thanks to volunteers",
-   "link": "https://vtdigger.org/2026/11/01/barre-arena-no-longer-on-thin-ice-thanks-to-volunteers/",
-   "source": "VTDigger",
-   "ts": 1793532060.0
   },
   {
    "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
