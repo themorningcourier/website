@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T10:15:05.686661+00:00",
+ "updated": "2026-11-01T20:17:51.600990+00:00",
  "season": "2026-27",
  "start": "2026-11-01",
  "end": "2027-04-01",
@@ -17,6 +17,10 @@
     "season_dep": -0.3,
     "depth": 0.0,
     "final": true,
+    "tmax": 48,
+    "tmax_normal": 53,
+    "tmin": 34,
+    "tmin_normal": 37,
     "issued": "2026-11-01T05:49:00+00:00",
     "name": "Burlington, VT"
    },
@@ -31,6 +35,8 @@
     "season_normal": 0.2,
     "season_dep": -0.2,
     "final": true,
+    "tmax": 55,
+    "tmin": 42,
     "issued": "2026-11-01T05:26:00+00:00",
     "name": "Boston, MA"
    },
@@ -46,6 +52,10 @@
     "season_dep": -0.2,
     "depth": 0.0,
     "final": true,
+    "tmax": 51,
+    "tmax_normal": 54,
+    "tmin": 30,
+    "tmin_normal": 36,
     "issued": "2026-11-01T09:18:00+00:00",
     "name": "Portland, ME"
    },
@@ -61,6 +71,10 @@
     "season_dep": -1.2,
     "depth": 0.0,
     "final": true,
+    "tmax": 41,
+    "tmax_normal": 47,
+    "tmin": 30,
+    "tmin_normal": 32,
     "issued": "2026-11-01T05:49:00+00:00",
     "name": "Caribou, ME"
    },
@@ -76,6 +90,10 @@
     "season_dep": -0.8,
     "depth": 0.0,
     "final": true,
+    "tmax": 53,
+    "tmax_normal": 55,
+    "tmin": 27,
+    "tmin_normal": 33,
     "issued": "2026-11-01T09:18:00+00:00",
     "name": "Concord, NH"
    },
@@ -91,6 +109,10 @@
     "season_dep": -0.3,
     "depth": 0.0,
     "final": true,
+    "tmax": 55,
+    "tmax_normal": 56,
+    "tmin": 34,
+    "tmin_normal": 36,
     "issued": "2026-11-01T06:26:00+00:00",
     "name": "Albany, NY"
    },
@@ -106,6 +128,8 @@
     "season_dep": -0.2,
     "depth": 0.0,
     "final": true,
+    "tmax": 55,
+    "tmin": 37,
     "issued": "2026-11-01T06:16:00+00:00",
     "name": "Syracuse, NY"
    },
@@ -121,6 +145,10 @@
     "season_dep": -0.9,
     "depth": 0.0,
     "final": true,
+    "tmax": 56,
+    "tmax_normal": 54,
+    "tmin": 39,
+    "tmin_normal": 39,
     "issued": "2026-11-01T05:36:00+00:00",
     "name": "Buffalo, NY"
    },
@@ -136,6 +164,8 @@
     "season_dep": -0.1,
     "depth": 0.0,
     "final": true,
+    "tmax": 58,
+    "tmin": 47,
     "issued": "2026-11-01T06:40:00+00:00",
     "name": "New York (Central Park)"
    },
@@ -151,6 +181,8 @@
     "season_dep": -0.1,
     "depth": 0.0,
     "final": true,
+    "tmax": 57,
+    "tmin": 38,
     "issued": "2026-11-01T07:40:00+00:00",
     "name": "Erie, PA"
    },
@@ -166,6 +198,8 @@
     "season_dep": 0.0,
     "depth": 0.0,
     "final": true,
+    "tmax": 59,
+    "tmin": 41,
     "issued": "2026-11-01T05:35:00+00:00",
     "name": "Detroit, MI"
    },
@@ -181,6 +215,10 @@
     "season_dep": -0.2,
     "depth": 0.0,
     "final": true,
+    "tmax": 61,
+    "tmax_normal": 56,
+    "tmin": 52,
+    "tmin_normal": 40,
     "issued": "2026-11-01T06:38:00+00:00",
     "name": "Chicago, IL"
    },
@@ -196,6 +234,8 @@
     "season_dep": -0.8,
     "depth": 0.0,
     "final": true,
+    "tmax": 59,
+    "tmin": 47,
     "issued": "2026-11-01T06:30:00+00:00",
     "name": "Minneapolis, MN"
    },
@@ -211,6 +251,8 @@
     "season_dep": null,
     "depth": 0.0,
     "final": true,
+    "tmax": 58,
+    "tmin": 43,
     "issued": "2026-11-01T07:33:00+00:00",
     "name": "Denver, CO"
    },
@@ -226,6 +268,8 @@
     "season_dep": -0.5,
     "depth": 0.0,
     "final": true,
+    "tmax": 61,
+    "tmin": 46,
     "issued": "2026-11-01T07:46:00+00:00",
     "name": "Salt Lake City, UT"
    },
@@ -241,64 +285,68 @@
     "season_dep": -5.1,
     "depth": 0.0,
     "final": true,
+    "tmax": 43,
+    "tmax_normal": 34,
+    "tmin": 33,
+    "tmin_normal": 23,
     "issued": "2026-11-01T09:41:00+00:00",
     "name": "Anchorage, AK"
    }
   },
   "top": [
    {
-    "id": "TLUC1",
-    "name": "Tuolumne Meadows",
-    "state": "CA",
-    "elev_ft": "8701",
-    "inches": 2.0,
+    "id": "SEWA006",
+    "name": "Seward 4.7 Ne, Ne",
+    "state": "NE",
+    "elev_ft": "1539",
+    "inches": 23.0,
     "hours": 24.0,
-    "time": "2026-10-30 15:00"
+    "time": "2026-10-31 12:00"
    },
    {
     "id": "BTT",
     "name": "Bettles Arpt",
     "state": "",
     "elev_ft": "633",
-    "inches": 1.3,
+    "inches": 7.7,
     "hours": 24.0,
-    "time": "2026-10-30 07:45"
-   },
-   {
-    "id": "MT-LY-27",
-    "name": "Chester 20.0 Nnw, Mt",
-    "state": "MT",
-    "elev_ft": "3806",
-    "inches": 1.0,
-    "hours": 24.0,
-    "time": "2026-10-30 13:00"
+    "time": "2026-10-31 07:45"
    },
    {
     "id": "WSMA2",
     "name": "Wiseman",
     "state": "AK",
     "elev_ft": "1181",
-    "inches": 1.0,
+    "inches": 5.2,
     "hours": 24.0,
-    "time": "2026-10-30 15:00"
+    "time": "2026-10-31 15:00"
    },
    {
-    "id": "MT-LY-19",
-    "name": "Whitlash 13.5 E, Mt",
-    "state": "MT",
-    "elev_ft": "3501",
+    "id": "UBW",
+    "name": "Kuparuk,Ak",
+    "state": "AK",
+    "elev_ft": "72",
+    "inches": 3.1,
+    "hours": 24.0,
+    "time": "2026-11-01 02:00"
+   },
+   {
+    "id": "NUCK004",
+    "name": "Lawrence 0.3 Sse, Ne",
+    "state": "NE",
+    "elev_ft": "1880",
+    "inches": 3.0,
+    "hours": 24.0,
+    "time": "2026-10-31 12:00"
+   },
+   {
+    "id": "TLUC1",
+    "name": "Tuolumne Meadows",
+    "state": "CA",
+    "elev_ft": "8701",
     "inches": 0.5,
     "hours": 24.0,
-    "time": "2026-10-30 13:00"
-   },
-   {
-    "id": "ANJM4",
-    "name": "Snow Paid Observer For Kanj",
-    "state": "MI",
-    "elev_ft": "614",
-    "inches": 0.001,
-    "hours": 6.0,
-    "time": "2026-10-30 18:00"
+    "time": "2026-10-31 15:00"
    },
    {
     "id": "AK-AB-38",
@@ -307,33 +355,28 @@
     "elev_ft": "2146",
     "inches": 0.001,
     "hours": 24.0,
-    "time": "2026-10-30 16:00"
+    "time": "2026-10-31 16:00"
    },
    {
-    "id": "ANJM4",
-    "name": "Snow Paid Observer For Kanj",
-    "state": "MI",
-    "elev_ft": "614",
+    "id": "INVN2",
+    "name": "Incline Village",
+    "state": "NV",
+    "elev_ft": "6352",
     "inches": 0.001,
     "hours": 24.0,
-    "time": "2026-10-31 05:00"
+    "time": "2026-10-31 17:00"
+   },
+   {
+    "id": "MI-CP-14",
+    "name": "Sault Ste. Marie 2.2 E, Mi",
+    "state": "MI",
+    "elev_ft": "594",
+    "inches": 0.001,
+    "hours": 24.0,
+    "time": "2026-10-31 11:30"
    }
   ],
-  "home": {
-   "stowe": {
-    "name": "Stowe / Mt. Mansfield",
-    "reports": [
-     {
-      "id": "VT-LM-34",
-      "name": "Stowe 0.4 Sw, Vt",
-      "inches": 0.0,
-      "hours": 24.0,
-      "time": "2026-10-30 11:00",
-      "elev_ft": "682"
-     }
-    ]
-   }
-  }
+  "home": {}
  },
  "log": {
   "2026-10-28": {
@@ -1654,6 +1697,10 @@
      "season_dep": -0.3,
      "depth": 0.0,
      "final": true,
+     "tmax": 48,
+     "tmax_normal": 53,
+     "tmin": 34,
+     "tmin_normal": 37,
      "issued": "2026-11-01T05:49:00+00:00",
      "name": "Burlington, VT"
     },
@@ -1668,6 +1715,8 @@
      "season_normal": 0.2,
      "season_dep": -0.2,
      "final": true,
+     "tmax": 55,
+     "tmin": 42,
      "issued": "2026-11-01T05:26:00+00:00",
      "name": "Boston, MA"
     },
@@ -1683,6 +1732,10 @@
      "season_dep": -0.2,
      "depth": 0.0,
      "final": true,
+     "tmax": 51,
+     "tmax_normal": 54,
+     "tmin": 30,
+     "tmin_normal": 36,
      "issued": "2026-11-01T09:18:00+00:00",
      "name": "Portland, ME"
     },
@@ -1698,6 +1751,10 @@
      "season_dep": -1.2,
      "depth": 0.0,
      "final": true,
+     "tmax": 41,
+     "tmax_normal": 47,
+     "tmin": 30,
+     "tmin_normal": 32,
      "issued": "2026-11-01T05:49:00+00:00",
      "name": "Caribou, ME"
     },
@@ -1713,6 +1770,10 @@
      "season_dep": -0.8,
      "depth": 0.0,
      "final": true,
+     "tmax": 53,
+     "tmax_normal": 55,
+     "tmin": 27,
+     "tmin_normal": 33,
      "issued": "2026-11-01T09:18:00+00:00",
      "name": "Concord, NH"
     },
@@ -1728,6 +1789,10 @@
      "season_dep": -0.3,
      "depth": 0.0,
      "final": true,
+     "tmax": 55,
+     "tmax_normal": 56,
+     "tmin": 34,
+     "tmin_normal": 36,
      "issued": "2026-11-01T06:26:00+00:00",
      "name": "Albany, NY"
     },
@@ -1743,6 +1808,8 @@
      "season_dep": -0.2,
      "depth": 0.0,
      "final": true,
+     "tmax": 55,
+     "tmin": 37,
      "issued": "2026-11-01T06:16:00+00:00",
      "name": "Syracuse, NY"
     },
@@ -1758,6 +1825,10 @@
      "season_dep": -0.9,
      "depth": 0.0,
      "final": true,
+     "tmax": 56,
+     "tmax_normal": 54,
+     "tmin": 39,
+     "tmin_normal": 39,
      "issued": "2026-11-01T05:36:00+00:00",
      "name": "Buffalo, NY"
     },
@@ -1773,6 +1844,8 @@
      "season_dep": -0.1,
      "depth": 0.0,
      "final": true,
+     "tmax": 58,
+     "tmin": 47,
      "issued": "2026-11-01T06:40:00+00:00",
      "name": "New York (Central Park)"
     },
@@ -1788,6 +1861,8 @@
      "season_dep": -0.1,
      "depth": 0.0,
      "final": true,
+     "tmax": 57,
+     "tmin": 38,
      "issued": "2026-11-01T07:40:00+00:00",
      "name": "Erie, PA"
     },
@@ -1803,6 +1878,8 @@
      "season_dep": 0.0,
      "depth": 0.0,
      "final": true,
+     "tmax": 59,
+     "tmin": 41,
      "issued": "2026-11-01T05:35:00+00:00",
      "name": "Detroit, MI"
     },
@@ -1818,6 +1895,10 @@
      "season_dep": -0.2,
      "depth": 0.0,
      "final": true,
+     "tmax": 61,
+     "tmax_normal": 56,
+     "tmin": 52,
+     "tmin_normal": 40,
      "issued": "2026-11-01T06:38:00+00:00",
      "name": "Chicago, IL"
     },
@@ -1833,6 +1914,8 @@
      "season_dep": -0.8,
      "depth": 0.0,
      "final": true,
+     "tmax": 59,
+     "tmin": 47,
      "issued": "2026-11-01T06:30:00+00:00",
      "name": "Minneapolis, MN"
     },
@@ -1848,6 +1931,8 @@
      "season_dep": null,
      "depth": 0.0,
      "final": true,
+     "tmax": 58,
+     "tmin": 43,
      "issued": "2026-11-01T07:33:00+00:00",
      "name": "Denver, CO"
     },
@@ -1863,6 +1948,8 @@
      "season_dep": -0.5,
      "depth": 0.0,
      "final": true,
+     "tmax": 61,
+     "tmin": 46,
      "issued": "2026-11-01T07:46:00+00:00",
      "name": "Salt Lake City, UT"
     },
@@ -1878,64 +1965,68 @@
      "season_dep": -5.1,
      "depth": 0.0,
      "final": true,
+     "tmax": 43,
+     "tmax_normal": 34,
+     "tmin": 33,
+     "tmin_normal": 23,
      "issued": "2026-11-01T09:41:00+00:00",
      "name": "Anchorage, AK"
     }
    },
    "top": [
     {
-     "id": "TLUC1",
-     "name": "Tuolumne Meadows",
-     "state": "CA",
-     "elev_ft": "8701",
-     "inches": 2.0,
+     "id": "SEWA006",
+     "name": "Seward 4.7 Ne, Ne",
+     "state": "NE",
+     "elev_ft": "1539",
+     "inches": 23.0,
      "hours": 24.0,
-     "time": "2026-10-30 15:00"
+     "time": "2026-10-31 12:00"
     },
     {
      "id": "BTT",
      "name": "Bettles Arpt",
      "state": "",
      "elev_ft": "633",
-     "inches": 1.3,
+     "inches": 7.7,
      "hours": 24.0,
-     "time": "2026-10-30 07:45"
-    },
-    {
-     "id": "MT-LY-27",
-     "name": "Chester 20.0 Nnw, Mt",
-     "state": "MT",
-     "elev_ft": "3806",
-     "inches": 1.0,
-     "hours": 24.0,
-     "time": "2026-10-30 13:00"
+     "time": "2026-10-31 07:45"
     },
     {
      "id": "WSMA2",
      "name": "Wiseman",
      "state": "AK",
      "elev_ft": "1181",
-     "inches": 1.0,
+     "inches": 5.2,
      "hours": 24.0,
-     "time": "2026-10-30 15:00"
+     "time": "2026-10-31 15:00"
     },
     {
-     "id": "MT-LY-19",
-     "name": "Whitlash 13.5 E, Mt",
-     "state": "MT",
-     "elev_ft": "3501",
+     "id": "UBW",
+     "name": "Kuparuk,Ak",
+     "state": "AK",
+     "elev_ft": "72",
+     "inches": 3.1,
+     "hours": 24.0,
+     "time": "2026-11-01 02:00"
+    },
+    {
+     "id": "NUCK004",
+     "name": "Lawrence 0.3 Sse, Ne",
+     "state": "NE",
+     "elev_ft": "1880",
+     "inches": 3.0,
+     "hours": 24.0,
+     "time": "2026-10-31 12:00"
+    },
+    {
+     "id": "TLUC1",
+     "name": "Tuolumne Meadows",
+     "state": "CA",
+     "elev_ft": "8701",
      "inches": 0.5,
      "hours": 24.0,
-     "time": "2026-10-30 13:00"
-    },
-    {
-     "id": "ANJM4",
-     "name": "Snow Paid Observer For Kanj",
-     "state": "MI",
-     "elev_ft": "614",
-     "inches": 0.001,
-     "hours": 6.0,
-     "time": "2026-10-30 18:00"
+     "time": "2026-10-31 15:00"
     },
     {
      "id": "AK-AB-38",
@@ -1944,33 +2035,28 @@
      "elev_ft": "2146",
      "inches": 0.001,
      "hours": 24.0,
-     "time": "2026-10-30 16:00"
+     "time": "2026-10-31 16:00"
     },
     {
-     "id": "ANJM4",
-     "name": "Snow Paid Observer For Kanj",
-     "state": "MI",
-     "elev_ft": "614",
+     "id": "INVN2",
+     "name": "Incline Village",
+     "state": "NV",
+     "elev_ft": "6352",
      "inches": 0.001,
      "hours": 24.0,
-     "time": "2026-10-31 05:00"
+     "time": "2026-10-31 17:00"
+    },
+    {
+     "id": "MI-CP-14",
+     "name": "Sault Ste. Marie 2.2 E, Mi",
+     "state": "MI",
+     "elev_ft": "594",
+     "inches": 0.001,
+     "hours": 24.0,
+     "time": "2026-10-31 11:30"
     }
    ],
-   "home": {
-    "stowe": {
-     "name": "Stowe / Mt. Mansfield",
-     "reports": [
-      {
-       "id": "VT-LM-34",
-       "name": "Stowe 0.4 Sw, Vt",
-       "inches": 0.0,
-       "hours": 24.0,
-       "time": "2026-10-30 11:00",
-       "elev_ft": "682"
-      }
-     ]
-    }
-   }
+   "home": {}
   }
  }
 }

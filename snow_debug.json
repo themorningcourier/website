@@ -1,61 +1,61 @@
 {
- "updated": "2026-11-01T10:15:05.686661+00:00",
+ "updated": "2026-11-01T20:17:51.600990+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "TLUC1",
-     "name": "Tuolumne Meadows",
-     "state": "CA",
-     "elev_ft": "8701",
-     "inches": 2.0,
+     "id": "SEWA006",
+     "name": "Seward 4.7 Ne, Ne",
+     "state": "NE",
+     "elev_ft": "1539",
+     "inches": 23.0,
      "hours": 24.0,
-     "time": "2026-10-30 15:00"
+     "time": "2026-10-31 12:00"
     },
     {
      "id": "BTT",
      "name": "Bettles Arpt",
      "state": "",
      "elev_ft": "633",
-     "inches": 1.3,
+     "inches": 7.7,
      "hours": 24.0,
-     "time": "2026-10-30 07:45"
-    },
-    {
-     "id": "MT-LY-27",
-     "name": "Chester 20.0 Nnw, Mt",
-     "state": "MT",
-     "elev_ft": "3806",
-     "inches": 1.0,
-     "hours": 24.0,
-     "time": "2026-10-30 13:00"
+     "time": "2026-10-31 07:45"
     },
     {
      "id": "WSMA2",
      "name": "Wiseman",
      "state": "AK",
      "elev_ft": "1181",
-     "inches": 1.0,
+     "inches": 5.2,
      "hours": 24.0,
-     "time": "2026-10-30 15:00"
+     "time": "2026-10-31 15:00"
     },
     {
-     "id": "MT-LY-19",
-     "name": "Whitlash 13.5 E, Mt",
-     "state": "MT",
-     "elev_ft": "3501",
+     "id": "UBW",
+     "name": "Kuparuk,Ak",
+     "state": "AK",
+     "elev_ft": "72",
+     "inches": 3.1,
+     "hours": 24.0,
+     "time": "2026-11-01 02:00"
+    },
+    {
+     "id": "NUCK004",
+     "name": "Lawrence 0.3 Sse, Ne",
+     "state": "NE",
+     "elev_ft": "1880",
+     "inches": 3.0,
+     "hours": 24.0,
+     "time": "2026-10-31 12:00"
+    },
+    {
+     "id": "TLUC1",
+     "name": "Tuolumne Meadows",
+     "state": "CA",
+     "elev_ft": "8701",
      "inches": 0.5,
      "hours": 24.0,
-     "time": "2026-10-30 13:00"
-    },
-    {
-     "id": "ANJM4",
-     "name": "Snow Paid Observer For Kanj",
-     "state": "MI",
-     "elev_ft": "614",
-     "inches": 0.001,
-     "hours": 6.0,
-     "time": "2026-10-30 18:00"
+     "time": "2026-10-31 15:00"
     },
     {
      "id": "AK-AB-38",
@@ -64,16 +64,25 @@
      "elev_ft": "2146",
      "inches": 0.001,
      "hours": 24.0,
-     "time": "2026-10-30 16:00"
+     "time": "2026-10-31 16:00"
     },
     {
-     "id": "ANJM4",
-     "name": "Snow Paid Observer For Kanj",
-     "state": "MI",
-     "elev_ft": "614",
+     "id": "INVN2",
+     "name": "Incline Village",
+     "state": "NV",
+     "elev_ft": "6352",
      "inches": 0.001,
      "hours": 24.0,
-     "time": "2026-10-31 05:00"
+     "time": "2026-10-31 17:00"
+    },
+    {
+     "id": "MI-CP-14",
+     "name": "Sault Ste. Marie 2.2 E, Mi",
+     "state": "MI",
+     "elev_ft": "594",
+     "inches": 0.001,
+     "hours": 24.0,
+     "time": "2026-10-31 11:30"
     }
    ]
   },
@@ -95,111 +104,111 @@
      ""
     ],
     [
-     "TLUC1",
-     "2026-10-30 15:00",
-     "2.000",
+     "SEWA006",
+     "2026-10-31 12:00",
+     "23.000",
      "24.000",
-     "8701",
-     "TUOLUMNE MEADOWS"
+     "1539",
+     "SEWARD 4.7 NE, NE"
     ],
     [
      "BTT",
-     "2026-10-30 07:45",
-     "1.300",
+     "2026-10-31 07:45",
+     "7.700",
      "24.000",
      "633",
      "BETTLES ARPT"
     ],
     [
-     "MT-LY-27",
-     "2026-10-30 13:00",
-     "1.000",
-     "24.000",
-     "3806",
-     "CHESTER 20.0 NNW, MT"
-    ],
-    [
      "WSMA2",
-     "2026-10-30 15:00",
-     "1.000",
+     "2026-10-31 15:00",
+     "5.200",
      "24.000",
      "1181",
      "WISEMAN"
     ],
     [
-     "MT-LY-19",
-     "2026-10-30 13:00",
-     "0.500",
+     "UBW",
+     "2026-11-01 02:00",
+     "3.100",
      "24.000",
-     "3501",
-     "WHITLASH 13.5 E, MT"
+     "72",
+     "KUPARUK,AK"
     ],
     [
-     "ANJM4",
-     "2026-10-30 18:00",
-     "0.001",
-     "6.000",
-     "614",
-     "SNOW PAID OBSERVER FOR KANJ"
+     "NUCK004",
+     "2026-10-31 12:00",
+     "3.000",
+     "24.000",
+     "1880",
+     "LAWRENCE 0.3 SSE, NE"
+    ],
+    [
+     "TLUC1",
+     "2026-10-31 15:00",
+     "0.500",
+     "24.000",
+     "8701",
+     "TUOLUMNE MEADOWS"
     ],
     [
      "AK-AB-38",
-     "2026-10-30 16:00",
+     "2026-10-31 16:00",
      "0.001",
      "24.000",
      "2146",
      "EAGLE RIVER 7.8 SE, AK"
     ],
     [
-     "ANJM4",
-     "2026-10-31 05:00",
+     "CAN-NB-105",
+     "2026-10-31 11:00",
+     "0.001",
+     "24.000",
+     "427",
+     "SISSON BROOK 3.8 E, CAN"
+    ],
+    [
+     "INVN2",
+     "2026-10-31 17:00",
+     "0.001",
+     "24.000",
+     "6352",
+     "INCLINE VILLAGE"
+    ],
+    [
+     "MI-CP-14",
+     "2026-10-31 11:30",
+     "0.001",
+     "24.000",
+     "594",
+     "SAULT STE. MARIE 2.2 E, MI"
+    ],
+    [
+     "MT-GR-6",
+     "2026-10-31 11:00",
+     "0.001",
+     "24.000",
+     "3753",
+     "CUT BANK 0.3 NNW, MT"
+    ],
+    [
+     "OR-CK-3",
+     "2026-10-31 15:00",
+     "0.001",
+     "24.000",
+     "3150",
+     "PRINEVILLE 8.4 E, OR"
+    ],
+    [
+     "SSMM4",
+     "2026-10-31 11:30",
      "0.001",
      "24.000",
      "614",
-     "SNOW PAID OBSERVER FOR KANJ"
-    ],
-    [
-     "CAN-AB-120",
-     "2026-10-30 14:00",
-     "0.001",
-     "24.000",
-     "4173",
-     "TAYLORVILLE 2.4 W, CAN"
-    ],
-    [
-     "CAN-AB-31",
-     "2026-10-30 12:00",
-     "0.001",
-     "24.000",
-     "2198",
-     "LAVOY 11.4 N, CAN"
-    ],
-    [
-     "COUM8",
-     "2026-10-30 23:00",
-     "0.001",
-     "24.000",
-     "3839",
-     "CHOTEAU"
-    ],
-    [
-     "FAOA2",
-     "2026-10-30 07:45",
-     "0.001",
-     "24.000",
-     "617",
-     "COLLEGE OBSERVATORY"
-    ],
-    [
-     "MCHN2",
-     "2026-10-30 16:00",
-     "0.001",
-     "24.000",
-     "7448",
-     "MT CHARLESTON FIRE STATION"
+     "SAULT STE MARIE"
     ]
    ],
-   "count": 12743
+   "count": 10357
   }
  ]
 }
