@@ -1,29 +1,77 @@
 {
- "updated": "2026-11-01T02:26:02.513692+00:00",
+ "updated": "2026-11-01T03:24:33.006232+00:00",
  "items": [
   {
-   "title": "Valkyries beat Dream in Game 7 thriller to win WNBA Finals in just their second season",
-   "link": "https://nypost.com/2026/10/31/sports/valkyries-beat-dream-in-game-7-thriller-to-win-wnba-finals/",
+   "title": "NYC jogger stabbed in neck in random attack remembered as family-oriented woman",
+   "link": "https://nypost.com/2026/10/31/us-news/nyc-jogger-katie-suarez-declared-brain-dead-in-random-brooklyn-stabbing-remembered/",
    "source": "New York Post",
-   "ts": 1793499928.0
+   "ts": 1793503435.0
   },
   {
-   "title": "Golden State wins first WNBA title in franchise history",
-   "link": "https://www.cbsnews.com/news/golden-state-wins-first-wnba-title-franchise-history/",
+   "title": "Maniac shot by cops after hitting officer with metal bar in downtown LA",
+   "link": "https://nypost.com/2026/10/31/us-news/man-shot-by-lapd-after-hitting-officer-with-metal-bar-in-downtown-la/",
+   "source": "New York Post",
+   "ts": 1793502911.0
+  },
+  {
+   "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7",
+   "link": "https://abcnews.com/Sports/wireStory/valkyries-dream-set-wnba-finals-game-7-after-137740321",
+   "source": "ABC News",
+   "ts": 1793502810.0
+  },
+  {
+   "title": "From hot seat to Halloween hero: Lincoln Riley shocks No. 2 Ohio State in USC\u2019s biggest win in years",
+   "link": "https://nypost.com/2026/10/31/sports/usc-stuns-no-2-ohio-state-in-massive-upset-as-lincoln-riley-earns-signature-win-at-coliseum/",
+   "source": "New York Post",
+   "ts": 1793502462.0
+  },
+  {
+   "title": "Angel Reese, Atlanta Dream fall short in Game 7 as Golden State Valkyries win first WNBA championship",
+   "link": "https://www.foxnews.com/outkick-sports/angel-reese-atlanta-dream-fall-short-game-7-golden-state-valkyries-win-first-wnba-championship",
+   "source": "Fox News",
+   "ts": 1793502124.0
+  },
+  {
+   "title": "\"48 Hours\" show schedule",
+   "link": "https://www.cbsnews.com/48-hours/episode-schedule/",
    "source": "CBS News",
-   "ts": 1793499776.0
+   "ts": 1793502002.0
   },
   {
-   "title": "21 men busted in California prostitution sting as unwitting johns seen running from cops",
-   "link": "https://nypost.com/2026/10/31/us-news/21-men-busted-in-place-county-prostitution-sting/",
-   "source": "New York Post",
-   "ts": 1793498981.0
+   "title": "Nashville chef's date night with football scout turns deadly",
+   "link": "https://www.cbsnews.com/news/jade-benning-blaise-taylor-nashville-death-48-hours/",
+   "source": "CBS News",
+   "ts": 1793501880.0
   },
   {
-   "title": "Thomas Markle Sr. seen in public for first time since child porn allegations",
-   "link": "https://pagesix.com/2026/10/31/celebrity-news/thomas-markle-sr-seen-in-public-for-first-time-since-child-porn-allegations/",
-   "source": "New York Post",
-   "ts": 1793498799.0
+   "title": "This week on \"Sunday Morning\" (Nov. 1)",
+   "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-1-2026/",
+   "source": "CBS News",
+   "ts": 1793501376.0
+  },
+  {
+   "title": "Golden State Valkyries defeat Atlanta Dream for franchise\u2019s first WNBA title",
+   "link": "https://www.nbcnews.com/sports/wnba/golden-state-valkyries-defeat-atlanta-dream-franchises-first-wnba-titl-rcna606267",
+   "source": "NBC News",
+   "ts": 1793499929.0
+  },
+  {
+   "title": "Paul Skenes and Livvy Dunne's Halloween costume will enrage anyone tired of rushing through holidays",
+   "link": "https://www.foxnews.com/outkick-sports/paul-skenes-livvy-dunne-halloween-costume-enrage-anyone-tired-rushing-holidays",
+   "source": "Fox News",
+   "ts": 1793499750.0
+  },
+  {
+   "title": "Trump calls $50 million contract for ex-lawyer Habba Mildon 'not acceptable'",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjgzV092eGo2OEhXRVd2aGsxOTl5Zzc0V25lSHBSNW9Qd3FLTXVpQUszdEdqanpLdVVscjZlMUoxTllTYVhsd0ZqYzJfbGl6Ry1YRjhNY0NyY1hjdmNRdE9jTDdpck1VSVhuRUFKblRicVAwVERrMU9sTkU0d0ppaFM4OVoxYTlpb2otQUw0MlBNaDFTbVUxTzA0UExNTWU3MTlucVFCbGFiNzAwOE5BRjBTampMT2Y0U183dWxyRQ?oc=5",
+   "source": "Reuters",
+   "ts": 1793499720.0
+  },
+  {
+   "title": "Josh Anderson, Canadiens edge Penguins",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWhLMkE4Y3J3V3NKV1NoQmlQbXFYNDhLaUtrNG1ZcldLNFdDcWhSQ0prdlgzSXZ4ZXZ4UUdDbnlxbXJPQm4zYkRIZ2hDSlU3dzVzSjhhNUVPQUx3NHBpQ21oMEZGYVdlX1U2UTNfc2VmMnE0dXZ3bUZocnBZRGJmVFRUbU5kWmtXRDZfV1EzVzkwcDg?oc=5",
+   "source": "Reuters",
+   "ts": 1793499720.0
   },
   {
    "title": "William Nylander, Maple Leafs keep Canucks reeling",
@@ -38,46 +86,10 @@
    "ts": 1793498450.0
   },
   {
-   "title": "Saddiq Bey provides lift for Pelicans in victory over Hawks",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVZuVmtHM0E5M1lZUlZqZFNFQjQ5LWJ6bVJFX2lCT01ZenJ2elRuQTBZMjdIWHZobE1ORE9rYXJVSE91RmpycllyU2R1cDVScEt6SUs4ZVdKaC03blB1Sm5ydy1OTVhZSmFxNThHVFQ2WXk0VTMxWEU2M3JlVWpNMnBSNXV0eUJTb1A0SkpEMWlkZ0txY2FHYW9hN3luQjEtRUQ4Y21TYkZ1alA2cXFSag?oc=5",
-   "source": "Reuters",
-   "ts": 1793498400.0
-  },
-  {
    "title": "NYC woman critically injured after being stabbed multiple times while jogging along Brooklyn waterfront",
    "link": "https://www.foxnews.com/us/nyc-woman-critically-injured-stabbed-multiple-times-jogging-brooklyn-waterfront",
    "source": "Fox News",
    "ts": 1793497514.0
-  },
-  {
-   "title": "Hanwha signs $269 million shipbuilding contract for US Navy",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanNHdE1oZmM1cVBFNjNlNkYzUUdqemM1VFdzRUhOUnF1NThpQmwtazFjNmk1X2ZaN2pTVG5wem0wSTlHYWtkeC1yUEYwRWYtMVZWT2JfN3V0RWkzMmROZUthOFZJY0JiM2V4bG50c1d5UGQtU1d4TWhCMm1takhlWFQzNldTbmJHbTFJcFJDcmdUZGdkTnpsREhpNFo0SExk?oc=5",
-   "source": "Reuters",
-   "ts": 1793497500.0
-  },
-  {
-   "title": "Inside the U.K. movement to pardon women executed for witchcraft centuries ago",
-   "link": "https://www.cbsnews.com/news/uk-movement-to-pardon-women-executed-for-witchcraft-maidstone/",
-   "source": "CBS News",
-   "ts": 1793496950.0
-  },
-  {
-   "title": "Indiana survives Minnesota scare with second straight overtime win to keep national title defense alive",
-   "link": "https://www.foxnews.com/outkick-sports/indiana-survives-minnesota-scare-second-straight-overtime-win-keep-national-title-defense-alive",
-   "source": "Fox News",
-   "ts": 1793496606.0
-  },
-  {
-   "title": "2026 elections live updates: Trump supports Republicans with telerallies",
-   "link": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
-   "source": "CBS News",
-   "ts": 1793495208.0
-  },
-  {
-   "title": "WNBA Finals teams end season with one final national anthem snub as Dream, Valkyries leave court",
-   "link": "https://www.foxnews.com/outkick-sports/wnba-finals-teams-end-season-one-final-national-anthem-snub-dream-valkyries-leave-court",
-   "source": "Fox News",
-   "ts": 1793494501.0
   },
   {
    "title": "Election workers describe toll of DOJ threats in court filings",
@@ -96,18 +108,6 @@
    "link": "https://www.nbcnews.com/politics/donald-trump/judge-dismisses-trump-10-billion-defamation-suit-jeffrey-epstein-wsj-rcna591049",
    "source": "NBC News",
    "ts": 1793480974.0
-  },
-  {
-   "title": "Federal officials investigate fire at beleaguered police department in Mississippi",
-   "link": "https://abcnews.com/US/wireStory/federal-officials-investigate-fire-beleaguered-police-department-mississippi-137739234",
-   "source": "ABC News",
-   "ts": 1793479574.0
-  },
-  {
-   "title": "Virginia and D.C. sue to stop proposed Trump arch",
-   "link": "https://www.nbcnews.com/politics/white-house/dc-virginia-lawsuit-stop-proposed-trump-arch-construction-rcna606705",
-   "source": "NBC News",
-   "ts": 1793466195.0
   }
  ]
 }
