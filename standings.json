@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T20:09:08.547277+00:00",
+ "updated": "2026-11-01T21:12:56.099743+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -19,8 +19,8 @@
     {
      "name": "Jets",
      "abbr": "NYJ",
-     "rec": "2-5",
-     "pct": 0.2857143
+     "rec": "2-6",
+     "pct": 0.25
     },
     {
      "name": "Dolphins",
@@ -34,22 +34,22 @@
    "name": "AFC North",
    "teams": [
     {
-     "name": "Browns",
-     "abbr": "CLE",
-     "rec": "5-2",
-     "pct": 0.71428573
-    },
-    {
      "name": "Steelers",
      "abbr": "PIT",
-     "rec": "5-2",
-     "pct": 0.71428573
+     "rec": "6-2",
+     "pct": 0.75
     },
     {
      "name": "Bengals",
      "abbr": "CIN",
      "rec": "4-2",
      "pct": 0.6666667
+    },
+    {
+     "name": "Browns",
+     "abbr": "CLE",
+     "rec": "5-3",
+     "pct": 0.625
     },
     {
      "name": "Ravens",
@@ -65,20 +65,20 @@
     {
      "name": "Jaguars",
      "abbr": "JAX",
-     "rec": "4-2",
-     "pct": 0.6666667
-    },
-    {
-     "name": "Colts",
-     "abbr": "IND",
-     "rec": "2-5",
-     "pct": 0.2857143
+     "rec": "5-2",
+     "pct": 0.71428573
     },
     {
      "name": "Texans",
      "abbr": "HOU",
      "rec": "2-5",
      "pct": 0.2857143
+    },
+    {
+     "name": "Colts",
+     "abbr": "IND",
+     "rec": "2-6",
+     "pct": 0.25
     },
     {
      "name": "Titans",
@@ -106,8 +106,8 @@
     {
      "name": "Raiders",
      "abbr": "LV",
-     "rec": "3-4",
-     "pct": 0.42857143
+     "rec": "4-4",
+     "pct": 0.5
     },
     {
      "name": "Chargers",
@@ -152,20 +152,20 @@
     {
      "name": "Vikings",
      "abbr": "MIN",
-     "rec": "6-0",
-     "pct": 1.0
+     "rec": "6-1",
+     "pct": 0.85714287
+    },
+    {
+     "name": "Lions",
+     "abbr": "DET",
+     "rec": "5-2",
+     "pct": 0.71428573
     },
     {
      "name": "Bears",
      "abbr": "CHI",
      "rec": "5-2",
      "pct": 0.71428573
-    },
-    {
-     "name": "Lions",
-     "abbr": "DET",
-     "rec": "4-2",
-     "pct": 0.6666667
     },
     {
      "name": "Packers",
@@ -185,16 +185,16 @@
      "pct": 0.42857143
     },
     {
-     "name": "Falcons",
-     "abbr": "ATL",
-     "rec": "3-4",
-     "pct": 0.42857143
-    },
-    {
      "name": "Buccaneers",
      "abbr": "TB",
-     "rec": "2-5",
-     "pct": 0.2857143
+     "rec": "3-5",
+     "pct": 0.375
+    },
+    {
+     "name": "Falcons",
+     "abbr": "ATL",
+     "rec": "3-5",
+     "pct": 0.375
     },
     {
      "name": "Saints",
