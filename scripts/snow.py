@@ -78,6 +78,14 @@ def parse_cli(text):
         if key == "month":
             rec["month_normal"] = num(mm.group(2) or "")[0]
     rec["final"] = "YESTERDAY" in blk.group(1)
+    # temperatures (for the Courier's "Beat the Forecaster" box): max/min and normal max
+    tb = re.search(r"TEMPERATURE \(F\)(.*?)PRECIPITATION", t, re.S)
+    if tb:
+        for key, lab in (("tmax", "MAXIMUM"), ("tmin", "MINIMUM")):
+            mm = re.search(lab + r"\s+(-?\d+)R?\s+(?:\d{1,2}:\d{2}\s+[AP]M|MM)?\s*(?:(-?\d+)R?\s+(\d{4})\s+(-?\d+))?", tb.group(1))
+            if mm:
+                rec[key] = int(mm.group(1))
+                if mm.group(4): rec[key + "_normal"] = int(mm.group(4))
     return rec
 
 def cli_latest(loc):
