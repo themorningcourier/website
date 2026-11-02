@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T23:10:47.225074+00:00",
+ "updated": "2026-11-02T00:07:12.366385+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -112,7 +112,7 @@
     {
      "name": "Chargers",
      "abbr": "LAC",
-     "rec": "0-6",
+     "rec": "0-7",
      "pct": 0.0
     }
    ]
@@ -222,8 +222,8 @@
     {
      "name": "Rams",
      "abbr": "LAR",
-     "rec": "3-4",
-     "pct": 0.42857143
+     "rec": "4-4",
+     "pct": 0.5
     },
     {
      "name": "Cardinals",
