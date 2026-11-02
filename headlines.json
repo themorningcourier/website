@@ -1,11 +1,29 @@
 {
- "updated": "2026-11-02T03:57:13.853807+00:00",
+ "updated": "2026-11-02T05:01:52.989272+00:00",
  "items": [
   {
-   "title": "DNA used to identify body found in shallow grave in 1991",
-   "link": "https://www.mynbc5.com/article/glenn-powers-dna-identification-massachusetts-homicide/74306753",
+   "title": "2026 VPA Girls' Soccer Playoff Bracket",
+   "link": "https://www.mynbc5.com/article/2026-vpa-girls-soccer-playoff-bracket/74173583",
    "source": "WPTZ",
-   "ts": 1793590620.0
+   "ts": 1793595120.0
+  },
+  {
+   "title": "2026 VPA Girls' Volleyball Playoff Bracket",
+   "link": "https://www.mynbc5.com/article/2026-girls-volleyball-playoff-bracket/74171708",
+   "source": "WPTZ",
+   "ts": 1793595000.0
+  },
+  {
+   "title": "\u2018The right time\u2019: County removes all Flock cameras, ends use over privacy concerns",
+   "link": "https://www.wcax.com/2026/11/02/right-time-county-removes-all-flock-cameras-ends-usage-over-privacy-concerns/",
+   "source": "WCAX",
+   "ts": 1793594969.0
+  },
+  {
+   "title": "2026 VPA Boys' Soccer Playoff Bracket",
+   "link": "https://www.mynbc5.com/article/2026-vpa-boys-soccer-playoff-bracket/74173432",
+   "source": "WPTZ",
+   "ts": 1793594760.0
   },
   {
    "title": "Dry weather continues on Monday, though the chance for showers continues to increase for Election Day in northern parts of the region.",
@@ -14,28 +32,10 @@
    "ts": 1793589267.0
   },
   {
-   "title": "2026 VPA Boys' Soccer Playoff Bracket",
-   "link": "https://www.mynbc5.com/article/2026-vpa-boys-soccer-playoff-bracket/74173432",
-   "source": "WPTZ",
-   "ts": 1793589120.0
-  },
-  {
-   "title": "Early Voter Turnout: Clinton County reports record-breaking year",
-   "link": "https://www.mynbc5.com/article/clinton-county-voter-turnout-2026/74306267",
-   "source": "WPTZ",
-   "ts": 1793589120.0
-  },
-  {
    "title": "Saturday Halloween, extra hour bring busier night to Burlington bars",
    "link": "https://www.wcax.com/2026/11/02/saturday-halloween-extra-hour-bring-busier-night-burlington-bars/",
    "source": "WCAX",
    "ts": 1793586143.0
-  },
-  {
-   "title": "2 dead, 6 injured in shooting at nightclub",
-   "link": "https://www.wcax.com/2026/11/01/2-dead-4-injured-shooting-nightclub/",
-   "source": "WCAX",
-   "ts": 1793584204.0
   },
   {
    "title": "Do you know signs of a stroke? BE FAST are the words to remember",
@@ -44,16 +44,16 @@
    "ts": 1793571732.0
   },
   {
+   "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
+   "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+   "source": "NPR",
+   "ts": 1793571553.0
+  },
+  {
    "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
    "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
    "source": "NPR",
    "ts": 1793562555.0
-  },
-  {
-   "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
-   "link": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
-   "source": "NPR",
-   "ts": 1793559658.0
   },
   {
    "title": "Data centers need guardrails now",
