@@ -1,35 +1,77 @@
 {
- "updated": "2026-11-02T22:45:05.543736+00:00",
+ "updated": "2026-11-02T23:40:40.519432+00:00",
  "items": [
   {
-   "title": "Rams get massive boost as Myles Garrett\u2019s long-awaited return draws near",
-   "link": "https://nypost.com/2026/11/02/sports/myles-garrett-returning-to-rams-practice-as-sean-mcvay-delivers-huge-injury-update-ahead-of-commanders-game/",
+   "title": "Jets\u2019 record reveals exactly where the blame lies for this failure",
+   "link": "https://nypost.com/2026/11/02/sports/jets-record-reveals-exactly-where-the-blame-lies-for-this-failure/",
    "source": "New York Post",
-   "ts": 1793659461.0
+   "ts": 1793662788.0
   },
   {
-   "title": "Iran says \"ball is in the U.S. court\" on any deal to end the war",
+   "title": "Parents and 2 young children among victims of Learjet crash in Florida, family says",
+   "link": "https://abcnews.com/US/learjet-breaking-crashed-florida-ntsb/story?id=137781527",
+   "source": "ABC News",
+   "ts": 1793662698.0
+  },
+  {
+   "title": "Fast Takes: Burying Haley\u2019s true gripe, Dems\u2019 disastrous \u201928 agenda and other commentary",
+   "link": "https://nypost.com/2026/11/02/opinion/fast-takes-burying-haleys-true-gripe-dems-disastrous-28-agenda-and-other-commentary/",
+   "source": "New York Post",
+   "ts": 1793662696.0
+  },
+  {
+   "title": "The moves \u2014 at the right price \u2014 that can turn your fantasy football season around",
+   "link": "https://nypost.com/2026/11/02/sports/the-moves-at-the-right-price-that-can-turn-your-fantasy-football-season-around/",
+   "source": "New York Post",
+   "ts": 1793662665.0
+  },
+  {
+   "title": "Trump says \"Iran wants a settlement, as soon as possible\"",
    "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
    "source": "CBS News",
-   "ts": 1793659328.0
+   "ts": 1793662351.0
   },
   {
-   "title": "\u2018Obsessed\u2019 Michigan maniac hunts down ex-wife in upstate NY, kills himself as cops close in after 200-mile manhunt",
-   "link": "https://nypost.com/2026/11/02/us-news/michigan-maniac-hunts-down-ex-wife-in-upstate-ny-kills-himself-after-200-mile-manhunt/",
-   "source": "New York Post",
-   "ts": 1793659307.0
-  },
-  {
-   "title": "NBA blew it by letting Natalie Nakase slip away \u2014 and she just proved it",
-   "link": "https://nypost.com/2026/11/02/sports/nba-missed-out-on-natalie-nakase-who-just-made-wnba-history-with-valkyries/",
-   "source": "New York Post",
-   "ts": 1793659251.0
-  },
-  {
-   "title": "Here's what Susan Collins and Troy Jackson are telling Maine voters ahead of the midterms",
-   "link": "https://www.cbsnews.com/video/comparing-susan-collins-troy-jacksons-maine-campaign-messaging/",
+   "title": "Trump's final midterm message for voters largely focuses on D.C. renovations",
+   "link": "https://www.cbsnews.com/video/trumps-final-midterm-message-largely-focuses-on-dc-renovations/",
    "source": "CBS News",
-   "ts": 1793658844.0
+   "ts": 1793662122.0
+  },
+  {
+   "title": "Live Updates: Trump tells GOP \"we gave this a very strong shot\"",
+   "link": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/",
+   "source": "CBS News",
+   "ts": 1793662041.0
+  },
+  {
+   "title": "Midterm elections live updates: SCOTUS denies Trump bid to segregate California votes",
+   "link": "https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278",
+   "source": "ABC News",
+   "ts": 1793661661.0
+  },
+  {
+   "title": "Six things to watch as US voters decide control of Congress",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQmhIdWxtdzRFOUc3OGNONWhFSko0VE1veTIxZURBRXpGQ01BLXphRHdKc1ExUktTUVFpUWxLdWxkQldXTWJ0Z2JabVJ6Y011R050OHFVelhXTXZmZTZLLTdTZ0k4X0pKd2Vsc19zd3BSUmxYMVZsVXBmRzN1NWwyZkE4dmJFSk1kWHg1Y2pKM0FxLXVtVnBjelRvaw?oc=5",
+   "source": "Reuters",
+   "ts": 1793661274.0
+  },
+  {
+   "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXBRdlBrbE5GVUt6UUhpRWFyUUNFTlBtSTAtdXgyaDA1OFl6ajZTQWg1SGlTakZXRXFNc0x4V1QtMHdmc1Vpb0ZWUGxlai1xR2xJTDd5YnVfZXBuY3ZyU1JDQk5tWU5PMEUwZlV2NGpGamg3SEZ0clF1NzA2R25McW52dzk0aGxLUkVnXzFwNlRpYlY3SlR2ckJnNHZPOUx6ZHNzNg?oc=5",
+   "source": "Reuters",
+   "ts": 1793660343.0
+  },
+  {
+   "title": "Supreme Court quickly rejects Trump effort to target alleged noncitizen voters in California",
+   "link": "https://www.nbcnews.com/politics/supreme-court/rejects-trump-effort-target-alleged-noncitizen-voters-california-midte-rcna606607",
+   "source": "NBC News",
+   "ts": 1793659940.0
+  },
+  {
+   "title": "US strategy links Myanmar peace talks to rare-earth access",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQektPMXRENjNVbGZYbW9uOE5TdHFnWkxqTWh0bmJqLWtFUnBMQ2xSM2s2am5ra3NLdEhBMFFhYTRYd29ENUx6eDI3YjBURW1BcW5jZ0RBSkowbEplM0lwY251UzZuWEZmZng0RGVvbkYxV090RTJlaVZvUkx5LWR1aFdfYWFTbmN2T05LbmRHOGhmOW5Cci1fSW96UjMxNDFuLThmMVo4V00teDd0a2Zr?oc=5",
+   "source": "Reuters",
+   "ts": 1793659442.0
   },
   {
    "title": "How the Michigan and Alaska dramas shape the fight for the Senate: From the Politics Desk",
@@ -38,28 +80,10 @@
    "ts": 1793658600.0
   },
   {
-   "title": "Can Trumpism Survive the Midterms?",
-   "link": "https://www.cbsnews.com/video/can-trumpism-survive-the-midterms/",
-   "source": "CBS News",
-   "ts": 1793658292.0
-  },
-  {
-   "title": "Learjet may have been breaking up before it crashed in Florida, NTSB says",
-   "link": "https://abcnews.com/US/learjet-breaking-crashed-florida-ntsb/story?id=137781527",
-   "source": "ABC News",
-   "ts": 1793657867.0
-  },
-  {
    "title": "Woman stabbed while jogging in Brooklyn on life support: NYPD",
    "link": "https://abcnews.com/US/nypd-seeks-info-jogger-stabbed-brooklyn-waterfront-critical/story?id=137764034",
    "source": "ABC News",
    "ts": 1793657845.0
-  },
-  {
-   "title": "Trump approval near career low ahead of elections, Reuters/Ipsos poll finds",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckJ4X3UzNnZ3QWxTaXBzanBjc000blVFTXpDRDFEYnFUa29ZcWpOM1lxWS1LSWpMSlFfMFYzZ3U0UE4xZGpSQXJHc2ZneGllSzRZMjdZS3p4dzM5ZUk1dWtOd2ticXV5OGZBLXZqVHhSMi1uTGl1cUR5a2wzZm45cVllZy05UXBURGhLaWN5WWU0SlNMdS1zamRodWhNNUlqWEJKUW1qZmNCRHpnNFRscXlR?oc=5",
-   "source": "Reuters",
-   "ts": 1793657698.0
   },
   {
    "title": "With AO3 down, fanfic readers are in survival mode",
@@ -68,46 +92,22 @@
    "ts": 1793657544.0
   },
   {
-   "title": "Oracle taps investors for $20 billion to finance AI expansion",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OVGUyeXVqQlVYMEx3TEhEVHY5ekZLX3paamdqNUF1ek80VE9RZVhuSFl2d3dsVkF6T2JyVFdJdF8xR1FuWU5EdU9OWG03SmRoLUloaEFCc3pGLXFxN0FyOUNnVkM3T3prb1NMYXBOanNGT2RMYjNxcTZsdUEwbGs?oc=5",
-   "source": "Reuters",
-   "ts": 1793657048.0
-  },
-  {
-   "title": "Major automakers urge US Congress to pass permanent ban on Chinese vehicles",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTVhdFlwU2VQcjVwVnVwdGZHQkpGcEtJbWVjcW1uOC1aQ2ZuZ3hmblRmWkRRMU1RdWZrM1ZoN3k5eDZfem1UVTZRMVQtbkRTV1hnR1RZNUN4VndSMzJEV0FRUGprVWtmbnVhZFc5WDdrX3EyWWw4WDNyTEk3UmgtUy1uWGtvejg2MWI3RDhJVVFrZFBOUDRxLXFFS1I4WHhHOFc3LU5BbWVuR1pPY09OMTlubFI4dHduM2RaMExUUQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793656616.0
-  },
-  {
-   "title": "Allergies acting up? You may need a humidifier.",
-   "link": "https://www.nbcnews.com/select/shopping/best-humidifiers-rcna607058",
-   "source": "NBC News",
-   "ts": 1793656582.0
-  },
-  {
-   "title": "Midterm elections live updates: 'We gave this a very strong shot,' Trump says",
-   "link": "https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278",
-   "source": "ABC News",
-   "ts": 1793655786.0
-  },
-  {
-   "title": "NHL and Fanatics unveil 'Hometown Remix' jerseys celebrating local culture for all 32 teams",
-   "link": "https://www.foxnews.com/outkick-sports/nhl-fanatics-unveil-hometown-remix-jerseys-celebrating-local-culture-32-teams",
+   "title": "Florida plane crash victims identified after 9 people killed in fiery wreck",
+   "link": "https://www.foxnews.com/us/florida-plane-crash-victims-identified-9-people-killed-fiery-wreck",
    "source": "Fox News",
-   "ts": 1793655322.0
+   "ts": 1793656623.0
   },
   {
-   "title": "BOBBY BURACK: The anti-white resistance is already beginning for Cooper Flagg",
-   "link": "https://www.foxnews.com/outkick-sports/anti-white-resistance-already-beginning-cooper-flagg-bobby-burack",
+   "title": "Scientists discover potentially massive dwarf planet candidate hiding beyond Pluto",
+   "link": "https://www.foxnews.com/travel/scientists-discover-potentially-massive-dwarf-planet-candidate-hiding-beyond-pluto",
    "source": "Fox News",
-   "ts": 1793654431.0
+   "ts": 1793655821.0
   },
   {
-   "title": "JACKSON THOMPSON: Maine girls speak out about facing trans athlete as state grapples with issue",
-   "link": "https://www.foxnews.com/outkick-sports/maine-girls-speak-facing-trans-athlete-state-grapples-issue",
+   "title": "Spike Lee hopes the Knicks won't visit the White House, warns owner 'can\u2019t force them'",
+   "link": "https://www.foxnews.com/media/spike-lee-hopes-knicks-wont-visit-white-house-warns-owner-cant-force-them",
    "source": "Fox News",
-   "ts": 1793654295.0
+   "ts": 1793655663.0
   }
  ]
 }
