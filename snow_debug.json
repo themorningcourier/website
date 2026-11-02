@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T20:17:51.600990+00:00",
+ "updated": "2026-11-02T08:41:34.484643+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
@@ -11,6 +11,24 @@
      "inches": 23.0,
      "hours": 24.0,
      "time": "2026-10-31 12:00"
+    },
+    {
+     "id": "AYTA2",
+     "name": "Alyeska Weather Top",
+     "state": "AK",
+     "elev_ft": "2707",
+     "inches": 17.0,
+     "hours": 24.0,
+     "time": "2026-10-31 14:00"
+    },
+    {
+     "id": "AYMA2",
+     "name": "Alyeska Weather Mid",
+     "state": "AK",
+     "elev_ft": "1644",
+     "inches": 14.0,
+     "hours": 24.0,
+     "time": "2026-10-31 14:00"
     },
     {
      "id": "BTT",
@@ -49,6 +67,15 @@
      "time": "2026-10-31 12:00"
     },
     {
+     "id": "AYBA2",
+     "name": "Alyeska Base",
+     "state": "AK",
+     "elev_ft": "371",
+     "inches": 1.0,
+     "hours": 24.0,
+     "time": "2026-10-31 14:00"
+    },
+    {
      "id": "TLUC1",
      "name": "Tuolumne Meadows",
      "state": "CA",
@@ -65,24 +92,6 @@
      "inches": 0.001,
      "hours": 24.0,
      "time": "2026-10-31 16:00"
-    },
-    {
-     "id": "INVN2",
-     "name": "Incline Village",
-     "state": "NV",
-     "elev_ft": "6352",
-     "inches": 0.001,
-     "hours": 24.0,
-     "time": "2026-10-31 17:00"
-    },
-    {
-     "id": "MI-CP-14",
-     "name": "Sault Ste. Marie 2.2 E, Mi",
-     "state": "MI",
-     "elev_ft": "594",
-     "inches": 0.001,
-     "hours": 24.0,
-     "time": "2026-10-31 11:30"
     }
    ]
   },
@@ -110,6 +119,22 @@
      "24.000",
      "1539",
      "SEWARD 4.7 NE, NE"
+    ],
+    [
+     "AYTA2",
+     "2026-10-31 14:00",
+     "17.000",
+     "24.000",
+     "2707",
+     "ALYESKA WEATHER TOP"
+    ],
+    [
+     "AYMA2",
+     "2026-10-31 14:00",
+     "14.000",
+     "24.000",
+     "1644",
+     "ALYESKA WEATHER MID"
     ],
     [
      "BTT",
@@ -142,6 +167,14 @@
      "24.000",
      "1880",
      "LAWRENCE 0.3 SSE, NE"
+    ],
+    [
+     "AYBA2",
+     "2026-10-31 14:00",
+     "1.000",
+     "24.000",
+     "371",
+     "ALYESKA BASE"
     ],
     [
      "TLUC1",
@@ -182,33 +215,9 @@
      "24.000",
      "594",
      "SAULT STE. MARIE 2.2 E, MI"
-    ],
-    [
-     "MT-GR-6",
-     "2026-10-31 11:00",
-     "0.001",
-     "24.000",
-     "3753",
-     "CUT BANK 0.3 NNW, MT"
-    ],
-    [
-     "OR-CK-3",
-     "2026-10-31 15:00",
-     "0.001",
-     "24.000",
-     "3150",
-     "PRINEVILLE 8.4 E, OR"
-    ],
-    [
-     "SSMM4",
-     "2026-10-31 11:30",
-     "0.001",
-     "24.000",
-     "614",
-     "SAULT STE MARIE"
     ]
    ],
-   "count": 10357
+   "count": 10756
   }
  ]
 }
