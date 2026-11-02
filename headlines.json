@@ -1,41 +1,47 @@
 {
- "updated": "2026-11-02T15:33:11.075508+00:00",
+ "updated": "2026-11-02T16:38:49.042075+00:00",
  "items": [
   {
-   "title": "JD Vance to campaign with Anthony Constantino; Gendebien holds final rally before election",
+   "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
+   "link": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+   "source": "NPR",
+   "ts": 1793637257.0
+  },
+  {
+   "title": "Shotgun toting Burlington man arrested after brandishing gun, police say",
+   "link": "https://www.wcax.com/2026/11/02/shotgun-toting-burlington-man-arrested-after-brandishing-gun-police-say/",
+   "source": "WCAX",
+   "ts": 1793636614.0
+  },
+  {
+   "title": "ACA and Medicare in 2027: What\u2019s changing and how to prepare",
+   "link": "https://www.mynbc5.com/article/aca-marketplace-medicare-changes-2027/74297044",
+   "source": "WPTZ",
+   "ts": 1793635440.0
+  },
+  {
+   "title": "JD Vance campaigns with Anthony Constantino; Gendebien holds final rally before election",
    "link": "https://www.mynbc5.com/article/jd-vance-anthony-constantino-campaign-rally/74310990",
    "source": "WPTZ",
-   "ts": 1793632080.0
+   "ts": 1793635200.0
   },
   {
-   "title": "Savannah Guthrie renews plea for information in mother's disappearance",
-   "link": "https://www.mynbc5.com/article/savannah-guthrie-renews-plea-mothers-disappearance/74310768",
+   "title": "Judge dismisses complaint against ex-FBI officials accused of lying to Congress about Hunter Biden",
+   "link": "https://www.mynbc5.com/article/judge-dismisses-fbi-complaint-hunter-biden-laptop-case/74311934",
    "source": "WPTZ",
-   "ts": 1793631420.0
+   "ts": 1793635140.0
   },
   {
-   "title": "School district addresses candy given out in medicine bottles",
-   "link": "https://www.mynbc5.com/article/school-responds-candy-given-out-in-medicine-bottles/74311199",
-   "source": "WPTZ",
-   "ts": 1793630820.0
-  },
-  {
-   "title": "Doctors prescribe GLP-1 drugs to some children for weight loss",
-   "link": "https://www.wcax.com/2026/11/02/doctors-prescribe-glp-1-drugs-some-children-weight-loss/",
+   "title": "Butterfly Kisses Alliance changes the way families are supported after the loss of a child",
+   "link": "https://www.wcax.com/2026/11/02/butterfly-kisses-alliance-changes-way-families-are-supported-after-loss-child/",
    "source": "WCAX",
-   "ts": 1793628790.0
+   "ts": 1793634627.0
   },
   {
-   "title": "Deep brain stimulation surgery allows artist to return to woodcarving",
-   "link": "https://www.wcax.com/2026/11/02/deep-brain-stimulation-surgery-allows-artist-return-woodcarving/",
+   "title": "Despite higher paychecks, Americans still have less money to spend, Labor Department report says",
+   "link": "https://www.wcax.com/2026/11/02/despite-higher-paychecks-americans-still-have-less-money-spend-labor-department-report-says/",
    "source": "WCAX",
-   "ts": 1793627022.0
-  },
-  {
-   "title": "InvestigateTV+: A solution to blood shortages?",
-   "link": "https://www.wcax.com/2026/11/02/investigatetv-solution-blood-shortages/",
-   "source": "WCAX",
-   "ts": 1793625207.0
+   "ts": 1793634244.0
   },
   {
    "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
@@ -54,12 +60,6 @@
    "link": "https://vtdigger.org/2026/11/02/an-affluent-southern-vermont-town-considers-adding-housing-or-keeping-green-space/",
    "source": "VTDigger",
    "ts": 1793614500.0
-  },
-  {
-   "title": "6 things to watch for on election night",
-   "link": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
-   "source": "NPR",
-   "ts": 1793613600.0
   },
   {
    "title": "Data centers need guardrails now",
