@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T00:07:12.366385+00:00",
+ "updated": "2026-11-02T01:44:20.295124+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -13,8 +13,8 @@
     {
      "name": "Patriots",
      "abbr": "NE",
-     "rec": "4-3",
-     "pct": 0.5714286
+     "rec": "5-3",
+     "pct": 0.625
     },
     {
      "name": "Jets",
@@ -25,8 +25,8 @@
     {
      "name": "Dolphins",
      "abbr": "MIA",
-     "rec": "1-5",
-     "pct": 0.16666667
+     "rec": "1-6",
+     "pct": 0.14285715
     }
    ]
   },
@@ -92,14 +92,14 @@
    "name": "AFC West",
    "teams": [
     {
-     "name": "Chiefs",
-     "abbr": "KC",
-     "rec": "5-1",
-     "pct": 0.8333333
-    },
-    {
      "name": "Broncos",
      "abbr": "DEN",
+     "rec": "6-2",
+     "pct": 0.75
+    },
+    {
+     "name": "Chiefs",
+     "abbr": "KC",
      "rec": "5-2",
      "pct": 0.71428573
     },
