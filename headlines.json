@@ -1,21 +1,45 @@
 {
- "updated": "2026-11-02T10:06:12.940955+00:00",
+ "updated": "2026-11-02T11:05:43.535750+00:00",
  "items": [
   {
-   "title": "With students scarce, college admissions offices get friendlier, less intimidating",
-   "link": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
-   "source": "NPR",
-   "ts": 1793613600.0
+   "title": "Flash flooding triggers evacuations in Southwest, warning for Colorado spa town",
+   "link": "https://www.mynbc5.com/article/flash-flooding-evacuations-southwest-colorado-town/74309124",
+   "source": "WPTZ",
+   "ts": 1793616900.0
   },
   {
-   "title": "What Vance's midterm push reveals about his potential 2028 bid",
-   "link": "https://www.npr.org/2026/11/02/nx-s1-6023159/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
+   "title": "'Looked like a missile going down': Witnesses recount moments after jet crash in Florida",
+   "link": "https://www.mynbc5.com/article/florida-witnesses-jet-crash/74308803",
+   "source": "WPTZ",
+   "ts": 1793615580.0
+  },
+  {
+   "title": "\u2018I was terrified\u2019: Viral door-kicking challenge concerns. See what to be on the lookout for",
+   "link": "https://www.wcax.com/2026/11/02/i-was-terrified-viral-door-kicking-challenge-concerns-see-what-be-lookout/",
+   "source": "WCAX",
+   "ts": 1793615122.0
+  },
+  {
+   "title": "An affluent southern Vermont town considers adding housing \u2014 or keeping green space",
+   "link": "https://vtdigger.org/2026/11/02/an-affluent-southern-vermont-town-considers-adding-housing-or-keeping-green-space/",
+   "source": "VTDigger",
+   "ts": 1793614500.0
+  },
+  {
+   "title": "6 things to watch for on election night",
+   "link": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
    "source": "NPR",
    "ts": 1793613600.0
   },
   {
    "title": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
    "link": "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure",
+   "source": "NPR",
+   "ts": 1793613600.0
+  },
+  {
+   "title": "With students scarce, college admissions offices get friendlier, less intimidating",
+   "link": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
    "source": "NPR",
    "ts": 1793613600.0
   },
@@ -38,24 +62,6 @@
    "ts": 1793601402.0
   },
   {
-   "title": "Man grabs trick-or-treating girl, follows other children in van on Halloween night, police say",
-   "link": "https://www.wcax.com/2026/11/02/man-grabs-trick-or-treating-girl-follows-other-children-van-halloween-night-police-say/",
-   "source": "WCAX",
-   "ts": 1793599498.0
-  },
-  {
-   "title": "2026 VPA Boys' Soccer Playoff Bracket",
-   "link": "https://www.mynbc5.com/article/2026-vpa-boys-soccer-playoff-bracket/74173432",
-   "source": "WPTZ",
-   "ts": 1793598540.0
-  },
-  {
-   "title": "2026 VPA Girls' Soccer Playoff Bracket",
-   "link": "https://www.mynbc5.com/article/2026-vpa-girls-soccer-playoff-bracket/74173583",
-   "source": "WPTZ",
-   "ts": 1793598480.0
-  },
-  {
    "title": "Data centers need guardrails now",
    "link": "https://vtdigger.org/2026/11/01/opinion-data-centers-need-guardrails-now/",
    "source": "VTDigger",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/01/public-phone-now-available-in-downtown-middlebury/",
    "source": "VTDigger",
    "ts": 1793540760.0
-  },
-  {
-   "title": "New Burlington police chief will face tall order",
-   "link": "https://vtdigger.org/2026/11/01/new-burlington-police-chief-will-face-tall-order/",
-   "source": "VTDigger",
-   "ts": 1793536380.0
   }
  ]
 }
