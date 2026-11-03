@@ -1,23 +1,47 @@
 {
- "updated": "2026-11-03T12:27:25.554193+00:00",
+ "updated": "2026-11-03T13:45:39.730594+00:00",
  "items": [
   {
    "title": "Live updates: Voters begin casting ballots as \ufeffkey races could reshape the nation",
    "link": "https://www.mynbc5.com/article/live-updates-nov-3-midterm-elections-2026/74315870",
    "source": "WPTZ",
-   "ts": 1793708760.0
+   "ts": 1793712540.0
   },
   {
-   "title": "'We are deeply saddened': New York reports first measles death in more than 30 years",
-   "link": "https://www.mynbc5.com/article/new-york-first-measles-death-30-years/74320378",
+   "title": "Vermont man accused of abandoning baby, threatening police with a knife",
+   "link": "https://www.mynbc5.com/article/baby-abandoned-montpelier-man-drunk-armed/74320275",
    "source": "WPTZ",
-   "ts": 1793708340.0
+   "ts": 1793712360.0
   },
   {
-   "title": "Death toll hits 31 after Russian strike on Ukrainian aid site, with dozens still missing",
-   "link": "https://www.mynbc5.com/article/russian-strike-ukrainian-aid-dozens-missing/74321047",
+   "title": "Anti-wrinkle injections: What to know about medical uses and risks",
+   "link": "https://www.wcax.com/2026/11/03/anti-wrinkle-injections-what-know-about-medical-uses-risks/",
+   "source": "WCAX",
+   "ts": 1793712337.0
+  },
+  {
+   "title": "It's Election Day: Here's what you need to know before polls close",
+   "link": "https://www.mynbc5.com/article/its-election-day-heres-what-you-need-to-know-before-polls-close/74310465",
    "source": "WPTZ",
-   "ts": 1793708040.0
+   "ts": 1793711520.0
+  },
+  {
+   "title": "InvestigateTV+: What\u2019s slowing program that helps 9/11 survivors?",
+   "link": "https://www.wcax.com/2026/11/03/investigatetv-whats-slowing-program-that-helps-911-survivors/",
+   "source": "WCAX",
+   "ts": 1793711003.0
+  },
+  {
+   "title": "How districts are addressing bus driver shortages",
+   "link": "https://www.wcax.com/2026/11/03/how-districts-are-addressing-bus-driver-shortages/",
+   "source": "WCAX",
+   "ts": 1793710902.0
+  },
+  {
+   "title": "Vermonters are heading to the polls around the state. Here\u2019s what\u2019s on the ballot.",
+   "link": "https://vtdigger.org/2026/11/03/vermonters-are-heading-to-the-polls-around-the-state-heres-whats-on-the-ballot/",
+   "source": "VTDigger",
+   "ts": 1793709900.0
   },
   {
    "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
@@ -26,34 +50,16 @@
    "ts": 1793706229.0
   },
   {
-   "title": "Police see driver crash into Rutland furniture store",
-   "link": "https://www.wcax.com/2026/11/03/police-see-driver-crash-into-rutland-furniture-store/",
-   "source": "WCAX",
-   "ts": 1793706110.0
-  },
-  {
-   "title": "Police say drunk Montpelier man abandoned baby in a stroller",
-   "link": "https://www.wcax.com/2026/11/03/police-say-drunk-montpelier-man-abandoned-baby-stroller/",
-   "source": "WCAX",
-   "ts": 1793705001.0
-  },
-  {
    "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
    "link": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
    "source": "NPR",
    "ts": 1793703674.0
   },
   {
-   "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
-   "link": "https://www.npr.org/2026/11/03/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
+   "title": "Four types of House races to watch on election night to know how it might go",
+   "link": "https://www.npr.org/2026/11/03/g-s1-151305/2026-midterms-house-races-to-watch",
    "source": "NPR",
    "ts": 1793703600.0
-  },
-  {
-   "title": "A few shower chances this week, and record midweek warmth",
-   "link": "https://www.wcax.com/2026/11/03/few-shower-chances-this-week-record-midweek-warmth/",
-   "source": "WCAX",
-   "ts": 1793697476.0
   },
   {
    "title": "In Kirby, a potluck and debate night brings neighbors together",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/02/workers-at-lake-champlain-chocolates-push-to-unionize/",
    "source": "VTDigger",
    "ts": 1793659361.0
-  },
-  {
-   "title": "Gifford Health Care raises rates and reduces hours on its employee daycare center",
-   "link": "https://vtdigger.org/2026/11/02/gifford-health-center-raises-rates-and-reduces-hours-on-its-employee-daycare-center/",
-   "source": "VTDigger",
-   "ts": 1793658578.0
   }
  ]
 }
