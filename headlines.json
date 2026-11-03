@@ -1,29 +1,41 @@
 {
- "updated": "2026-11-03T22:45:32.028709+00:00",
+ "updated": "2026-11-03T23:42:19.320161+00:00",
  "items": [
+  {
+   "title": "Vermont midterm election results 2026: See latest updates on key races",
+   "link": "https://www.mynbc5.com/article/vt-midterm-election-results-2026/74149387",
+   "source": "WPTZ",
+   "ts": 1793749140.0
+  },
+  {
+   "title": "Two killed in Upper Valley car fire, police say",
+   "link": "https://www.mynbc5.com/article/fatal-car-fire-hartford-vermont/74324898",
+   "source": "WPTZ",
+   "ts": 1793749020.0
+  },
+  {
+   "title": "Tony Butala, co-founder of The Lettermen group known for 'The Way You Look Tonight,' dies at 87",
+   "link": "https://www.mynbc5.com/article/tony-butala-co-founder-of-lettermen-vocal-group-dies-at-87/74326511",
+   "source": "WPTZ",
+   "ts": 1793748900.0
+  },
+  {
+   "title": "What Democrats plan to prioritize if they retake the House",
+   "link": "https://www.npr.org/2026/11/03/nx-s1-6026666/what-democrats-plan-to-prioritize-if-they-retake-the-house",
+   "source": "NPR",
+   "ts": 1793747509.0
+  },
+  {
+   "title": "Results: States decide on voter ID and redistricting ballot measures",
+   "link": "https://www.npr.org/2026/11/03/nx-s1-6027957/results-voter-id-citizenship-ballot-measures",
+   "source": "NPR",
+   "ts": 1793746403.0
+  },
   {
    "title": "Who checks the software\u2019s work?",
    "link": "https://vtdigger.org/2026/11/03/opinion-who-checks-the-softwares-work/",
    "source": "VTDigger",
    "ts": 1793745752.0
-  },
-  {
-   "title": "Live updates: First polls close soon as voters nationwide will determine key races",
-   "link": "https://www.mynbc5.com/article/live-updates-nov-3-midterm-elections-2026/74315870",
-   "source": "WPTZ",
-   "ts": 1793745720.0
-  },
-  {
-   "title": "What's at stake for Congress this midterm?",
-   "link": "https://www.mynbc5.com/article/whats-at-stake-for-congress-this-midterm/74299280",
-   "source": "WPTZ",
-   "ts": 1793745480.0
-  },
-  {
-   "title": "2026 midterm election results: All U.S. Senate, House and governor races",
-   "link": "https://www.mynbc5.com/article/2026-midterm-election-results-united-states/74276209",
-   "source": "WPTZ",
-   "ts": 1793745480.0
   },
   {
    "title": "When the last Holocaust survivors are gone, who will teach their history?",
@@ -36,18 +48,6 @@
    "link": "https://www.npr.org/2026/11/03/nx-s1-6005523/legendary-photographer-on-getting-that-perfect-election-night-picture",
    "source": "NPR",
    "ts": 1793745213.0
-  },
-  {
-   "title": "Connecticut bakers are bringing joy back to election day, one cake at a time",
-   "link": "https://www.npr.org/2026/11/03/nx-s1-6026494/election-cake-bake-off-hartford-connecticut",
-   "source": "NPR",
-   "ts": 1793744913.0
-  },
-  {
-   "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
-   "link": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
-   "source": "NPR",
-   "ts": 1793744715.0
   },
   {
    "title": "Election Day: What Vermont\u2019s 2024 vote could tell us about 2026",
