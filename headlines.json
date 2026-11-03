@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-03T09:28:08.319617+00:00",
+ "updated": "2026-11-03T10:30:13.270589+00:00",
  "items": [
+  {
+   "title": "FDA recalls thousands of blood pressure bottles, says pills failed quality tests",
+   "link": "https://www.mynbc5.com/article/fda-blood-pressure-medication-recall-pills-fail-test/74319583",
+   "source": "WPTZ",
+   "ts": 1793700720.0
+  },
+  {
+   "title": "'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day",
+   "link": "https://www.npr.org/2026/11/03/nx-s1-6014577/swing-voters-midterm-elections-voting-trump",
+   "source": "NPR",
+   "ts": 1793700000.0
+  },
+  {
+   "title": "How NPR makes race calls in the 2026 election",
+   "link": "https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026",
+   "source": "NPR",
+   "ts": 1793700000.0
+  },
+  {
+   "title": "A new cold war: hackers target fridges across the globe",
+   "link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
+   "source": "NPR",
+   "ts": 1793700000.0
+  },
   {
    "title": "Sullivan County, New Hampshire election results: See latest updates",
    "link": "https://www.mynbc5.com/article/sullivan-county-new-hampshire-election-results-2026/74193122",
@@ -10,12 +34,6 @@
   {
    "title": "Grafton County, New Hampshire election results: See latest updates",
    "link": "https://www.mynbc5.com/article/grafton-county-new-hampshire-election-results-2026/74193155",
-   "source": "WPTZ",
-   "ts": 1793697900.0
-  },
-  {
-   "title": "New Hampshire U.S. Senate election: See latest updates",
-   "link": "https://www.mynbc5.com/article/new-hampshire-senate-class-ii-election-results-2026/74193037",
    "source": "WPTZ",
    "ts": 1793697900.0
   },
@@ -54,24 +72,6 @@
    "link": "https://vtdigger.org/2026/11/02/gifford-health-center-raises-rates-and-reduces-hours-on-its-employee-daycare-center/",
    "source": "VTDigger",
    "ts": 1793658578.0
-  },
-  {
-   "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
-   "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
-   "source": "NPR",
-   "ts": 1793649761.0
-  },
-  {
-   "title": "Is America really that polarized? The answer might be a surprise",
-   "link": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
-   "source": "NPR",
-   "ts": 1793649600.0
-  },
-  {
-   "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
-   "link": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
-   "source": "NPR",
-   "ts": 1793645641.0
   }
  ]
 }
