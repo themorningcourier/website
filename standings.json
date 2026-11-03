@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:53:56.476040+00:00",
+ "updated": "2026-11-03T04:56:22.834775+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -156,14 +156,14 @@
      "pct": 0.85714287
     },
     {
-     "name": "Lions",
-     "abbr": "DET",
-     "rec": "5-2",
-     "pct": 0.71428573
-    },
-    {
      "name": "Bears",
      "abbr": "CHI",
+     "rec": "6-2",
+     "pct": 0.75
+    },
+    {
+     "name": "Lions",
+     "abbr": "DET",
      "rec": "5-2",
      "pct": 0.71428573
     },
@@ -216,8 +216,8 @@
     {
      "name": "Seahawks",
      "abbr": "SEA",
-     "rec": "4-3",
-     "pct": 0.5714286
+     "rec": "4-4",
+     "pct": 0.5
     },
     {
      "name": "Rams",
