@@ -1,17 +1,41 @@
 {
- "updated": "2026-11-03T16:58:07.415106+00:00",
+ "updated": "2026-11-03T17:52:50.864373+00:00",
  "items": [
+  {
+   "title": "Live updates: Some polling places report issues as constituents cast votes in key races",
+   "link": "https://www.mynbc5.com/article/live-updates-nov-3-midterm-elections-2026/74315870",
+   "source": "WPTZ",
+   "ts": 1793727840.0
+  },
+  {
+   "title": "Vermont man arrested, accused of threatening staff at St. Michael's College",
+   "link": "https://www.mynbc5.com/article/colchester-man-arrested-for-st-michaels-college-threats/74320513",
+   "source": "WPTZ",
+   "ts": 1793727780.0
+  },
+  {
+   "title": "Vermont man accused of abandoning baby, threatening police with a knife",
+   "link": "https://www.mynbc5.com/article/baby-abandoned-montpelier-man-drunk-armed/74320275",
+   "source": "WPTZ",
+   "ts": 1793727720.0
+  },
+  {
+   "title": "When caring for aging family members becomes cost prohibitive",
+   "link": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
+   "source": "NPR",
+   "ts": 1793725796.0
+  },
+  {
+   "title": "Sen. Sanders casts his ballot in Burlington",
+   "link": "https://www.wcax.com/2026/11/03/sen-sanders-casts-his-ballot-burlington/",
+   "source": "WCAX",
+   "ts": 1793725380.0
+  },
   {
    "title": "Vermonters head to the polls for important statewide votes",
    "link": "https://www.wcax.com/2026/11/03/vermonters-head-polls-important-statewide-votes/",
    "source": "WCAX",
    "ts": 1793724754.0
-  },
-  {
-   "title": "Trooper relieved of duty after being found sleeping inside woman's apartment on Halloween",
-   "link": "https://www.mynbc5.com/article/trooper-arrest-massachusetts-halloween/74322197",
-   "source": "WPTZ",
-   "ts": 1793724600.0
   },
   {
    "title": "Steady turnout in the Upper Valley as NH selects a new US senator",
@@ -20,28 +44,10 @@
    "ts": 1793722473.0
   },
   {
-   "title": "Live updates: Voters begin casting ballots as \ufeffkey races could reshape the nation",
-   "link": "https://www.mynbc5.com/article/live-updates-nov-3-midterm-elections-2026/74315870",
-   "source": "WPTZ",
-   "ts": 1793721600.0
-  },
-  {
-   "title": "This community darkroom gives photographers a place to learn, create and share",
-   "link": "https://www.wcax.com/2026/11/03/this-community-darkroom-gives-photographers-place-learn-create-share/",
-   "source": "WCAX",
-   "ts": 1793721513.0
-  },
-  {
    "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
    "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
    "source": "NPR",
    "ts": 1793721279.0
-  },
-  {
-   "title": "Helicopters collide below Mount Everest base camp, killing 1 person and injuring 2",
-   "link": "https://www.mynbc5.com/article/helicopters-collide-mount-everest-base-camp/74322449",
-   "source": "WPTZ",
-   "ts": 1793720940.0
   },
   {
    "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
@@ -54,12 +60,6 @@
    "link": "https://vtdigger.org/2026/11/03/vermonters-are-heading-to-the-polls-around-the-state-heres-whats-on-the-ballot/",
    "source": "VTDigger",
    "ts": 1793709900.0
-  },
-  {
-   "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
-   "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
-   "source": "NPR",
-   "ts": 1793706229.0
   },
   {
    "title": "In Kirby, a potluck and debate night brings neighbors together",
