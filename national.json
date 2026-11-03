@@ -1,35 +1,77 @@
 {
- "updated": "2026-11-03T01:00:20.163925+00:00",
+ "updated": "2026-11-03T02:01:56.235667+00:00",
  "items": [
   {
-   "title": "Tom Brady admits Kirk Cousins pulled off something he never did in NFL career",
-   "link": "https://nypost.com/2026/11/02/sports/tom-brady-admits-kirk-cousins-pulled-off-something-he-never-did-in-nfl/",
+   "title": "Neighborhood wine bar closing in California? It\u2019s a symptom of a statewide crisis",
+   "link": "https://nypost.com/2026/11/02/opinion/neighborhood-wine-bar-closing-in-california-its-a-symptom-of-a-statewide-crisis/",
    "source": "New York Post",
-   "ts": 1793667597.0
+   "ts": 1793671275.0
   },
   {
-   "title": "NYPD cops shoot career criminal, 49, who got into gunfight with officers near Bronx daycare",
-   "link": "https://nypost.com/2026/11/02/us-news/nypd-cops-shoot-career-criminal-after-shootout-near-bronx-daycare/",
+   "title": "Beauty queen returns to scene where she was mowed down by drivers aged 4 and 6",
+   "link": "https://nypost.com/2026/11/02/us-news/beauty-queen-kiara-bowling-returns-to-crash-site-after-being-struck-by-child-drivers-in-oakland/",
    "source": "New York Post",
-   "ts": 1793667532.0
+   "ts": 1793671260.0
   },
   {
-   "title": "The best sandwiches in LA \u2013 just in time for International Sandwich Day",
-   "link": "https://nypost.com/2026/11/02/lifestyle/the-best-sandwiches-in-la-to-try-on-election-day/",
+   "title": "Eric Dane\u2019s memoir is on sale\u2014and Jacob Elordi narrates the audiobook. Get it free",
+   "link": "https://pagesix.com/2026/11/02/lifestyle/how-to-read-eric-danes-newly-released-memoir-for-free/",
    "source": "New York Post",
-   "ts": 1793667258.0
+   "ts": 1793671200.0
   },
   {
-   "title": "ICE officer charged in Texas after allegedly hitting man with vehicle",
-   "link": "https://www.cbsnews.com/news/ice-officer-indicted-felony-texas-hit-man-vehicle/",
+   "title": "More European grocery stores hit by apparent fridge-freezer hacks",
+   "link": "https://www.cbsnews.com/news/europe-grocery-store-refrigerator-freezer-cyberattack-hack-food-wasted/",
    "source": "CBS News",
-   "ts": 1793667196.0
+   "ts": 1793670701.0
   },
   {
-   "title": "New York state reports 1st measles-associated death in over 30 years",
-   "link": "https://abcnews.com/Health/new-york-state-reports-1st-measles-death-30/story?id=137787620",
+   "title": "Former Border Patrol chief says southern border is at quietest level he's ever seen",
+   "link": "https://www.cbsnews.com/video/former-border-patrol-chief-says-southern-border-is-at-quietest-level-hes-ever-seen/",
+   "source": "CBS News",
+   "ts": 1793670695.0
+  },
+  {
+   "title": "Political AI deepfakes infiltrating midterm elections, could pose risks to voters",
+   "link": "https://www.cbsnews.com/video/political-ai-deepfakes-infiltrating-midterm-elections-pose-risks-voters/",
+   "source": "CBS News",
+   "ts": 1793670141.0
+  },
+  {
+   "title": "17-year-old arrested in Spirit Halloween shooting that killed pregnant woman, injured 6 others",
+   "link": "https://www.nbcnews.com/news/us-news/teen-arrested-spirit-halloween-shooting-fairfield-california-rcna607147",
+   "source": "NBC News",
+   "ts": 1793669697.0
+  },
+  {
+   "title": "GOP touts Stevens endorsement while El-Sayed's campaign reports a record haul",
+   "link": "https://abcnews.com/Politics/gop-touts-stevens-endorsement-republican-rival-el-sayeds/story?id=137771141",
    "source": "ABC News",
-   "ts": 1793666767.0
+   "ts": 1793669648.0
+  },
+  {
+   "title": "WATCH:  David Muir shares New Jersey students' determination in 100-Yard Food Drive Challenge",
+   "link": "https://abcnews.com/video/137784550/",
+   "source": "ABC News",
+   "ts": 1793669344.0
+  },
+  {
+   "title": "Dodge announces return to NASCAR Cup Series beginning at Daytona 500",
+   "link": "https://abcnews.com/Business/wireStory/dodge-announces-return-nascar-cup-series-beginning-daytona-137789599",
+   "source": "ABC News",
+   "ts": 1793668783.0
+  },
+  {
+   "title": "US struck Iran's Qeshm Island, Wall Street Journal reports",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW9iaUN1YmNnZlZ0a05YVklpS2I1dFp2UHR0VzNRaXRubGN6ZWczLWNqdlhaTENzcUtZYjQ4OG5Ca19nVmZjZTVEYlNGTTU4QXpZYVVXOXhnMTIzYXJBeWY5ZXdTREpkN1ZCNmNzd0d4eThoOTZmVUtFSEQ1NHg0b2VQU08xaHh5R01MUWhNN0NlY0l3d1gwVDRNM0RUTnZPMjR5TENVRVpETWIxenJ3?oc=5",
+   "source": "Reuters",
+   "ts": 1793667900.0
+  },
+  {
+   "title": "Ex-West Point cadet sued for secretly drugging pregnant girlfriend with abortion pills",
+   "link": "https://www.foxnews.com/us/ex-west-point-cadet-sued-secretly-drugging-pregnant-girlfriend-abortion-pills",
+   "source": "Fox News",
+   "ts": 1793666903.0
   },
   {
    "title": "Indicted ICE officer had been on the job a little over a year as Trump\u2019s hiring surge comes under scrutiny",
@@ -38,76 +80,34 @@
    "ts": 1793666588.0
   },
   {
-   "title": "How Kalshi traders reacted to Haley Stevens' endorsement of Mike Rogers over Abdul El-Sayed",
-   "link": "https://www.cbsnews.com/video/how-kalshi-traders-reacted-to-haley-stevens-endorsement-of-mike-rogers-over-abdul-el-sayed/",
-   "source": "CBS News",
-   "ts": 1793666520.0
+   "title": "JD Vance says Haley Stevens' endorsement of GOP's Mike Rogers will 'certainly' help Michigan Senate race",
+   "link": "https://www.foxnews.com/politics/jd-vance-says-haley-stevens-endorsement-gops-mike-rogers-certainly-help-michigan-senate-race",
+   "source": "Fox News",
+   "ts": 1793666344.0
   },
   {
-   "title": "109-year-old best friends share key to long, happy lives: \"Just be kind to people\"",
-   "link": "https://www.cbsnews.com/video/109-year-old-best-friends-key-long-happy-lives-be-kind/",
-   "source": "CBS News",
-   "ts": 1793666257.0
+   "title": "Brandon Aiyuk hires Drew Rosenhaus to salvage NFL career after torching 49ers relationship",
+   "link": "https://www.foxnews.com/outkick-sports/brandon-aiyuk-hires-drew-rosenhaus-salvage-nfl-career-torching-49ers-relationship",
+   "source": "Fox News",
+   "ts": 1793665191.0
+  },
+  {
+   "title": "Co-pilot and passengers killed in learjet crash identified",
+   "link": "https://www.nbcnews.com/nightly-news/video/co-pilot-and-passengers-killed-in-learjet-crash-identified-272729669541",
+   "source": "NBC News",
+   "ts": 1793664656.0
+  },
+  {
+   "title": "UK must expect AI-powered attack on critical infrastructure within two years, report says",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTjFmQ0ExbUxlWldEekp5T3NVZUc2Mm92VzBUdzJBUUtGVHJjVEhzRmRPSXJTaW1SdFJRTDd0SDNhWGxfc0VJOXJSSFBzX1NfWTVYU2I4Xy1Xa1FPajdrOWVMOHhMeVF2cFlvRGhReXZnOHdRLWxkTGQzV2d5MjBRNkFzZmNick93VXZIdXJSbTk4OWNadkFkUW41RjJCME9FdlZ5ZGFMV0NMM2FuQnRTSmNGcktqR0pNNnZsRl9zTmpMbGZ1T1NiZ2MyLW9Qdw?oc=5",
+   "source": "Reuters",
+   "ts": 1793664120.0
   },
   {
    "title": "Iran says contacts over ending war continue after talks finish with no breakthrough",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
    "source": "Reuters",
    "ts": 1793663861.0
-  },
-  {
-   "title": "New York reports first measles death in more than 30 years",
-   "link": "https://www.nbcnews.com/health/health-news/new-york-measles-death-rcna607137",
-   "source": "NBC News",
-   "ts": 1793663556.0
-  },
-  {
-   "title": "Russian bombing kills 26 in village in southeastern Ukraine, emergency services say",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTJsVnE3eVE4T0Utbk5kRVBCb1dsT3ZrVjdDVmd5S3ZyczJkTVBvckZLejltX3pWeXVQaUQ5OXhOSlBpbThtOHlWZ2dZS3BOZXBNRXU2cHh0YjE2Yi1zZzJyY2pqWFRfVTZVZi1KcGw2RThBVVR2TmZwNEdhOEpLblZCUGtsUkd2YndfVTlQRU1UbksyQ2Z1a2RldGhMMWZrZGdRWmVTclhydlh6ZklYM1pfeE9lWUM2T1E?oc=5",
-   "source": "Reuters",
-   "ts": 1793663505.0
-  },
-  {
-   "title": "US will mediate upcoming Ukraine-Russia talks in Abu Dhabi, Witkoff says",
-   "link": "https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says",
-   "source": "Fox News",
-   "ts": 1793663228.0
-  },
-  {
-   "title": "Palantir forecasts strong quarterly revenue on AI demand",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHl2TXR3V1NLdWxVUGFhNHludjhnOGY2M3g4TnktS19Pakw2dkM4VjAxMHQxcDEya0NtXzlGU29qc25GdEdrQ2o1WEI1MjlSc19ZZTBvVVZwRk1XZm9SQTJ5eEdRMm5mQ1p5aVZILWdXREdNU1d3RTBfSGRRRTJYLWVaZk5oR1U1Q0NSNGJHb2h3RUk5czl6bHJKQnBaTUREOWJmZHNKU2VsNGo3bHpldmo3SjRsbUcyRWc?oc=5",
-   "source": "Reuters",
-   "ts": 1793663058.0
-  },
-  {
-   "title": "How a midterm tie gets settled in the case of the Senate",
-   "link": "https://www.foxnews.com/politics/how-midterm-tie-gets-settled-case-senate",
-   "source": "Fox News",
-   "ts": 1793662706.0
-  },
-  {
-   "title": "Midterm elections live updates: SCOTUS denies Trump bid to segregate California votes",
-   "link": "https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278",
-   "source": "ABC News",
-   "ts": 1793661661.0
-  },
-  {
-   "title": "Bill Belichick doesn't have time for questions about relationship with Jordon Hudson after near Miami upset",
-   "link": "https://www.foxnews.com/outkick-sports/bill-belichick-doesnt-have-time-questions-relationship-jordon-hudson-after-near-miami-upset",
-   "source": "Fox News",
-   "ts": 1793661560.0
-  },
-  {
-   "title": "Supreme Court quickly rejects Trump effort to target alleged noncitizen voters in California",
-   "link": "https://www.nbcnews.com/politics/supreme-court/rejects-trump-effort-target-alleged-noncitizen-voters-california-midte-rcna606607",
-   "source": "NBC News",
-   "ts": 1793659940.0
-  },
-  {
-   "title": "How do midterm candidates plan to fight inflation? Economists evaluate proposals",
-   "link": "https://abcnews.com/Business/midterm-candidates-plan-fight-inflation-economists-evaluate-proposals/story?id=137570780",
-   "source": "ABC News",
-   "ts": 1793654579.0
   }
  ]
 }
