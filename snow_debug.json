@@ -1,97 +1,88 @@
 {
- "updated": "2026-11-02T10:29:56.561402+00:00",
+ "updated": "2026-11-03T08:31:52.891268+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "SEWA006",
-     "name": "Seward 4.7 Ne, Ne",
-     "state": "NE",
-     "elev_ft": "1539",
-     "inches": 23.0,
+     "id": "TLUC1",
+     "name": "Tuolumne Meadows",
+     "state": "CA",
+     "elev_ft": "8701",
+     "inches": 9.0,
      "hours": 24.0,
-     "time": "2026-10-31 12:00"
+     "time": "2026-11-01 15:00"
     },
     {
-     "id": "AYTA2",
-     "name": "Alyeska Weather Top",
-     "state": "AK",
-     "elev_ft": "2707",
-     "inches": 17.0,
-     "hours": 24.0,
-     "time": "2026-10-31 14:00"
+     "id": "ELRN2",
+     "name": "Ely 6Ne",
+     "state": "NV",
+     "elev_ft": "6253",
+     "inches": 1.0,
+     "hours": 6.0,
+     "time": "2026-11-01 18:00"
     },
     {
-     "id": "AYMA2",
-     "name": "Alyeska Weather Mid",
-     "state": "AK",
-     "elev_ft": "1644",
-     "inches": 14.0,
+     "id": "ASTN2",
+     "name": "Austin #2",
+     "state": "NV",
+     "elev_ft": "6762",
+     "inches": 3.1,
      "hours": 24.0,
-     "time": "2026-10-31 14:00"
+     "time": "2026-11-02 01:00"
     },
     {
      "id": "BTT",
      "name": "Bettles Arpt",
      "state": "",
      "elev_ft": "633",
-     "inches": 7.7,
+     "inches": 2.0,
      "hours": 24.0,
-     "time": "2026-10-31 07:45"
+     "time": "2026-11-01 15:53"
+    },
+    {
+     "id": "CA-NV-47",
+     "name": "Truckee 5.9 Ene, Ca",
+     "state": "CA",
+     "elev_ft": "5942",
+     "inches": 1.3,
+     "hours": 24.0,
+     "time": "2026-11-01 15:15"
+    },
+    {
+     "id": "CRLO3",
+     "name": "Crater Lake National Park Hq",
+     "state": "OR",
+     "elev_ft": "6499",
+     "inches": 1.2,
+     "hours": 24.0,
+     "time": "2026-11-01 16:00"
     },
     {
      "id": "WSMA2",
      "name": "Wiseman",
      "state": "AK",
      "elev_ft": "1181",
-     "inches": 5.2,
+     "inches": 1.2,
      "hours": 24.0,
-     "time": "2026-10-31 15:00"
+     "time": "2026-11-01 16:00"
     },
     {
-     "id": "UBW",
-     "name": "Kuparuk,Ak",
+     "id": "AYTA2",
+     "name": "Alyeska Weather Top",
      "state": "AK",
-     "elev_ft": "72",
-     "inches": 3.1,
-     "hours": 24.0,
-     "time": "2026-11-01 02:00"
-    },
-    {
-     "id": "NUCK004",
-     "name": "Lawrence 0.3 Sse, Ne",
-     "state": "NE",
-     "elev_ft": "1880",
-     "inches": 3.0,
-     "hours": 24.0,
-     "time": "2026-10-31 12:00"
-    },
-    {
-     "id": "AYBA2",
-     "name": "Alyeska Base",
-     "state": "AK",
-     "elev_ft": "371",
+     "elev_ft": "2707",
      "inches": 1.0,
      "hours": 24.0,
-     "time": "2026-10-31 14:00"
+     "time": "2026-11-01 15:00"
     },
     {
-     "id": "TLUC1",
-     "name": "Tuolumne Meadows",
+     "id": "CA-NV-70",
+     "name": "Truckee 8.7 Nne, Ca",
      "state": "CA",
-     "elev_ft": "8701",
-     "inches": 0.5,
+     "elev_ft": "5751",
+     "inches": 1.0,
      "hours": 24.0,
-     "time": "2026-10-31 15:00"
-    },
-    {
-     "id": "AK-AB-38",
-     "name": "Eagle River 7.8 Se, Ak",
-     "state": "AK",
-     "elev_ft": "2146",
-     "inches": 0.001,
-     "hours": 24.0,
-     "time": "2026-10-31 16:00"
+     "time": "2026-11-01 15:00"
     }
    ]
   },
@@ -113,111 +104,111 @@
      ""
     ],
     [
-     "SEWA006",
-     "2026-10-31 12:00",
-     "23.000",
-     "24.000",
-     "1539",
-     "SEWARD 4.7 NE, NE"
-    ],
-    [
-     "AYTA2",
-     "2026-10-31 14:00",
-     "17.000",
-     "24.000",
-     "2707",
-     "ALYESKA WEATHER TOP"
-    ],
-    [
-     "AYMA2",
-     "2026-10-31 14:00",
-     "14.000",
-     "24.000",
-     "1644",
-     "ALYESKA WEATHER MID"
-    ],
-    [
-     "BTT",
-     "2026-10-31 07:45",
-     "7.700",
-     "24.000",
-     "633",
-     "BETTLES ARPT"
-    ],
-    [
-     "WSMA2",
-     "2026-10-31 15:00",
-     "5.200",
-     "24.000",
-     "1181",
-     "WISEMAN"
-    ],
-    [
-     "UBW",
-     "2026-11-01 02:00",
-     "3.100",
-     "24.000",
-     "72",
-     "KUPARUK,AK"
-    ],
-    [
-     "NUCK004",
-     "2026-10-31 12:00",
-     "3.000",
-     "24.000",
-     "1880",
-     "LAWRENCE 0.3 SSE, NE"
-    ],
-    [
-     "AYBA2",
-     "2026-10-31 14:00",
-     "1.000",
-     "24.000",
-     "371",
-     "ALYESKA BASE"
-    ],
-    [
      "TLUC1",
-     "2026-10-31 15:00",
-     "0.500",
+     "2026-11-01 15:00",
+     "9.000",
      "24.000",
      "8701",
      "TUOLUMNE MEADOWS"
     ],
     [
-     "AK-AB-38",
-     "2026-10-31 16:00",
-     "0.001",
-     "24.000",
-     "2146",
-     "EAGLE RIVER 7.8 SE, AK"
+     "ELRN2",
+     "2026-11-01 18:00",
+     "1.000",
+     "6.000",
+     "6253",
+     "ELY 6NE"
     ],
     [
-     "CAN-NB-105",
-     "2026-10-31 11:00",
-     "0.001",
+     "ASTN2",
+     "2026-11-02 01:00",
+     "3.100",
      "24.000",
-     "427",
-     "SISSON BROOK 3.8 E, CAN"
+     "6762",
+     "AUSTIN #2"
     ],
     [
-     "INVN2",
-     "2026-10-31 17:00",
-     "0.001",
+     "BTT",
+     "2026-11-01 15:53",
+     "2.000",
      "24.000",
-     "6352",
-     "INCLINE VILLAGE"
+     "633",
+     "BETTLES ARPT"
     ],
     [
-     "MI-CP-14",
-     "2026-10-31 11:30",
-     "0.001",
+     "CA-NV-47",
+     "2026-11-01 15:15",
+     "1.300",
      "24.000",
-     "594",
-     "SAULT STE. MARIE 2.2 E, MI"
+     "5942",
+     "TRUCKEE 5.9 ENE, CA"
+    ],
+    [
+     "CRLO3",
+     "2026-11-01 16:00",
+     "1.200",
+     "24.000",
+     "6499",
+     "CRATER LAKE NATIONAL PARK HQ"
+    ],
+    [
+     "WSMA2",
+     "2026-11-01 16:00",
+     "1.200",
+     "24.000",
+     "1181",
+     "WISEMAN"
+    ],
+    [
+     "CAN-NL-82",
+     "2026-11-01 10:00",
+     "1.100",
+     "24.000",
+     "400",
+     "GANDER 2.7 NW, CAN"
+    ],
+    [
+     "AYTA2",
+     "2026-11-01 15:00",
+     "1.000",
+     "24.000",
+     "2707",
+     "ALYESKA WEATHER TOP"
+    ],
+    [
+     "CA-NV-70",
+     "2026-11-01 15:00",
+     "1.000",
+     "24.000",
+     "5751",
+     "TRUCKEE 8.7 NNE, CA"
+    ],
+    [
+     "TRK",
+     "2026-11-01 14:00",
+     "1.000",
+     "24.000",
+     "5886",
+     "TRUCKEE ARPT"
+    ],
+    [
+     "CA-MN-5",
+     "2026-11-01 15:00",
+     "0.800",
+     "24.000",
+     "7057",
+     "MAMMOTH LAKES 16.3 ESE, CA"
+    ],
+    [
+     "CO-PK-15",
+     "2026-11-01 14:00",
+     "0.800",
+     "24.000",
+     "10400",
+     "FAIRPLAY 2.7 WNW, CO"
     ]
    ],
-   "count": 10763
+   "count": 9779
   }
  ]
 }
