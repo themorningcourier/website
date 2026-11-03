@@ -1,44 +1,56 @@
 {
- "updated": "2026-11-03T02:01:56.235667+00:00",
+ "updated": "2026-11-03T02:53:26.085021+00:00",
  "items": [
   {
-   "title": "Neighborhood wine bar closing in California? It\u2019s a symptom of a statewide crisis",
-   "link": "https://nypost.com/2026/11/02/opinion/neighborhood-wine-bar-closing-in-california-its-a-symptom-of-a-statewide-crisis/",
-   "source": "New York Post",
-   "ts": 1793671275.0
-  },
-  {
-   "title": "Beauty queen returns to scene where she was mowed down by drivers aged 4 and 6",
-   "link": "https://nypost.com/2026/11/02/us-news/beauty-queen-kiara-bowling-returns-to-crash-site-after-being-struck-by-child-drivers-in-oakland/",
-   "source": "New York Post",
-   "ts": 1793671260.0
-  },
-  {
-   "title": "Eric Dane\u2019s memoir is on sale\u2014and Jacob Elordi narrates the audiobook. Get it free",
-   "link": "https://pagesix.com/2026/11/02/lifestyle/how-to-read-eric-danes-newly-released-memoir-for-free/",
-   "source": "New York Post",
-   "ts": 1793671200.0
-  },
-  {
-   "title": "More European grocery stores hit by apparent fridge-freezer hacks",
-   "link": "https://www.cbsnews.com/news/europe-grocery-store-refrigerator-freezer-cyberattack-hack-food-wasted/",
+   "title": "Trump says \"Iran wants a settlement, as soon as possible\"",
+   "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
    "source": "CBS News",
-   "ts": 1793670701.0
+   "ts": 1793674130.0
   },
   {
-   "title": "Former Border Patrol chief says southern border is at quietest level he's ever seen",
-   "link": "https://www.cbsnews.com/video/former-border-patrol-chief-says-southern-border-is-at-quietest-level-hes-ever-seen/",
+   "title": "Prince Harry and Meghan Markle move into new home: report",
+   "link": "https://pagesix.com/2026/11/02/royal-family/prince-harry-and-meghan-markle-move-into-new-home-report/",
+   "source": "New York Post",
+   "ts": 1793674085.0
+  },
+  {
+   "title": "Coast Guard detains cruise ship in Miami, officials say",
+   "link": "https://www.cbsnews.com/news/coast-guard-detains-msc-poesia-cruise-ship-miami/",
    "source": "CBS News",
-   "ts": 1793670695.0
+   "ts": 1793673840.0
   },
   {
-   "title": "Political AI deepfakes infiltrating midterm elections, could pose risks to voters",
-   "link": "https://www.cbsnews.com/video/political-ai-deepfakes-infiltrating-midterm-elections-pose-risks-voters/",
+   "title": "H3 Podcaster Hila Klein divorcing husband Ethan in wake of bombshell cheating scandal",
+   "link": "https://pagesix.com/2026/11/02/celebrity-news/h3-podcaster-hila-klein-divorcing-husband-ethan-in-wake-of-bombshell-cheating-scandal/",
+   "source": "New York Post",
+   "ts": 1793673705.0
+  },
+  {
+   "title": "Sara Haines splits from \u2018The View\u2019 hosts by defending Rep. Haley Stevens\u2019 GOP endorsement",
+   "link": "https://nypost.com/2026/11/02/media/sara-haines-splits-from-the-view-hosts-by-defending-rep-haley-stevens-gop-endorsement/",
+   "source": "New York Post",
+   "ts": 1793673509.0
+  },
+  {
+   "title": "Midterm elections live updates: SCOTUS denies Trump bid to segregate California votes",
+   "link": "https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278",
+   "source": "ABC News",
+   "ts": 1793673139.0
+  },
+  {
+   "title": "ICE planning to deport Afghans through Pakistan, official says",
+   "link": "https://www.cbsnews.com/news/ice-deportation-afghans-through-pakistan/",
    "source": "CBS News",
-   "ts": 1793670141.0
+   "ts": 1793672838.0
   },
   {
-   "title": "17-year-old arrested in Spirit Halloween shooting that killed pregnant woman, injured 6 others",
+   "title": "Christian Yelich says 'Brewer Ball' is hard to replicate for this season after World Series triumph",
+   "link": "https://www.foxnews.com/outkick-sports/christian-yelich-says-brewer-ball-hard-replicate-season-after-world-series-triumph",
+   "source": "Fox News",
+   "ts": 1793670081.0
+  },
+  {
+   "title": "17-year-old arrested in Spirit Halloween shooting that killed pregnant woman, injured 6 other people",
    "link": "https://www.nbcnews.com/news/us-news/teen-arrested-spirit-halloween-shooting-fairfield-california-rcna607147",
    "source": "NBC News",
    "ts": 1793669697.0
@@ -56,22 +68,34 @@
    "ts": 1793669344.0
   },
   {
-   "title": "Dodge announces return to NASCAR Cup Series beginning at Daytona 500",
-   "link": "https://abcnews.com/Business/wireStory/dodge-announces-return-nascar-cup-series-beginning-daytona-137789599",
-   "source": "ABC News",
-   "ts": 1793668783.0
+   "title": "Associated Press Top 25 poll voters hit a new, ridiculous low with this week's results",
+   "link": "https://www.foxnews.com/outkick-sports/associated-press-top-25-poll-voters-hit-new-ridiculous-low-weeks-results",
+   "source": "Fox News",
+   "ts": 1793669230.0
   },
   {
-   "title": "US struck Iran's Qeshm Island, Wall Street Journal reports",
+   "title": "Oil rises after report of US strike on Iran's Qeshm Island",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFpzbEJURFlBbkE1RzNfclduVWpDY29HaWY3dnZJNUFuTHFsckZXSU5iTGJHdUFzQkVmeVhvdk9IME9Hdkxwc0NQZzg4dFFzckltYVlzcGdWY2xhYmJWMWlMVmFyNml3YmFoSDBZMGdPZWlpU25IM3UtMW5iR3d1dGZrMGF4SzQ2MklEeG5lWU1iRUZjVDd5Nnhjc0dQamdDdEtUc3NMcFZDMTQ?oc=5",
+   "source": "Reuters",
+   "ts": 1793669220.0
+  },
+  {
+   "title": "Angel Reese steps back from 'Unapologetically Angel' podcast after Atlanta Dream's Finals loss",
+   "link": "https://www.foxnews.com/outkick-sports/angel-reese-steps-back-unapologetically-angel-podcast-atlanta-dream-finals-loss",
+   "source": "Fox News",
+   "ts": 1793669135.0
+  },
+  {
+   "title": "Dollar under pressure as oil prices slump, Australia rate decision awaited",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNE1RdnJYYmVzdzBUWE9zZW5SdkhKVG0wVFlSTmFzUkpOanNhVWc0Nk5DZzJNaUN4azRHUVFnVTFWSEJpT1ByOUJ6Ny1zdlVqanJ5SUpHY1dMWDJ3M0pLWk1ZcUN0MmlLMUlGT01xSkN5VHZzc1NMUVZvaG42Rm9wTV9zejhTeUktb2d0dWpDb1B3dW5oNHJKaHVtLVAzem9qOUFCM05jT2lzQ0ZJSDl5QXVQQnZfT3JwblRZZWpfWnhmRlE?oc=5",
+   "source": "Reuters",
+   "ts": 1793668200.0
+  },
+  {
+   "title": "US carries out 'defensive' strikes on Iran's Qeshm Island, officials say",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUW9iaUN1YmNnZlZ0a05YVklpS2I1dFp2UHR0VzNRaXRubGN6ZWczLWNqdlhaTENzcUtZYjQ4OG5Ca19nVmZjZTVEYlNGTTU4QXpZYVVXOXhnMTIzYXJBeWY5ZXdTREpkN1ZCNmNzd0d4eThoOTZmVUtFSEQ1NHg0b2VQU08xaHh5R01MUWhNN0NlY0l3d1gwVDRNM0RUTnZPMjR5TENVRVpETWIxenJ3?oc=5",
    "source": "Reuters",
    "ts": 1793667900.0
-  },
-  {
-   "title": "Ex-West Point cadet sued for secretly drugging pregnant girlfriend with abortion pills",
-   "link": "https://www.foxnews.com/us/ex-west-point-cadet-sued-secretly-drugging-pregnant-girlfriend-abortion-pills",
-   "source": "Fox News",
-   "ts": 1793666903.0
   },
   {
    "title": "Indicted ICE officer had been on the job a little over a year as Trump\u2019s hiring surge comes under scrutiny",
@@ -80,34 +104,10 @@
    "ts": 1793666588.0
   },
   {
-   "title": "JD Vance says Haley Stevens' endorsement of GOP's Mike Rogers will 'certainly' help Michigan Senate race",
-   "link": "https://www.foxnews.com/politics/jd-vance-says-haley-stevens-endorsement-gops-mike-rogers-certainly-help-michigan-senate-race",
-   "source": "Fox News",
-   "ts": 1793666344.0
-  },
-  {
-   "title": "Brandon Aiyuk hires Drew Rosenhaus to salvage NFL career after torching 49ers relationship",
-   "link": "https://www.foxnews.com/outkick-sports/brandon-aiyuk-hires-drew-rosenhaus-salvage-nfl-career-torching-49ers-relationship",
-   "source": "Fox News",
-   "ts": 1793665191.0
-  },
-  {
-   "title": "Co-pilot and passengers killed in learjet crash identified",
-   "link": "https://www.nbcnews.com/nightly-news/video/co-pilot-and-passengers-killed-in-learjet-crash-identified-272729669541",
+   "title": "Voters making final decisions in midterm elections",
+   "link": "https://www.nbcnews.com/nightly-news/video/voters-making-final-decisions-in-midterm-elections-272729157757",
    "source": "NBC News",
-   "ts": 1793664656.0
-  },
-  {
-   "title": "UK must expect AI-powered attack on critical infrastructure within two years, report says",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTjFmQ0ExbUxlWldEekp5T3NVZUc2Mm92VzBUdzJBUUtGVHJjVEhzRmRPSXJTaW1SdFJRTDd0SDNhWGxfc0VJOXJSSFBzX1NfWTVYU2I4Xy1Xa1FPajdrOWVMOHhMeVF2cFlvRGhReXZnOHdRLWxkTGQzV2d5MjBRNkFzZmNick93VXZIdXJSbTk4OWNadkFkUW41RjJCME9FdlZ5ZGFMV0NMM2FuQnRTSmNGcktqR0pNNnZsRl9zTmpMbGZ1T1NiZ2MyLW9Qdw?oc=5",
-   "source": "Reuters",
-   "ts": 1793664120.0
-  },
-  {
-   "title": "Iran says contacts over ending war continue after talks finish with no breakthrough",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
-   "source": "Reuters",
-   "ts": 1793663861.0
+   "ts": 1793665823.0
   }
  ]
 }
