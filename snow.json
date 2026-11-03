@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T08:31:52.891268+00:00",
+ "updated": "2026-11-03T09:25:30.124369+00:00",
  "season": "2026-27",
  "start": "2026-11-01",
  "end": "2027-04-01",
@@ -41,7 +41,7 @@
     "name": "Boston, MA"
    },
    "PWM": {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "valid": true,
     "day": 0.0,
     "trace": false,
@@ -52,11 +52,11 @@
     "season_dep": -0.2,
     "depth": 0.0,
     "final": true,
-    "tmax": 54,
-    "tmax_normal": 54,
-    "tmin": 25,
+    "tmax": 72,
+    "tmax_normal": 53,
+    "tmin": 35,
     "tmin_normal": 36,
-    "issued": "2026-11-02T08:48:00+00:00",
+    "issued": "2026-11-03T08:54:00+00:00",
     "name": "Portland, ME"
    },
    "CAR": {
@@ -79,22 +79,22 @@
     "name": "Caribou, ME"
    },
    "CON": {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "valid": true,
     "day": 0.0,
     "trace": false,
     "month": 0.0,
-    "month_normal": 0.0,
+    "month_normal": 0.1,
     "season": 0.0,
-    "season_normal": 0.8,
-    "season_dep": -0.8,
+    "season_normal": 0.9,
+    "season_dep": -0.9,
     "depth": 0.0,
     "final": true,
-    "tmax": 60,
-    "tmax_normal": 55,
-    "tmin": 22,
+    "tmax": 74,
+    "tmax_normal": 54,
+    "tmin": 30,
     "tmin_normal": 33,
-    "issued": "2026-11-02T08:48:00+00:00",
+    "issued": "2026-11-03T08:54:00+00:00",
     "name": "Concord, NH"
    },
    "ALB": {
@@ -2507,7 +2507,7 @@
      "name": "Boston, MA"
     },
     "PWM": {
-     "date": "2026-11-01",
+     "date": "2026-11-02",
      "valid": true,
      "day": 0.0,
      "trace": false,
@@ -2518,11 +2518,11 @@
      "season_dep": -0.2,
      "depth": 0.0,
      "final": true,
-     "tmax": 54,
-     "tmax_normal": 54,
-     "tmin": 25,
+     "tmax": 72,
+     "tmax_normal": 53,
+     "tmin": 35,
      "tmin_normal": 36,
-     "issued": "2026-11-02T08:48:00+00:00",
+     "issued": "2026-11-03T08:54:00+00:00",
      "name": "Portland, ME"
     },
     "CAR": {
@@ -2545,22 +2545,22 @@
      "name": "Caribou, ME"
     },
     "CON": {
-     "date": "2026-11-01",
+     "date": "2026-11-02",
      "valid": true,
      "day": 0.0,
      "trace": false,
      "month": 0.0,
-     "month_normal": 0.0,
+     "month_normal": 0.1,
      "season": 0.0,
-     "season_normal": 0.8,
-     "season_dep": -0.8,
+     "season_normal": 0.9,
+     "season_dep": -0.9,
      "depth": 0.0,
      "final": true,
-     "tmax": 60,
-     "tmax_normal": 55,
-     "tmin": 22,
+     "tmax": 74,
+     "tmax_normal": 54,
+     "tmin": 30,
      "tmin_normal": 33,
-     "issued": "2026-11-02T08:48:00+00:00",
+     "issued": "2026-11-03T08:54:00+00:00",
      "name": "Concord, NH"
     },
     "ALB": {
