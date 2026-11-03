@@ -1,41 +1,47 @@
 {
- "updated": "2026-11-03T10:30:13.270589+00:00",
+ "updated": "2026-11-03T11:28:05.374791+00:00",
  "items": [
   {
-   "title": "FDA recalls thousands of blood pressure bottles, says pills failed quality tests",
-   "link": "https://www.mynbc5.com/article/fda-blood-pressure-medication-recall-pills-fail-test/74319583",
+   "title": "Police say drunk Montpelier man abandoned baby in a stroller",
+   "link": "https://www.wcax.com/2026/11/03/police-say-drunk-montpelier-man-abandoned-baby-stroller/",
+   "source": "WCAX",
+   "ts": 1793705001.0
+  },
+  {
+   "title": "2026 midterm election results: All U.S. Senate, House and governor races",
+   "link": "https://www.mynbc5.com/article/2026-midterm-election-results-united-states/74276209",
    "source": "WPTZ",
-   "ts": 1793700720.0
+   "ts": 1793704680.0
   },
   {
-   "title": "'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day",
-   "link": "https://www.npr.org/2026/11/03/nx-s1-6014577/swing-voters-midterm-elections-voting-trump",
-   "source": "NPR",
-   "ts": 1793700000.0
-  },
-  {
-   "title": "How NPR makes race calls in the 2026 election",
-   "link": "https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026",
-   "source": "NPR",
-   "ts": 1793700000.0
-  },
-  {
-   "title": "A new cold war: hackers target fridges across the globe",
-   "link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
-   "source": "NPR",
-   "ts": 1793700000.0
-  },
-  {
-   "title": "Sullivan County, New Hampshire election results: See latest updates",
-   "link": "https://www.mynbc5.com/article/sullivan-county-new-hampshire-election-results-2026/74193122",
+   "title": "U.S. Senate election results 2026: Who will control the chamber?",
+   "link": "https://www.mynbc5.com/article/us-senate-election-results-2026-midterms/74277023",
    "source": "WPTZ",
-   "ts": 1793697960.0
+   "ts": 1793704680.0
   },
   {
-   "title": "Grafton County, New Hampshire election results: See latest updates",
-   "link": "https://www.mynbc5.com/article/grafton-county-new-hampshire-election-results-2026/74193155",
+   "title": "U.S. House election results 2026: Who will win control?",
+   "link": "https://www.mynbc5.com/article/us-house-midterm-election-results-balance-of-power/74277038",
    "source": "WPTZ",
-   "ts": 1793697900.0
+   "ts": 1793704680.0
+  },
+  {
+   "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+   "link": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+   "source": "NPR",
+   "ts": 1793703674.0
+  },
+  {
+   "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+   "link": "https://www.npr.org/2026/11/03/nx-s1-6026597/review-legend-of-zelda-ocarina-of-time-remake-switch-2",
+   "source": "NPR",
+   "ts": 1793703600.0
+  },
+  {
+   "title": "Four types of House races to watch on election night to know how it might go",
+   "link": "https://www.npr.org/2026/11/03/g-s1-151305/2026-midterms-house-races-to-watch",
+   "source": "NPR",
+   "ts": 1793703600.0
   },
   {
    "title": "A few shower chances this week, and record midweek warmth",
@@ -48,12 +54,6 @@
    "link": "https://www.wcax.com/2026/11/03/powerball-jackpot-rises-estimated-835-million/",
    "source": "WCAX",
    "ts": 1793690989.0
-  },
-  {
-   "title": "UVM women\u2019s opens regular season with a win",
-   "link": "https://www.wcax.com/2026/11/03/uvm-womens-opens-regular-season-with-win/",
-   "source": "WCAX",
-   "ts": 1793681654.0
   },
   {
    "title": "In Kirby, a potluck and debate night brings neighbors together",
