@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T08:34:09.466305+00:00",
+ "updated": "2026-11-04T09:28:59.766499+00:00",
  "season": "2026-27",
  "start": "2026-11-01",
  "end": "2027-04-01",
@@ -41,22 +41,22 @@
     "name": "Boston, MA"
    },
    "PWM": {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "valid": true,
     "day": 0.0,
     "trace": false,
     "month": 0.0,
-    "month_normal": 0.0,
+    "month_normal": 0.1,
     "season": 0.0,
-    "season_normal": 0.2,
-    "season_dep": -0.2,
+    "season_normal": 0.3,
+    "season_dep": -0.3,
     "depth": 0.0,
     "final": true,
-    "tmax": 72,
+    "tmax": 63,
     "tmax_normal": 53,
-    "tmin": 35,
+    "tmin": 52,
     "tmin_normal": 36,
-    "issued": "2026-11-03T08:54:00+00:00",
+    "issued": "2026-11-04T09:21:00+00:00",
     "name": "Portland, ME"
    },
    "CAR": {
@@ -79,7 +79,7 @@
     "name": "Caribou, ME"
    },
    "CON": {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "valid": true,
     "day": 0.0,
     "trace": false,
@@ -90,11 +90,11 @@
     "season_dep": -0.9,
     "depth": 0.0,
     "final": true,
-    "tmax": 74,
+    "tmax": 72,
     "tmax_normal": 54,
-    "tmin": 30,
-    "tmin_normal": 33,
-    "issued": "2026-11-03T08:54:00+00:00",
+    "tmin": 47,
+    "tmin_normal": 32,
+    "issued": "2026-11-04T09:21:00+00:00",
     "name": "Concord, NH"
    },
    "ALB": {
@@ -2918,22 +2918,22 @@
      "name": "Boston, MA"
     },
     "PWM": {
-     "date": "2026-11-02",
+     "date": "2026-11-03",
      "valid": true,
      "day": 0.0,
      "trace": false,
      "month": 0.0,
-     "month_normal": 0.0,
+     "month_normal": 0.1,
      "season": 0.0,
-     "season_normal": 0.2,
-     "season_dep": -0.2,
+     "season_normal": 0.3,
+     "season_dep": -0.3,
      "depth": 0.0,
      "final": true,
-     "tmax": 72,
+     "tmax": 63,
      "tmax_normal": 53,
-     "tmin": 35,
+     "tmin": 52,
      "tmin_normal": 36,
-     "issued": "2026-11-03T08:54:00+00:00",
+     "issued": "2026-11-04T09:21:00+00:00",
      "name": "Portland, ME"
     },
     "CAR": {
@@ -2956,7 +2956,7 @@
      "name": "Caribou, ME"
     },
     "CON": {
-     "date": "2026-11-02",
+     "date": "2026-11-03",
      "valid": true,
      "day": 0.0,
      "trace": false,
@@ -2967,11 +2967,11 @@
      "season_dep": -0.9,
      "depth": 0.0,
      "final": true,
-     "tmax": 74,
+     "tmax": 72,
      "tmax_normal": 54,
-     "tmin": 30,
-     "tmin_normal": 33,
-     "issued": "2026-11-03T08:54:00+00:00",
+     "tmin": 47,
+     "tmin_normal": 32,
+     "issued": "2026-11-04T09:21:00+00:00",
      "name": "Concord, NH"
     },
     "ALB": {
