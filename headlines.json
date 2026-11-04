@@ -1,44 +1,56 @@
 {
- "updated": "2026-11-04T14:21:26.877304+00:00",
+ "updated": "2026-11-04T15:27:29.680128+00:00",
  "items": [
   {
-   "title": "Driver crashes into bridge pillar on Vermont interstate, dies at the scene",
-   "link": "https://www.mynbc5.com/article/bridge-crash-interstate-ramp-189-vt/74332872",
+   "title": "Dow jumps by 1,000 points as Democrats take control of Congress",
+   "link": "https://www.mynbc5.com/article/midterm-election-stock-market-november-4-2026/74333444",
    "source": "WPTZ",
-   "ts": 1793801640.0
+   "ts": 1793805060.0
   },
   {
-   "title": "CVS to split into two companies in major breakup of its $117 billion healthcare empire",
-   "link": "https://www.mynbc5.com/article/cvs-health-splits-into-two-companies/74332853",
+   "title": "Critical shortage of vets could threaten America\u2019s food supply",
+   "link": "https://www.wcax.com/2026/11/04/critical-shortage-vets-could-threaten-americas-food-supply/",
+   "source": "WCAX",
+   "ts": 1793804897.0
+  },
+  {
+   "title": "Kelly Ayotte wins her second term as New Hampshire Governor",
+   "link": "https://www.mynbc5.com/article/new-hampshire-gubernatorial-race-2026-results/74192786",
    "source": "WPTZ",
-   "ts": 1793800740.0
+   "ts": 1793804820.0
   },
   {
-   "title": "New York Congressional District 21 race results: Gendebien says Constantino likely to win",
-   "link": "https://www.mynbc5.com/article/new-york-21-race-results-2026/74110745",
+   "title": "A 3,200-pound NASA observatory is careening back toward Earth. Here\u2019s what to know",
+   "link": "https://www.mynbc5.com/article/nasa-swift-observatory-earth-reentry-debris-risk/74333058",
    "source": "WPTZ",
-   "ts": 1793800200.0
+   "ts": 1793803680.0
   },
   {
-   "title": "Barre residents approve $56.6 million school budget",
-   "link": "https://www.wcax.com/2026/11/04/barre-residents-approve-566-million-school-budget/",
+   "title": "Lincoln\u2019s mystifying NYC parking ticket finally rescinded",
+   "link": "https://www.wcax.com/2026/11/04/lincolns-mystifying-nyc-parking-ticket-finally-rescinded/",
    "source": "WCAX",
-   "ts": 1793799702.0
+   "ts": 1793803634.0
   },
   {
-   "title": "Latest results from 2026 midterm elections across the region",
-   "link": "https://www.wcax.com/2026/11/04/latest-results-2026-midterm-elections-across-region/",
+   "title": "First in their families: Five first-generation students share their stories",
+   "link": "https://vtdigger.org/2026/11/04/first-in-their-families-five-first-generation-students-share-their-stories/",
+   "source": "VTDigger",
+   "ts": 1793803167.0
+  },
+  {
+   "title": "These are the skin cancer warning signs you may overlook as you age",
+   "link": "https://www.wcax.com/2026/11/04/these-are-skin-cancer-warning-signs-you-may-overlook-you-age/",
    "source": "WCAX",
-   "ts": 1793797703.0
+   "ts": 1793801839.0
   },
   {
-   "title": "InvestigateTV+: Growing risk behind lithium-ion batteries",
-   "link": "https://www.wcax.com/2026/11/04/investigatetv-growing-risk-behind-lithium-ion-batteries/",
-   "source": "WCAX",
-   "ts": 1793797388.0
+   "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+   "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+   "source": "NPR",
+   "ts": 1793799489.0
   },
   {
-   "title": "The world is reacting to the Democrats' midterm elections victory",
+   "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
    "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
    "source": "NPR",
    "ts": 1793795675.0
@@ -48,12 +60,6 @@
    "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
    "source": "NPR",
    "ts": 1793794719.0
-  },
-  {
-   "title": "6 takeaways from Democrats' big wave on election night",
-   "link": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
-   "source": "NPR",
-   "ts": 1793793758.0
   },
   {
    "title": "Vermonters vote to approve 2 constitutional amendments",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/03/republican-phil-scott-wins-record-6th-term-as-vermonts-governor/",
    "source": "VTDigger",
    "ts": 1793764589.0
-  },
-  {
-   "title": "Molly Gray elected as Vermont\u2019s next lieutenant governor, ousting John Rodgers",
-   "link": "https://vtdigger.org/2026/11/03/molly-gray-elected-as-vermonts-next-lieutenant-governor/",
-   "source": "VTDigger",
-   "ts": 1793760187.0
   }
  ]
 }
