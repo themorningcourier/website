@@ -1,29 +1,35 @@
 {
- "updated": "2026-11-04T16:29:33.121288+00:00",
+ "updated": "2026-11-04T17:29:09.549887+00:00",
  "items": [
+  {
+   "title": "A woman was arrested for blocking a delivery robot. She says she\u2019ll do it again",
+   "link": "https://www.mynbc5.com/article/woman-arrested-blocking-autonomous-delivery-robot/74335096",
+   "source": "WPTZ",
+   "ts": 1793813220.0
+  },
+  {
+   "title": "Scientists say they've found the strongest evidence yet of red blood cells in a dinosaur bone",
+   "link": "https://www.mynbc5.com/article/scientists-find-evidence-red-blood-cells-dinosaur-bone/74322009",
+   "source": "WPTZ",
+   "ts": 1793812020.0
+  },
+  {
+   "title": "Voters back abortion rights in 3 of 4 states where they were on the ballot",
+   "link": "https://www.mynbc5.com/article/abortion-ballot-measures-missouri-idaho-virginia-nebraska/74334977",
+   "source": "WPTZ",
+   "ts": 1793811960.0
+  },
+  {
+   "title": "Aging Untold: These are the skin cancer warning signs you may overlook as you age",
+   "link": "https://www.wcax.com/2026/11/04/aging-untold-these-are-skin-cancer-warning-signs-you-may-overlook-you-age/",
+   "source": "WCAX",
+   "ts": 1793811312.0
+  },
   {
    "title": "This might be the most remote bakery in all of Vermont",
    "link": "https://www.wcax.com/2026/11/04/this-might-be-most-remote-bakery-all-vermont/",
    "source": "WCAX",
    "ts": 1793809350.0
-  },
-  {
-   "title": "New York Attorney General Letita James wins third term",
-   "link": "https://www.mynbc5.com/article/new-york-attorney-general-election-results-2026/74110779",
-   "source": "WPTZ",
-   "ts": 1793809260.0
-  },
-  {
-   "title": "Brent Davison beats David Favro for Clinton County Sheriff",
-   "link": "https://www.mynbc5.com/article/clinton-county-sheriff-race-results/74326120",
-   "source": "WPTZ",
-   "ts": 1793809200.0
-  },
-  {
-   "title": "2026 midterm election results: All U.S. Senate, House and governor races",
-   "link": "https://www.mynbc5.com/article/2026-midterm-election-results-united-states/74276209",
-   "source": "WPTZ",
-   "ts": 1793809140.0
   },
   {
    "title": "Mississippi Democratic candidate Scott Colom says he\u2019s \u2018confident\u2019 he\u2019ll win Senate race as it remains too close to call",
@@ -36,12 +42,6 @@
    "link": "https://vtdigger.org/2026/11/04/barre-voters-approve-school-district-budget-on-4th-attempt/",
    "source": "VTDigger",
    "ts": 1793807381.0
-  },
-  {
-   "title": "Critical shortage of vets could threaten America\u2019s food supply",
-   "link": "https://www.wcax.com/2026/11/04/critical-shortage-vets-could-threaten-americas-food-supply/",
-   "source": "WCAX",
-   "ts": 1793804897.0
   },
   {
    "title": "First in their families: Five first-generation students share their stories",
