@@ -1,59 +1,101 @@
 {
- "updated": "2026-11-04T07:14:48.156906+00:00",
+ "updated": "2026-11-04T08:36:06.717286+00:00",
  "items": [
   {
-   "title": "Democrats score major upsets and take control of Senate",
-   "link": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
-   "source": "CBS News",
-   "ts": 1793776180.0
-  },
-  {
-   "title": "Mayor Karen Bass and Nithya Raman in dead heat as voters face face excruciating wait in LA mayoral race",
-   "link": "https://nypost.com/2026/11/04/us-news/los-angeles-mayor-race-remains-dead-heat-as-vote-count-continues/",
+   "title": "Pete Ricketts wins Nebraska Senate race, making Dan Osborn two-time loser",
+   "link": "https://nypost.com/2026/11/04/us-news/pete-ricketts-wins-nebraska-senate-race-making-dan-osborn-two-time-loser/",
    "source": "New York Post",
-   "ts": 1793776130.0
+   "ts": 1793781312.0
   },
   {
-   "title": "Democrat Katy Padilla Stout flips ex-Rep. Tony Gonzales' seat",
-   "link": "https://www.cbsnews.com/news/texas-23-district-katy-padilla-stout-brandon-herrera-tony-gonzales/",
+   "title": "Trump says he'll work with Dems as they win Congress",
+   "link": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
    "source": "CBS News",
-   "ts": 1793775696.0
+   "ts": 1793781294.0
   },
   {
-   "title": "Mississippi Senate race at razor thin margin as vote count continues",
-   "link": "https://www.cbsnews.com/video/mississippi-senate-race-at-razor-thin-margin-as-vote-count-continues/",
+   "title": "Democrats win House majority with Trump approval at historic low",
+   "link": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
    "source": "CBS News",
-   "ts": 1793775458.0
+   "ts": 1793780181.0
+  },
+  {
+   "title": "Democrats, retaking House majority, aim to derail Trump's agenda",
+   "link": "https://www.cbsnews.com/news/democrats-win-house-majority/",
+   "source": "CBS News",
+   "ts": 1793779903.0
   },
   {
    "title": "Election 2026 live results: Dems take back Congress, Jackson unseats Sen. Collins",
    "link": "https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?id=137782085",
    "source": "ABC News",
-   "ts": 1793775458.0
+   "ts": 1793779787.0
   },
   {
-   "title": "Serial rapist deported to Mexico, then extradited to US, convicted of brutal 2002 Washington cold-case murder",
-   "link": "https://nypost.com/2026/11/04/us-news/miguel-urbano-vazquez-found-guilty-of-2002-sharon-van-gilder-murder-and-tacoma-rapes-after-extradition-from-mexico/",
-   "source": "New York Post",
-   "ts": 1793775353.0
-  },
-  {
-   "title": "Rep. Ilhan Omar cruises back to Congress despite immigration fraud probe threatening to deport her",
-   "link": "https://nypost.com/2026/11/04/us-news/ilhan-omar-cruises-back-to-congress-despite-trump-feds-threatening-to-deport-her/",
-   "source": "New York Post",
-   "ts": 1793774776.0
-  },
-  {
-   "title": "These candidates made history in the 2026 midterm elections",
-   "link": "https://abcnews.com/Politics/candidates-made-history-2026-midterm-elections/story?id=137829582",
+   "title": "WATCH:  Jon Ossoff addresses supporters after projected win in Georgia Senate race",
+   "link": "https://abcnews.com/video/137828154/",
    "source": "ABC News",
-   "ts": 1793772923.0
+   "ts": 1793779422.0
   },
   {
-   "title": "Democrats projected to take Congress in blue wave fueled by Trump, economy discontent",
-   "link": "https://abcnews.com/Politics/democrats-projected-congress-blue-wave-fueled-trump-economy/story?id=137688143",
+   "title": "The biggest revelations from Netflix\u2019s Natalee Holloway doc",
+   "link": "https://pagesix.com/2026/11/04/entertainment/the-biggest-revelations-from-netflixs-natalee-holloway-doc/",
+   "source": "New York Post",
+   "ts": 1793779260.0
+  },
+  {
+   "title": "Dear Abby: My son-in-law won\u2019t stop sending me cat videos",
+   "link": "https://nypost.com/2026/11/04/lifestyle/dear-abby-my-son-in-law-wont-stop-sending-me-cat-videos/",
+   "source": "New York Post",
+   "ts": 1793779200.0
+  },
+  {
+   "title": "Democrat Abdul El-Sayed wins Michigan\u2019s high-stakes Senate race",
+   "link": "https://www.nbcnews.com/politics/2026-election/democrat-abdul-el-sayed-wins-michigans-high-stakes-senate-race-rcna603315",
+   "source": "NBC News",
+   "ts": 1793777203.0
+  },
+  {
+   "title": "Speaker Mike Johnson projected to cruise to re-election for fifth House term",
+   "link": "https://www.foxnews.com/politics/speaker-mike-johnson-cruises-re-election-fifth-house-term",
+   "source": "Fox News",
+   "ts": 1793776914.0
+  },
+  {
+   "title": "WATCH:  James Talarico addresses supporters after projected win in Texas Senate race",
+   "link": "https://abcnews.com/video/137836878/",
    "source": "ABC News",
-   "ts": 1793772734.0
+   "ts": 1793776881.0
+  },
+  {
+   "title": "Dems flips yet another Senate seat in Trump country amid sweeping GOP upsets",
+   "link": "https://www.foxnews.com/politics/dems-flips-yet-another-senate-seat-trump-country-amid-sweeping-gop-upsets",
+   "source": "Fox News",
+   "ts": 1793776022.0
+  },
+  {
+   "title": "Democrats seize Congress in sweeping midterm repudiation of Trump",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0lOMEdFS2NKSF9XVlZQUnNpWEgyRFN5d3prSnJKUFgyUmFZUEw5SWhQN0h5MEhEZk1GaVlyc1R2SzBsMmlSNjJtVDZ2YXMyN2ZPZGd2ZldGT1ZEQU51OElNNVA2emJPd2RnbFdxdmo0TWFaZHdmUXltbHlveXVnbHRPT21UTUJyX19ySlVNWk1MR0pZZlVzMzdrZTlOTUJKMi1UeWp1Q1BlOVlUaW1zSUxn?oc=5",
+   "source": "Reuters",
+   "ts": 1793775540.0
+  },
+  {
+   "title": "Novo Nordisk raises 2026 outlook as Wegovy pill beats forecasts",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXNSTmhfQVhISGNaNGRPM1A5R1hwalZvbm93d3lkc0thd0dZMGdLZ3h6WTI4NnVQeGxZYVdhc2IzY3M3UXUtMlBQVmtZWlMtQmhDYXhCZ1JuREQzZlhwQVVRR0tiTEZybndZdHBKbG5ZcXR1c2p6Tm5yNHRXYVNNVUs2VjViQVB6dWc3c24tTHd3UkNRN1NIdXZ1alB3TkljNGNXSUZn?oc=5",
+   "source": "Reuters",
+   "ts": 1793774160.0
+  },
+  {
+   "title": "BMW reports lower Q3 earnings as restructuring spells more pain towards end of year",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNemZiczh2cXl5ckZGQ0FKMzV1Ry0xTUtOVkJZbjhNWnZrS053QVBkbXo5ZWVXVEFRdmI2OUJDNlJZQm1tMnhCd2Q5ZVpvRjFzNTgwMzFOalRhN3QzRkZSVEN0SDNJWWQ4alV3Tm8xZENTNlY0TGl4R015RlZuWE5NUVBDenQ2ZUhrNGdnVnZEaG5xVmRwc3VFQlBGUzUyZEFBYkptX0FFVkwtdDV3SjN6M0VMT3I2NkhGNTBQelNLelVWdzA?oc=5",
+   "source": "Reuters",
+   "ts": 1793774040.0
+  },
+  {
+   "title": "Thune plans to run for Republican minority leader after Dem's midterm takeover",
+   "link": "https://www.foxnews.com/politics/thune-plans-run-republican-minority-leader-after-dem-midterm-takeover",
+   "source": "Fox News",
+   "ts": 1793773656.0
   },
   {
    "title": "Stock futures drop as Wall Street confronts the \u2018blue tsunami\u2019 threat to the AI boom",
@@ -66,48 +108,6 @@
    "link": "https://www.nbcnews.com/politics/2026-election/troy-jackson-maine-senator-win-democrat-senate-majority-susan-collins-rcna603312",
    "source": "NBC News",
    "ts": 1793771364.0
-  },
-  {
-   "title": "Republicans suffer historic Senate upset as Dem flips deep-red state for first time in nearly a century",
-   "link": "https://www.foxnews.com/politics/republicans-suffer-historic-senate-upset-dem-flips-deep-red-state-first-time-nearly-century",
-   "source": "Fox News",
-   "ts": 1793771206.0
-  },
-  {
-   "title": "Record number of female governors elected",
-   "link": "https://www.nbcnews.com/politics/2026-election/record-number-female-governors-elected-rcna607366",
-   "source": "NBC News",
-   "ts": 1793771120.0
-  },
-  {
-   "title": "Netanyahu faces coalition showdown as rivals maneuver to form Israel's next government",
-   "link": "https://www.foxnews.com/world/netanyahu-faces-coalition-showdown-rivals-maneuver-form-israels-next-government",
-   "source": "Fox News",
-   "ts": 1793771104.0
-  },
-  {
-   "title": "Morning Bid: Markets fret blue wave will drown data centres",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93OE95c0J3SXVtQndrTy15NzhvLWZJNkxreWFTOVIxOUVfVDZmT2pENjUtdExybTBHS3BwRzl5dXZDYTRnUlo4bklubTFFeU9WVnBOWENEajNkdllacnhwUzlqaHhpd0xsb1R3QU5uYTB0ME0yNnpfUThZQTc1WXc?oc=5",
-   "source": "Reuters",
-   "ts": 1793770860.0
-  },
-  {
-   "title": "Trump congratulates Democrats after dominant midterms, says he looks forward to working with them",
-   "link": "https://www.foxnews.com/media/trump-congratulates-democrats-dominant-midterms-looks-forward-working",
-   "source": "Fox News",
-   "ts": 1793770330.0
-  },
-  {
-   "title": "Democrat Troy Jackson ousts Republican Senator Susan Collins in Maine",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdG0ybGo0Uk5jbjBxSEtwVGVBcVBCZWJEc0xRb09Nby1KRFl3N0ozLVB2VVMtNXF2RXpmdVFWS2luZGtBcm9ibHN1NW52MXZ2ell3NWp0MDVNeUlUWmlIMGdGQ1lfWTdaYkhfUzVnZFRlQ01UUWRnU0ZOTVVIeExvZzFQTHJOY2d5YU9oS0M0bUlmNHBpaXRwcnk4cE9WR3hPcVd4QWZqVThxS1VLNExXcw?oc=5",
-   "source": "Reuters",
-   "ts": 1793770020.0
-  },
-  {
-   "title": "Chinese court hears COVID defamation case against US state of Missouri",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ3hObTZxWjV1UTFDbWx3ZWR4b01VZTVDVEN4Z3JDVmstSnhGcVlCcm05WGpJNTROdUxzUmFrUU5sb0JubktqOEhhQmY5OUpUUWhKdzV3N25wcUFTcGg0aU8tcksteGRtSzBZSWFsdm5wWTMzYVZaOEIxV3REMmptSnpWMm5VZHFsLV9kR09NaWNPamwwMUhQVzdwM2dGWGtlVmNmYTU4S2EwTkl0SUxGSmhxbm1JeXQ5emVITw?oc=5",
-   "source": "Reuters",
-   "ts": 1793769660.0
   }
  ]
 }
