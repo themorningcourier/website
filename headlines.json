@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-04T18:29:30.967724+00:00",
+ "updated": "2026-11-04T19:37:08.651624+00:00",
  "items": [
+  {
+   "title": "Russian attacks disrupt power in Kyiv, while the death toll in a stricken village rises to 40",
+   "link": "https://www.mynbc5.com/article/russian-attacks-disrupt-power-kyiv-death-toll-stricken-village-rises/74336465",
+   "source": "WPTZ",
+   "ts": 1793820720.0
+  },
+  {
+   "title": "Helicopter crashes into bay near Miami, killing 1 and injuring 2 others, officials say",
+   "link": "https://www.mynbc5.com/article/florida-helicopter-crash-miami-biscayne-bay/74336519",
+   "source": "WPTZ",
+   "ts": 1793820480.0
+  },
+  {
+   "title": "See latest updates from the North Country: See results in key races",
+   "link": "https://www.mynbc5.com/article/new-york-full-election-results-2026/74149396",
+   "source": "WPTZ",
+   "ts": 1793820420.0
+  },
+  {
+   "title": "Chemical plant explosion in Mississippi prompts shelter-in-place order",
+   "link": "https://www.wcax.com/2026/11/04/chemical-plant-explosion-mississippi-prompts-shelter-in-place-order/",
+   "source": "WCAX",
+   "ts": 1793820402.0
+  },
+  {
+   "title": "Monarch butterflies get tiny trackers to help scientists follow their mysterious migration",
+   "link": "https://www.wcax.com/2026/11/04/monarch-butterflies-get-tiny-trackers-help-scientists-follow-their-mysterious-migration/",
+   "source": "WCAX",
+   "ts": 1793819140.0
+  },
+  {
+   "title": "Couple who took in 16 foster kids convicted of abuse \u2018under the guise of discipline\u2019",
+   "link": "https://www.wcax.com/2026/11/04/couple-who-took-16-foster-kids-convicted-abuse-under-guise-discipline/",
+   "source": "WCAX",
+   "ts": 1793818706.0
+  },
+  {
+   "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
+   "link": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
+   "source": "NPR",
+   "ts": 1793817454.0
+  },
   {
    "title": "Vermont Conversation: \u2018An incredible repudiation of Trump.\u2019 Sen. Peter Welch on the 2026 Democratic tsunami.",
    "link": "https://vtdigger.org/2026/11/04/vermont-conversation-an-incredible-repudiation-of-trump-sen-peter-welch-on-the-2026-democratic-tsunami/",
@@ -8,40 +50,10 @@
    "ts": 1793816769.0
   },
   {
-   "title": "Midterm election 2026: Tracking the results of redistricting efforts",
-   "link": "https://www.mynbc5.com/article/2026-midterm-redistricting-results/74326808",
-   "source": "WPTZ",
-   "ts": 1793816760.0
-  },
-  {
-   "title": "Vance blames war in Iran for Republican midterm losses",
-   "link": "https://www.mynbc5.com/article/vance-blames-iran-war-for-republican-midterm-losses/74335842",
-   "source": "WPTZ",
-   "ts": 1793816520.0
-  },
-  {
-   "title": "World leaders who sparred with Trump express relief mixed with caution at Republican election rout",
-   "link": "https://www.wcax.com/2026/11/04/world-leaders-who-sparred-with-trump-express-relief-mixed-with-caution-republican-election-rout/",
-   "source": "WCAX",
-   "ts": 1793816087.0
-  },
-  {
    "title": "Mike Johnson will step aside as top House Republican next Congress",
    "link": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker",
    "source": "NPR",
    "ts": 1793816053.0
-  },
-  {
-   "title": "Vermont voter turnout increases in 2026 election, secretary of state says",
-   "link": "https://www.mynbc5.com/article/vermont-voter-turnout-2026/74335843",
-   "source": "WPTZ",
-   "ts": 1793816040.0
-  },
-  {
-   "title": "Shorter days and dark afternoons can trigger depression. Here\u2019s how to fight back",
-   "link": "https://www.wcax.com/2026/11/04/shorter-days-dark-afternoons-can-trigger-depression-heres-how-fight-back/",
-   "source": "WCAX",
-   "ts": 1793815698.0
   },
   {
    "title": "A shrinking state can\u2019t afford to lose its top earners",
@@ -60,18 +72,6 @@
    "link": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
    "source": "NPR",
    "ts": 1793813916.0
-  },
-  {
-   "title": "Former judge arrested for unloading gun at Halloween trick-or-treaters, police say",
-   "link": "https://www.wcax.com/2026/11/04/former-judge-arrested-unloading-gun-halloween-trick-or-treaters-police-say/",
-   "source": "WCAX",
-   "ts": 1793813059.0
-  },
-  {
-   "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
-   "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
-   "source": "NPR",
-   "ts": 1793799489.0
   }
  ]
 }
