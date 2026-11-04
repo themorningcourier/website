@@ -1,65 +1,65 @@
 {
- "updated": "2026-11-04T02:53:02.953958+00:00",
+ "updated": "2026-11-04T03:54:29.896700+00:00",
  "items": [
   {
-   "title": "2026 midterm election results: All U.S. Senate, House and governor races",
-   "link": "https://www.mynbc5.com/article/2026-midterm-election-results-united-states/74276209",
-   "source": "WPTZ",
-   "ts": 1793760600.0
+   "title": "5 DSA candidates are elected to the House in a historic night for their movement",
+   "link": "https://www.npr.org/2026/11/03/g-s1-150034/2026-midterm-election-dsa-candidates",
+   "source": "NPR",
+   "ts": 1793763862.0
   },
   {
    "title": "See latest updates from the North Country: New York full election results",
    "link": "https://www.mynbc5.com/article/new-york-full-election-results-2026/74149396",
    "source": "WPTZ",
-   "ts": 1793760600.0
+   "ts": 1793763720.0
   },
   {
-   "title": "Vermont Lieutenant Governor race results: John Rodgers concedes to Molly Gray",
-   "link": "https://www.mynbc5.com/article/vermont-lieutenant-governor-election-results-2026/74110550",
+   "title": "Vermont midterm election results 2026: See latest updates on key races",
+   "link": "https://www.mynbc5.com/article/vt-midterm-election-results-2026/74149387",
    "source": "WPTZ",
-   "ts": 1793760540.0
+   "ts": 1793763720.0
   },
   {
-   "title": "Gray wins back Vermont lieutenant governor job",
-   "link": "https://www.wcax.com/2026/11/04/gray-wins-back-vermont-lieutenant-governor-job/",
+   "title": "Rahm Emanuel says Trump's policies have upended the president's coalition",
+   "link": "https://www.npr.org/2026/11/03/nx-s1-6028082/rahm-emanuel-says-trumps-policies-have-upended-the-presidents-coalition",
+   "source": "NPR",
+   "ts": 1793763700.0
+  },
+  {
+   "title": "Democrat Annie Andrews wins South Carolina Senate race in major upset",
+   "link": "https://www.npr.org/2026/11/03/g-s1-151666/south-carolina-senate-race-andrews-graham",
+   "source": "NPR",
+   "ts": 1793763569.0
+  },
+  {
+   "title": "Annie Andrews defeats Sen. Darline Graham, Lindsey Graham's sister, in South Carolina Senate race",
+   "link": "https://www.mynbc5.com/article/annie-andrews-defeats-darline-graham-lindsey-graham-senate/74327582",
+   "source": "WPTZ",
+   "ts": 1793763540.0
+  },
+  {
+   "title": "Mike Pieciak wins another term as Vermont treasurer",
+   "link": "https://www.wcax.com/2026/11/04/mike-pieciak-wins-another-term-vermont-treasurer/",
    "source": "WCAX",
-   "ts": 1793760375.0
+   "ts": 1793763210.0
   },
   {
-   "title": "Molly Gray elected as Vermont\u2019s next lieutenant governor",
+   "title": "Ashe elected auditor",
+   "link": "https://www.wcax.com/2026/11/04/ashe-elected-auditor/",
+   "source": "WCAX",
+   "ts": 1793762417.0
+  },
+  {
+   "title": "Election 2026: Vermont Secretary of State Candidate Heat Maps Data Visualization",
+   "link": "https://www.wcax.com/2026/11/04/election-2026-vermont-attorney-general-candidate-heat-maps-data-visualization-2/",
+   "source": "WCAX",
+   "ts": 1793762299.0
+  },
+  {
+   "title": "Molly Gray elected as Vermont\u2019s next lieutenant governor, ousting John Rodgers",
    "link": "https://vtdigger.org/2026/11/03/molly-gray-elected-as-vermonts-next-lieutenant-governor/",
    "source": "VTDigger",
    "ts": 1793760187.0
-  },
-  {
-   "title": "WATCH LIVE: Latest results from 2026 midterm elections",
-   "link": "https://www.wcax.com/2026/11/03/watch-live-latest-results-2026-midterm-elections/",
-   "source": "WCAX",
-   "ts": 1793760159.0
-  },
-  {
-   "title": "Election 2026: Vermont Lieutenant Governor Candidate Heat Maps Data Visualization",
-   "link": "https://www.wcax.com/2026/11/04/election-2026-vermont-lieutenant-governor-candidate-heat-maps-data-visualization/",
-   "source": "WCAX",
-   "ts": 1793760122.0
-  },
-  {
-   "title": "Melat Kiros becomes the first Gen Z woman elected to Congress",
-   "link": "https://www.npr.org/2026/11/03/g-s1-150229/melat-kiros-first-gen-z-woman-elected-to-congress",
-   "source": "NPR",
-   "ts": 1793759661.0
-  },
-  {
-   "title": "Former Speaker Nancy Pelosi says Democrats' power lies in their unity",
-   "link": "https://www.npr.org/2026/11/03/nx-s1-6028031/former-speaker-nancy-pelosi-says-democrats-power-lies-in-their-unity",
-   "source": "NPR",
-   "ts": 1793759147.0
-  },
-  {
-   "title": "Georgia elects the nation's first Black female governor",
-   "link": "https://www.npr.org/2026/11/03/g-s1-151040/georgia-elects-the-nations-first-black-female-governor",
-   "source": "NPR",
-   "ts": 1793759071.0
   },
   {
    "title": "Who checks the software\u2019s work?",
