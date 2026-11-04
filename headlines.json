@@ -1,23 +1,35 @@
 {
- "updated": "2026-11-04T05:59:39.571849+00:00",
+ "updated": "2026-11-04T07:14:48.156906+00:00",
  "items": [
   {
-   "title": "Maine Sen. Susan Collins concedes to Troy Jackson, ending her bid for a sixth term",
-   "link": "https://www.mynbc5.com/article/susan-collins-concedes-troy-jackson-maine/74329183",
-   "source": "WPTZ",
-   "ts": 1793771700.0
+   "title": "House Democratic Leader Hakeem Jeffries declares \"America is back\"",
+   "link": "https://www.npr.org/2026/11/04/nx-s1-6028572/hakeem-jeffries-midterms-house",
+   "source": "NPR",
+   "ts": 1793775028.0
   },
   {
-   "title": "Annie Andrews defeats Sen. Darline Graham, Lindsey Graham's sister, in South Carolina Senate race",
-   "link": "https://www.mynbc5.com/article/annie-andrews-defeats-darline-graham-lindsey-graham-senate/74327582",
+   "title": "Hakeem Jeffries poised to make history as the first Black speaker of the House",
+   "link": "https://www.mynbc5.com/article/hakeen-jeffries-black-speaker-of-the-house/74329321",
    "source": "WPTZ",
-   "ts": 1793771340.0
+   "ts": 1793774700.0
   },
   {
-   "title": "Democrats clinch control of US Senate as party notches several major wins",
-   "link": "https://www.mynbc5.com/article/democrats-control-us-senate-2026-midterms/74328768",
+   "title": "Democrats win big, taking full control of Congress",
+   "link": "https://www.mynbc5.com/article/live-updates-nov-3-midterm-elections-2026/74315870",
    "source": "WPTZ",
-   "ts": 1793771220.0
+   "ts": 1793774220.0
+  },
+  {
+   "title": "US Senate election results 2026: Democrats clinch control of upper chamber",
+   "link": "https://www.mynbc5.com/article/us-senate-election-results-2026-midterms/74277023",
+   "source": "WPTZ",
+   "ts": 1793773560.0
+  },
+  {
+   "title": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
+   "link": "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
+   "source": "NPR",
+   "ts": 1793772151.0
   },
   {
    "title": "Here's how some key demographic groups voted in the midterms",
@@ -42,18 +54,6 @@
    "link": "https://www.wcax.com/2026/11/03/watch-live-latest-results-2026-midterm-elections/",
    "source": "WCAX",
    "ts": 1793769344.0
-  },
-  {
-   "title": "Former Arkansas governor says Democrats' gains are 'more significant than ever anticipated'",
-   "link": "https://www.npr.org/2026/11/04/nx-s1-6028116/former-arkansas-governor-says-democrats-gains-are-more-significant-than-ever-anticipated",
-   "source": "NPR",
-   "ts": 1793769241.0
-  },
-  {
-   "title": "Democrats win the Senate, setting up divided government for remainder of Trump's term",
-   "link": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
-   "source": "NPR",
-   "ts": 1793767495.0
   },
   {
    "title": "Vermonters vote to approve 2 constitutional amendments",
