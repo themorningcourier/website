@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-05T06:02:19.570986+00:00",
+ "updated": "2026-11-05T07:19:21.922004+00:00",
  "items": [
+  {
+   "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+   "link": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+   "source": "NPR",
+   "ts": 1793862132.0
+  },
+  {
+   "title": "Google will let schools turn off AI, but they may lose Search",
+   "link": "https://www.mynbc5.com/article/google-to-let-schools-turn-off-ai-may-lose-search/74325335",
+   "source": "WPTZ",
+   "ts": 1793860560.0
+  },
+  {
+   "title": "Single Powerball ticket matches all numbers for $847 million jackpot",
+   "link": "https://www.wcax.com/2026/11/05/single-powerball-ticket-matches-all-numbers-847-million-jackpot/",
+   "source": "WCAX",
+   "ts": 1793858400.0
+  },
   {
    "title": "Plattsburgh State men's soccer advances to first home SUNYAC championship since 2012",
    "link": "https://www.mynbc5.com/article/plattsburgh-state-mens-soccer-advances-to-first-home-sunyac-championship-since-2012/74337032",
@@ -20,12 +38,6 @@
    "ts": 1793856596.0
   },
   {
-   "title": "US contractor admits passing US top-secret information to Ethiopia",
-   "link": "https://www.mynbc5.com/article/contractor-admits-passing-secret-information-ethiopia/74340372",
-   "source": "WPTZ",
-   "ts": 1793855820.0
-  },
-  {
    "title": "Woman charged with hiding income to pocket $12K in illegal SNAP funds",
    "link": "https://www.wcax.com/2026/11/05/woman-charged-with-hiding-income-pocket-12k-illegal-snap-funds/",
    "source": "WCAX",
@@ -36,12 +48,6 @@
    "link": "https://www.wcax.com/2026/11/05/vtrans-prepares-plow-trucks-winter-with-drivers-call-starting-dec-1/",
    "source": "WCAX",
    "ts": 1793848088.0
-  },
-  {
-   "title": "Reporter forced out of Republican candidate\u2019s election party during profane-laced speech on live television",
-   "link": "https://www.wcax.com/2026/11/05/reporter-forced-out-republican-candidates-election-party-during-profane-laced-speech-live-television/",
-   "source": "WCAX",
-   "ts": 1793840603.0
   },
   {
    "title": "In a \u2018blue tsunami,\u2019 how did Republican Gov. Phil Scott win another term?",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/04/republican-incumbent-state-senator-from-rutland-county-arrested-last-week-loses-reelection-bid/",
    "source": "VTDigger",
    "ts": 1793828681.0
-  },
-  {
-   "title": "Elon Musk will face scrutiny from Democrats after midterms",
-   "link": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
-   "source": "NPR",
-   "ts": 1793826683.0
   }
  ]
 }
