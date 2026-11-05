@@ -1,11 +1,29 @@
 {
- "updated": "2026-11-05T05:00:14.541370+00:00",
+ "updated": "2026-11-05T06:02:19.570986+00:00",
  "items": [
   {
-   "title": "Dodge announces its return to the NASCAR Cup Series",
-   "link": "https://www.mynbc5.com/article/dodge-return-nascar-cup-series/74340280",
+   "title": "Plattsburgh State men's soccer advances to first home SUNYAC championship since 2012",
+   "link": "https://www.mynbc5.com/article/plattsburgh-state-mens-soccer-advances-to-first-home-sunyac-championship-since-2012/74337032",
    "source": "WPTZ",
-   "ts": 1793854200.0
+   "ts": 1793858100.0
+  },
+  {
+   "title": "Northern Adirondack boys' soccer advances to NYSPHSAA Class C Regional Finals",
+   "link": "https://www.mynbc5.com/article/northern-adirondack-boys-soccer-advances-to-nysphsaa-class-c-regional-finals/74339704",
+   "source": "WPTZ",
+   "ts": 1793858040.0
+  },
+  {
+   "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+   "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+   "source": "NPR",
+   "ts": 1793856596.0
+  },
+  {
+   "title": "US contractor admits passing US top-secret information to Ethiopia",
+   "link": "https://www.mynbc5.com/article/contractor-admits-passing-secret-information-ethiopia/74340372",
+   "source": "WPTZ",
+   "ts": 1793855820.0
   },
   {
    "title": "Woman charged with hiding income to pocket $12K in illegal SNAP funds",
@@ -14,22 +32,10 @@
    "ts": 1793851171.0
   },
   {
-   "title": "New study links energy drinks to reports of heart attacks and cardiac arrest in young adults",
-   "link": "https://www.mynbc5.com/article/energy-drinks-stimulants-heart-risks-young-adults/74339742",
-   "source": "WPTZ",
-   "ts": 1793848380.0
-  },
-  {
    "title": "VTrans prepares plow trucks for winter, with drivers on call starting Dec. 1",
    "link": "https://www.wcax.com/2026/11/05/vtrans-prepares-plow-trucks-winter-with-drivers-call-starting-dec-1/",
    "source": "WCAX",
    "ts": 1793848088.0
-  },
-  {
-   "title": "GOP House member says he will trigger impeachment vote against Defense Secretary Hegseth",
-   "link": "https://www.mynbc5.com/article/thomas-massie-impeachment-defense-secretary-hegseth/74338077",
-   "source": "WPTZ",
-   "ts": 1793847840.0
   },
   {
    "title": "Reporter forced out of Republican candidate\u2019s election party during profane-laced speech on live television",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
    "source": "NPR",
    "ts": 1793826683.0
-  },
-  {
-   "title": "Democratic leaders reflect on midterm results and what's next for the party",
-   "link": "https://www.npr.org/2026/11/04/g-s1-151868/democratic-leaders-election-results-reactions-takeaways",
-   "source": "NPR",
-   "ts": 1793825399.0
   }
  ]
 }
