@@ -1,17 +1,41 @@
 {
- "updated": "2026-11-05T10:04:43.735060+00:00",
+ "updated": "2026-11-05T11:08:22.662686+00:00",
  "items": [
   {
-   "title": "Bomb threat forces Aer Lingus flight to divert to French military air base",
-   "link": "https://www.mynbc5.com/article/bomb-threat-aer-lingus-flight-divert/74341999",
+   "title": "Pope Leo XIV to head to Latin America, Peru for 12-day trip weeks after lung surgery",
+   "link": "https://www.mynbc5.com/article/pope-leo-xiv-latin-america-peru-trip-lung-surgery/74343133",
    "source": "WPTZ",
-   "ts": 1793871960.0
+   "ts": 1793876520.0
   },
   {
-   "title": "Bicyclist hit by car in Clinton County, cited for missing rear light",
-   "link": "https://www.mynbc5.com/article/car-bike-crash-beekmantown-ny/74342107",
+   "title": "Judge grants added sentence for VT man who killed daughters in DUI crash",
+   "link": "https://www.mynbc5.com/article/milton-man-kills-daughters-in-nh-dui-gets-added-sentence/74342601",
    "source": "WPTZ",
-   "ts": 1793871480.0
+   "ts": 1793875980.0
+  },
+  {
+   "title": "Multiple flights in Europe diverted because of bomb threats",
+   "link": "https://www.mynbc5.com/article/bomb-threat-aer-lingus-flight-divert/74341999",
+   "source": "WPTZ",
+   "ts": 1793874780.0
+  },
+  {
+   "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
+   "link": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction",
+   "source": "NPR",
+   "ts": 1793872920.0
+  },
+  {
+   "title": "As budgets tighten, people are breaking out their library cards",
+   "link": "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living",
+   "source": "NPR",
+   "ts": 1793872800.0
+  },
+  {
+   "title": "Does the blue wave mean lower gasoline and diesel prices soon? Don't hold your breath",
+   "link": "https://www.npr.org/2026/11/05/nx-s1-6029365/gas-diesel-price-congress-midterms",
+   "source": "NPR",
+   "ts": 1793872800.0
   },
   {
    "title": "Turning gray, soggier and cooler in the days ahead",
@@ -26,28 +50,10 @@
    "ts": 1793867441.0
   },
   {
-   "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-   "link": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
-   "source": "NPR",
-   "ts": 1793862132.0
-  },
-  {
-   "title": "Google will let schools turn off AI, but they may lose Search",
-   "link": "https://www.mynbc5.com/article/google-to-let-schools-turn-off-ai-may-lose-search/74325335",
-   "source": "WPTZ",
-   "ts": 1793860560.0
-  },
-  {
    "title": "Single Powerball ticket matches all numbers for $847 million jackpot",
    "link": "https://www.wcax.com/2026/11/05/single-powerball-ticket-matches-all-numbers-847-million-jackpot/",
    "source": "WCAX",
    "ts": 1793858400.0
-  },
-  {
-   "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
-   "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
-   "source": "NPR",
-   "ts": 1793856596.0
   },
   {
    "title": "In a \u2018blue tsunami,\u2019 how did Republican Gov. Phil Scott win another term?",
@@ -60,12 +66,6 @@
    "link": "https://vtdigger.org/2026/11/04/opinion-hunting-is-part-of-who-we-are-as-a-state/",
    "source": "VTDigger",
    "ts": 1793830197.0
-  },
-  {
-   "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
-   "link": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns",
-   "source": "NPR",
-   "ts": 1793828957.0
   },
   {
    "title": "Republican incumbent state senator from Rutland County arrested last week loses reelection bid",

@@ -1,107 +1,89 @@
 {
- "updated": "2026-11-05T10:04:43.735060+00:00",
+ "updated": "2026-11-05T11:08:22.662686+00:00",
  "items": [
   {
-   "title": "FIFA boss Gianni Infantino accused of \u2018abuse of power\u2019 over VIP Miami airport perks for wife, kids: experts",
-   "link": "https://nypost.com/2026/11/05/business/fifas-gianni-infantino-accused-of-abuse-of-power-over-vip-miami-airport-perks-for-wife-kids-experts/",
+   "title": "\u2018Hunger Games\u2019 actress Mckenna Grace rejects Hollywood nudity, \u2018hypersexual\u2019 roles",
+   "link": "https://pagesix.com/2026/11/05/celebrity-news/hunger-games-actress-mckenna-grace-rejects-hollywood-nudity-hypersexual-roles/",
    "source": "New York Post",
-   "ts": 1793872800.0
+   "ts": 1793876859.0
   },
   {
-   "title": "Hubert Aiwanger, Bavaria\u2019s scandal-ridden deputy leader, found dead in Berlin hotel room",
-   "link": "https://nypost.com/2026/11/05/world-news/hubert-aiwanger-bavarias-scandal-ridden-deputy-leader-found-dead-in-berlin-hotel-room/",
+   "title": "Multiple flights in Europe diverted because of bomb threats",
+   "link": "https://nypost.com/2026/11/05/world-news/multiple-flights-in-europe-diverted-because-of-bomb-threats/",
    "source": "New York Post",
-   "ts": 1793872048.0
+   "ts": 1793876643.0
   },
   {
-   "title": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead",
-   "link": "https://nypost.com/2026/11/05/world-news/canadian-mother-jenny-balcarras-her-daughter-selah-reed-may-have-been-killed-by-multiple-grizzly-bears/",
-   "source": "New York Post",
-   "ts": 1793871990.0
-  },
-  {
-   "title": "Indiana carries out first of 3 U.S. executions set for Thursday",
-   "link": "https://www.cbsnews.com/news/3-us-executions-same-day-second-time/",
+   "title": "Trump's lawyers to argue appeal in \"hush money\" case",
+   "link": "https://www.cbsnews.com/news/trump-hush-money-conviction-appeal/",
    "source": "CBS News",
-   "ts": 1793871900.0
+   "ts": 1793876416.0
   },
   {
-   "title": "Officials release name of US Marine who died after training incident in Japan",
-   "link": "https://abcnews.com/International/officials-release-us-marine-died-after-training-incident/story?id=137868269",
+   "title": "Trump library plans on collision course with Democratic Congress",
+   "link": "https://www.cbsnews.com/news/trump-library-democratic-congress/",
+   "source": "CBS News",
+   "ts": 1793876415.0
+  },
+  {
+   "title": "Portugal great Cristiano Ronaldo announces retirement from international soccer",
+   "link": "https://nypost.com/2026/11/05/sports/portugal-great-cristiano-ronaldo-announces-retirement-from-international-soccer/",
+   "source": "New York Post",
+   "ts": 1793876406.0
+  },
+  {
+   "title": "Who won the redistricting war? So far, it looks like Democrats",
+   "link": "https://abcnews.com/Politics/won-redistricting-war-democrats/story?id=137858678",
    "source": "ABC News",
-   "ts": 1793870963.0
+   "ts": 1793875872.0
   },
   {
-   "title": "Bomb threat diverts Rome-bound passenger plane",
+   "title": "Iran says U.S. election results show Americans reject the war",
+   "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+   "source": "CBS News",
+   "ts": 1793875219.0
+  },
+  {
+   "title": "WATCH:  The wide-ranging reactions to election night",
+   "link": "https://abcnews.com/video/137870293/",
+   "source": "ABC News",
+   "ts": 1793875176.0
+  },
+  {
+   "title": "Judges to hear Trump's appeal of 2024 criminal hush money conviction",
+   "link": "https://abcnews.com/US/judges-hear-trumps-appeal-2024-criminal-hush-money/story?id=137859786",
+   "source": "ABC News",
+   "ts": 1793873747.0
+  },
+  {
+   "title": "17 years after Fort Hood massacre, victims' families grapple with gunman's looming execution",
+   "link": "https://www.foxnews.com/us/17-years-fort-hood-massacre-victims-families-grapple-gunman-looming-execution",
+   "source": "Fox News",
+   "ts": 1793872856.0
+  },
+  {
+   "title": "Paris Jackson demands $600M from father Michael Jackson's estate in legal war with longtime executor",
+   "link": "https://www.foxnews.com/entertainment/paris-jackson-demands-600m-father-michael-jackson-estate-legal-war-longtime-executor",
+   "source": "Fox News",
+   "ts": 1793872840.0
+  },
+  {
+   "title": "Timeline of Learjet crash that killed Austin family traces final minutes from takeoff to Florida plunge",
+   "link": "https://www.foxnews.com/us/timeline-learjet-crash-killed-austin-family-traces-final-minutes-takeoff-florida-plunge",
+   "source": "Fox News",
+   "ts": 1793872824.0
+  },
+  {
+   "title": "Series of bomb threats cause flight disruptions across Europe",
    "link": "https://www.nbcnews.com/world/europe/bomb-threat-plane-dublin-rome-diverted-aer-lingus-france-rcna607594",
    "source": "NBC News",
    "ts": 1793870783.0
-  },
-  {
-   "title": "Bomb alert diverts Airbus A320 plane flying from Dublin to Rome, French PM says",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5",
-   "source": "Reuters",
-   "ts": 1793870012.0
-  },
-  {
-   "title": "MEHEK COOKE: Republicans failed the affordability test. This is how to win voters back",
-   "link": "https://www.foxnews.com/opinion/mehek-cooke-republicans-failed-affordability-test-how-win-voters-back",
-   "source": "Fox News",
-   "ts": 1793869202.0
   },
   {
    "title": "Rep. Ro Khanna allies launch a draft campaign for the 2028 presidential race",
    "link": "https://www.nbcnews.com/politics/2028-election/rep-ro-khanna-allies-launch-draft-campaign-2028-presidential-race-rcna607462",
    "source": "NBC News",
    "ts": 1793869200.0
-  },
-  {
-   "title": "LEE CARTER: The biggest winner of this election is not who you think",
-   "link": "https://www.foxnews.com/opinion/lee-carter-biggest-winner-election-not-who-you-think",
-   "source": "Fox News",
-   "ts": 1793868616.0
-  },
-  {
-   "title": "Iran says U.S. election results show Americans reject the war",
-   "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
-   "source": "CBS News",
-   "ts": 1793868555.0
-  },
-  {
-   "title": "India flags Chinese-linked AI tools in hacking campaign against financial firms",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTWVkN29DQ3RzdVJEWDZTU0JvTXZCSldfNVROUHNLMzFsTF9mSTN1Z1FCV2VQSE16MHR5YU1lR1lhVUgxdkhYQ2VpT0prNktfT3IybFhJTE0zbWZ4U3h5aWUzSTMxZm1JRTVDUkJXeHRGaHBpM1dUYnhDSzhqbVNkVlJMZmJMTS1nRC1vZzBDZDZlMjlzdUZINzZuMFpFM0VnOVRhUEdBZEEzSFRSUHBIX21QTEktTmdCYTFUTjZTUk5qeHpxU2RVdQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793868108.0
-  },
-  {
-   "title": "WATCH: Bodycam captures chaotic response to deadly Citibank shooting in Florida",
-   "link": "https://www.foxnews.com/us/florida-citibank-shooting-bodycam-footage",
-   "source": "Fox News",
-   "ts": 1793866330.0
-  },
-  {
-   "title": "Trump's political humbling signals short-term gain, long-term pain for China",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
-   "source": "Reuters",
-   "ts": 1793865420.0
-  },
-  {
-   "title": "Did Republican efforts to redistrict the House turn into a dummymander?",
-   "link": "https://www.cbsnews.com/news/dummymander-republican-redistricting-congress-trump/",
-   "source": "CBS News",
-   "ts": 1793858694.0
-  },
-  {
-   "title": "WATCH:  David Muir on how a high school's auto shop is bringing Houston together",
-   "link": "https://abcnews.com/video/137862300/",
-   "source": "ABC News",
-   "ts": 1793856441.0
-  },
-  {
-   "title": "What to know about recounts in Mississippi with razor-thin margin in Senate race",
-   "link": "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445",
-   "source": "ABC News",
-   "ts": 1793850196.0
   },
   {
    "title": "\u2018A Watergate-level repudiation\u2019: Ted Cruz weighs in on midterm wave",
