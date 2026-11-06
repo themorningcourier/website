@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-06T04:58:24.729440+00:00",
+ "updated": "2026-11-06T05:59:25.315268+00:00",
  "items": [
+  {
+   "title": "Judge blocks construction on Trump's 250-foot arch for now",
+   "link": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/",
+   "source": "CBS News",
+   "ts": 1793944225.0
+  },
+  {
+   "title": "Democrats flip more seats in Congress as GOP grapples with stunning losses",
+   "link": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+   "source": "CBS News",
+   "ts": 1793943584.0
+  },
+  {
+   "title": "Rangers\u2019 Sean Durzi finally goes on IR but already is eligible to return",
+   "link": "https://nypost.com/2026/11/06/sports/rangers-sean-durzi-finally-goes-on-ir-but-already-is-eligible-to-return/",
+   "source": "New York Post",
+   "ts": 1793941323.0
+  },
   {
    "title": "Brandon Aiyuk owes 49ers $13M as NFL return comes with complications",
    "link": "https://nypost.com/2026/11/05/sports/brandon-aiyuk-reportedly-owes-49ers-13m-as-nfl-return-looms/",
@@ -26,16 +44,28 @@
    "ts": 1793940061.0
   },
   {
-   "title": "WIF Honors 2026 red carpet: Salma Hayek,\u00a0Kerry Washington, Sharon Stone and more",
-   "link": "https://pagesix.com/2026/11/05/photos/wif-honors-2026-red-carpet-salma-hayek-kerry-washington-sharon-stone-and-more/",
-   "source": "New York Post",
-   "ts": 1793939651.0
+   "title": "Colorado police officer killed, 3 more officers wounded after suspect opens fire near bus",
+   "link": "https://www.foxnews.com/us/colorado-police-officer-killed-3-others-wounded-suspect-opens-fire-near-bus",
+   "source": "Fox News",
+   "ts": 1793939809.0
   },
   {
    "title": "Pete Hegseth strikes defiant tone in face of impeachment threat",
    "link": "https://www.nbcnews.com/politics/trump-administration/secretary-pete-hegseth-defiant-tone-impeachment-threat-thomas-massie-rcna607788",
    "source": "NBC News",
    "ts": 1793938201.0
+  },
+  {
+   "title": "EXCLUSIVE: China's top flash memory chipmaker targets more homegrown tools for new factory, sources say",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2pDd1BuOVZzeGl6Q0RiSzR3MzVBTnhnQUJOMXRUZk1PSF9HZTk5YVhzVjJZVVpaMFlKV0hhMVZNeXpOTHpxZkxvSVZKclYtMWwzUGc5N0dxQlZuS0NURFJBcUloOU9rVGJQbmprb2E4N1JRaGpjNi04OFgxUTdXVFY4OGFBWVQ4OHVkOFpoY1B4ZmhoNFJySWhfdXFBYTZSUGlVeG1KWW1XVUI3c3FfMjF0bXlNVUZNdHlSdktSaw?oc=5",
+   "source": "Reuters",
+   "ts": 1793937780.0
+  },
+  {
+   "title": "Trump's massive Arlington triumphal arch approved for construction by federal planning commission",
+   "link": "https://www.foxnews.com/politics/trumps-massive-arlington-triumphal-arch-approved-construction-federal-planning-commission",
+   "source": "Fox News",
+   "ts": 1793937725.0
   },
   {
    "title": "Dolly Parton's estate moves to dismiss lawsuit against nephew",
@@ -50,16 +80,10 @@
    "ts": 1793936760.0
   },
   {
-   "title": "Trump's 250-foot arch wins approval from committee stacked with allies",
-   "link": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/",
-   "source": "CBS News",
-   "ts": 1793936573.0
-  },
-  {
-   "title": "FEMA backlog causes delays in California infrastructure projects",
-   "link": "https://www.cbsnews.com/losangeles/news/fema-backlog-causing-delays-in-southern-california-infrastructure-projects/",
-   "source": "CBS News",
-   "ts": 1793935960.0
+   "title": "ING puts $500 million of data center loans up for sale, Bloomberg News reports",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW45UENNN0lBd0ZnWEU4MzdlZjlvY1JaMWYyeWhsQjZQQVBqcGFfSnhWN2ItcU9BOEI1RzBWRnVfZHplbWlaU3F5VlB4LTIyUFBDcFBQQkFOaE8yUHFtNWZiYVdWbElNWWRLM1JDdm1uNHZhOTFwZHhuSWMwUzZDUXlCUUNmdE03MUFVR293dlhlR1NrYU1LQnVLekFJQUx3c0dLeVRTdjYyV2dtM1ZHSms4Z2ZISXMzTGwwNVhERQ?oc=5",
+   "source": "Reuters",
+   "ts": 1793936460.0
   },
   {
    "title": "Ravens' playoff hopes hinge on Jacoby Brissett after third-stringer Joe Fagnano gets demolished by Jaguars",
@@ -68,28 +92,10 @@
    "ts": 1793935628.0
   },
   {
-   "title": "China's marriage rate in third quarter tumbles to 18-year low",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSDN2Yk93ZE1nTFJadmdpaF82dEdEbElBQ0loRmp6RjNUNldObmc1b2w1SVN6VXpJbzNWUnZHb29hSDR0bUhaeUNJbzBQZFhiNUNYMWYwX3hSd1dSWXBaQlVvODJ2WE4zel9sZUNPaHFGb3B4ZTgxSmo2dlRZS29IRE1RM2xncC1iX2xjQ0gwOEJocWw1bks4V2RvTG5jY3JTSkxsNQ?oc=5",
-   "source": "Reuters",
-   "ts": 1793933520.0
-  },
-  {
-   "title": "Oil set for sharp weekly drop but Middle East supply concerns provide floor",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B?oc=5",
-   "source": "Reuters",
-   "ts": 1793933340.0
-  },
-  {
    "title": "Dolly Parton estate files to dismiss lawsuit against her nephew",
    "link": "https://www.nbcnews.com/news/us-news/dolly-parton-estate-files-dismiss-lawsuit-nephew-rcna607787",
    "source": "NBC News",
    "ts": 1793932656.0
-  },
-  {
-   "title": "New York Knicks champion calls out Taylor Swift as the 'fakest fan' from MSG's celebrity row",
-   "link": "https://www.foxnews.com/outkick-sports/new-york-knicks-champion-calls-out-taylor-swift-fakest-fan-msgs-celebrity-row",
-   "source": "Fox News",
-   "ts": 1793930602.0
   },
   {
    "title": "Election 2026 live results: Karen Bass concedes LA mayoral race to Nithya Raman",
@@ -102,12 +108,6 @@
    "link": "https://www.nbcnews.com/politics/white-house/trump-focuses-white-house-decor-second-straight-day-midterm-remarks-rcna607776",
    "source": "NBC News",
    "ts": 1793929816.0
-  },
-  {
-   "title": "Indiana, Florida and Alabama carry out rare US triple execution day",
-   "link": "https://www.foxnews.com/us/indiana-florida-alabama-carry-out-rare-us-triple-execution-day",
-   "source": "Fox News",
-   "ts": 1793929476.0
   }
  ]
 }
