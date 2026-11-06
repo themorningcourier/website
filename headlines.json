@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-06T08:32:49.291940+00:00",
+ "updated": "2026-11-06T09:32:00.625417+00:00",
  "items": [
+  {
+   "title": "A  mild Friday ahead of a cooldown this weekend",
+   "link": "https://www.wcax.com/2026/11/06/mild-friday-ahead-cooldown-this-weekend/",
+   "source": "WCAX",
+   "ts": 1793957093.0
+  },
+  {
+   "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
+   "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
+   "source": "NPR",
+   "ts": 1793956797.0
+  },
   {
    "title": "Death row inmate asks for a stay of execution until after holidays",
    "link": "https://www.wcax.com/2026/11/06/death-row-inmate-asks-stay-execution-until-after-holidays/",
@@ -38,22 +50,10 @@
    "ts": 1793941007.0
   },
   {
-   "title": "Former police officer pleads guilty to child porn possession, gets 100 days in jail",
-   "link": "https://www.wcax.com/2026/11/06/former-police-officer-pleads-guilty-child-porn-possession-gets-100-days-jail/",
-   "source": "WCAX",
-   "ts": 1793940420.0
-  },
-  {
    "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
    "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
    "source": "NPR",
    "ts": 1793924213.0
-  },
-  {
-   "title": "These are the races in the House and Senate that haven't been called yet",
-   "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
-   "source": "NPR",
-   "ts": 1793923425.0
   },
   {
    "title": "For new taxes, only room at the inn",

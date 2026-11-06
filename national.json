@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-06T08:32:49.291940+00:00",
+ "updated": "2026-11-06T09:32:00.625417+00:00",
  "items": [
+  {
+   "title": "U.S. gas prices on track to fall below $4 a gallon, experts say",
+   "link": "https://www.cbsnews.com/news/gas-prices-below-four-dollars-expert-predicts/",
+   "source": "CBS News",
+   "ts": 1793957068.0
+  },
+  {
+   "title": "Stocks crater as midterms spur investor exodus from tech and AI",
+   "link": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/",
+   "source": "CBS News",
+   "ts": 1793956636.0
+  },
+  {
+   "title": "Oil prices rebound slightly as Iran claims new attacks on ships",
+   "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+   "source": "CBS News",
+   "ts": 1793955342.0
+  },
+  {
+   "title": "Global market rout deepens after midterms intensify AI fears",
+   "link": "https://www.nbcnews.com/business/markets/global-markets-tech-stocks-ai-midterms-democrats-asia-europe-rcna607794",
+   "source": "NBC News",
+   "ts": 1793954032.0
+  },
   {
    "title": "Judge blocks Trump arch hours after federal panel approval",
    "link": "https://abcnews.com/Politics/vietnam-vet-leading-opposition-trumps-arch-calls-frankly/story?id=137885182",
@@ -32,10 +56,16 @@
    "ts": 1793951988.0
   },
   {
-   "title": "Newsom moves to commute all California death sentences",
-   "link": "https://www.cbsnews.com/news/gavin-newsom-california-death-row-commuted-life-in-prison/",
-   "source": "CBS News",
-   "ts": 1793948541.0
+   "title": "Belgium to allow home searches for suspected illegal migrants",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcU5iN1Zmb3BlY1FPVnFOSVM0Y3kwTEFkUFJFSzdmZEU1Z3lRd0xJU1lXLVdvUS0tQTM1d0dISkNWM3pZS1hTXzZaQjVvWDEzOTJRWml6cmJDNTdoVl9kZjF6amVDS2VFWHNvNDFEdHlqT2xkX2JwY0k3SC16cy1aZU5MVlhtLXI5ZjNwQzNEYjU4YXZiaVk2YVpub2k?oc=5",
+   "source": "Reuters",
+   "ts": 1793948820.0
+  },
+  {
+   "title": "Tesla to wind down Cybertruck production at Texas factory, Musk says",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWnlMcV9XTE94RnhqbWNmQ1B5Y01Gd0tReURLRG5nc1VOVlBQR1RwazRSdXF0azlhbS1nTmJ5M0MxZUxMMUQxM1pxRHVjN1VVQWM5OGtOOGdWU1Fwa0llb0hxTXVHX05rV3JoRTR3eWwtTkNseGQ2eW5hcTcxUmQ5YnRYUVNwaGdwaDlhelZ5dmJoOVZhaGU1N1Fkb1RTUDFMY1lCUzlMcG9SYUNDcUlMeHBBYXBWQmM2QUloLWh5QkNuOGRvMTRVSml0dmxEN2lqaU1va09iQ0o?oc=5",
+   "source": "Reuters",
+   "ts": 1793948640.0
   },
   {
    "title": "Trump admin sues Penn State over in-state tuition policy for undocumented migrants",
@@ -54,30 +84,6 @@
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1U0VUFYc2RhcmQyNVd3bjU1X1hhOU5PVHpPc0djNWR3ejRmSG5qRVd1VkZCdmtZaGJrbm5HcEczdFFieHVJdHBEeXhzdDh1bmhjdXJwSldxWWl4XzNPY0tZRHN2UFRlSlAyYlpfYkNURkVNTlB6dGxYdVVmMjJCRXVpd19nenYxRVJ4OVBrZG1XSF9RN2tqTDVQd0FRVGdFYUd3?oc=5",
    "source": "Reuters",
    "ts": 1793945520.0
-  },
-  {
-   "title": "AI boom turns chip packaging into the next battleground for semiconductors",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVTRsRWo5SjhUM1lPV19Xc1ZKUjNWWEx1eTFkZEZLYmpjVG1FNFltZDRRdVBwZ3RBVnk0NlQtbDZmaWdmaFhSY0NFT3Rpa2YzZVRzNl8zSHNzcVdhR3RZdEpFeVNkMW93SDFrbTY5SE9NM3NneHpZOFYxN1FGOVU1ekxjSF9aZ2FyZnRXLU5aY2pFT0gtYTVwMEhfUmU2a2lOaURTeURqcDQ0M185ekd4ZWJwVHdiVWEwanduVElR?oc=5",
-   "source": "Reuters",
-   "ts": 1793944320.0
-  },
-  {
-   "title": "Judge blocks construction on Trump's 250-foot arch for now",
-   "link": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/",
-   "source": "CBS News",
-   "ts": 1793944225.0
-  },
-  {
-   "title": "Democrats flip more seats in Congress as GOP grapples with stunning losses",
-   "link": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
-   "source": "CBS News",
-   "ts": 1793943584.0
-  },
-  {
-   "title": "Morning Bid: AI's reality check",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xWEZCT19xVnB0ZUVUZDQzWWRjTGxuUEpqQTE4OU1CZ1ZQNHJpQTR2MnNvejZteVJRZXR2eTZ5dENZX2I0MDRnb0xOUE1ranhSWG5OblJsMEZhZzZxcnNKMFdhMDlRVWVVa0pRR1FhczRCblJZLXZGdmtLMi1DTkk?oc=5",
-   "source": "Reuters",
-   "ts": 1793943420.0
   },
   {
    "title": "Colorado police officer killed, 3 more officers wounded after suspect opens fire near bus",
@@ -102,12 +108,6 @@
    "link": "https://www.nbcnews.com/news/us-news/dolly-parton-estate-files-dismiss-lawsuit-nephew-rcna607787",
    "source": "NBC News",
    "ts": 1793932656.0
-  },
-  {
-   "title": "Trump focuses on White House decor for second straight day in post-midterm remarks",
-   "link": "https://www.nbcnews.com/politics/white-house/trump-focuses-white-house-decor-second-straight-day-midterm-remarks-rcna607776",
-   "source": "NBC News",
-   "ts": 1793929816.0
   }
  ]
 }
