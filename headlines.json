@@ -1,29 +1,35 @@
 {
- "updated": "2026-11-06T01:49:00.311324+00:00",
+ "updated": "2026-11-06T02:54:00.251743+00:00",
  "items": [
+  {
+   "title": "Trump makes the Oval Office a national monument. But future presidents can still redecorate",
+   "link": "https://www.mynbc5.com/article/trump-proclamation-prevent-changes-oval-office-cabinet-room/74349743",
+   "source": "WPTZ",
+   "ts": 1793933520.0
+  },
+  {
+   "title": "Online magazine Salon, an early staple of internet discourse, announces it will shut down",
+   "link": "https://www.mynbc5.com/article/salon-shutting-down/74351749",
+   "source": "WPTZ",
+   "ts": 1793933340.0
+  },
+  {
+   "title": "98-year-old twin Army veterans reunite after years apart",
+   "link": "https://www.mynbc5.com/article/98-year-old-twin-army-veterans-reunite/74351724",
+   "source": "WPTZ",
+   "ts": 1793932800.0
+  },
+  {
+   "title": "First measles death in 30+ years reported in this state",
+   "link": "https://www.wcax.com/2026/11/06/first-measles-death-30-years-reported-this-state/",
+   "source": "WCAX",
+   "ts": 1793930130.0
+  },
   {
    "title": "NH dads who protested transgender athletes by wearing pink wristbands score court victory",
    "link": "https://www.wcax.com/2026/11/06/nh-dads-who-protested-transgender-athletes-by-wearing-pink-wristbands-score-court-victory/",
    "source": "WCAX",
    "ts": 1793929199.0
-  },
-  {
-   "title": "Dolly Parton manager moves to withdraw complaint against the country music legend's nephew",
-   "link": "https://www.mynbc5.com/article/dolly-parton-estate-manager-drops-complaint-nephew-bryan-seaver/74351471",
-   "source": "WPTZ",
-   "ts": 1793929020.0
-  },
-  {
-   "title": "Chiefs Rashee Rice files for bankruptcy, listing millions in liabilities",
-   "link": "https://www.mynbc5.com/article/rashee-rice-chiefs-bankruptcy-filing-3-million/74351385",
-   "source": "WPTZ",
-   "ts": 1793927520.0
-  },
-  {
-   "title": "California governor says he'll commute all 548 death sentences in state",
-   "link": "https://www.mynbc5.com/article/california-newsom-death-sentences-commuted/74348785",
-   "source": "WPTZ",
-   "ts": 1793927220.0
   },
   {
    "title": "Federal court blocks county sheriffs\u2019 challenge to NY immigration policy",
@@ -32,13 +38,7 @@
    "ts": 1793926755.0
   },
   {
-   "title": "Marshfield Super Senior knits for her community",
-   "link": "https://www.wcax.com/2026/11/05/marshfield-super-senior-knits-her-community/",
-   "source": "WCAX",
-   "ts": 1793926631.0
-  },
-  {
-   "title": "Fears about an AI crackdown after midterms sparks a $2 trillion rout in tech stocks",
+   "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
    "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
    "source": "NPR",
    "ts": 1793924213.0
