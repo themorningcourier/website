@@ -1,11 +1,59 @@
 {
- "updated": "2026-11-06T19:32:12.150635+00:00",
+ "updated": "2026-11-06T20:23:57.178078+00:00",
  "items": [
   {
-   "title": "New limits on federal student loans are steering many borrowers toward private lenders",
-   "link": "https://www.wcax.com/2026/11/06/new-limits-federal-student-loans-are-steering-many-borrowers-toward-private-lenders/",
+   "title": "Section VII volleyball brackets",
+   "link": "https://www.mynbc5.com/article/2026-section-vii-volleyball-bracket/74336491",
+   "source": "WPTZ",
+   "ts": 1793996520.0
+  },
+  {
+   "title": "AI voice cloning: An $11 tool recreates your voice so well, even family members may be tricked",
+   "link": "https://www.mynbc5.com/article/ai-voice-cloning-phone-scams/74359974",
+   "source": "WPTZ",
+   "ts": 1793996340.0
+  },
+  {
+   "title": "White Mountain National Forest wildfire now 20% contained",
+   "link": "https://www.wcax.com/2026/11/06/white-mountain-national-forest-wildfire-now-20-contained/",
    "source": "WCAX",
-   "ts": 1793992662.0
+   "ts": 1793996207.0
+  },
+  {
+   "title": "Vermont man arrested for lewd and lascivious conduct against a minor",
+   "link": "https://www.mynbc5.com/article/vermont-man-arrested-for-lewd-and-lascivious-conduct-against-a-minor/74361301",
+   "source": "WPTZ",
+   "ts": 1793995860.0
+  },
+  {
+   "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+   "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+   "source": "NPR",
+   "ts": 1793995798.0
+  },
+  {
+   "title": "Clear the grid backlog and lower Vermont\u2019s power bills",
+   "link": "https://vtdigger.org/2026/11/06/opinion-clear-the-grid-backlog-and-lower-vermonts-power-bills/",
+   "source": "VTDigger",
+   "ts": 1793995613.0
+  },
+  {
+   "title": "Police seek information after bullet found in Wardsboro home\u2019s window",
+   "link": "https://www.wcax.com/2026/11/06/police-seek-information-after-bullet-found-wardsboro-homes-window/",
+   "source": "WCAX",
+   "ts": 1793995485.0
+  },
+  {
+   "title": "Vermont advocates celebrate equal rights amendment victory",
+   "link": "https://www.wcax.com/2026/11/06/vermont-advocates-celebrate-equal-rights-amendment-victory/",
+   "source": "WCAX",
+   "ts": 1793995018.0
+  },
+  {
+   "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+   "link": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+   "source": "NPR",
+   "ts": 1793994614.0
   },
   {
    "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
@@ -14,64 +62,16 @@
    "ts": 1793992432.0
   },
   {
-   "title": "Pope Leo begins 12-Day, 3-country tour after cancer surgery",
-   "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
-   "source": "NPR",
-   "ts": 1793992386.0
-  },
-  {
-   "title": "Mamdani and Hochul promise a new day for Puerto Rico after Democrats sweep midterms",
-   "link": "https://www.wcax.com/2026/11/06/mamdani-hochul-promise-new-day-puerto-rico-after-democrats-sweep-midterms/",
-   "source": "WCAX",
-   "ts": 1793992287.0
-  },
-  {
    "title": "Construction of the South Burlington Walk-Bike Bridge advances at Exit 14",
    "link": "https://vtdigger.org/2026/11/06/construction-of-the-south-burlington-walk-bike-bridge-advances-at-exit-14/",
    "source": "VTDigger",
    "ts": 1793992264.0
   },
   {
-   "title": "Closing arguments begin in trial of ex-cop accused of killing Sandra Birchmore",
-   "link": "https://www.wcax.com/2026/11/06/closing-arguments-begin-trial-ex-cop-accused-killing-sandra-birchmore/",
-   "source": "WCAX",
-   "ts": 1793991937.0
-  },
-  {
-   "title": "Trump names Stephen Miller new White House chief of staff, replacing Susie Wiles",
-   "link": "https://www.mynbc5.com/article/trump-stephen-miller-white-house-chief-of-staff-susie-wiles/74360979",
-   "source": "WPTZ",
-   "ts": 1793991840.0
-  },
-  {
-   "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
-   "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
-   "source": "NPR",
-   "ts": 1793991621.0
-  },
-  {
-   "title": "Production of Tesla's Cybertruck will wind down soon with its allure escaping most potential buyers",
-   "link": "https://www.mynbc5.com/article/teslas-cybertruck-wind-down-production/74360563",
-   "source": "WPTZ",
-   "ts": 1793991420.0
-  },
-  {
-   "title": "Sisters give birth to sons 30 minutes apart on the same day",
-   "link": "https://www.mynbc5.com/article/sisters-give-birth-to-sons-30-minutes-apart-on-the-same-day/74360432",
-   "source": "WPTZ",
-   "ts": 1793990940.0
-  },
-  {
    "title": "For new taxes, only room at the inn",
    "link": "https://vtdigger.org/2026/11/05/for-new-taxes-only-room-at-the-inn/",
    "source": "VTDigger",
    "ts": 1793921589.0
-  },
-  {
-   "title": "\u2018We will not be intimidated\u2019: 3 anti-ICE protesters plead not guilty to federal charges",
-   "link": "https://vtdigger.org/2026/11/05/we-will-not-be-intimidated-3-anti-ice-protesters-plead-not-guilty-to-federal-charges/",
-   "source": "VTDigger",
-   "ts": 1793919616.0
   }
  ]
 }
