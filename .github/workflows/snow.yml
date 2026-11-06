@@ -19,4 +19,7 @@ jobs:
           git config user.name "The Morning Courier"
           git config user.email "jaybe2527@gmail.com"
           git add snow.json snow_debug.json
-          git diff --cached --quiet || (git commit -m "Update snow desk data" && git pull --rebase && git push)
+          git diff --cached --quiet && exit 0
+          git commit -m "Update snow desk data"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push && break; echo "push failed, retry $i"; sleep $((i*15)); done
+          git push
