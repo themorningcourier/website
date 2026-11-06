@@ -1,35 +1,77 @@
 {
- "updated": "2026-11-06T17:27:21.548550+00:00",
+ "updated": "2026-11-06T18:25:08.529961+00:00",
  "items": [
   {
-   "title": "Giannis Antetokounmpo is \u2018difficult\u2019 to coach: Doc Rivers",
-   "link": "https://nypost.com/2026/11/06/sports/giannis-antetokounmpo-is-difficult-to-coach-doc-rivers/",
-   "source": "New York Post",
-   "ts": 1793985995.0
-  },
-  {
-   "title": "Nordstrom\u2019s early Black Friday sale has some of the best Ugg deals we\u2019ve seen",
-   "link": "https://pagesix.com/2026/11/06/style/nordstrom-is-selling-uggs-at-up-to-40-off-before-black-friday/",
-   "source": "New York Post",
-   "ts": 1793985936.0
-  },
-  {
-   "title": "Christian Bale makes rare comment on daughter\u2019s modeling career",
-   "link": "https://pagesix.com/2026/11/06/celebrity-news/christian-bale-opens-up-about-daughter-lukas-modeling-career-in-rare-comment/",
-   "source": "New York Post",
-   "ts": 1793985872.0
-  },
-  {
-   "title": "Thomas Markle Sr., Meghan's father, arrested in Florida",
-   "link": "https://www.cbsnews.com/news/thomas-markle-sr-meghan-father-arrested-florida/",
+   "title": "Mississippi Senate race still a toss-up, with razor-thin margin",
+   "link": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
    "source": "CBS News",
-   "ts": 1793985671.0
+   "ts": 1793989393.0
   },
   {
-   "title": "Hoax bomb threats affect at least 20 European flights within hours",
-   "link": "https://www.cbsnews.com/news/europe-flights-airlines-hoax-bomb-threats/",
+   "title": "Size of Democratic majorities comes into focus as GOP grapples with loss",
+   "link": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
    "source": "CBS News",
-   "ts": 1793985520.0
+   "ts": 1793989358.0
+  },
+  {
+   "title": "Meghan Markle\u2019s mom Doria Ragland pictured at LA home just hours after ex-husband Thomas Markle Sr.\u2019s arrest for child pornography",
+   "link": "https://pagesix.com/2026/11/06/royal-family/meghan-markles-mom-doria-ragland-pictured-at-la-home-just-hours-after-ex-husband-thomas-markle-sr-s-arrest-for-child-pornography/",
+   "source": "New York Post",
+   "ts": 1793989301.0
+  },
+  {
+   "title": "Antonio Brown punishment revealed after he pleads guilty in celebrity boxing match shooting",
+   "link": "https://nypost.com/2026/11/06/sports/antonio-brown-punishment-revealed-after-he-pleads-guilty-in-celebrity-boxing-match-shooting/",
+   "source": "New York Post",
+   "ts": 1793989287.0
+  },
+  {
+   "title": "Billie Eilish pairs a bright blue bob with head-to-toe latex",
+   "link": "https://pagesix.com/2026/11/06/style/billie-eilish-pairs-a-bright-blue-bob-with-head-to-toe-latex-for-gorillaz-halloween-costume/",
+   "source": "New York Post",
+   "ts": 1793989183.0
+  },
+  {
+   "title": "Suit alleges ChatGPT \u2018manipulated and encouraged\u2019 wife in plot to poison husband",
+   "link": "https://www.nbcnews.com/news/us-news/chatgpt-encouraged-wife-plot-poison-husband-lawsuit-rcna607834",
+   "source": "NBC News",
+   "ts": 1793988568.0
+  },
+  {
+   "title": "This week on \"Sunday Morning\" (Nov. 8)",
+   "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-8-2026/",
+   "source": "CBS News",
+   "ts": 1793988116.0
+  },
+  {
+   "title": "Antonio Brown avoids jail by pleading guilty to lesser change in Miami shooting",
+   "link": "https://www.nbcnews.com/news/us-news/antonio-brown-avoids-jail-pleading-guilty-lesser-change-miami-shooting-rcna607840",
+   "source": "NBC News",
+   "ts": 1793988055.0
+  },
+  {
+   "title": "FTSE 100 posts weekly loss as AI jitters spark risk-off move",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ1RObmZRd1NXMGlCYnY1a3d4cC1EelByQktKTEswQXc3d2d0NFBqMW1sRlRDcjM3LTVWZk95dFJjbnZuRnUtOTBIcWI3RXN1VV9sQ0paT1dCanpRUGVraUFuRnlocE5ENGIyRlllSVpxc1JFRm5iVEZod21rajcwLVhlcTc4R1lYb0hfRnNhQWxhbXRteUJUNTM2Y0gyYl9zS0NOa1FR?oc=5",
+   "source": "Reuters",
+   "ts": 1793987605.0
+  },
+  {
+   "title": "WATCH:  1st look at Nat Geo's 'Wolves Up Close with Bertie Gregory'",
+   "link": "https://abcnews.com/video/137909512/",
+   "source": "ABC News",
+   "ts": 1793987337.0
+  },
+  {
+   "title": "Democrats planning flood of AI bills when they take control of Congress",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5",
+   "source": "Reuters",
+   "ts": 1793985787.0
+  },
+  {
+   "title": "Binance $6.3 billion heist to prompt closer scrutiny by insurers",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWG84THVjeHZPNm5hOXJKYzlNeVJsYXNxMnFiWXVLYVB4N2dCSVNZU2JGcHIyMjZ4MUZUV21uVmRGam5lMHNOZkZCMEZURXRqNzZUNUNKTU84ZHhxX3BJVzhTZ2I5UzZ4VUt4WW5PVEkyMmhOVGM0aTZHS1JCMlFwU0wteW5OcmI4WUV6M083b1dERXNUblRUWmdBR25sVHNBR01ZZVJMaE9SSXhFbDVuV0daLWhfQQ?oc=5",
+   "source": "Reuters",
+   "ts": 1793985540.0
   },
   {
    "title": "Trump moves to make Oval Office a national monument to prevent future major changes",
@@ -38,76 +80,34 @@
    "ts": 1793985442.0
   },
   {
-   "title": "Democrats win House majority with Trump approval at historic low",
-   "link": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
-   "source": "CBS News",
-   "ts": 1793985227.0
+   "title": "Shocking video shows suspected shark swimming through flooded streets of coastal Florida city",
+   "link": "https://www.foxnews.com/outkick-sports/shocking-video-shows-suspected-shark-swimming-flooded-streets-coastal-florida-city",
+   "source": "Fox News",
+   "ts": 1793985140.0
   },
   {
-   "title": "North Korea's army of world-class hackers is secret weapon that took down Binance",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFdzUlg5LTJNVHdsSWIyX2UycEcwbERwS29uTTVaNXhBbHY4V0ZvR0VJWktxcm5OdkxuUWE1Q3ctWVFZZ2dKclYwX21iVnl4VEJ4dWplSm84enVCallLSGdHejVrQTQ4bXUxUXBuLXZReDRpenpXQ3dIRUtiNlZva3dta2pFWV9ZeVlKU0RldWczLU0wREdvMTNkQXQ5Zzl6UzI2TkwwMVdLTnpfXzJlYUZ6UURtU01EZnRTdmI0YWdOMzZndXRmX29HWG0?oc=5",
-   "source": "Reuters",
-   "ts": 1793984757.0
-  },
-  {
-   "title": "Bomb threats targeting flights and media outlets continue across Europe",
-   "link": "https://abcnews.com/International/bomb-threats-targeting-flights-media-outlets-continue-europe/story?id=137905668",
+   "title": "US attorney tasked with leading probe into Trump's foes resigns from DOJ",
+   "link": "https://abcnews.com/US/us-attorney-tasked-leading-grand-conspiracy-probe-trumps/story?id=137912307",
    "source": "ABC News",
-   "ts": 1793984512.0
+   "ts": 1793985132.0
   },
   {
-   "title": "Thomas Markle, father of Meghan, arrested for child pornography possession",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3ZsOHM5bmJFSVZCX3dsS3g1cUIxWEE5SHprTWZubEpyNW1xajlvdnBYZnpvZGlqVnhBRF96NFBKZEhDTXpTNVE0VzVLbGd0dVVFcmVCeUxQenRvdlpEUTA3Q2hYZ2EwcmJRdkppV1JUcE1OQU5vLTU4MFdDNzJyTVFyOHYzZ3BUU05iQVJscG12UzByNDN0WHlKb2Q?oc=5",
-   "source": "Reuters",
-   "ts": 1793984373.0
+   "title": "Judge accepts former Pittsburgh Steelers star wideout Antonio Brown's plea deal, sentenced to probation",
+   "link": "https://www.foxnews.com/outkick-sports/judge-accepts-former-pittsburgh-steelers-star-wideout-antonio-brown-plea-deal-sentenced-probation",
+   "source": "Fox News",
+   "ts": 1793984502.0
   },
   {
-   "title": "Jay Rockefeller, heir to famed dynasty and healthcare advocate in US Senate, dies at 89",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDBJMDRPNVh2YlpfUHRFLTNnNG9YSWJwQ0lEYWpIc1M3Q2c2WW1aLUZKVm9xaGVEMHNkUVpHbXRYLWp0NzB3WlN0VlMxVWxQWFRaSUtJamtqelJoQkdNMGZ4TWpaR1Rya0FKZlRPM2NYRkZMSm9DN1VtNlZNZlc4eXdyT0hVdzR2VHNVbWs0emtkRjdwRVlFQmhSbzhGMFBlVUZhTzdJamRhTDlmdVRB?oc=5",
-   "source": "Reuters",
-   "ts": 1793983970.0
+   "title": "Pro-life display at Ohio university targeted by chilling online threat to 'Kirk the anti-abortion table'",
+   "link": "https://www.foxnews.com/media/pro-life-display-ohio-university-targeted-chilling-online-threat-kirk-anti-abortion-table",
+   "source": "Fox News",
+   "ts": 1793984233.0
   },
   {
    "title": "Meghan Markle's estranged father is arrested in Florida",
    "link": "https://www.nbcnews.com/video/meghan-markle-s-estranged-father-is-arrested-in-florida-273009221687",
    "source": "NBC News",
    "ts": 1793983320.0
-  },
-  {
-   "title": "Meghan Markle\u2019s father arrested in Florida over alleged child sexual abuse material",
-   "link": "https://www.nbcnews.com/news/us-news/meghans-father-thomas-markle-arrested-florida-child-sexual-abuse-rcna607836",
-   "source": "NBC News",
-   "ts": 1793983262.0
-  },
-  {
-   "title": "3 foreign nationals allegedly used AI to mimic CEOs in $129M scheme, DOJ says",
-   "link": "https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818",
-   "source": "NBC News",
-   "ts": 1793983106.0
-  },
-  {
-   "title": "Meghan Markle's father Thomas Markle Sr. arrested by FBI in Florida",
-   "link": "https://abcnews.com/GMA/News/meghan-markles-father-thomas-markle-sr-arrested-fbi/story?id=137912305",
-   "source": "ABC News",
-   "ts": 1793982777.0
-  },
-  {
-   "title": "MLW's Josh Bishop vows he will be 'the last man standing' as he challenges for world title at massive PPV",
-   "link": "https://www.foxnews.com/outkick-sports/mlw-josh-bishop-vows-last-man-standing-challenges-world-title-massive-ppv",
-   "source": "Fox News",
-   "ts": 1793981854.0
-  },
-  {
-   "title": "Russia secretly bolstered Iran's missile arsenal before war with US, records uncover",
-   "link": "https://www.foxnews.com/politics/russia-secretly-bolstered-irans-missile-arsenal-before-war-us-records-uncover",
-   "source": "Fox News",
-   "ts": 1793981176.0
-  },
-  {
-   "title": "Democrat who toppled GOP incumbent will head to court on felony charge just days after election upset",
-   "link": "https://www.foxnews.com/politics/democrat-who-toppled-gop-incumbent-head-court-felony-charge-just-days-after-election-upset",
-   "source": "Fox News",
-   "ts": 1793980867.0
   }
  ]
 }
