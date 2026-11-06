@@ -1,53 +1,59 @@
 {
- "updated": "2026-11-06T22:17:49.231155+00:00",
+ "updated": "2026-11-06T23:16:12.915378+00:00",
  "items": [
   {
-   "title": "North Country community sounds alarm over climate change, calls on DEC for public hearings",
-   "link": "https://www.mynbc5.com/article/ny-town-sounds-alarm-over-climate-change/74357224",
-   "source": "WPTZ",
-   "ts": 1794003120.0
-  },
-  {
-   "title": "NH warehouse strike disrupts deliveries to some local grocery stores",
-   "link": "https://www.wcax.com/2026/11/06/major-new-england-strike-leaves-grocery-store-shelves-empty/",
+   "title": "Officials search for the bear that killed a mother and daughter in British Columbia",
+   "link": "https://www.wcax.com/2026/11/06/officials-search-bear-that-killed-mother-daughter-british-columbia/",
    "source": "WCAX",
-   "ts": 1794002768.0
+   "ts": 1794006553.0
   },
   {
-   "title": "Cornell faculty vote \u2018no confidence\u2019 in university leadership",
-   "link": "https://www.mynbc5.com/article/cornell-faculty-vote-no-confidence-university-leadership/74362145",
-   "source": "WPTZ",
-   "ts": 1794002400.0
-  },
-  {
-   "title": "Trump announces new Chief of Staff-Stephen Miller",
-   "link": "https://www.wcax.com/2026/11/06/trump-announces-new-chief-staff-stephen-miller/",
-   "source": "WCAX",
-   "ts": 1794002372.0
-  },
-  {
-   "title": "Georgia Gov.-elect Keisha Lance Bottoms adds Tyler Perry to transition team",
-   "link": "https://www.mynbc5.com/article/georgia-keisha-lance-bottoms-tyler-perry-transition-team/74361789",
-   "source": "WPTZ",
-   "ts": 1794002280.0
-  },
-  {
-   "title": "Vermont health insurance enrollment opens as premiums rise",
-   "link": "https://www.wcax.com/2026/11/06/vermont-health-insurance-enrollment-opens-premiums-rise/",
-   "source": "WCAX",
-   "ts": 1794001746.0
-  },
-  {
-   "title": "\u2018Where is your emergency?\u2019: Hartford\u2019s emergency communications specialists shortage echoes national trend",
-   "link": "https://vtdigger.org/2026/11/06/where-is-your-emergency-hartfords-emergency-communications-specialists-shortage-echoes-national-trend/",
+   "title": "Promising growth, Utah-based investor leads board takeover at Ethan Allen",
+   "link": "https://vtdigger.org/2026/11/06/promising-growth-utah-based-investor-leads-board-takeover-at-ethan-allen/",
    "source": "VTDigger",
-   "ts": 1793998469.0
+   "ts": 1794006498.0
   },
   {
-   "title": "Essex Junction cannabis and duck farmer poised to get his growing license back",
-   "link": "https://vtdigger.org/2026/11/06/essex-junction-cannabis-and-duck-farmer-poised-to-get-his-growing-license-back/",
+   "title": "Hegseth\u2019s future in question days after midterms",
+   "link": "https://www.wcax.com/2026/11/06/hegseths-future-question-days-after-midterms/",
+   "source": "WCAX",
+   "ts": 1794006200.0
+  },
+  {
+   "title": "President Trump names Stephen Miller chief of staff amid debate over immigration enforcement",
+   "link": "https://www.mynbc5.com/article/president-trump-names-stephen-miller-chief-of-staff-amid-debate-over-immigration-enforcement/74362205",
+   "source": "WPTZ",
+   "ts": 1794006120.0
+  },
+  {
+   "title": "Burlington City Council president launches bid for mayor",
+   "link": "https://vtdigger.org/2026/11/06/burlington-city-council-president-launches-bid-for-mayor/",
    "source": "VTDigger",
-   "ts": 1793998314.0
+   "ts": 1794005915.0
+  },
+  {
+   "title": "Scientists discovered an unknown baby right whale off Canada. They say it\u2019s a cause for joy",
+   "link": "https://www.wcax.com/2026/11/06/scientists-discovered-an-unknown-baby-right-whale-off-canada-they-say-its-cause-joy/",
+   "source": "WCAX",
+   "ts": 1794005908.0
+  },
+  {
+   "title": "President Trump declares Oval Office a national monument",
+   "link": "https://www.mynbc5.com/article/trump-oval-office-national-monument/74362151",
+   "source": "WPTZ",
+   "ts": 1794005400.0
+  },
+  {
+   "title": "Vermont stores feel ripple effect of strike at grocery distributor",
+   "link": "https://vtdigger.org/2026/11/06/vermont-stores-feel-ripple-effect-of-strike-at-grocery-distributor/",
+   "source": "VTDigger",
+   "ts": 1794005298.0
+  },
+  {
+   "title": "NBA player Kristaps Porzingis announces he is stepping away to address health concerns",
+   "link": "https://www.mynbc5.com/article/kristaps-porzingis-stepping-away-nba-health/74362266",
+   "source": "WPTZ",
+   "ts": 1794005100.0
   },
   {
    "title": "Israel's Arab-led parties in spotlight after inconclusive election",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
    "source": "NPR",
    "ts": 1793995798.0
-  },
-  {
-   "title": "Clear the grid backlog and lower Vermont\u2019s power bills",
-   "link": "https://vtdigger.org/2026/11/06/opinion-clear-the-grid-backlog-and-lower-vermonts-power-bills/",
-   "source": "VTDigger",
-   "ts": 1793995613.0
   }
  ]
 }
