@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:31:43.536014+00:00",
+ "updated": "2026-11-06T09:28:49.213722+00:00",
  "season": "2026-27",
  "start": "2026-11-01",
  "end": "2027-04-01",
@@ -257,20 +257,20 @@
     "name": "Denver, CO"
    },
    "SLC": {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "valid": true,
     "day": 0.0,
     "trace": false,
     "month": 0.0,
-    "month_normal": 0.5,
+    "month_normal": 0.6,
     "season": 0.0,
-    "season_normal": 1.0,
-    "season_dep": -1.0,
+    "season_normal": 1.1,
+    "season_dep": -1.1,
     "depth": null,
     "final": true,
-    "tmax": 55,
-    "tmin": 42,
-    "issued": "2026-11-05T08:05:00+00:00",
+    "tmax": 57,
+    "tmin": 43,
+    "issued": "2026-11-06T08:45:00+00:00",
     "name": "Salt Lake City, UT"
    },
    "ANC": {
@@ -3952,20 +3952,20 @@
      "name": "Denver, CO"
     },
     "SLC": {
-     "date": "2026-11-04",
+     "date": "2026-11-05",
      "valid": true,
      "day": 0.0,
      "trace": false,
      "month": 0.0,
-     "month_normal": 0.5,
+     "month_normal": 0.6,
      "season": 0.0,
-     "season_normal": 1.0,
-     "season_dep": -1.0,
+     "season_normal": 1.1,
+     "season_dep": -1.1,
      "depth": null,
      "final": true,
-     "tmax": 55,
-     "tmin": 42,
-     "issued": "2026-11-05T08:05:00+00:00",
+     "tmax": 57,
+     "tmin": 43,
+     "issued": "2026-11-06T08:45:00+00:00",
      "name": "Salt Lake City, UT"
     },
     "ANC": {
