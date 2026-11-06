@@ -1,97 +1,88 @@
 {
- "updated": "2026-11-05T10:34:08.936827+00:00",
+ "updated": "2026-11-06T03:10:15.010361+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "MDWI2",
-     "name": "Chicago Midway Ap 3Sw",
-     "state": "IL",
-     "elev_ft": "623",
-     "inches": 9.9,
+     "id": "EKAN2",
+     "name": "Eureka",
+     "state": "NV",
+     "elev_ft": "6440",
+     "inches": 1.6,
      "hours": 24.0,
-     "time": "2026-11-04 05:58"
+     "time": "2026-11-04 14:45"
+    },
+    {
+     "id": "UBW",
+     "name": "Kuparuk,Ak",
+     "state": "AK",
+     "elev_ft": "72",
+     "inches": 1.0,
+     "hours": 24.0,
+     "time": "2026-11-05 03:00"
+    },
+    {
+     "id": "EGLA2",
+     "name": "Eagle",
+     "state": "AK",
+     "elev_ft": "892",
+     "inches": 0.8,
+     "hours": 24.0,
+     "time": "2026-11-04 18:00"
+    },
+    {
+     "id": "CQNA2",
+     "name": "Chicken",
+     "state": "AK",
+     "elev_ft": "1781",
+     "inches": 0.5,
+     "hours": 24.0,
+     "time": "2026-11-04 17:00"
+    },
+    {
+     "id": "APNA2",
+     "name": "Alpine Airstrip",
+     "state": "AK",
+     "elev_ft": "36",
+     "inches": 0.2,
+     "hours": 24.0,
+     "time": "2026-11-05 02:00"
+    },
+    {
+     "id": "TOAA2",
+     "name": "Tok #2",
+     "state": "AK",
+     "elev_ft": "1660",
+     "inches": 0.2,
+     "hours": 24.0,
+     "time": "2026-11-05 02:30"
     },
     {
      "id": "AYTA2",
      "name": "Alyeska Weather Top",
      "state": "AK",
      "elev_ft": "2707",
-     "inches": 7.0,
+     "inches": 0.1,
      "hours": 24.0,
-     "time": "2026-11-03 15:00"
+     "time": "2026-11-04 15:00"
     },
     {
-     "id": "51262_MADIS",
-     "name": "Mills 12.8 Sse, Wy",
-     "state": "WY",
-     "elev_ft": "7943",
-     "inches": 4.5,
+     "id": "ASTN2",
+     "name": "Austin #2",
+     "state": "NV",
+     "elev_ft": "6762",
+     "inches": 0.001,
      "hours": 24.0,
-     "time": "2026-11-03 14:00"
+     "time": "2026-11-05 01:00"
     },
     {
-     "id": "WY-NT-131",
-     "name": "Mills 12.8 Sse, Wy",
-     "state": "WY",
-     "elev_ft": "7943",
-     "inches": 4.5,
+     "id": "BFDW3",
+     "name": "Brookfield Wwtp",
+     "state": "WI",
+     "elev_ft": "833",
+     "inches": 0.001,
      "hours": 24.0,
-     "time": "2026-11-03 14:00"
-    },
-    {
-     "id": "WY-CR-18",
-     "name": "Elk Mountain 0.3 Sw, Wy",
-     "state": "WY",
-     "elev_ft": "7280",
-     "inches": 3.4,
-     "hours": 24.0,
-     "time": "2026-11-03 14:00"
-    },
-    {
-     "id": "WY-CR-5",
-     "name": "Rock River 9.6 Wsw, Wy",
-     "state": "WY",
-     "elev_ft": "7218",
-     "inches": 3.3,
-     "hours": 24.0,
-     "time": "2026-11-03 14:00"
-    },
-    {
-     "id": "9937Z_MADIS",
-     "name": "Bosler 8.0 Ne, Wy",
-     "state": "WY",
-     "elev_ft": "7238",
-     "inches": 3.0,
-     "hours": 24.0,
-     "time": "2026-11-03 14:00"
-    },
-    {
-     "id": "CSFC2",
-     "name": "Co St Forest St Park",
-     "state": "CO",
-     "elev_ft": "9075",
-     "inches": 3.0,
-     "hours": 24.0,
-     "time": "2026-11-03 16:00"
-    },
-    {
-     "id": "WY-AB-188",
-     "name": "Bosler 8.0 Ne, Wy",
-     "state": "WY",
-     "elev_ft": "7238",
-     "inches": 3.0,
-     "hours": 24.0,
-     "time": "2026-11-03 14:00"
-    },
-    {
-     "id": "WY-AB-180",
-     "name": "Laramie 1.6 Ene, Wy",
-     "state": "WY",
-     "elev_ft": "7300",
-     "inches": 2.2,
-     "hours": 24.0,
-     "time": "2026-11-03 14:00"
+     "time": "2026-11-04 12:57"
     }
    ]
   },
@@ -113,111 +104,111 @@
      ""
     ],
     [
-     "MDWI2",
-     "2026-11-04 05:58",
-     "9.900",
+     "EKAN2",
+     "2026-11-04 14:45",
+     "1.600",
      "24.000",
-     "623",
-     "CHICAGO MIDWAY AP 3SW"
+     "6440",
+     "EUREKA"
+    ],
+    [
+     "UBW",
+     "2026-11-05 03:00",
+     "1.000",
+     "24.000",
+     "72",
+     "KUPARUK,AK"
+    ],
+    [
+     "EGLA2",
+     "2026-11-04 18:00",
+     "0.800",
+     "24.000",
+     "892",
+     "EAGLE"
+    ],
+    [
+     "CQNA2",
+     "2026-11-04 17:00",
+     "0.500",
+     "24.000",
+     "1781",
+     "CHICKEN"
+    ],
+    [
+     "APNA2",
+     "2026-11-05 02:00",
+     "0.200",
+     "24.000",
+     "36",
+     "ALPINE AIRSTRIP"
+    ],
+    [
+     "CAN-BC-21",
+     "2026-11-04 16:00",
+     "0.200",
+     "24.000",
+     "866",
+     "TELEGRAPH CREEK 4.1 WSW, CAN"
+    ],
+    [
+     "TOAA2",
+     "2026-11-05 02:30",
+     "0.200",
+     "24.000",
+     "1660",
+     "TOK #2"
     ],
     [
      "AYTA2",
-     "2026-11-03 15:00",
-     "7.000",
+     "2026-11-04 15:00",
+     "0.100",
      "24.000",
      "2707",
      "ALYESKA WEATHER TOP"
     ],
     [
-     "51262_MADIS",
-     "2026-11-03 14:00",
-     "4.500",
+     "ASTN2",
+     "2026-11-05 01:00",
+     "0.001",
      "24.000",
-     "7943",
-     "MILLS 12.8 SSE, WY"
+     "6762",
+     "AUSTIN #2"
     ],
     [
-     "WY-NT-131",
-     "2026-11-03 14:00",
-     "4.500",
+     "BFDW3",
+     "2026-11-04 12:57",
+     "0.001",
      "24.000",
-     "7943",
-     "MILLS 12.8 SSE, WY"
+     "833",
+     "BROOKFIELD WWTP"
     ],
     [
-     "WY-CR-18",
-     "2026-11-03 14:00",
-     "3.400",
+     "BKMC2",
+     "2026-11-04 12:30",
+     "0.001",
      "24.000",
-     "7280",
-     "ELK MOUNTAIN 0.3 SW, WY"
+     "7490",
+     "BUCKHORN MOUNTAIN, 1 E"
     ],
     [
-     "WY-CR-5",
-     "2026-11-03 14:00",
-     "3.300",
+     "CA-MN-6",
+     "2026-11-04 15:00",
+     "0.001",
      "24.000",
-     "7218",
-     "ROCK RIVER 9.6 WSW, WY"
+     "6795",
+     "MONO CITY 1.9 SW, CA"
     ],
     [
-     "9937Z_MADIS",
-     "2026-11-03 14:00",
-     "3.000",
+     "CO-CC-1",
+     "2026-11-04 14:00",
+     "0.001",
      "24.000",
-     "7238",
-     "BOSLER 8.0 NE, WY"
-    ],
-    [
-     "CSFC2",
-     "2026-11-03 16:00",
-     "3.000",
-     "24.000",
-     "9075",
-     "CO ST FOREST ST PARK"
-    ],
-    [
-     "WY-AB-188",
-     "2026-11-03 14:00",
-     "3.000",
-     "24.000",
-     "7238",
-     "BOSLER 8.0 NE, WY"
-    ],
-    [
-     "WY-AB-180",
-     "2026-11-03 14:00",
-     "2.200",
-     "24.000",
-     "7300",
-     "LARAMIE 1.6 ENE, WY"
-    ],
-    [
-     "LRMW4",
-     "2026-11-03 15:00",
-     "2.000",
-     "24.000",
-     "7398",
-     "LARAMIE 4SE"
-    ],
-    [
-     "WTPC2",
-     "2026-11-03 14:45",
-     "2.000",
-     "24.000",
-     "10187",
-     "WINTER PARK"
-    ],
-    [
-     "CAN-BC-21",
-     "2026-11-03 16:00",
-     "1.700",
-     "24.000",
-     "866",
-     "TELEGRAPH CREEK 4.1 WSW, CAN"
+     "8150",
+     "EVERGREEN 6.5 WSW, CO"
     ]
    ],
-   "count": 11461
+   "count": 9649
   }
  ]
 }
