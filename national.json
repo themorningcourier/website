@@ -1,11 +1,35 @@
 {
- "updated": "2026-11-06T07:16:00.551661+00:00",
+ "updated": "2026-11-06T08:32:49.291940+00:00",
  "items": [
   {
-   "title": "Colorado police officer killed, 3 officers wounded after suspect opens fire near bus",
-   "link": "https://nypost.com/2026/11/06/us-news/colorado-police-officer-killed-3-more-officers-wounded-after-suspect-opens-fire-near-bus-in-lakewood/",
+   "title": "Judge blocks Trump arch hours after federal panel approval",
+   "link": "https://abcnews.com/Politics/vietnam-vet-leading-opposition-trumps-arch-calls-frankly/story?id=137885182",
+   "source": "ABC News",
+   "ts": 1793952329.0
+  },
+  {
+   "title": "Wisconsin infant dies of measles as state sees first death from disease since 1990",
+   "link": "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/",
    "source": "New York Post",
-   "ts": 1793948852.0
+   "ts": 1793952315.0
+  },
+  {
+   "title": "\u2018Nocturne\u2019 Episode 3 Ending Explained: Is [SPOILER] Alive? Showrunner Breaks Down That Haunting Final Scene",
+   "link": "https://decider.com/2026/11/06/nocturne-episode-3-ending-explained-felicia-alive/",
+   "source": "New York Post",
+   "ts": 1793952060.0
+  },
+  {
+   "title": "Dear Abby: I\u2019ve spoiled my grown kids for decades, they can\u2019t even send a thank-you card",
+   "link": "https://nypost.com/2026/11/06/lifestyle/dear-abby-ive-spoiled-my-grown-kids-for-decades-they-cant-even-send-a-thank-you-card/",
+   "source": "New York Post",
+   "ts": 1793952000.0
+  },
+  {
+   "title": "Left-leaning Washington, Colorado join conservative states in banning trans athletes",
+   "link": "https://abcnews.com/Politics/wireStory/left-leaning-washington-colorado-join-conservative-states-banning-137898149",
+   "source": "ABC News",
+   "ts": 1793951988.0
   },
   {
    "title": "Newsom moves to commute all California death sentences",
@@ -14,22 +38,28 @@
    "ts": 1793948541.0
   },
   {
-   "title": "Trump\u2019s 250-foot triumphal arch gets green light from key federal panel \u2014 but judge blocks construction for at least 14 days",
-   "link": "https://nypost.com/2026/11/06/us-news/trumps-250-foot-triumphal-arch-gets-greenlight-from-key-federal-panel/",
-   "source": "New York Post",
-   "ts": 1793948120.0
-  },
-  {
-   "title": "Michigan nephew, 4 others convicted for abducting, beating uncle who was gifted $100K in viral video",
-   "link": "https://nypost.com/2026/11/06/us-news/michigan-nephew-4-others-convicted-for-abducting-beating-uncle-curtis-dixon-who-was-gifted-100k-in-viral-video/",
-   "source": "New York Post",
-   "ts": 1793946999.0
+   "title": "Trump admin sues Penn State over in-state tuition policy for undocumented migrants",
+   "link": "https://www.foxnews.com/politics/trump-admin-sues-penn-state-in-state-tuition-policy-undocumented-migrants",
+   "source": "Fox News",
+   "ts": 1793948129.0
   },
   {
    "title": "4 Colorado officers shot, 1 fatally, after gunfight with suspect: Police",
    "link": "https://abcnews.com/US/4-colorado-officers-shot-1-fatally-after-gunfight/story?id=137902018",
    "source": "ABC News",
    "ts": 1793945655.0
+  },
+  {
+   "title": "Turkey court jails former minister in funds probe, Anadolu says",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1U0VUFYc2RhcmQyNVd3bjU1X1hhOU5PVHpPc0djNWR3ejRmSG5qRVd1VkZCdmtZaGJrbm5HcEczdFFieHVJdHBEeXhzdDh1bmhjdXJwSldxWWl4XzNPY0tZRHN2UFRlSlAyYlpfYkNURkVNTlB6dGxYdVVmMjJCRXVpd19nenYxRVJ4OVBrZG1XSF9RN2tqTDVQd0FRVGdFYUd3?oc=5",
+   "source": "Reuters",
+   "ts": 1793945520.0
+  },
+  {
+   "title": "AI boom turns chip packaging into the next battleground for semiconductors",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVTRsRWo5SjhUM1lPV19Xc1ZKUjNWWEx1eTFkZEZLYmpjVG1FNFltZDRRdVBwZ3RBVnk0NlQtbDZmaWdmaFhSY0NFT3Rpa2YzZVRzNl8zSHNzcVdhR3RZdEpFeVNkMW93SDFrbTY5SE9NM3NneHpZOFYxN1FGOVU1ekxjSF9aZ2FyZnRXLU5aY2pFT0gtYTVwMEhfUmU2a2lOaURTeURqcDQ0M185ekd4ZWJwVHdiVWEwanduVElR?oc=5",
+   "source": "Reuters",
+   "ts": 1793944320.0
   },
   {
    "title": "Judge blocks construction on Trump's 250-foot arch for now",
@@ -44,34 +74,10 @@
    "ts": 1793943584.0
   },
   {
-   "title": "Data centers took a beating in the midterm elections",
-   "link": "https://abcnews.com/Technology/wireStory/data-centers-beating-midterm-elections-reckoning-ahead-tech-137902293",
-   "source": "ABC News",
-   "ts": 1793943570.0
-  },
-  {
    "title": "Morning Bid: AI's reality check",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xWEZCT19xVnB0ZUVUZDQzWWRjTGxuUEpqQTE4OU1CZ1ZQNHJpQTR2MnNvejZteVJRZXR2eTZ5dENZX2I0MDRnb0xOUE1ranhSWG5OblJsMEZhZzZxcnNKMFdhMDlRVWVVa0pRR1FhczRCblJZLXZGdmtLMi1DTkk?oc=5",
    "source": "Reuters",
    "ts": 1793943420.0
-  },
-  {
-   "title": "Wisconsin infant dies of measles as state sees first death from disease since 1990",
-   "link": "https://www.foxnews.com/health/wisconsin-infant-dies-measles-state-first-death-disease-since-1990",
-   "source": "Fox News",
-   "ts": 1793943382.0
-  },
-  {
-   "title": "North Korea's army of world-class hackers is secret weapon that took down Binance",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFdzUlg5LTJNVHdsSWIyX2UycEcwbERwS29uTTVaNXhBbHY4V0ZvR0VJWktxcm5OdkxuUWE1Q3ctWVFZZ2dKclYwX21iVnl4VEJ4dWplSm84enVCallLSGdHejVrQTQ4bXUxUXBuLXZReDRpenpXQ3dIRUtiNlZva3dta2pFWV9ZeVlKU0RldWczLU0wREdvMTNkQXQ5Zzl6UzI2TkwwMVdLTnpfXzJlYUZ6UURtU01EZnRTdmI0YWdOMzZndXRmX29HWG0?oc=5",
-   "source": "Reuters",
-   "ts": 1793941620.0
-  },
-  {
-   "title": "Federal panel gives final approval to Trump's arch",
-   "link": "https://abcnews.com/Politics/vietnam-vet-leading-opposition-trumps-arch-calls-frankly/story?id=137885182",
-   "source": "ABC News",
-   "ts": 1793940072.0
   },
   {
    "title": "Colorado police officer killed, 3 more officers wounded after suspect opens fire near bus",
@@ -84,12 +90,6 @@
    "link": "https://www.nbcnews.com/politics/trump-administration/secretary-pete-hegseth-defiant-tone-impeachment-threat-thomas-massie-rcna607788",
    "source": "NBC News",
    "ts": 1793938201.0
-  },
-  {
-   "title": "EXCLUSIVE: China's top flash memory chipmaker targets more homegrown tools for new factory, sources say",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2pDd1BuOVZzeGl6Q0RiSzR3MzVBTnhnQUJOMXRUZk1PSF9HZTk5YVhzVjJZVVpaMFlKV0hhMVZNeXpOTHpxZkxvSVZKclYtMWwzUGc5N0dxQlZuS0NURFJBcUloOU9rVGJQbmprb2E4N1JRaGpjNi04OFgxUTdXVFY4OGFBWVQ4OHVkOFpoY1B4ZmhoNFJySWhfdXFBYTZSUGlVeG1KWW1XVUI3c3FfMjF0bXlNVUZNdHlSdktSaw?oc=5",
-   "source": "Reuters",
-   "ts": 1793937780.0
   },
   {
    "title": "Federal judge temporarily blocks construction of Trump's Arlington triumphal arch hours after approval",
