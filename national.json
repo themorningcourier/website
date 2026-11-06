@@ -1,53 +1,89 @@
 {
- "updated": "2026-11-06T09:32:00.625417+00:00",
+ "updated": "2026-11-06T10:38:19.281673+00:00",
  "items": [
   {
-   "title": "U.S. gas prices on track to fall below $4 a gallon, experts say",
-   "link": "https://www.cbsnews.com/news/gas-prices-below-four-dollars-expert-predicts/",
+   "title": "Oil prices rebound slightly as Iran claims new attacks on ships",
+   "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
    "source": "CBS News",
-   "ts": 1793957068.0
+   "ts": 1793960583.0
+  },
+  {
+   "title": "Rockefeller Center Christmas tree headed to NYC ahead of tree-lighting ceremony",
+   "link": "https://nypost.com/2026/11/06/us-news/rockefeller-center-christmas-tree-headed-to-nyc-ahead-of-tree-lighting-ceremony/",
+   "source": "New York Post",
+   "ts": 1793960295.0
+  },
+  {
+   "title": "Tesla to wind down Cybertruck production at Texas factory as it struggles to win appeal",
+   "link": "https://nypost.com/2026/11/06/business/tesla-to-wind-down-cybertruck-production-at-texas-factory-as-it-struggles-to-win-appeal/",
+   "source": "New York Post",
+   "ts": 1793959872.0
+  },
+  {
+   "title": "Bus crashes in eastern France, several casualties, authorities say",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDM4YlUwUzVPa0VhbS1wVTlvVXpPbWZ5Y1EwUUFfSG1Cbk5xR1NSeTNLZnhNLU1Lekk0eDVuaWtCQndUSTd0bDRELWNXdGJJYllrYmJUYkRqMkl4b0VwWVRCWF9Tc2doN3lIRm42eV9YQlBha3JfNHByNDFLb1RxV3RkdkZyRFZJRnVsc0VybnBGUzdJRUw5LXVMMl9zMGNrb05EeWFXVm5KYnVnNGYzMTNQd3oxcGJDZVlVUlFDTlJSeHAtUGc?oc=5",
+   "source": "Reuters",
+   "ts": 1793959215.0
+  },
+  {
+   "title": "Midterm wave sets a course for \"Medicare for All\" fight",
+   "link": "https://www.cbsnews.com/news/2026-midterm-elections-medicare-for-all/",
+   "source": "CBS News",
+   "ts": 1793959205.0
+  },
+  {
+   "title": "Nordstrom\u2019s early Black Friday sale has designer discounts up to 60% off",
+   "link": "https://nypost.com/shopping/nordstrom-early-black-friday-deals-2026/",
+   "source": "New York Post",
+   "ts": 1793959200.0
   },
   {
    "title": "Stocks crater as midterms spur investor exodus from tech and AI",
    "link": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/",
    "source": "CBS News",
-   "ts": 1793956636.0
+   "ts": 1793958819.0
   },
   {
-   "title": "Oil prices rebound slightly as Iran claims new attacks on ships",
-   "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
-   "source": "CBS News",
-   "ts": 1793955342.0
+   "title": "Election 2026 live results: Karen Bass concedes LA mayoral race to Nithya Raman",
+   "link": "https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?id=137782085",
+   "source": "ABC News",
+   "ts": 1793958090.0
   },
   {
-   "title": "Global market rout deepens after midterms intensify AI fears",
+   "title": "TED JENKIN: Democrats took Congress. Don\u2019t let your emotions make bad money moves",
+   "link": "https://www.foxnews.com/opinion/ted-jenkin-democrats-took-congress-dont-let-emotions-make-bad-money-moves",
+   "source": "Fox News",
+   "ts": 1793955654.0
+  },
+  {
+   "title": "STEVEN D ANDERSON: Time for Supreme Court to fix \u2018race neutral\u2019 discrimination",
+   "link": "https://www.foxnews.com/opinion/steven-d-anderson-time-supreme-court-fix-race-neutral-discrimination",
+   "source": "Fox News",
+   "ts": 1793955623.0
+  },
+  {
+   "title": "Oil-rich UAE makes massive AI bet as Sam Altman unveils ambitious plan to transform energy industry",
+   "link": "https://www.foxnews.com/world/oil-rich-uae-makes-massive-ai-bet-sam-altman-unveils-ambitious-plan-transform-energy-industry",
+   "source": "Fox News",
+   "ts": 1793955617.0
+  },
+  {
+   "title": "Global tech stocks tumble as blue wave is felt in Asia and Europe",
    "link": "https://www.nbcnews.com/business/markets/global-markets-tech-stocks-ai-midterms-democrats-asia-europe-rcna607794",
    "source": "NBC News",
    "ts": 1793954032.0
+  },
+  {
+   "title": "Russian strikes cause new outages in 7 Ukrainian regions, Kyiv area worst hit, official says",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSW1lV194UkMzS1loTnJTN09TZ21HZ2h3MXJRMmQ4d1hVR19ybnU2aHpwc1JYck1TRm9ndFhFYTVOU3BFYWdva3pvQ3RubWx4ejVqMWxTUl9fckRFR1FPb2Rxd3QzUHZBb2dUVlJuQmdxdGt4bTU4NFNRX0p6ZTV6YnhlOTBxNGZQZHpsQUtRM29wRzRYUktRNU1neDBXYTVidzZrSGNOQnh5RERFaXZMQjY3RU1VWmFNcmdqZTEtekw2X3c?oc=5",
+   "source": "Reuters",
+   "ts": 1793952592.0
   },
   {
    "title": "Judge blocks Trump arch hours after federal panel approval",
    "link": "https://abcnews.com/Politics/vietnam-vet-leading-opposition-trumps-arch-calls-frankly/story?id=137885182",
    "source": "ABC News",
    "ts": 1793952329.0
-  },
-  {
-   "title": "Wisconsin infant dies of measles as state sees first death from disease since 1990",
-   "link": "https://nypost.com/2026/11/06/health/wisconsin-infant-dies-of-measles-as-state-sees-first-death-from-disease-since-1990/",
-   "source": "New York Post",
-   "ts": 1793952315.0
-  },
-  {
-   "title": "\u2018Nocturne\u2019 Episode 3 Ending Explained: Is [SPOILER] Alive? Showrunner Breaks Down That Haunting Final Scene",
-   "link": "https://decider.com/2026/11/06/nocturne-episode-3-ending-explained-felicia-alive/",
-   "source": "New York Post",
-   "ts": 1793952060.0
-  },
-  {
-   "title": "Dear Abby: I\u2019ve spoiled my grown kids for decades, they can\u2019t even send a thank-you card",
-   "link": "https://nypost.com/2026/11/06/lifestyle/dear-abby-ive-spoiled-my-grown-kids-for-decades-they-cant-even-send-a-thank-you-card/",
-   "source": "New York Post",
-   "ts": 1793952000.0
   },
   {
    "title": "Left-leaning Washington, Colorado join conservative states in banning trans athletes",
@@ -62,46 +98,10 @@
    "ts": 1793948820.0
   },
   {
-   "title": "Tesla to wind down Cybertruck production at Texas factory, Musk says",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWnlMcV9XTE94RnhqbWNmQ1B5Y01Gd0tReURLRG5nc1VOVlBQR1RwazRSdXF0azlhbS1nTmJ5M0MxZUxMMUQxM1pxRHVjN1VVQWM5OGtOOGdWU1Fwa0llb0hxTXVHX05rV3JoRTR3eWwtTkNseGQ2eW5hcTcxUmQ5YnRYUVNwaGdwaDlhelZ5dmJoOVZhaGU1N1Fkb1RTUDFMY1lCUzlMcG9SYUNDcUlMeHBBYXBWQmM2QUloLWh5QkNuOGRvMTRVSml0dmxEN2lqaU1va09iQ0o?oc=5",
-   "source": "Reuters",
-   "ts": 1793948640.0
-  },
-  {
-   "title": "Trump admin sues Penn State over in-state tuition policy for undocumented migrants",
-   "link": "https://www.foxnews.com/politics/trump-admin-sues-penn-state-in-state-tuition-policy-undocumented-migrants",
-   "source": "Fox News",
-   "ts": 1793948129.0
-  },
-  {
-   "title": "4 Colorado officers shot, 1 fatally, after gunfight with suspect: Police",
-   "link": "https://abcnews.com/US/4-colorado-officers-shot-1-fatally-after-gunfight/story?id=137902018",
-   "source": "ABC News",
-   "ts": 1793945655.0
-  },
-  {
-   "title": "Turkey court jails former minister in funds probe, Anadolu says",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1U0VUFYc2RhcmQyNVd3bjU1X1hhOU5PVHpPc0djNWR3ejRmSG5qRVd1VkZCdmtZaGJrbm5HcEczdFFieHVJdHBEeXhzdDh1bmhjdXJwSldxWWl4XzNPY0tZRHN2UFRlSlAyYlpfYkNURkVNTlB6dGxYdVVmMjJCRXVpd19nenYxRVJ4OVBrZG1XSF9RN2tqTDVQd0FRVGdFYUd3?oc=5",
-   "source": "Reuters",
-   "ts": 1793945520.0
-  },
-  {
-   "title": "Colorado police officer killed, 3 more officers wounded after suspect opens fire near bus",
-   "link": "https://www.foxnews.com/us/colorado-police-officer-killed-3-others-wounded-suspect-opens-fire-near-bus",
-   "source": "Fox News",
-   "ts": 1793939809.0
-  },
-  {
    "title": "Pete Hegseth strikes defiant tone in face of impeachment threat",
    "link": "https://www.nbcnews.com/politics/trump-administration/secretary-pete-hegseth-defiant-tone-impeachment-threat-thomas-massie-rcna607788",
    "source": "NBC News",
    "ts": 1793938201.0
-  },
-  {
-   "title": "Federal judge temporarily blocks construction of Trump's Arlington triumphal arch hours after approval",
-   "link": "https://www.foxnews.com/politics/trumps-massive-arlington-triumphal-arch-approved-construction-federal-planning-commission",
-   "source": "Fox News",
-   "ts": 1793937725.0
   },
   {
    "title": "Dolly Parton estate files to dismiss lawsuit against her nephew",
