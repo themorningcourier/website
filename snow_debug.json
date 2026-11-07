@@ -1,88 +1,97 @@
 {
- "updated": "2026-11-06T10:34:54.958036+00:00",
+ "updated": "2026-11-07T08:24:29.369373+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "EKAN2",
-     "name": "Eureka",
-     "state": "NV",
-     "elev_ft": "6440",
-     "inches": 1.6,
+     "id": "CO-CF-25",
+     "name": "Buena Vista 4.0 Wnw, Co",
+     "state": "CO",
+     "elev_ft": "8842",
+     "inches": 8.9,
      "hours": 24.0,
-     "time": "2026-11-04 14:45"
+     "time": "2026-11-05 14:00"
     },
     {
-     "id": "UBW",
-     "name": "Kuparuk,Ak",
-     "state": "AK",
-     "elev_ft": "72",
-     "inches": 1.0,
+     "id": "TRBC2",
+     "name": "Taylor River Below Taylor Park Reservoir",
+     "state": "CO",
+     "elev_ft": "9219",
+     "inches": 6.8,
      "hours": 24.0,
-     "time": "2026-11-05 03:00"
+     "time": "2026-11-05 14:00"
     },
     {
-     "id": "EGLA2",
-     "name": "Eagle",
-     "state": "AK",
-     "elev_ft": "892",
-     "inches": 0.8,
+     "id": "CO-CF-54",
+     "name": "Nathrop 1.9 Wsw, Co",
+     "state": "CO",
+     "elev_ft": "7949",
+     "inches": 6.5,
      "hours": 24.0,
-     "time": "2026-11-04 18:00"
+     "time": "2026-11-05 14:00"
     },
     {
-     "id": "CQNA2",
-     "name": "Chicken",
-     "state": "AK",
-     "elev_ft": "1781",
-     "inches": 0.5,
+     "id": "CO-CU-25",
+     "name": "Westcliffe 8.4 Wnw, Co",
+     "state": "CO",
+     "elev_ft": "8402",
+     "inches": 6.0,
      "hours": 24.0,
-     "time": "2026-11-04 17:00"
+     "time": "2026-11-05 15:00"
     },
     {
-     "id": "APNA2",
-     "name": "Alpine Airstrip",
-     "state": "AK",
-     "elev_ft": "36",
-     "inches": 0.2,
+     "id": "CO-LK-10",
+     "name": "Leadville 6.3 S, Co",
+     "state": "CO",
+     "elev_ft": "9692",
+     "inches": 6.0,
      "hours": 24.0,
-     "time": "2026-11-05 02:00"
+     "time": "2026-11-05 14:00"
     },
     {
-     "id": "TOAA2",
-     "name": "Tok #2",
-     "state": "AK",
-     "elev_ft": "1660",
-     "inches": 0.2,
+     "id": "CO-CU-26",
+     "name": "Westcliffe 8.7 Ene, Co",
+     "state": "CO",
+     "elev_ft": "8707",
+     "inches": 5.9,
      "hours": 24.0,
-     "time": "2026-11-05 02:30"
+     "time": "2026-11-05 15:00"
     },
     {
-     "id": "AYTA2",
-     "name": "Alyeska Weather Top",
-     "state": "AK",
-     "elev_ft": "2707",
-     "inches": 0.1,
+     "id": "CO-LK-35",
+     "name": "Leadville 3.8 Sse, Co",
+     "state": "CO",
+     "elev_ft": "10085",
+     "inches": 5.9,
      "hours": 24.0,
-     "time": "2026-11-04 15:00"
+     "time": "2026-11-05 15:00"
     },
     {
-     "id": "ASTN2",
-     "name": "Austin #2",
-     "state": "NV",
-     "elev_ft": "6762",
-     "inches": 0.001,
+     "id": "CO-FM-21",
+     "name": "Cotopaxi 4.8 Sse, Co",
+     "state": "CO",
+     "elev_ft": "7484",
+     "inches": 5.5,
      "hours": 24.0,
-     "time": "2026-11-05 01:00"
+     "time": "2026-11-05 14:00"
     },
     {
-     "id": "BFDW3",
-     "name": "Brookfield Wwtp",
-     "state": "WI",
-     "elev_ft": "833",
-     "inches": 0.001,
+     "id": "CO-PT-19",
+     "name": "Woody Creek 1.4 Se, Co",
+     "state": "CO",
+     "elev_ft": "7615",
+     "inches": 5.5,
      "hours": 24.0,
-     "time": "2026-11-04 12:57"
+     "time": "2026-11-05 17:45"
+    },
+    {
+     "id": "CO-CF-53",
+     "name": "Buena Vista 0.6 Wnw, Co",
+     "state": "CO",
+     "elev_ft": "8074",
+     "inches": 5.0,
+     "hours": 24.0,
+     "time": "2026-11-05 14:00"
     }
    ]
   },
@@ -104,111 +113,111 @@
      ""
     ],
     [
-     "EKAN2",
-     "2026-11-04 14:45",
-     "1.600",
+     "CO-CF-25",
+     "2026-11-05 14:00",
+     "8.900",
      "24.000",
-     "6440",
-     "EUREKA"
+     "8842",
+     "BUENA VISTA 4.0 WNW, CO"
     ],
     [
-     "UBW",
-     "2026-11-05 03:00",
-     "1.000",
+     "TRBC2",
+     "2026-11-05 14:00",
+     "6.800",
      "24.000",
-     "72",
-     "KUPARUK,AK"
+     "9219",
+     "TAYLOR RIVER BELOW TAYLOR PARK RESERVOIR"
     ],
     [
-     "EGLA2",
-     "2026-11-04 18:00",
-     "0.800",
+     "CO-CF-54",
+     "2026-11-05 14:00",
+     "6.500",
      "24.000",
-     "892",
-     "EAGLE"
+     "7949",
+     "NATHROP 1.9 WSW, CO"
     ],
     [
-     "CQNA2",
-     "2026-11-04 17:00",
-     "0.500",
+     "CO-CU-25",
+     "2026-11-05 15:00",
+     "6.000",
      "24.000",
-     "1781",
-     "CHICKEN"
+     "8402",
+     "WESTCLIFFE 8.4 WNW, CO"
     ],
     [
-     "APNA2",
-     "2026-11-05 02:00",
-     "0.200",
+     "CO-LK-10",
+     "2026-11-05 14:00",
+     "6.000",
      "24.000",
-     "36",
-     "ALPINE AIRSTRIP"
+     "9692",
+     "LEADVILLE 6.3 S, CO"
     ],
     [
-     "CAN-BC-21",
-     "2026-11-04 16:00",
-     "0.200",
+     "CO-CU-26",
+     "2026-11-05 15:00",
+     "5.900",
      "24.000",
-     "866",
-     "TELEGRAPH CREEK 4.1 WSW, CAN"
+     "8707",
+     "WESTCLIFFE 8.7 ENE, CO"
     ],
     [
-     "TOAA2",
-     "2026-11-05 02:30",
-     "0.200",
+     "CO-LK-35",
+     "2026-11-05 15:00",
+     "5.900",
      "24.000",
-     "1660",
-     "TOK #2"
+     "10085",
+     "LEADVILLE 3.8 SSE, CO"
     ],
     [
-     "AYTA2",
-     "2026-11-04 15:00",
-     "0.100",
+     "CO-FM-21",
+     "2026-11-05 14:00",
+     "5.500",
      "24.000",
-     "2707",
-     "ALYESKA WEATHER TOP"
+     "7484",
+     "COTOPAXI 4.8 SSE, CO"
     ],
     [
-     "ASTN2",
-     "2026-11-05 01:00",
-     "0.001",
+     "CO-PT-19",
+     "2026-11-05 17:45",
+     "5.500",
      "24.000",
-     "6762",
-     "AUSTIN #2"
+     "7615",
+     "WOODY CREEK 1.4 SE, CO"
     ],
     [
-     "BFDW3",
-     "2026-11-04 12:57",
-     "0.001",
+     "CO-CF-53",
+     "2026-11-05 14:00",
+     "5.000",
      "24.000",
-     "833",
-     "BROOKFIELD WWTP"
+     "8074",
+     "BUENA VISTA 0.6 WNW, CO"
     ],
     [
-     "BKMC2",
-     "2026-11-04 12:30",
-     "0.001",
+     "CO-PK-67",
+     "2026-11-05 14:00",
+     "4.700",
      "24.000",
-     "7490",
-     "BUCKHORN MOUNTAIN, 1 E"
+     "9478",
+     "GUFFEY 5.5 W, CO"
     ],
     [
-     "CA-MN-6",
-     "2026-11-04 15:00",
-     "0.001",
+     "CO-CF-6",
+     "2026-11-05 14:00",
+     "4.500",
      "24.000",
-     "6795",
-     "MONO CITY 1.9 SW, CA"
+     "8035",
+     "BUENA VISTA 1.5 WNW, CO"
     ],
     [
-     "CO-CC-1",
-     "2026-11-04 14:00",
-     "0.001",
+     "CO-CU-44",
+     "2026-11-05 14:00",
+     "4.000",
      "24.000",
-     "8150",
-     "EVERGREEN 6.5 WSW, CO"
+     "8435",
+     "WESTCLIFFE 4.9 SW, CO"
     ]
    ],
-   "count": 9708
+   "count": 9358
   }
  ]
 }
