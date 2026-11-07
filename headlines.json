@@ -1,23 +1,35 @@
 {
- "updated": "2026-11-07T18:45:36.659983+00:00",
+ "updated": "2026-11-07T19:44:00.289527+00:00",
  "items": [
+  {
+   "title": "Polish interior minister: Attacker in fatal Krakow shooting was fascinated with far-right ideologies",
+   "link": "https://www.mynbc5.com/article/multiple-deaths-injuries-shooting-poland-krakow/74364751",
+   "source": "WPTZ",
+   "ts": 1794080100.0
+  },
+  {
+   "title": "Melania Trump and LSU announce a scholarship program for students who were in foster care",
+   "link": "https://www.mynbc5.com/article/melania-trump-lsu-set-to-announce-scholarship-program-students-foster-care/74364914",
+   "source": "WPTZ",
+   "ts": 1794079740.0
+  },
+  {
+   "title": "Congress enters lame duck session following midterm elections",
+   "link": "https://www.wcax.com/2026/11/07/congress-enters-lame-duck-session-following-midterm-elections/",
+   "source": "WCAX",
+   "ts": 1794079399.0
+  },
+  {
+   "title": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
+   "link": "https://www.mynbc5.com/article/drone-missile-attacks-wound-9-ukraine-prepares-talks-russia-us/74365237",
+   "source": "WPTZ",
+   "ts": 1794077220.0
+  },
   {
    "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
    "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
    "source": "NPR",
    "ts": 1794076656.0
-  },
-  {
-   "title": "6 dead, over a dozen injured after shots fired in market square in Poland",
-   "link": "https://www.mynbc5.com/article/multiple-deaths-injuries-shooting-poland-krakow/74364751",
-   "source": "WPTZ",
-   "ts": 1794074040.0
-  },
-  {
-   "title": "Officials condemn planned boycott of Jewish-owned businesses as antisemitic",
-   "link": "https://www.mynbc5.com/article/officials-condemn-planned-philadelphia-boycott-jewish-owned-businesses/74365124",
-   "source": "WPTZ",
-   "ts": 1794073800.0
   },
   {
    "title": "82-year-old man dies after getting hit by his own car",
@@ -36,18 +48,6 @@
    "link": "https://www.wcax.com/2026/11/07/two-men-accused-handing-out-psychedelic-gummies-nearly-15-kids-halloween-police-say/",
    "source": "WCAX",
    "ts": 1794070509.0
-  },
-  {
-   "title": "Melania Trump, LSU are set to announce a scholarship program for students who were in foster care",
-   "link": "https://www.mynbc5.com/article/melania-trump-lsu-set-to-announce-scholarship-program-students-foster-care/74364914",
-   "source": "WPTZ",
-   "ts": 1794069120.0
-  },
-  {
-   "title": "Father accused of leaving daughter sleeping outside Target to hold spot for Pok\u00e9mon cards, police say",
-   "link": "https://www.wcax.com/2026/11/07/father-accused-leaving-daughter-sleeping-outside-target-hold-spot-pokmon-cards-police-say/",
-   "source": "WCAX",
-   "ts": 1794063944.0
   },
   {
    "title": "A promising new medicine against heart disease fails unexpectedly",
