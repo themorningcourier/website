@@ -1,11 +1,29 @@
 {
- "updated": "2026-11-07T09:49:06.164348+00:00",
+ "updated": "2026-11-07T10:44:39.522184+00:00",
  "items": [
+  {
+   "title": "Showers are likely this afternoon and overnight.  Temperatures will be cooler this weekend, and even cooler during the week next week.",
+   "link": "https://www.wcax.com/2026/11/07/showers-are-likely-this-afternoon-overnight-temperatures-will-be-cooler-this-weekend-even-cooler-during-week-next-week/",
+   "source": "WCAX",
+   "ts": 1794047916.0
+  },
+  {
+   "title": "Lawyer who represented defendant in Tupac Shakur murder case found dead",
+   "link": "https://www.wcax.com/2026/11/07/lawyer-who-represented-defendant-tupac-shakur-murder-case-found-dead/",
+   "source": "WCAX",
+   "ts": 1794047456.0
+  },
   {
    "title": "Things to Do: Nov. 7, 2026",
    "link": "https://www.mynbc5.com/article/things-to-do-nov-7-2026/74364267",
    "source": "WPTZ",
-   "ts": 1794044520.0
+   "ts": 1794046920.0
+  },
+  {
+   "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+   "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+   "source": "NPR",
+   "ts": 1794045600.0
   },
   {
    "title": "Former doctor photographed patients\u2019 genitals during medical procedures, lawsuit alleges",
@@ -14,22 +32,10 @@
    "ts": 1794037232.0
   },
   {
-   "title": "Woman sentenced to life in prison for murder of her 5-week-old daughter",
-   "link": "https://www.wcax.com/2026/11/07/woman-sentenced-life-prison-murder-her-5-week-old-daughter/",
-   "source": "WCAX",
-   "ts": 1794031011.0
-  },
-  {
    "title": "2026 VPA Football Playoff Bracket",
    "link": "https://www.mynbc5.com/article/2026-vpa-football-playoffs-bracket/74298414",
    "source": "WPTZ",
    "ts": 1794028800.0
-  },
-  {
-   "title": "Rain over the weekend, then some sunshine Sunday afternoon.  Temperatures will trend colder next week, especially late week.",
-   "link": "https://www.wcax.com/2026/11/07/rain-over-weekend-then-some-sunshine-sunday-afternoon-temperatures-will-trend-colder-next-week-especially-late-week/",
-   "source": "WCAX",
-   "ts": 1794027998.0
   },
   {
    "title": "Vermont women's hockey earns overtime shootout win against No. 4 Northeastern",
@@ -56,22 +62,16 @@
    "ts": 1794006498.0
   },
   {
+   "title": "The economy propelled Democrats to victory. What can they actually do about it?",
+   "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
+   "source": "NPR",
+   "ts": 1794001990.0
+  },
+  {
    "title": "Israel's Arab-led parties in spotlight after inconclusive election",
    "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
    "source": "NPR",
    "ts": 1793997771.0
-  },
-  {
-   "title": "The incoming class of U.S. senators is full of historic firsts",
-   "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
-   "source": "NPR",
-   "ts": 1793996473.0
-  },
-  {
-   "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
-   "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
-   "source": "NPR",
-   "ts": 1793995798.0
   }
  ]
 }
