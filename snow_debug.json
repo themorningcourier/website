@@ -1,97 +1,97 @@
 {
- "updated": "2026-11-07T10:18:13.261339+00:00",
+ "updated": "2026-11-08T08:22:35.974301+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "CO-CF-25",
-     "name": "Buena Vista 4.0 Wnw, Co",
-     "state": "CO",
-     "elev_ft": "8842",
-     "inches": 8.9,
-     "hours": 24.0,
-     "time": "2026-11-05 14:00"
+     "id": "MQT",
+     "name": "Marquette, Mi",
+     "state": "MI",
+     "elev_ft": "1411",
+     "inches": 1.2,
+     "hours": 6.0,
+     "time": "2026-11-06 18:00"
     },
     {
-     "id": "TRBC2",
-     "name": "Taylor River Below Taylor Park Reservoir",
-     "state": "CO",
-     "elev_ft": "9219",
-     "inches": 6.8,
+     "id": "DRYA2",
+     "name": "Dry Creek",
+     "state": "AK",
+     "elev_ft": "1391",
+     "inches": 3.1,
      "hours": 24.0,
-     "time": "2026-11-05 14:00"
+     "time": "2026-11-06 22:00"
     },
     {
-     "id": "CO-CF-54",
-     "name": "Nathrop 1.9 Wsw, Co",
-     "state": "CO",
-     "elev_ft": "7949",
-     "inches": 6.5,
+     "id": "HCSA2",
+     "name": "Haines,Ak",
+     "state": "AK",
+     "elev_ft": "866",
+     "inches": 2.5,
      "hours": 24.0,
-     "time": "2026-11-05 14:00"
+     "time": "2026-11-06 16:00"
     },
     {
-     "id": "CO-CU-25",
-     "name": "Westcliffe 8.4 Wnw, Co",
-     "state": "CO",
-     "elev_ft": "8402",
-     "inches": 6.0,
+     "id": "HERM4",
+     "name": "Herman,Mi",
+     "state": "MI",
+     "elev_ft": "1837",
+     "inches": 2.0,
      "hours": 24.0,
-     "time": "2026-11-05 15:00"
+     "time": "2026-11-06 13:00"
     },
     {
-     "id": "CO-LK-10",
-     "name": "Leadville 6.3 S, Co",
-     "state": "CO",
-     "elev_ft": "9692",
-     "inches": 6.0,
+     "id": "WITA2",
+     "name": "Whitestone Farms",
+     "state": "AK",
+     "elev_ft": "997",
+     "inches": 2.0,
      "hours": 24.0,
-     "time": "2026-11-05 14:00"
+     "time": "2026-11-07 05:00"
     },
     {
-     "id": "CO-CU-26",
-     "name": "Westcliffe 8.7 Ene, Co",
-     "state": "CO",
-     "elev_ft": "8707",
-     "inches": 5.9,
-     "hours": 24.0,
-     "time": "2026-11-05 15:00"
+     "id": "KSGM4",
+     "name": "Kearsarge",
+     "state": "MI",
+     "elev_ft": "1119",
+     "inches": 1.0,
+     "hours": 12.0,
+     "time": "2026-11-06 13:00"
     },
     {
-     "id": "CO-LK-35",
-     "name": "Leadville 3.8 Sse, Co",
-     "state": "CO",
-     "elev_ft": "10085",
-     "inches": 5.9,
+     "id": "MIEM4",
+     "name": "Michigamme 3Wnw",
+     "state": "MI",
+     "elev_ft": "1716",
+     "inches": 1.4,
      "hours": 24.0,
-     "time": "2026-11-05 15:00"
+     "time": "2026-11-06 13:00"
     },
     {
-     "id": "CO-FM-21",
-     "name": "Cotopaxi 4.8 Sse, Co",
-     "state": "CO",
-     "elev_ft": "7484",
-     "inches": 5.5,
+     "id": "LMHA2",
+     "name": "Lake Minchumina",
+     "state": "AK",
+     "elev_ft": "892",
+     "inches": 1.3,
      "hours": 24.0,
-     "time": "2026-11-05 14:00"
+     "time": "2026-11-06 18:00"
     },
     {
-     "id": "CO-PT-19",
-     "name": "Woody Creek 1.4 Se, Co",
-     "state": "CO",
-     "elev_ft": "7615",
-     "inches": 5.5,
+     "id": "MI-MQ-19",
+     "name": "Ishpeming 7.2 Sw, Mi",
+     "state": "MI",
+     "elev_ft": "1457",
+     "inches": 1.3,
      "hours": 24.0,
-     "time": "2026-11-05 17:45"
+     "time": "2026-11-06 11:30"
     },
     {
-     "id": "CO-CF-53",
-     "name": "Buena Vista 0.6 Wnw, Co",
-     "state": "CO",
-     "elev_ft": "8074",
-     "inches": 5.0,
+     "id": "PDLM4",
+     "name": "Painesdale",
+     "state": "MI",
+     "elev_ft": "1319",
+     "inches": 1.1,
      "hours": 24.0,
-     "time": "2026-11-05 14:00"
+     "time": "2026-11-06 13:00"
     }
    ]
   },
@@ -113,111 +113,111 @@
      ""
     ],
     [
-     "CO-CF-25",
-     "2026-11-05 14:00",
-     "8.900",
-     "24.000",
-     "8842",
-     "BUENA VISTA 4.0 WNW, CO"
-    ],
-    [
-     "TRBC2",
-     "2026-11-05 14:00",
-     "6.800",
-     "24.000",
-     "9219",
-     "TAYLOR RIVER BELOW TAYLOR PARK RESERVOIR"
-    ],
-    [
-     "CO-CF-54",
-     "2026-11-05 14:00",
-     "6.500",
-     "24.000",
-     "7949",
-     "NATHROP 1.9 WSW, CO"
-    ],
-    [
-     "CO-CU-25",
-     "2026-11-05 15:00",
+     "MQT",
+     "2026-11-06 18:00",
+     "1.200",
      "6.000",
-     "24.000",
-     "8402",
-     "WESTCLIFFE 8.4 WNW, CO"
+     "1411",
+     "MARQUETTE, MI"
     ],
     [
-     "CO-LK-10",
-     "2026-11-05 14:00",
-     "6.000",
+     "DRYA2",
+     "2026-11-06 22:00",
+     "3.100",
      "24.000",
-     "9692",
-     "LEADVILLE 6.3 S, CO"
+     "1391",
+     "DRY CREEK"
     ],
     [
-     "CO-CU-26",
-     "2026-11-05 15:00",
-     "5.900",
+     "HCSA2",
+     "2026-11-06 16:00",
+     "2.500",
      "24.000",
-     "8707",
-     "WESTCLIFFE 8.7 ENE, CO"
+     "866",
+     "HAINES,AK"
     ],
     [
-     "CO-LK-35",
-     "2026-11-05 15:00",
-     "5.900",
+     "HERM4",
+     "2026-11-06 13:00",
+     "2.000",
      "24.000",
-     "10085",
-     "LEADVILLE 3.8 SSE, CO"
+     "1837",
+     "HERMAN,MI"
     ],
     [
-     "CO-FM-21",
-     "2026-11-05 14:00",
-     "5.500",
+     "WITA2",
+     "2026-11-07 05:00",
+     "2.000",
      "24.000",
-     "7484",
-     "COTOPAXI 4.8 SSE, CO"
+     "997",
+     "WHITESTONE FARMS"
     ],
     [
-     "CO-PT-19",
-     "2026-11-05 17:45",
-     "5.500",
-     "24.000",
-     "7615",
-     "WOODY CREEK 1.4 SE, CO"
+     "KSGM4",
+     "2026-11-06 13:00",
+     "1.000",
+     "12.000",
+     "1119",
+     "KEARSARGE"
     ],
     [
-     "CO-CF-53",
-     "2026-11-05 14:00",
-     "5.000",
+     "MIEM4",
+     "2026-11-06 13:00",
+     "1.400",
      "24.000",
-     "8074",
-     "BUENA VISTA 0.6 WNW, CO"
+     "1716",
+     "MICHIGAMME 3WNW"
     ],
     [
-     "CO-PK-67",
-     "2026-11-05 14:00",
-     "4.700",
+     "LMHA2",
+     "2026-11-06 18:00",
+     "1.300",
      "24.000",
-     "9478",
-     "GUFFEY 5.5 W, CO"
+     "892",
+     "LAKE MINCHUMINA"
     ],
     [
-     "CO-CF-6",
-     "2026-11-05 14:00",
-     "4.500",
+     "MI-MQ-19",
+     "2026-11-06 11:30",
+     "1.300",
      "24.000",
-     "8035",
-     "BUENA VISTA 1.5 WNW, CO"
+     "1457",
+     "ISHPEMING 7.2 SW, MI"
     ],
     [
-     "CO-CU-44",
-     "2026-11-05 14:00",
-     "4.000",
+     "PDLM4",
+     "2026-11-06 13:00",
+     "1.100",
      "24.000",
-     "8435",
-     "WESTCLIFFE 4.9 SW, CO"
+     "1319",
+     "PAINESDALE"
+    ],
+    [
+     "CLKM4",
+     "2026-11-06 12:00",
+     "1.000",
+     "24.000",
+     "1552",
+     "CLARKSBURG"
+    ],
+    [
+     "CQNA2",
+     "2026-11-06 17:00",
+     "1.000",
+     "24.000",
+     "1781",
+     "CHICKEN"
+    ],
+    [
+     "EGLA2",
+     "2026-11-06 18:00",
+     "1.000",
+     "24.000",
+     "892",
+     "EAGLE"
     ]
    ],
-   "count": 9361
+   "count": 10028
   }
  ]
 }
