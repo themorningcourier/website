@@ -1,65 +1,95 @@
 {
- "updated": "2026-11-08T15:39:50.897026+00:00",
+ "updated": "2026-11-08T16:41:18.063207+00:00",
  "items": [
   {
-   "title": "This week on \"Sunday Morning\" (Nov. 8)",
-   "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-8-2026/",
-   "source": "CBS News",
-   "ts": 1794152273.0
+   "title": "Dave Chappelle makes ghoulish joke about Charlie Kirk\u2019s murder to sold-out MSG crowd: \u2018Why am I in such a good mood?\u2019",
+   "link": "https://nypost.com/2026/11/08/us-news/dave-chappelle-makes-ghoulish-joke-about-charlie-kirk-at-msg/",
+   "source": "New York Post",
+   "ts": 1794155884.0
   },
   {
-   "title": "Trump says U.S. took a \"giant step back in history\" with midterm results",
-   "link": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
-   "source": "CBS News",
-   "ts": 1794152093.0
+   "title": "Pro-life pregnancy center expands mission to help patients embrace their God-given gender",
+   "link": "https://www.foxnews.com/health/pro-life-pregnancy-center-expands-mission-help-patients-embrace-god-given-gender",
+   "source": "Fox News",
+   "ts": 1794155668.0
   },
   {
-   "title": "Nature: Fall colors in Texas",
-   "link": "https://www.cbsnews.com/video/nature-fall-colors-in-texas/",
+   "title": "Transcript: Rep.-elect Nancy Lacore on \"Face the Nation with Margaret Brennan,\" Nov. 8, 2026",
+   "link": "https://www.cbsnews.com/news/nancy-lacore-south-carolina-democrat-face-the-nation-transcript-11-08-2026/",
    "source": "CBS News",
-   "ts": 1794151819.0
+   "ts": 1794155470.0
+  },
+  {
+   "title": "Trains collide in Egypt, killing at least 4 people and injuring dozens",
+   "link": "https://www.cbsnews.com/news/trains-collision-egypt-giza/",
+   "source": "CBS News",
+   "ts": 1794155375.0
+  },
+  {
+   "title": "Facebook recovery scams use fake FBI profiles",
+   "link": "https://www.foxnews.com/tech/facebook-recovery-scams-use-fake-fbi-profiles",
+   "source": "Fox News",
+   "ts": 1794155303.0
+  },
+  {
+   "title": "Washington ranch family fighting massive fine from gov\u2019t over stockwater ponds \u2014 why they\u2019re warning others",
+   "link": "https://nypost.com/2026/11/08/us-news/washington-cattle-ranch-fighting-fine-over-supposed-wetlands/",
+   "source": "New York Post",
+   "ts": 1794154939.0
+  },
+  {
+   "title": "How \u2018Little Rascals\u2019 star Brandon \u2018Bug\u2019 Hall fell from grace after Hollywood exit",
+   "link": "https://pagesix.com/2026/11/08/celebrity-news/how-little-rascals-star-brandon-bug-hall-fell-from-grace-after-hollywood-exit/",
+   "source": "New York Post",
+   "ts": 1794154647.0
+  },
+  {
+   "title": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
+   "source": "Reuters",
+   "ts": 1794153882.0
+  },
+  {
+   "title": "Russia says hit power substations in Ukraine and three ships in Black Sea",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3I3aVRlN2tQellIUkRxQVR6VFhUWkRfZlJQUWsyR3g0S0w2Wlg1cUt6SW9fc081c1hfcTdPSTJwZzJIWUVtQXN1SVJiRm9zTWJKYjM2RTV3TWVBa001Y1RmeVhEOHVnb3pCSUt5T3BxU19VeDhXNGdmNkg0SlNHUWszcHI3X1hsbjJiWFN5MXlEcHdVM21wNTJrRHlVeTFQZl9CYlRwMmY?oc=5",
+   "source": "Reuters",
+   "ts": 1794153772.0
+  },
+  {
+   "title": "Election 2026 live updates: Trump says US took 'giant step back' through midterms",
+   "link": "https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?id=137782085",
+   "source": "ABC News",
+   "ts": 1794153640.0
+  },
+  {
+   "title": "11th-hour power play targets incoming Dem governor after historic GOP defeat",
+   "link": "https://www.foxnews.com/politics/11th-hour-power-play-targets-incoming-dem-governor-historic-gop-defeat",
+   "source": "Fox News",
+   "ts": 1794153615.0
+  },
+  {
+   "title": "Democrats won big on Election Day. But can they agree on AI?",
+   "link": "https://www.nbcnews.com/tech/tech-news/democrats-won-big-election-day-can-agree-ai-rcna607414",
+   "source": "NBC News",
+   "ts": 1794153600.0
+  },
+  {
+   "title": "BC Partners seeks control of LIV Golf from Saudi wealth fund, FT reports",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVFoxU2t2RmlfekRDMWk3XzBSMjhnNlN2NVNXV0N2bzlmYnVNeGduMVlpRVhoMVl4UEI5eUQybE5Vai1HeU40WlhIYTVVRHBJMXlmYVdQcHpxTUh6ZkN0MV8zbExqblZQT3ZEdmdUYTVPc0NIeVdMcjlmNEh0dDRIUTRkZ1dmUG5DRzFxZWdDZDA1WU5nN3dOSmVLVkFIYVY0R1gwUlZnQ0JZUkxDY0dHT2RSb1FEV2RubDNlNDE3Y0RXUVU3VTRrMC1RcVNjdw?oc=5",
+   "source": "Reuters",
+   "ts": 1794153455.0
   },
   {
    "title": "2 shootings at Winston-Salem State during homecoming weekend leave 1 dead",
    "link": "https://abcnews.com/US/wireStory/police-2-shootings-winston-salem-state-homecoming-weekend-137952526",
    "source": "ABC News",
-   "ts": 1794151819.0
+   "ts": 1794153267.0
   },
   {
-   "title": "Novig promo code NYPOST: Deposit $10, get $50 in trade credits for Giants vs. Eagles",
-   "link": "https://nypost.com/2026/11/08/betting/novig-promo-code-nypost-claim-50-in-trade-credits-with-sydney-sweeney-for-nyg-phi/",
-   "source": "New York Post",
-   "ts": 1794151800.0
-  },
-  {
-   "title": "Is \u2018Marshals\u2019 On Tonight? Here\u2019s When \u2018Marshals\u2019 Returns To CBS With New Episodes",
-   "link": "https://decider.com/2026/11/08/is-marshals-on-tonight-cbs-marshals-season-2-episode-6-release-date/",
-   "source": "New York Post",
-   "ts": 1794151800.0
-  },
-  {
-   "title": "Top spending cities on OnlyFans revealed \u2013 and NYC is nowhere near the top",
-   "link": "https://nypost.com/2026/11/08/lifestyle/top-onlyfans-cities-revealed-u-s-cities-lead-record-8-5b-spend/",
-   "source": "New York Post",
-   "ts": 1794151530.0
-  },
-  {
-   "title": "Trump \u2018holds all the cards\u2019 in war against Iran\u2019s regime, White House says",
-   "link": "https://www.foxnews.com/opinion/trump-holds-all-cards-war-against-irans-regime-white-house-says",
-   "source": "Fox News",
-   "ts": 1794150787.0
-  },
-  {
-   "title": "Stephen Colbert accused of crossing Harvard picket line before event with Yo-Yo Ma cut short by alarm",
-   "link": "https://www.foxnews.com/us/stephen-colbert-accused-crossing-harvard-picket-line-event-yo-yo-ma-cut-short-alarm",
-   "source": "Fox News",
-   "ts": 1794150739.0
-  },
-  {
-   "title": "Train collision in Egypt\u2019s Giza province kills 4 and injures 88, health ministry says",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTVkajR2S0QtUzdnUVhFVGh6b3JRdjFaOWx1VGVySUdhcjVYck1Sbm54emJiZy1XX3RNbkFDTDdPcDI0UGYyUjZWczVWNW5lOEVKekpLOF9hbkNHWXdmUG5wdFFTODRMSlhLV09LX3Q1d1BMdjZjTVBocUcwdFpYS0ZvWkoyc3lnakN4QXY2N05LbFQzb1JqYy1KWjNWOGIwd3MwbC1PZmgyd0o5NS1ZWmtLU0FaUktSSHRCOWtsaG1mcHc?oc=5",
-   "source": "Reuters",
-   "ts": 1794150719.0
+   "title": "This week on \"Sunday Morning\" (Nov. 8)",
+   "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-8-2026/",
+   "source": "CBS News",
+   "ts": 1794152273.0
   },
   {
    "title": "1 killed and 3 wounded in shootings on Winston-Salem State University campus",
@@ -68,46 +98,16 @@
    "ts": 1794150558.0
   },
   {
-   "title": "ROBERT L MAGINNIS: Iran War cost Republicans Congress. What will it cost America?",
-   "link": "https://www.foxnews.com/opinion/robert-l-maginnis-iran-war-cost-republicans-congress-what-will-it-cost-america",
-   "source": "Fox News",
-   "ts": 1794150054.0
-  },
-  {
-   "title": "Private equity firm BC Partners seeks to take control of LIV Golf from Saudi wealth fund, FT reports",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVFoxU2t2RmlfekRDMWk3XzBSMjhnNlN2NVNXV0N2bzlmYnVNeGduMVlpRVhoMVl4UEI5eUQybE5Vai1HeU40WlhIYTVVRHBJMXlmYVdQcHpxTUh6ZkN0MV8zbExqblZQT3ZEdmdUYTVPc0NIeVdMcjlmNEh0dDRIUTRkZ1dmUG5DRzFxZWdDZDA1WU5nN3dOSmVLVkFIYVY0R1gwUlZnQ0JZUkxDY0dHT2RSb1FEV2RubDNlNDE3Y0RXUVU3VTRrMC1RcVNjdw?oc=5",
-   "source": "Reuters",
-   "ts": 1794150028.0
-  },
-  {
    "title": "'I'm a hard yes': Hakeem Jeffries announces support for Hegseth impeachment",
    "link": "https://abcnews.com/Politics/im-hard-hakeem-jeffries-announces-support-hegseth-impeachment/story?id=137952235",
    "source": "ABC News",
    "ts": 1794149878.0
   },
   {
-   "title": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
-   "source": "Reuters",
-   "ts": 1794147987.0
-  },
-  {
-   "title": "Election 2026 live updates: Trump says US took 'giant step back' through midterms",
-   "link": "https://abcnews.com/Politics/live-updates/midterm-elections-live-updates/?id=137782085",
-   "source": "ABC News",
-   "ts": 1794147865.0
-  },
-  {
    "title": "Adam Hamilton says 'sense of common decency' fueled his historic campaign victory",
    "link": "https://www.nbcnews.com/meet-the-press/video/adam-hamilton-says-sense-of-common-decency-fueled-his-historic-campaign-victory-273092165939",
    "source": "NBC News",
    "ts": 1794147007.0
-  },
-  {
-   "title": "Gov. Josh Shapiro urges Democrats to prioritize healthcare, food assistance",
-   "link": "https://www.nbcnews.com/politics/2026-election/gov-josh-shapiro-urges-democrats-prioritize-healthcare-food-assistance-rcna608060",
-   "source": "NBC News",
-   "ts": 1794146400.0
   }
  ]
 }
