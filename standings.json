@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T20:40:29.015445+00:00",
+ "updated": "2026-11-08T21:39:54.024822+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -19,14 +19,14 @@
     {
      "name": "Jets",
      "abbr": "NYJ",
-     "rec": "2-6",
-     "pct": 0.25
+     "rec": "2-7",
+     "pct": 0.22222222
     },
     {
      "name": "Dolphins",
      "abbr": "MIA",
-     "rec": "1-6",
-     "pct": 0.14285715
+     "rec": "1-7",
+     "pct": 0.125
     }
    ]
   },
@@ -48,8 +48,8 @@
     {
      "name": "Browns",
      "abbr": "CLE",
-     "rec": "5-3",
-     "pct": 0.625
+     "rec": "5-4",
+     "pct": 0.5555556
     },
     {
      "name": "Ravens",
@@ -77,8 +77,8 @@
     {
      "name": "Colts",
      "abbr": "IND",
-     "rec": "2-6",
-     "pct": 0.25
+     "rec": "2-7",
+     "pct": 0.22222222
     },
     {
      "name": "Titans",
@@ -94,14 +94,14 @@
     {
      "name": "Broncos",
      "abbr": "DEN",
-     "rec": "6-2",
-     "pct": 0.75
+     "rec": "7-2",
+     "pct": 0.7777778
     },
     {
      "name": "Chiefs",
      "abbr": "KC",
-     "rec": "5-2",
-     "pct": 0.71428573
+     "rec": "6-2",
+     "pct": 0.75
     },
     {
      "name": "Raiders",
@@ -123,26 +123,26 @@
     {
      "name": "Giants",
      "abbr": "NYG",
-     "rec": "4-2-1",
-     "pct": 0.64285713
+     "rec": "5-2-1",
+     "pct": 0.6875
     },
     {
      "name": "Cowboys",
      "abbr": "DAL",
-     "rec": "3-5",
-     "pct": 0.375
+     "rec": "4-5",
+     "pct": 0.44444445
     },
     {
      "name": "Commanders",
      "abbr": "WSH",
-     "rec": "2-4-1",
-     "pct": 0.35714287
+     "rec": "2-5-1",
+     "pct": 0.3125
     },
     {
      "name": "Eagles",
      "abbr": "PHI",
-     "rec": "2-6",
-     "pct": 0.25
+     "rec": "2-7",
+     "pct": 0.22222222
     }
    ]
   },
@@ -156,16 +156,16 @@
      "pct": 0.85714287
     },
     {
-     "name": "Bears",
-     "abbr": "CHI",
+     "name": "Lions",
+     "abbr": "DET",
      "rec": "6-2",
      "pct": 0.75
     },
     {
-     "name": "Lions",
-     "abbr": "DET",
-     "rec": "5-2",
-     "pct": 0.71428573
+     "name": "Bears",
+     "abbr": "CHI",
+     "rec": "6-2",
+     "pct": 0.75
     },
     {
      "name": "Packers",
@@ -179,14 +179,20 @@
    "name": "NFC South",
    "teams": [
     {
-     "name": "Panthers",
-     "abbr": "CAR",
-     "rec": "3-4",
-     "pct": 0.42857143
-    },
-    {
      "name": "Buccaneers",
      "abbr": "TB",
+     "rec": "3-5",
+     "pct": 0.375
+    },
+    {
+     "name": "Panthers",
+     "abbr": "CAR",
+     "rec": "3-5",
+     "pct": 0.375
+    },
+    {
+     "name": "Saints",
+     "abbr": "NO",
      "rec": "3-5",
      "pct": 0.375
     },
@@ -195,12 +201,6 @@
      "abbr": "ATL",
      "rec": "3-6",
      "pct": 0.33333334
-    },
-    {
-     "name": "Saints",
-     "abbr": "NO",
-     "rec": "2-5",
-     "pct": 0.2857143
     }
    ]
   },
@@ -214,14 +214,14 @@
      "pct": 0.85714287
     },
     {
-     "name": "Seahawks",
-     "abbr": "SEA",
-     "rec": "4-4",
-     "pct": 0.5
-    },
-    {
      "name": "Rams",
      "abbr": "LAR",
+     "rec": "5-4",
+     "pct": 0.5555556
+    },
+    {
+     "name": "Seahawks",
+     "abbr": "SEA",
      "rec": "4-4",
      "pct": 0.5
     },
