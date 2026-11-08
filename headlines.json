@@ -1,17 +1,35 @@
 {
- "updated": "2026-11-08T12:51:40.431725+00:00",
+ "updated": "2026-11-08T13:52:02.628001+00:00",
  "items": [
   {
-   "title": "NYSP investigate after woman was hit, killed by small plane",
-   "link": "https://www.mynbc5.com/article/nysp-investigate-after-woman-was-hit-killed-by-small-plane/74364273",
+   "title": "Things to do: Nov. 8, 2026",
+   "link": "https://www.mynbc5.com/article/things-to-do-nov-8-2026/74367780",
    "source": "WPTZ",
-   "ts": 1794141420.0
+   "ts": 1794145440.0
   },
   {
-   "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
-   "link": "https://www.mynbc5.com/article/russia-emergency-crews-deadly-strike-southern-ukraine/74367683",
+   "title": "Police: Father left 6-year-old sleeping in line for Pok\u00e9mon card release",
+   "link": "https://www.mynbc5.com/article/father-daughter-target-pokemon-card/74367745",
    "source": "WPTZ",
-   "ts": 1794140880.0
+   "ts": 1794143940.0
+  },
+  {
+   "title": "In the Garden: Prepping before the winter freeze",
+   "link": "https://www.wcax.com/2026/11/08/garden-prepping-before-winter-freeze/",
+   "source": "WCAX",
+   "ts": 1794143929.0
+  },
+  {
+   "title": "Report finds Vermont is experiencing unprecedented weather extremes",
+   "link": "https://vtdigger.org/2026/11/08/report-finds-vermont-is-experiencing-unprecedented-weather-extremes/",
+   "source": "VTDigger",
+   "ts": 1794143820.0
+  },
+  {
+   "title": "Man dies in Windsor home fire, ongoing investigation",
+   "link": "https://www.mynbc5.com/article/windsor-officials-for-deadly-fire-saturday/74367550",
+   "source": "WPTZ",
+   "ts": 1794143100.0
   },
   {
    "title": "\u2018Vermont wants a farm show\u2019: Long-running agricultural event returns in April",
@@ -38,14 +56,8 @@
    "ts": 1794137244.0
   },
   {
-   "title": "Building owned by Saudi oil giant damaged in missile attack on Riyadh's financial district",
-   "link": "https://www.mynbc5.com/article/saudi-oil-giant-building-damaged-missile-attack/74367443",
-   "source": "WPTZ",
-   "ts": 1794137100.0
-  },
-  {
-   "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-   "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+   "title": "In Maine, a new approach to practicing medicine in the sky",
+   "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
    "source": "NPR",
    "ts": 1794135600.0
   },
@@ -56,22 +68,10 @@
    "ts": 1794135600.0
   },
   {
-   "title": "In Maine, a new approach to practicing medicine in the sky",
-   "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+   "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+   "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
    "source": "NPR",
    "ts": 1794135600.0
-  },
-  {
-   "title": "Woman allegedly killed by husband texted sister she was \u2018not good\u2019 days before her body was found",
-   "link": "https://www.wcax.com/2026/11/08/woman-allegedly-killed-by-husband-texted-sister-she-was-not-good-days-before-her-body-was-found/",
-   "source": "WCAX",
-   "ts": 1794134108.0
-  },
-  {
-   "title": "Spiritual adviser to death row inmates visits Middlebury",
-   "link": "https://vtdigger.org/2026/11/07/spiritual-adviser-to-death-row-inmates-visits-middlebury/",
-   "source": "VTDigger",
-   "ts": 1794052200.0
   }
  ]
 }
