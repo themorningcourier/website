@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:41:18.063207+00:00",
+ "updated": "2026-11-08T17:38:43.043642+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -42,8 +42,8 @@
     {
      "name": "Bengals",
      "abbr": "CIN",
-     "rec": "5-2",
-     "pct": 0.71428573
+     "rec": "6-2",
+     "pct": 0.75
     },
     {
      "name": "Browns",
@@ -193,8 +193,8 @@
     {
      "name": "Falcons",
      "abbr": "ATL",
-     "rec": "3-5",
-     "pct": 0.375
+     "rec": "3-6",
+     "pct": 0.33333334
     },
     {
      "name": "Saints",

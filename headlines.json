@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-08T16:41:18.063207+00:00",
+ "updated": "2026-11-08T17:38:43.043642+00:00",
  "items": [
+  {
+   "title": "Floods bring rare relief to US Southwest reservoirs as Lake Powell rises 20 feet",
+   "link": "https://www.mynbc5.com/article/southwest-reservoirs-flooding-lake-powell/74368630",
+   "source": "WPTZ",
+   "ts": 1794158160.0
+  },
+  {
+   "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+   "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+   "source": "NPR",
+   "ts": 1794156375.0
+  },
+  {
+   "title": "Amoeba infections leave 5 with permanent vision loss, 1 dead in this state",
+   "link": "https://www.wcax.com/2026/11/08/amoeba-infections-leave-5-with-permanent-vision-loss-1-dead-this-state/",
+   "source": "WCAX",
+   "ts": 1794156370.0
+  },
   {
    "title": "Israel\u2019s president officially gives Eisenkot the first chance to form the next government",
    "link": "https://www.mynbc5.com/article/israels-president-eisenkot-first-chance-government-official/74367999",
@@ -18,12 +36,6 @@
    "link": "https://www.mynbc5.com/article/ufc-ceo-dana-white-press-secretary-offer/74367833",
    "source": "WPTZ",
    "ts": 1794154260.0
-  },
-  {
-   "title": "Things to do: Nov. 8, 2026",
-   "link": "https://www.mynbc5.com/article/things-to-do-nov-8-2026/74367780",
-   "source": "WPTZ",
-   "ts": 1794153600.0
   },
   {
    "title": "Week Ahead in Washington: Nov. 8",
@@ -60,18 +72,6 @@
    "link": "https://vtdigger.org/2026/11/08/report-finds-vermont-is-experiencing-unprecedented-weather-extremes/",
    "source": "VTDigger",
    "ts": 1794143820.0
-  },
-  {
-   "title": "What to Do: Sunday, November 8",
-   "link": "https://www.wcax.com/2026/11/08/what-do-sunday-november-8/",
-   "source": "WCAX",
-   "ts": 1794137607.0
-  },
-  {
-   "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-   "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-   "source": "NPR",
-   "ts": 1794135600.0
   }
  ]
 }
