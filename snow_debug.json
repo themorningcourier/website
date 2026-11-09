@@ -1,97 +1,97 @@
 {
- "updated": "2026-11-08T10:18:48.529289+00:00",
+ "updated": "2026-11-09T08:48:29.495876+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "MQT",
-     "name": "Marquette, Mi",
-     "state": "MI",
-     "elev_ft": "1411",
-     "inches": 1.2,
-     "hours": 6.0,
-     "time": "2026-11-06 18:00"
-    },
-    {
-     "id": "DRYA2",
-     "name": "Dry Creek",
+     "id": "HDLA2",
+     "name": "Harding Lake 1S",
      "state": "AK",
-     "elev_ft": "1391",
-     "inches": 3.1,
-     "hours": 24.0,
-     "time": "2026-11-06 22:00"
-    },
-    {
-     "id": "HCSA2",
-     "name": "Haines,Ak",
-     "state": "AK",
-     "elev_ft": "866",
+     "elev_ft": "919",
      "inches": 2.5,
      "hours": 24.0,
-     "time": "2026-11-06 16:00"
+     "time": "2026-11-07 17:00"
+    },
+    {
+     "id": "GLNA2",
+     "name": "Glennallen Kcam",
+     "state": "AK",
+     "elev_ft": "1381",
+     "inches": 1.4,
+     "hours": 24.0,
+     "time": "2026-11-07 18:00"
+    },
+    {
+     "id": "EGLA2",
+     "name": "Eagle",
+     "state": "AK",
+     "elev_ft": "892",
+     "inches": 1.2,
+     "hours": 24.0,
+     "time": "2026-11-07 18:00"
+    },
+    {
+     "id": "CQNA2",
+     "name": "Chicken",
+     "state": "AK",
+     "elev_ft": "1781",
+     "inches": 1.0,
+     "hours": 24.0,
+     "time": "2026-11-07 17:00"
     },
     {
      "id": "HERM4",
      "name": "Herman,Mi",
      "state": "MI",
      "elev_ft": "1837",
-     "inches": 2.0,
-     "hours": 24.0,
-     "time": "2026-11-06 13:00"
-    },
-    {
-     "id": "WITA2",
-     "name": "Whitestone Farms",
-     "state": "AK",
-     "elev_ft": "997",
-     "inches": 2.0,
-     "hours": 24.0,
-     "time": "2026-11-07 05:00"
-    },
-    {
-     "id": "KSGM4",
-     "name": "Kearsarge",
-     "state": "MI",
-     "elev_ft": "1119",
      "inches": 1.0,
-     "hours": 12.0,
-     "time": "2026-11-06 13:00"
-    },
-    {
-     "id": "MIEM4",
-     "name": "Michigamme 3Wnw",
-     "state": "MI",
-     "elev_ft": "1716",
-     "inches": 1.4,
      "hours": 24.0,
-     "time": "2026-11-06 13:00"
+     "time": "2026-11-07 13:00"
     },
     {
-     "id": "LMHA2",
-     "name": "Lake Minchumina",
+     "id": "TAL",
+     "name": "Ralph M Calhoun Memorial Arpt",
+     "state": "",
+     "elev_ft": "207",
+     "inches": 1.0,
+     "hours": 24.0,
+     "time": "2026-11-07 15:00"
+    },
+    {
+     "id": "CHSA2",
+     "name": "Circle Hot Springs",
      "state": "AK",
-     "elev_ft": "892",
-     "inches": 1.3,
+     "elev_ft": "853",
+     "inches": 0.9,
      "hours": 24.0,
-     "time": "2026-11-06 18:00"
+     "time": "2026-11-07 17:00"
     },
     {
-     "id": "MI-MQ-19",
-     "name": "Ishpeming 7.2 Sw, Mi",
-     "state": "MI",
-     "elev_ft": "1457",
-     "inches": 1.3,
-     "hours": 24.0,
-     "time": "2026-11-06 11:30"
+     "id": "TOAA2",
+     "name": "Tok #2",
+     "state": "AK",
+     "elev_ft": "1660",
+     "inches": 1.4,
+     "hours": 48.0,
+     "time": "2026-11-08 02:30"
     },
     {
-     "id": "PDLM4",
-     "name": "Painesdale",
-     "state": "MI",
-     "elev_ft": "1319",
-     "inches": 1.1,
+     "id": "BTT",
+     "name": "Bettles Arpt",
+     "state": "",
+     "elev_ft": "633",
+     "inches": 0.7,
      "hours": 24.0,
-     "time": "2026-11-06 13:00"
+     "time": "2026-11-07 08:45"
+    },
+    {
+     "id": "AURA2",
+     "name": "Aurora",
+     "state": "AK",
+     "elev_ft": "440",
+     "inches": 0.6,
+     "hours": 24.0,
+     "time": "2026-11-08 06:00"
     }
    ]
   },
@@ -113,111 +113,111 @@
      ""
     ],
     [
-     "MQT",
-     "2026-11-06 18:00",
-     "1.200",
-     "6.000",
-     "1411",
-     "MARQUETTE, MI"
-    ],
-    [
-     "DRYA2",
-     "2026-11-06 22:00",
-     "3.100",
-     "24.000",
-     "1391",
-     "DRY CREEK"
-    ],
-    [
-     "HCSA2",
-     "2026-11-06 16:00",
+     "HDLA2",
+     "2026-11-07 17:00",
      "2.500",
      "24.000",
-     "866",
-     "HAINES,AK"
+     "919",
+     "HARDING LAKE 1S"
     ],
     [
-     "HERM4",
-     "2026-11-06 13:00",
-     "2.000",
-     "24.000",
-     "1837",
-     "HERMAN,MI"
-    ],
-    [
-     "WITA2",
-     "2026-11-07 05:00",
-     "2.000",
-     "24.000",
-     "997",
-     "WHITESTONE FARMS"
-    ],
-    [
-     "KSGM4",
-     "2026-11-06 13:00",
-     "1.000",
-     "12.000",
-     "1119",
-     "KEARSARGE"
-    ],
-    [
-     "MIEM4",
-     "2026-11-06 13:00",
+     "GLNA2",
+     "2026-11-07 18:00",
      "1.400",
      "24.000",
-     "1716",
-     "MICHIGAMME 3WNW"
+     "1381",
+     "GLENNALLEN KCAM"
     ],
     [
-     "LMHA2",
-     "2026-11-06 18:00",
-     "1.300",
+     "EGLA2",
+     "2026-11-07 18:00",
+     "1.200",
      "24.000",
      "892",
-     "LAKE MINCHUMINA"
-    ],
-    [
-     "MI-MQ-19",
-     "2026-11-06 11:30",
-     "1.300",
-     "24.000",
-     "1457",
-     "ISHPEMING 7.2 SW, MI"
-    ],
-    [
-     "PDLM4",
-     "2026-11-06 13:00",
-     "1.100",
-     "24.000",
-     "1319",
-     "PAINESDALE"
-    ],
-    [
-     "CLKM4",
-     "2026-11-06 12:00",
-     "1.000",
-     "24.000",
-     "1552",
-     "CLARKSBURG"
+     "EAGLE"
     ],
     [
      "CQNA2",
-     "2026-11-06 17:00",
+     "2026-11-07 17:00",
      "1.000",
      "24.000",
      "1781",
      "CHICKEN"
     ],
     [
-     "EGLA2",
-     "2026-11-06 18:00",
+     "HERM4",
+     "2026-11-07 13:00",
      "1.000",
      "24.000",
-     "892",
-     "EAGLE"
+     "1837",
+     "HERMAN,MI"
+    ],
+    [
+     "TAL",
+     "2026-11-07 15:00",
+     "1.000",
+     "24.000",
+     "207",
+     "RALPH M CALHOUN MEMORIAL ARPT"
+    ],
+    [
+     "CHSA2",
+     "2026-11-07 17:00",
+     "0.900",
+     "24.000",
+     "853",
+     "CIRCLE HOT SPRINGS"
+    ],
+    [
+     "TOAA2",
+     "2026-11-08 02:30",
+     "1.400",
+     "48.000",
+     "1660",
+     "TOK #2"
+    ],
+    [
+     "BTT",
+     "2026-11-07 08:45",
+     "0.700",
+     "24.000",
+     "633",
+     "BETTLES ARPT"
+    ],
+    [
+     "AURA2",
+     "2026-11-08 06:00",
+     "0.600",
+     "24.000",
+     "440",
+     "AURORA"
+    ],
+    [
+     "GSCA2",
+     "2026-11-07 15:00",
+     "0.600",
+     "24.000",
+     "577",
+     "GOLDSTREAM CREEK"
+    ],
+    [
+     "AK-FN-16",
+     "2026-11-07 18:00",
+     "0.500",
+     "24.000",
+     "436",
+     "FAIRBANKS 4.4 W, AK"
+    ],
+    [
+     "HCSW4",
+     "2026-11-08 01:15",
+     "0.500",
+     "24.000",
+     "6168",
+     "HOBACK RIVER CANYON SNOW STUDY"
     ]
    ],
-   "count": 10036
+   "count": 10666
   }
  ]
 }
