@@ -1,11 +1,47 @@
 {
- "updated": "2026-11-09T20:29:53.955049+00:00",
+ "updated": "2026-11-09T21:27:15.950851+00:00",
  "items": [
   {
-   "title": "Burlington man held without bail on sex assault charges",
-   "link": "https://www.wcax.com/2026/11/09/burlington-man-held-without-bail-sex-assault-charges/",
+   "title": "FDA adds warning about rare vision loss to popular GLP-1s",
+   "link": "https://www.mynbc5.com/article/fda-glp-1-vision-loss-naion/74379027",
+   "source": "WPTZ",
+   "ts": 1794258840.0
+  },
+  {
+   "title": "Survey finds Vermont business climate down over last year",
+   "link": "https://www.mynbc5.com/article/survey-finds-vermont-business-climate-down-over-last-year/74363664",
+   "source": "WPTZ",
+   "ts": 1794258780.0
+  },
+  {
+   "title": "13-year-olds charged after intentionally making fair ride swing out of control, deputies say",
+   "link": "https://www.wcax.com/2026/11/09/13-year-olds-charged-after-intentionally-making-fair-ride-swing-out-control-deputies-say/",
    "source": "WCAX",
-   "ts": 1794255258.0
+   "ts": 1794258594.0
+  },
+  {
+   "title": "Peru high school takes girls swimming Section VII championship",
+   "link": "https://www.mynbc5.com/article/peru-takes-girls-swimming-section-vii-championship/74366393",
+   "source": "WPTZ",
+   "ts": 1794258480.0
+  },
+  {
+   "title": "Upper Valley farm gears up for turkey rush",
+   "link": "https://www.wcax.com/2026/11/09/upper-valley-farm-gears-up-turkey-rush/",
+   "source": "WCAX",
+   "ts": 1794257730.0
+  },
+  {
+   "title": "Police presence temporarily closes Craftsbury road",
+   "link": "https://www.wcax.com/2026/11/09/police-presence-closes-craftsbury-road/",
+   "source": "WCAX",
+   "ts": 1794257571.0
+  },
+  {
+   "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+   "link": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+   "source": "NPR",
+   "ts": 1794257544.0
   },
   {
    "title": "Stop strong-arming towns into signing off on regional plans",
@@ -14,40 +50,10 @@
    "ts": 1794254688.0
   },
   {
-   "title": "North Country Hospital screening visitors for measles",
-   "link": "https://www.wcax.com/2026/11/09/north-country-hospital-screening-visitors-measles/",
-   "source": "WCAX",
-   "ts": 1794254442.0
-  },
-  {
    "title": "VTDigger launches year-end drive with goal of providing 10,000 meals by Thanksgiving",
    "link": "https://vtdigger.org/2026/11/09/vtdigger-launches-year-end-drive-with-goal-of-providing-10000-meals-by-thanksgiving/",
    "source": "VTDigger",
    "ts": 1794254400.0
-  },
-  {
-   "title": "Another shake-up at DC Studios: Gunn and Safran out as Skydance appoints Marvel vet Latchman",
-   "link": "https://www.mynbc5.com/article/dc-studios-gunn-safran-skydance-marvel-latchman/74378438",
-   "source": "WPTZ",
-   "ts": 1794254220.0
-  },
-  {
-   "title": "Actor Donnie Dunagan, original voice of Bambi in classic Disney film, dies at 92, reports say",
-   "link": "https://www.wcax.com/2026/11/09/actor-donnie-dunagan-original-voice-bambi-classic-disney-film-dies-92-reports-say/",
-   "source": "WCAX",
-   "ts": 1794254070.0
-  },
-  {
-   "title": "City council expected to vote on Burlington police chief appointment tonight",
-   "link": "https://www.mynbc5.com/article/burlington-police-chief-confirmation-anthony-geraci/74373005",
-   "source": "WPTZ",
-   "ts": 1794254040.0
-  },
-  {
-   "title": "Rep. Thomas Massie forcing vote on Defense Secretary Pete Hegseth impeachment",
-   "link": "https://www.mynbc5.com/article/thomas-massie-impeachment-pete-hegseth-articles/74378409",
-   "source": "WPTZ",
-   "ts": 1794254040.0
   },
   {
    "title": "Every child deserves someone in their corner",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
    "source": "NPR",
    "ts": 1794235014.0
-  },
-  {
-   "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
-   "link": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
-   "source": "NPR",
-   "ts": 1794228314.0
   }
  ]
 }
