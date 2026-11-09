@@ -1,41 +1,53 @@
 {
- "updated": "2026-11-09T21:27:15.950851+00:00",
+ "updated": "2026-11-09T22:22:47.082896+00:00",
  "items": [
   {
-   "title": "FDA adds warning about rare vision loss to popular GLP-1s",
-   "link": "https://www.mynbc5.com/article/fda-glp-1-vision-loss-naion/74379027",
-   "source": "WPTZ",
-   "ts": 1794258840.0
-  },
-  {
-   "title": "Survey finds Vermont business climate down over last year",
-   "link": "https://www.mynbc5.com/article/survey-finds-vermont-business-climate-down-over-last-year/74363664",
-   "source": "WPTZ",
-   "ts": 1794258780.0
-  },
-  {
-   "title": "13-year-olds charged after intentionally making fair ride swing out of control, deputies say",
-   "link": "https://www.wcax.com/2026/11/09/13-year-olds-charged-after-intentionally-making-fair-ride-swing-out-control-deputies-say/",
+   "title": "Search continues for missing Lake Champlain boater",
+   "link": "https://www.wcax.com/2026/11/09/search-continues-missing-lake-champlain-boater/",
    "source": "WCAX",
-   "ts": 1794258594.0
+   "ts": 1794262487.0
   },
   {
-   "title": "Peru high school takes girls swimming Section VII championship",
-   "link": "https://www.mynbc5.com/article/peru-takes-girls-swimming-section-vii-championship/74366393",
+   "title": "City council expected to vote on Burlington police chief appointment tonight",
+   "link": "https://www.mynbc5.com/article/burlington-police-chief-confirmation-anthony-geraci/74373005",
    "source": "WPTZ",
-   "ts": 1794258480.0
+   "ts": 1794262440.0
   },
   {
-   "title": "Upper Valley farm gears up for turkey rush",
-   "link": "https://www.wcax.com/2026/11/09/upper-valley-farm-gears-up-turkey-rush/",
-   "source": "WCAX",
-   "ts": 1794257730.0
+   "title": "Vermont\u2019s schools are not the problem. Property tax is.",
+   "link": "https://vtdigger.org/2026/11/09/opinion-vermonts-schools-are-not-the-problem-property-tax-is/",
+   "source": "VTDigger",
+   "ts": 1794262229.0
   },
   {
-   "title": "Police presence temporarily closes Craftsbury road",
-   "link": "https://www.wcax.com/2026/11/09/police-presence-closes-craftsbury-road/",
+   "title": "Residents in northern VT communities asked to reconsider merger vote",
+   "link": "https://www.mynbc5.com/article/troy-vt-merger-vote/74373822",
+   "source": "WPTZ",
+   "ts": 1794262080.0
+  },
+  {
+   "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
+   "link": "https://www.mynbc5.com/article/trump-iran-war-effectively-over-qatar/74379933",
+   "source": "WPTZ",
+   "ts": 1794262020.0
+  },
+  {
+   "title": "New York man sentenced for 2022 Bennington murder",
+   "link": "https://www.wcax.com/2026/11/09/new-york-man-sentenced-2022-bennington-murder/",
    "source": "WCAX",
-   "ts": 1794257571.0
+   "ts": 1794261458.0
+  },
+  {
+   "title": "Vermont hospitals embrace AI as questions about oversight remain",
+   "link": "https://www.wcax.com/2026/11/09/vermont-hospitals-embrace-ai-questions-about-oversight-remain/",
+   "source": "WCAX",
+   "ts": 1794261306.0
+  },
+  {
+   "title": "Supreme Court says border wall construction can continue in west Texas",
+   "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+   "source": "NPR",
+   "ts": 1794260859.0
   },
   {
    "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
@@ -56,22 +68,10 @@
    "ts": 1794254400.0
   },
   {
-   "title": "Every child deserves someone in their corner",
-   "link": "https://vtdigger.org/2026/11/09/every-child-deserves-someone-in-their-corner/",
-   "source": "VTDigger",
-   "ts": 1794239050.0
-  },
-  {
    "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
    "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
    "source": "NPR",
    "ts": 1794236993.0
-  },
-  {
-   "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
-   "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
-   "source": "NPR",
-   "ts": 1794235014.0
   }
  ]
 }
