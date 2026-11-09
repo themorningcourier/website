@@ -1,17 +1,101 @@
 {
- "updated": "2026-11-09T16:04:04.772589+00:00",
+ "updated": "2026-11-09T17:12:52.588177+00:00",
  "items": [
+  {
+   "title": "Russell Brand sentenced to 10 years, 6 months in prison for rape, sexual assault",
+   "link": "https://abcnews.com/GMA/Culture/russell-brand-faces-sentencing-after-guilty-verdict-rape/story?id=137914316",
+   "source": "ABC News",
+   "ts": 1794243867.0
+  },
+  {
+   "title": "Dianna Russini opens up on \u2018nightmare\u2019 affair scandal for first time",
+   "link": "https://nypost.com/2026/11/09/sports/dianna-russini-opens-up-on-nightmare-affair-scandal-for-first-time/",
+   "source": "New York Post",
+   "ts": 1794243811.0
+  },
+  {
+   "title": "Alleged Chinese spy Alice Huang boasted about Nvidia AI chip access \u2014 as US officials grew concerned about smuggling",
+   "link": "https://nypost.com/2026/11/09/business/alleged-chinese-spy-alice-huang-boasted-about-nvidia-ai-chip-access-as-us-officials-grew-concerned-about-smuggling/",
+   "source": "New York Post",
+   "ts": 1794243752.0
+  },
+  {
+   "title": "Senate GOP rebels move to delay leadership vote, demand reckoning after midterm disaster",
+   "link": "https://www.foxnews.com/politics/senate-gop-rebels-move-delay-leadership-vote-demand-reckoning-after-midterm-disaster",
+   "source": "Fox News",
+   "ts": 1794243642.0
+  },
+  {
+   "title": "What to know about Gadi Eisenkot being appointed to form a government in israel",
+   "link": "https://www.cbsnews.com/video/what-to-know-about-gadi-eisenkot-being-appointed-to-form-a-government-in-israel/",
+   "source": "CBS News",
+   "ts": 1794243603.0
+  },
+  {
+   "title": "Bills vs. Vikings prediction: Josh Allen outsmarts stingy Minnesota defense on \u2018Monday Night Football\u2019",
+   "link": "https://nypost.com/2026/11/09/betting/bills-vs-vikings-prediction-nfl-week-9-odds-picks-best-bet-for-monday-night-football/",
+   "source": "New York Post",
+   "ts": 1794243600.0
+  },
   {
    "title": "UK's Russell Brand sentenced to 10-and-a-half years in jail for rape, sexual assault",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbmk4dlVnT1E1bFJGb01tRkZvLVFXSkt0bTRsY2t4RzMzRDVGb2RzLUJTblJPQ1EwZFhlSUZXOTR3VlF2UTU0V29tVjd5dWwtOFZpUGNxSE1uRW5JNF94a0RmRV9SRWgyZ3dCaDNJZmR2M05ZRHMzam9EVkF0OUJ3bnloSGdkNVZZU3QyODdKei14dU9nalBDSmwxOFpCNUJHUDFTbnFLTVp2UTJfaGlPQ1htNGxvbjRB?oc=5",
    "source": "Reuters",
-   "ts": 1794240064.0
+   "ts": 1794243389.0
   },
   {
-   "title": "Woman claims she suffered horrific life-changing injuries at glamorous LA dinner with friends",
-   "link": "https://nypost.com/2026/11/09/us-news/hibachi-flames-catch-woman-on-fire-at-la-hot-spot/",
-   "source": "New York Post",
-   "ts": 1794240000.0
+   "title": "Men and women who smoke marijuana may experience different effects, study suggests",
+   "link": "https://www.foxnews.com/health/men-women-smoke-marijuana-may-experience-different-effects-study-suggests",
+   "source": "Fox News",
+   "ts": 1794243322.0
+  },
+  {
+   "title": "Focus: Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVZsYWtjTnU4dVhYU3o4LWJCeVdPOUNhNGdUVUhLdG1iZTE3REw3QmR6RHRzblFjc3RKYmlvS1JkRlFJakFpMExqdGx2ZDU1OGcxME5OazNFVTVGYTRQLTlSTjFhTk5Wc041TnV5dUtRdGdWWVQwWXRhMzdMaE9sdmdWOFROSGVoOTR1Z201THNOb25PTmdzWkdraGNkWEg2bFljcld6SDM0MzJvdG84amJkNGRBYjJyMDRCemVFMVhUMzZvcTZR?oc=5",
+   "source": "Reuters",
+   "ts": 1794243043.0
+  },
+  {
+   "title": "SKIMS Advent calendar sparks controversy: \"I can get these at Dollar Tree\"",
+   "link": "https://www.cbsnews.com/news/kim-kardashian-skims-accessories-advent-calendar-sparks-controversy/",
+   "source": "CBS News",
+   "ts": 1794243034.0
+  },
+  {
+   "title": "Trump on Vance blaming Iran war for midterms loss: \"Historically this will be a very good decision\"",
+   "link": "https://www.cbsnews.com/video/trump-on-vance-blaming-iran-war-for-midterms-loss-historically-this-will-be-a-very-good-decision/",
+   "source": "CBS News",
+   "ts": 1794242880.0
+  },
+  {
+   "title": "College football sells another piece of its soul with CFP officially expanding to 24 teams",
+   "link": "https://www.foxnews.com/outkick-sports/college-football-sells-another-piece-soul-cfp-officially-expanding-24-teams",
+   "source": "Fox News",
+   "ts": 1794242821.0
+  },
+  {
+   "title": "Counter protests rise after boycott ride past Jewish-owned restaurants",
+   "link": "https://www.nbcnews.com/video/counter-protests-rise-after-boycott-ride-past-jewish-owned-restaurants-273139781600",
+   "source": "NBC News",
+   "ts": 1794242666.0
+  },
+  {
+   "title": "Nvidia stock falls after company opens probe into CEO",
+   "link": "https://abcnews.com/Business/nvidia-stock-falls-after-company-opens-probe-ceo/story?id=137970524",
+   "source": "ABC News",
+   "ts": 1794242657.0
+  },
+  {
+   "title": "Defense Secretary Pete Hegseth could face impeachment vote",
+   "link": "https://abcnews.com/Politics/defense-secretary-pete-hegseth-face-impeachment-vote/story?id=137926360",
+   "source": "ABC News",
+   "ts": 1794242092.0
+  },
+  {
+   "title": "Banks, investors grow wary of AI debt, spooked by market selloff",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUktuREpUZjNlTWxZaER3aXVBUlJvazI5Q2d6STdNekNFVjk0UDYydFNlYS1zQzBlOFdzdk9waFZOeFBvLUhKUG5YOURmWE1xTkFvcFhqTmdTa3dvZ2NFTW12VW15XzA0MW9LWmlDb3BCTGc3ZllkWS1FMU9lbS1JbllDV0FhVGs3elh3azhtYWx0WkVpYnk2eDVSU1NtU2hZQXc4UUJJdkdELXNuVW1mZWJDLWFtZw?oc=5",
+   "source": "Reuters",
+   "ts": 1794241340.0
   },
   {
    "title": "Nvidia stock falls after company opens probe into CEO\u2019s relationship with Chinese spy",
@@ -20,94 +104,10 @@
    "ts": 1794239810.0
   },
   {
-   "title": "Death toll from migrant boat found with bodies on board south of Greece increases to 14",
-   "link": "https://nypost.com/2026/11/09/world-news/death-toll-from-migrant-boat-found-with-bodies-on-board-south-of-greece-increases-to-14/",
-   "source": "New York Post",
-   "ts": 1794239809.0
-  },
-  {
-   "title": "\u2018SNL\u2019 host Druski spoofs Elizabeth Holmes, James Talarico drops by",
-   "link": "https://pagesix.com/video/snl-host-druski-spoofs-elizabeth-holmes-james-talarico-drops-by/",
-   "source": "New York Post",
-   "ts": 1794239795.0
-  },
-  {
-   "title": "Russell Brand sentenced to more than 10 years for rape and sex assault",
-   "link": "https://www.cbsnews.com/video/russell-brand-sentenced-to-more-than-10-years-for-rape-and-sex-assault/",
-   "source": "CBS News",
-   "ts": 1794239775.0
-  },
-  {
-   "title": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
-   "link": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
-   "source": "CBS News",
-   "ts": 1794239766.0
-  },
-  {
-   "title": "Congress returns for lame-duck sprint after GOP midterm losses",
-   "link": "https://www.cbsnews.com/news/midterm-elections-congress-returns-lame-duck/",
-   "source": "CBS News",
-   "ts": 1794239579.0
-  },
-  {
-   "title": "Jan. 6 should follow Trump 'to his grave,' Biden says in new memoir",
-   "link": "https://abcnews.com/US/jan-6-follow-trump-grave-biden-new-memoir/story?id=137968994",
-   "source": "ABC News",
-   "ts": 1794239566.0
-  },
-  {
-   "title": "New big rig safety tech could save your life",
-   "link": "https://www.foxnews.com/tech/new-big-rig-safety-tech-could-save-your-life",
-   "source": "Fox News",
-   "ts": 1794239282.0
-  },
-  {
-   "title": "Nvidia stock falls after company opens probe into CEO",
-   "link": "https://abcnews.com/Business/nvidia-stock-falls-after-company-opens-probe-ceo/story?id=137970524",
-   "source": "ABC News",
-   "ts": 1794239122.0
-  },
-  {
-   "title": "MICHAEL RUIZ: Tyler Robinson judge to give long-awaited trial date ruling in assassination of Charlie Kirk",
-   "link": "https://www.foxnews.com/us/michael-ruiz-tyler-robinson-judge-give-long-awaited-trial-date-ruling-assassination-charlie-kirk",
-   "source": "Fox News",
-   "ts": 1794238843.0
-  },
-  {
-   "title": "Russell Brand is sentenced to 10 years and six month for rape and sexual assault",
+   "title": "Russell Brand is sentenced to 10 years and six months for rape and sexual assault",
    "link": "https://www.nbcnews.com/video/russell-brand-is-sentenced-to-10-years-and-six-month-for-rape-and-sexual-assault-273134149781",
    "source": "NBC News",
    "ts": 1794238836.0
-  },
-  {
-   "title": "DOJ leadership shakeup continues as Civil Division chief steps down",
-   "link": "https://abcnews.com/US/doj-leadership-shakeup-continues-civil-division-chief-steps/story?id=137976350",
-   "source": "ABC News",
-   "ts": 1794238636.0
-  },
-  {
-   "title": "Vast crowds fill Buenos Aires as Pope Leo hails strength of South American Church",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTJPYWo1SzVDVEFvY2trRzdLWkNhYVRwT0tocmd6d2J2N29DYmVhMmtYTkQwUHp5ZnhRZ2daeHNSYWstbnFTVjZBOWNkMVAtZmJwTlZmRkhKbHhnTXlDaUxUaVFFVGtjWEIyRTVCV3Mtd3pQMkluWjI3ZHczYWZPR3BOVHZwS2NxMmRnRnpJYko0MGYtSVA0cHdLSGk0cHlaSjA2RkppaFc?oc=5",
-   "source": "Reuters",
-   "ts": 1794238356.0
-  },
-  {
-   "title": "Bears' Caleb Williams unbothered despite four interceptions in narrow win: 'I\u2019ll never not throw the ball'",
-   "link": "https://www.foxnews.com/outkick-sports/bears-caleb-williams-unbothered-despite-four-interceptions-narrow-win-ill-never-not-throw-ball",
-   "source": "Fox News",
-   "ts": 1794238177.0
-  },
-  {
-   "title": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVZsYWtjTnU4dVhYU3o4LWJCeVdPOUNhNGdUVUhLdG1iZTE3REw3QmR6RHRzblFjc3RKYmlvS1JkRlFJakFpMExqdGx2ZDU1OGcxME5OazNFVTVGYTRQLTlSTjFhTk5Wc041TnV5dUtRdGdWWVQwWXRhMzdMaE9sdmdWOFROSGVoOTR1Z201THNOb25PTmdzWkdraGNkWEg2bFljcld6SDM0MzJvdG84amJkNGRBYjJyMDRCemVFMVhUMzZvcTZR?oc=5",
-   "source": "Reuters",
-   "ts": 1794237833.0
-  },
-  {
-   "title": "Talking Shop with Poppi founder Allison Ellsworth about her new beverage brand, Jetty",
-   "link": "https://www.nbcnews.com/select/shopping/allison-ellsworth-jetty-launch-rcna607946",
-   "source": "NBC News",
-   "ts": 1794233247.0
   }
  ]
 }
