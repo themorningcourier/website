@@ -1,47 +1,65 @@
 {
- "updated": "2026-11-09T22:22:47.082896+00:00",
+ "updated": "2026-11-09T23:19:05.772796+00:00",
  "items": [
   {
-   "title": "Search continues for missing Lake Champlain boater",
-   "link": "https://www.wcax.com/2026/11/09/search-continues-missing-lake-champlain-boater/",
+   "title": "Ring camera video shows women making racist gestures outside Ole Miss student\u2019s apartment",
+   "link": "https://www.wcax.com/2026/11/09/ring-camera-video-shows-women-making-racist-gestures-outside-ole-miss-students-apartment/",
    "source": "WCAX",
-   "ts": 1794262487.0
+   "ts": 1794266012.0
   },
   {
-   "title": "City council expected to vote on Burlington police chief appointment tonight",
-   "link": "https://www.mynbc5.com/article/burlington-police-chief-confirmation-anthony-geraci/74373005",
+   "title": "Vermont confirms Essex County measles cases",
+   "link": "https://www.wcax.com/2026/11/09/vermont-confirms-essex-county-measles-cases/",
+   "source": "WCAX",
+   "ts": 1794265547.0
+  },
+  {
+   "title": "Montpelier has its long-awaited housing blueprint for Country Club Road",
+   "link": "https://vtdigger.org/2026/11/09/montpelier-has-its-long-awaited-housing-blueprint-for-country-club-road/",
+   "source": "VTDigger",
+   "ts": 1794265367.0
+  },
+  {
+   "title": "Measles cases confirmed in Orleans County; North Country Hospital to screen visitors",
+   "link": "https://www.mynbc5.com/article/north-country-hospital-to-screen-guests-for-measles/74376492",
    "source": "WPTZ",
-   "ts": 1794262440.0
+   "ts": 1794264840.0
+  },
+  {
+   "title": "Burlington mayor, governor to meet on public safety",
+   "link": "https://www.wcax.com/2026/11/09/burlington-mayor-governor-meet-public-safety/",
+   "source": "WCAX",
+   "ts": 1794264741.0
+  },
+  {
+   "title": "North Country community sounds alarm over climate change, calls on DEC for public hearings",
+   "link": "https://www.mynbc5.com/article/ny-town-sounds-alarm-over-climate-change/74357224",
+   "source": "WPTZ",
+   "ts": 1794264360.0
+  },
+  {
+   "title": "AI-generated political ads spiked in 2026, but campaigns still prioritized other means of messaging",
+   "link": "https://www.mynbc5.com/article/ai-political-ads-2026-midterms-fact-check/74380236",
+   "source": "WPTZ",
+   "ts": 1794263700.0
+  },
+  {
+   "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+   "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+   "source": "NPR",
+   "ts": 1794263449.0
+  },
+  {
+   "title": "Air Force veteran takes a ride of a lifetime",
+   "link": "https://vtdigger.org/2026/11/09/air-force-veteran-takes-a-ride-of-a-lifetime/",
+   "source": "VTDigger",
+   "ts": 1794263382.0
   },
   {
    "title": "Vermont\u2019s schools are not the problem. Property tax is.",
    "link": "https://vtdigger.org/2026/11/09/opinion-vermonts-schools-are-not-the-problem-property-tax-is/",
    "source": "VTDigger",
    "ts": 1794262229.0
-  },
-  {
-   "title": "Residents in northern VT communities asked to reconsider merger vote",
-   "link": "https://www.mynbc5.com/article/troy-vt-merger-vote/74373822",
-   "source": "WPTZ",
-   "ts": 1794262080.0
-  },
-  {
-   "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
-   "link": "https://www.mynbc5.com/article/trump-iran-war-effectively-over-qatar/74379933",
-   "source": "WPTZ",
-   "ts": 1794262020.0
-  },
-  {
-   "title": "New York man sentenced for 2022 Bennington murder",
-   "link": "https://www.wcax.com/2026/11/09/new-york-man-sentenced-2022-bennington-murder/",
-   "source": "WCAX",
-   "ts": 1794261458.0
-  },
-  {
-   "title": "Vermont hospitals embrace AI as questions about oversight remain",
-   "link": "https://www.wcax.com/2026/11/09/vermont-hospitals-embrace-ai-questions-about-oversight-remain/",
-   "source": "WCAX",
-   "ts": 1794261306.0
   },
   {
    "title": "Supreme Court says border wall construction can continue in west Texas",
@@ -54,24 +72,6 @@
    "link": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
    "source": "NPR",
    "ts": 1794257544.0
-  },
-  {
-   "title": "Stop strong-arming towns into signing off on regional plans",
-   "link": "https://vtdigger.org/2026/11/09/stop-strong-arming-towns-into-signing-off-on-regional-plans/",
-   "source": "VTDigger",
-   "ts": 1794254688.0
-  },
-  {
-   "title": "VTDigger launches year-end drive with goal of providing 10,000 meals by Thanksgiving",
-   "link": "https://vtdigger.org/2026/11/09/vtdigger-launches-year-end-drive-with-goal-of-providing-10000-meals-by-thanksgiving/",
-   "source": "VTDigger",
-   "ts": 1794254400.0
-  },
-  {
-   "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
-   "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
-   "source": "NPR",
-   "ts": 1794236993.0
   }
  ]
 }
