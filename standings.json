@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T23:39:08.822784+00:00",
+ "updated": "2026-11-09T01:06:54.615697+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -13,8 +13,8 @@
     {
      "name": "Patriots",
      "abbr": "NE",
-     "rec": "5-3",
-     "pct": 0.625
+     "rec": "5-4",
+     "pct": 0.5555556
     },
     {
      "name": "Jets",
@@ -71,8 +71,8 @@
     {
      "name": "Texans",
      "abbr": "HOU",
-     "rec": "2-5",
-     "pct": 0.2857143
+     "rec": "3-5",
+     "pct": 0.375
     },
     {
      "name": "Colts",
@@ -106,13 +106,13 @@
     {
      "name": "Raiders",
      "abbr": "LV",
-     "rec": "4-4",
-     "pct": 0.5
+     "rec": "4-5",
+     "pct": 0.44444445
     },
     {
      "name": "Chargers",
      "abbr": "LAC",
-     "rec": "0-7",
+     "rec": "0-8",
      "pct": 0.0
     }
    ]
@@ -170,8 +170,8 @@
     {
      "name": "Packers",
      "abbr": "GB",
-     "rec": "5-3",
-     "pct": 0.625
+     "rec": "6-3",
+     "pct": 0.6666667
     }
    ]
   },
@@ -210,8 +210,14 @@
     {
      "name": "49ers",
      "abbr": "SF",
-     "rec": "6-1",
-     "pct": 0.85714287
+     "rec": "7-1",
+     "pct": 0.875
+    },
+    {
+     "name": "Seahawks",
+     "abbr": "SEA",
+     "rec": "5-4",
+     "pct": 0.5555556
     },
     {
      "name": "Rams",
@@ -220,16 +226,10 @@
      "pct": 0.5555556
     },
     {
-     "name": "Seahawks",
-     "abbr": "SEA",
-     "rec": "4-4",
-     "pct": 0.5
-    },
-    {
      "name": "Cardinals",
      "abbr": "ARI",
-     "rec": "3-5",
-     "pct": 0.375
+     "rec": "3-6",
+     "pct": 0.33333334
     }
    ]
   }
