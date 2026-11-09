@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T04:39:26.017038+00:00",
+ "updated": "2026-11-09T06:08:29.366282+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -156,14 +156,14 @@
      "pct": 0.85714287
     },
     {
-     "name": "Lions",
-     "abbr": "DET",
-     "rec": "6-2",
-     "pct": 0.75
-    },
-    {
      "name": "Bears",
      "abbr": "CHI",
+     "rec": "7-2",
+     "pct": 0.7777778
+    },
+    {
+     "name": "Lions",
+     "abbr": "DET",
      "rec": "6-2",
      "pct": 0.75
     },
@@ -179,12 +179,6 @@
    "name": "NFC South",
    "teams": [
     {
-     "name": "Buccaneers",
-     "abbr": "TB",
-     "rec": "3-5",
-     "pct": 0.375
-    },
-    {
      "name": "Panthers",
      "abbr": "CAR",
      "rec": "3-5",
@@ -195,6 +189,12 @@
      "abbr": "NO",
      "rec": "3-5",
      "pct": 0.375
+    },
+    {
+     "name": "Buccaneers",
+     "abbr": "TB",
+     "rec": "3-6",
+     "pct": 0.33333334
     },
     {
      "name": "Falcons",
