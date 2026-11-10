@@ -1,77 +1,101 @@
 {
- "updated": "2026-11-10T18:53:42.246033+00:00",
+ "updated": "2026-11-10T19:55:22.982419+00:00",
  "items": [
   {
-   "title": "Gas prices slip below $4 a gallon for first time since July",
-   "link": "https://www.cbsnews.com/news/gas-prices-below-4-gallon-november/",
+   "title": "Live Updates: GOP picks leaders, Hegseth faces impeachment vote",
+   "link": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/",
    "source": "CBS News",
-   "ts": 1794336761.0
+   "ts": 1794340408.0
   },
   {
-   "title": "Home Depot early Black Friday kicks into overdrive: Up to 49% off Ryobi, Milwaukee and more",
-   "link": "https://nypost.com/shopping/home-depot-early-black-friday-sale-deals-2026/",
-   "source": "New York Post",
-   "ts": 1794336753.0
-  },
-  {
-   "title": "Illegal criminal alien\u2019s A-list celeb links revealed after ICE takedown exposed party-boy lifestyle with naked models",
-   "link": "https://nypost.com/2026/11/10/us-news/iranian-king-of-instagram-arrested-by-ice-hung-with-celebrities/",
-   "source": "New York Post",
-   "ts": 1794336697.0
-  },
-  {
-   "title": "The unsettling reality that the Nvidia spy scandal exposed \u2014 as honeypot traps skyrocket",
-   "link": "https://nypost.com/2026/11/10/us-news/the-unsettling-reality-that-the-nvidia-spy-scandal-exposed/",
-   "source": "New York Post",
-   "ts": 1794336694.0
-  },
-  {
-   "title": "Chiefs kicker Harrison Butker's Upright PAC seems abandoned, website redirects to Thai gambling site",
-   "link": "https://www.foxnews.com/outkick-sports/chiefs-kicker-harrison-butker-upright-pac-abandoned-website-redirects-thai-gambling-site",
-   "source": "Fox News",
-   "ts": 1794336385.0
-  },
-  {
-   "title": "Breaking down Hegseth's rebuke of impeachment calls",
-   "link": "https://www.cbsnews.com/video/breaking-down-hegseths-rebuke-of-impeachment-calls/",
+   "title": "Matthew Farwell convicted of killing Sandra Birchmore, unborn child",
+   "link": "https://www.cbsnews.com/news/matthew-farwell-trial-jury-verdict-sandra-birchmore/",
    "source": "CBS News",
-   "ts": 1794336257.0
+   "ts": 1794340371.0
   },
   {
-   "title": "Trump's first Iran war escalation post-midterm losses seeks to choke off Tehran\u2019s trade",
-   "link": "https://www.foxnews.com/politics/trumps-first-iran-war-escalation-post-midterm-losses-seeks-choke-off-tehrans-trade",
-   "source": "Fox News",
-   "ts": 1794336205.0
+   "title": "California county supervisor candidate leads race two months after he died",
+   "link": "https://nypost.com/2026/11/10/us-news/deceased-candidate-holds-lead-in-calaveras-district-5-race/",
+   "source": "New York Post",
+   "ts": 1794340258.0
   },
   {
-   "title": "US attempts new peace push at first Russia-Ukraine talks in nine months",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFJoc0ZJdUVhZlNDUWpsU1A0MVhlbWZXMGphaHktSWpjblNReDNXd3FXUVlnSzRVa2doWEtNd21vNHJXdm1vQU5qVnJJX1p6TlVVWi01Nkt0NzVrMkFXVkstdXdfVHJGaWtSeXlPdjdwZVJrTW9MQW9fV2NmS3RpT29EZU9mal9BVWNRWXJ6RGxWbnJzcGJ5aG5tM3JUM1BMUmNqdGhEVlZiRGRhTG0xMVI5ZWw0V2dwenJMT2NB?oc=5",
-   "source": "Reuters",
-   "ts": 1794336095.0
+   "title": "House Republicans consider issuing subpoena to Nvidia CEO Jensen Huang",
+   "link": "https://abcnews.com/Politics/house-republicans-issuing-subpoena-nvidia-ceo-jensen-huang/story?id=138022782",
+   "source": "ABC News",
+   "ts": 1794340216.0
   },
   {
-   "title": "Democrats rally behind GOP lawmaker's Hegseth impeachment push, signal more to come in January",
-   "link": "https://www.foxnews.com/politics/democrats-rally-behind-gop-lawmaker-hegseth-impeachment-push-signal-more-january",
-   "source": "Fox News",
-   "ts": 1794335726.0
+   "title": "What could push Yankees to speed up their offseason as major questions linger",
+   "link": "https://nypost.com/2026/11/10/sports/what-could-push-yankees-to-speed-up-their-offseason-as-major-questions-linger/",
+   "source": "New York Post",
+   "ts": 1794340187.0
   },
   {
-   "title": "Lindsay Clancy judge denies motion to dismiss charges, preserve juror records",
-   "link": "https://www.cbsnews.com/video/lindsay-clancy-judge-denies-motion-to-dismiss-charges-preserve-juror-records/",
+   "title": "Raiders trade Kirk Cousins to Vikings in blockbuster deal",
+   "link": "https://nypost.com/2026/11/10/sports/raiders-trade-kirk-cousins-vikings-in-blockbuster-deal/",
+   "source": "New York Post",
+   "ts": 1794340136.0
+  },
+  {
+   "title": "Mississippi Senate race leans Democratic; Colom holds narrow lead",
+   "link": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
    "source": "CBS News",
-   "ts": 1794335685.0
+   "ts": 1794340025.0
   },
   {
-   "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5",
-   "source": "Reuters",
-   "ts": 1794334623.0
+   "title": "Peltola widens narrow Alaska Senate lead over Sullivan as counting continues",
+   "link": "https://www.foxnews.com/politics/peltola-widens-narrow-alaska-senate-lead-sullivan-counting-continues",
+   "source": "Fox News",
+   "ts": 1794339984.0
   },
   {
-   "title": "Fed officials open door to a half-point hike after inflation beats expectations",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5",
+   "title": "No. 2 Duke faces No. 5 Michigan State in State Farm Champions Classic showdown tonight",
+   "link": "https://www.foxnews.com/outkick/no-2-duke-faces-no-5-michigan-state-state-farm-champions-classic-showdown-tonight",
+   "source": "Fox News",
+   "ts": 1794339857.0
+  },
+  {
+   "title": "Vikings acquire Kirk Cousins from Raiders who turn to Fernando Mendoza as their starting QB",
+   "link": "https://www.foxnews.com/outkick-sports/vikings-acquire-kirk-cousins-raiders-turn-fernando-mendoza-starting-qb",
+   "source": "Fox News",
+   "ts": 1794339827.0
+  },
+  {
+   "title": "House Republicans elect Jim Jordan as their minority leader for the next Congress",
+   "link": "https://abcnews.com/Politics/house-republicans-elect-jim-jordan-minority-leader-congress/story?id=138016685",
+   "source": "ABC News",
+   "ts": 1794339376.0
+  },
+  {
+   "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
    "source": "Reuters",
-   "ts": 1794334475.0
+   "ts": 1794339328.0
+  },
+  {
+   "title": "Senior U.S. Army soldier arrested in U.K. on suspicion of working with Russian intelligence",
+   "link": "https://www.nbcnews.com/world/united-kingdom/us-army-member-arrested-uk-suspicion-working-russian-intelligence-rcna608616",
+   "source": "NBC News",
+   "ts": 1794338965.0
+  },
+  {
+   "title": "House GOP report on Jeffrey Epstein rips Justice Department, urges further investigation",
+   "link": "https://www.nbcnews.com/politics/congress/house-republican-report-epstein-justice-department-investigation-trump-rcna608548",
+   "source": "NBC News",
+   "ts": 1794338460.0
+  },
+  {
+   "title": "Defiant Hegseth blasts impeachment 'farce' ahead of US House vote",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVFtR2hnZ2luVDdXU010VVB4UVpubVBIbUtJc0ZkQVkzLUkzaWxMRDJKaVVoTVNUbzRyRGQ4ZFh1dUZIUFhRVDRTVVNyZ3FWQkRIMm5UTVJOY2J0MDJ4bEFZNkh2MjdUZzRnRkVYbXBKSktfNElhWU42SEVRMktOd0JHYTQyU2N4ZUF2eWZicDRpVHBCTHRYUWFYOVRMT3lrVWNuQldMQkV0MVVGYXc?oc=5",
+   "source": "Reuters",
+   "ts": 1794338459.0
+  },
+  {
+   "title": "UK arrests US Army member suspected of helping Russia",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0hNNGY0T0RDZVBLMGZlOW5iREJOMXN2VEt6VGV4aEo4Y2JoejZOa3VJMXJicWRvaUtnNE9pTG5iMzNfbGlpQjZPRVc0SW9zV0xiYjJJLU4wTW9OY25oUE5uMkkwRkxtd2NlOUZrVnJlVUVPX1ozcDdmVlNwbEh2WWxqSmNvRWZvTDF4X25jWURpUzFHUFAxWkNvUUtYbnhuLWdKZFIxMWxLS2tfWUY4?oc=5",
+   "source": "Reuters",
+   "ts": 1794338231.0
   },
   {
    "title": "Defiant Hegseth blasts impeachment effort as 'political spectacle'",
@@ -84,30 +108,6 @@
    "link": "https://www.nbcnews.com/select/shopping/ugg-slipper-sale-deal-of-the-day-2026-rcna608552",
    "source": "NBC News",
    "ts": 1794332400.0
-  },
-  {
-   "title": "House panel rebukes DOJ's handling of Epstein case",
-   "link": "https://abcnews.com/US/house-oversight-panel-recommends-doj-renew-probe-jeffrey/story?id=138015976",
-   "source": "ABC News",
-   "ts": 1794330926.0
-  },
-  {
-   "title": "Helicopter makes emergency landing on New Jersey pier",
-   "link": "https://www.nbcnews.com/video/helicopter-makes-emergency-landing-on-new-jersey-pier-273204293610",
-   "source": "NBC News",
-   "ts": 1794329064.0
-  },
-  {
-   "title": "Supreme Court clears way for border wall construction in Big Bend area in Texas",
-   "link": "https://www.nbcnews.com/video/supreme-court-clears-way-for-border-wall-construction-in-big-bend-area-in-texas-273204293566",
-   "source": "NBC News",
-   "ts": 1794329038.0
-  },
-  {
-   "title": "WATCH:  What first responders want you to know about surviving rising waters",
-   "link": "https://abcnews.com/video/138007080/",
-   "source": "ABC News",
-   "ts": 1794327967.0
   }
  ]
 }
