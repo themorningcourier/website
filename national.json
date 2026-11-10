@@ -1,23 +1,29 @@
 {
- "updated": "2026-11-10T03:52:47.723812+00:00",
+ "updated": "2026-11-10T04:56:04.396962+00:00",
  "items": [
   {
-   "title": "Yankees could check in on second-base stars even with Anthony Volpe as incumbent",
-   "link": "https://nypost.com/2026/11/09/sports/yankees-could-check-in-on-second-base-stars-even-with-anthony-volpe-as-incumbent/",
+   "title": "Jalen Brunson: Knicks learned they\u2019re \u2018still resilient\u2019 after weathering uneven start",
+   "link": "https://nypost.com/2026/11/09/sports/jalen-brunson-knicks-learned-theyre-still-resilient-after-weathering-uneven-start/",
    "source": "New York Post",
-   "ts": 1794282517.0
+   "ts": 1794285851.0
   },
   {
-   "title": "Gavin Newsom\u2019s rambling word-salad excuse for saving heinous child killers from the ultimate punishment",
-   "link": "https://nypost.com/2026/11/09/opinion/gavin-newsoms-excuse-for-saving-child-killers-from-the-ultimate-punishment/",
+   "title": "There\u2019s a serious dearth of Yankees\u2019 biggest need in this free-agent class",
+   "link": "https://nypost.com/2026/11/09/sports/theres-a-dearth-of-yankees-biggest-need-in-this-free-agent-class/",
    "source": "New York Post",
-   "ts": 1794282485.0
+   "ts": 1794285369.0
   },
   {
-   "title": "Cockpit voice recorder capturing doomed Learjet crew\u2019s final moments recovered",
-   "link": "https://nypost.com/2026/11/09/us-news/cockpit-recorder-capturing-doomed-learjet-crews-final-moments-recovered/",
+   "title": "Kansas City mayor calls out Red Bulls over relocation of Gotham-Current NWSL playoff match",
+   "link": "https://nypost.com/2026/11/09/sports/kansas-city-mayor-calls-out-red-bulls-over-relocation-of-gotham-current-nwsl-playoff-match/",
    "source": "New York Post",
-   "ts": 1794282409.0
+   "ts": 1794284968.0
+  },
+  {
+   "title": "U.S. Air Force mom surprises family on turf at Vikings-Bills game following 473-day overseas deployment",
+   "link": "https://www.foxnews.com/outkick-sports/us-air-force-mom-surprises-family-turf-vikings-bills-game-following-473-day-overseas-deployment",
+   "source": "Fox News",
+   "ts": 1794282440.0
   },
   {
    "title": "Philly DSA decries backlash over boycott targeting Jewish eateries",
@@ -26,10 +32,16 @@
    "ts": 1794282240.0
   },
   {
+   "title": "Gold edges lower as focus shifts to US inflation data",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
+   "source": "Reuters",
+   "ts": 1794281529.0
+  },
+  {
    "title": "California voters reject billionaire wealth tax, CBS News projects",
    "link": "https://www.cbsnews.com/news/california-proposition-40-billionaire-wealth-tax-rejected-cbs-projects/",
    "source": "CBS News",
-   "ts": 1794280996.0
+   "ts": 1794280980.0
   },
   {
    "title": "Rams coach Sean McVay 'kicking himself' after Puka Nacua's knee injury on final play likely lands him on IR",
@@ -44,15 +56,15 @@
    "ts": 1794279627.0
   },
   {
-   "title": "Philadelphia Eagles hit rock bottom as coach Nick Sirianni denies flipping off home fans",
-   "link": "https://www.foxnews.com/outkick-sports/philadelphia-eagles-hit-rock-bottom-coach-nick-sirianni-denies-flipping-off-home-fans",
-   "source": "Fox News",
-   "ts": 1794279197.0
-  },
-  {
    "title": "Where the Iran war stands as Trump says he sees \"no reason\" to escalate attacks",
    "link": "https://www.cbsnews.com/video/where-the-iran-war-stands-as-trump-says-he-sees-no-reason-to-escalate-attacks/",
    "source": "CBS News",
+   "ts": 1794278520.0
+  },
+  {
+   "title": "China's trade surplus soars past $1 trillion as AI boom powers exports",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
+   "source": "Reuters",
    "ts": 1794278520.0
   },
   {
@@ -66,18 +78,6 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXZNeGJhdmxLQ0dvcnpvNno0TkZhYUNXQmpTdTlybWQxendtT29aUEFHSG1FM1N5TWlwYXRBdHphTWlqdE1CbUtFX1lJVmVZdnhXU3JjemtJdGNNMjNYWTFFbWRkQURJSXpBc1NsRW5yd1h3Y2hWc203TzdrYlpENFVwZDZKTk1sODU5Y25URlotN0JSbTVMWmI4U1ByZEdQWWZSMDBHUFFERkpMUG9vZGY3Wms?oc=5",
    "source": "Reuters",
    "ts": 1794277620.0
-  },
-  {
-   "title": "Asian stocks climb as sliding oil prices buoy sentiment",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA?oc=5",
-   "source": "Reuters",
-   "ts": 1794277380.0
-  },
-  {
-   "title": "Saudi-led coalition says it intercepts two Houthi missiles fired towards Riyadh",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEFMZHZXSnB4Q1RWMGxYRGJrYUFLdXBsc2ZGcmowbDhlNGVjMWxtOWt6bno5WWZnd2F2NVNncnJKdFM1bm1QU2RGQmNNOFBXampZcHpYLU1mdGxIRFJ4Z0drcHcyNHYtTmhVWEVlY0FldWp1d3ZoWlpoZXljR2w1b1lvb2pSR3owY2tnbUF2MDFYQXZlNUxsUUM1TGdaQ1lJZ3ZSUzl6cVp2czBFeTA3akRSS19vMTR3LW1qcGZGUExhbEJQTlpzSFdfNGc2dw?oc=5",
-   "source": "Reuters",
-   "ts": 1794275580.0
   },
   {
    "title": "Investigators recover the voice recorder from a jet crash in Florida that killed 9",

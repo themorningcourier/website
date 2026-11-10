@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T03:52:47.723812+00:00",
+ "updated": "2026-11-10T04:56:04.396962+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -7,8 +7,8 @@
     {
      "name": "Bills",
      "abbr": "BUF",
-     "rec": "6-1",
-     "pct": 0.85714287
+     "rec": "7-1",
+     "pct": 0.875
     },
     {
      "name": "Patriots",
@@ -150,12 +150,6 @@
    "name": "NFC North",
    "teams": [
     {
-     "name": "Vikings",
-     "abbr": "MIN",
-     "rec": "6-1",
-     "pct": 0.85714287
-    },
-    {
      "name": "Bears",
      "abbr": "CHI",
      "rec": "7-2",
@@ -164,6 +158,12 @@
     {
      "name": "Lions",
      "abbr": "DET",
+     "rec": "6-2",
+     "pct": 0.75
+    },
+    {
+     "name": "Vikings",
+     "abbr": "MIN",
      "rec": "6-2",
      "pct": 0.75
     },
