@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T09:25:50.577132+00:00",
+ "updated": "2026-11-10T10:00:51.141214+00:00",
  "season": "2026-27",
  "start": "2026-11-01",
  "end": "2027-04-01",
@@ -41,7 +41,7 @@
     "name": "Boston, MA"
    },
    "PWM": {
-    "date": "2026-11-08",
+    "date": "2026-11-09",
     "valid": true,
     "day": 0.0,
     "trace": false,
@@ -52,11 +52,11 @@
     "season_dep": -0.5,
     "depth": 0.0,
     "final": true,
-    "tmax": 51,
+    "tmax": 58,
     "tmax_normal": 51,
-    "tmin": 39,
+    "tmin": 40,
     "tmin_normal": 34,
-    "issued": "2026-11-09T07:42:00+00:00",
+    "issued": "2026-11-10T09:28:00+00:00",
     "name": "Portland, ME"
    },
    "CAR": {
@@ -79,22 +79,22 @@
     "name": "Caribou, ME"
    },
    "CON": {
-    "date": "2026-11-08",
+    "date": "2026-11-09",
     "valid": true,
     "day": 0.0,
     "trace": false,
     "month": 0.0,
-    "month_normal": 0.3,
+    "month_normal": 0.4,
     "season": 0.0,
-    "season_normal": 1.1,
-    "season_dep": -1.1,
+    "season_normal": 1.2,
+    "season_dep": -1.2,
     "depth": 0.0,
     "final": true,
-    "tmax": 55,
-    "tmax_normal": 52,
-    "tmin": 41,
+    "tmax": 56,
+    "tmax_normal": 51,
+    "tmin": 35,
     "tmin_normal": 31,
-    "issued": "2026-11-09T07:42:00+00:00",
+    "issued": "2026-11-10T09:28:00+00:00",
     "name": "Concord, NH"
    },
    "ALB": {
@@ -274,22 +274,22 @@
     "name": "Salt Lake City, UT"
    },
    "ANC": {
-    "date": "2026-11-08",
+    "date": "2026-11-09",
     "valid": true,
     "day": 0.0,
     "trace": false,
     "month": 0.0,
-    "month_normal": 2.7,
+    "month_normal": 3.1,
     "season": 0.9,
-    "season_normal": 8.7,
-    "season_dep": -7.8,
+    "season_normal": 9.1,
+    "season_dep": -8.2,
     "depth": 0.0,
     "final": true,
-    "tmax": 36,
-    "tmax_normal": 31,
-    "tmin": 23,
+    "tmax": 37,
+    "tmax_normal": 30,
+    "tmin": 25,
     "tmin_normal": 20,
-    "issued": "2026-11-09T09:38:00+00:00",
+    "issued": "2026-11-10T09:36:00+00:00",
     "name": "Anchorage, AK"
    }
   },
@@ -329,15 +329,6 @@
     "inches": 1.2,
     "hours": 24.0,
     "time": "2026-11-08 16:00"
-   },
-   {
-    "id": "APNA2",
-    "name": "Alpine Airstrip",
-    "state": "AK",
-    "elev_ft": "36",
-    "inches": 1.0,
-    "hours": 24.0,
-    "time": "2026-11-09 02:00"
    },
    {
     "id": "ENEA2",
@@ -383,6 +374,15 @@
     "inches": 0.3,
     "hours": 24.0,
     "time": "2026-11-08 08:45"
+   },
+   {
+    "id": "UBW",
+    "name": "Kuparuk,Ak",
+    "state": "AK",
+    "elev_ft": "72",
+    "inches": 0.3,
+    "hours": 24.0,
+    "time": "2026-11-09 03:00"
    }
   ],
   "home": {
@@ -5341,7 +5341,7 @@
      "name": "Boston, MA"
     },
     "PWM": {
-     "date": "2026-11-08",
+     "date": "2026-11-09",
      "valid": true,
      "day": 0.0,
      "trace": false,
@@ -5352,11 +5352,11 @@
      "season_dep": -0.5,
      "depth": 0.0,
      "final": true,
-     "tmax": 51,
+     "tmax": 58,
      "tmax_normal": 51,
-     "tmin": 39,
+     "tmin": 40,
      "tmin_normal": 34,
-     "issued": "2026-11-09T07:42:00+00:00",
+     "issued": "2026-11-10T09:28:00+00:00",
      "name": "Portland, ME"
     },
     "CAR": {
@@ -5379,22 +5379,22 @@
      "name": "Caribou, ME"
     },
     "CON": {
-     "date": "2026-11-08",
+     "date": "2026-11-09",
      "valid": true,
      "day": 0.0,
      "trace": false,
      "month": 0.0,
-     "month_normal": 0.3,
+     "month_normal": 0.4,
      "season": 0.0,
-     "season_normal": 1.1,
-     "season_dep": -1.1,
+     "season_normal": 1.2,
+     "season_dep": -1.2,
      "depth": 0.0,
      "final": true,
-     "tmax": 55,
-     "tmax_normal": 52,
-     "tmin": 41,
+     "tmax": 56,
+     "tmax_normal": 51,
+     "tmin": 35,
      "tmin_normal": 31,
-     "issued": "2026-11-09T07:42:00+00:00",
+     "issued": "2026-11-10T09:28:00+00:00",
      "name": "Concord, NH"
     },
     "ALB": {
@@ -5574,22 +5574,22 @@
      "name": "Salt Lake City, UT"
     },
     "ANC": {
-     "date": "2026-11-08",
+     "date": "2026-11-09",
      "valid": true,
      "day": 0.0,
      "trace": false,
      "month": 0.0,
-     "month_normal": 2.7,
+     "month_normal": 3.1,
      "season": 0.9,
-     "season_normal": 8.7,
-     "season_dep": -7.8,
+     "season_normal": 9.1,
+     "season_dep": -8.2,
      "depth": 0.0,
      "final": true,
-     "tmax": 36,
-     "tmax_normal": 31,
-     "tmin": 23,
+     "tmax": 37,
+     "tmax_normal": 30,
+     "tmin": 25,
      "tmin_normal": 20,
-     "issued": "2026-11-09T09:38:00+00:00",
+     "issued": "2026-11-10T09:36:00+00:00",
      "name": "Anchorage, AK"
     }
    },
@@ -5629,15 +5629,6 @@
      "inches": 1.2,
      "hours": 24.0,
      "time": "2026-11-08 16:00"
-    },
-    {
-     "id": "APNA2",
-     "name": "Alpine Airstrip",
-     "state": "AK",
-     "elev_ft": "36",
-     "inches": 1.0,
-     "hours": 24.0,
-     "time": "2026-11-09 02:00"
     },
     {
      "id": "ENEA2",
@@ -5683,6 +5674,15 @@
      "inches": 0.3,
      "hours": 24.0,
      "time": "2026-11-08 08:45"
+    },
+    {
+     "id": "UBW",
+     "name": "Kuparuk,Ak",
+     "state": "AK",
+     "elev_ft": "72",
+     "inches": 0.3,
+     "hours": 24.0,
+     "time": "2026-11-09 03:00"
     }
    ],
    "home": {
