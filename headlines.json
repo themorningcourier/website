@@ -1,17 +1,41 @@
 {
- "updated": "2026-11-09T23:19:05.772796+00:00",
+ "updated": "2026-11-10T00:11:28.903187+00:00",
  "items": [
+  {
+   "title": "FBI investigates 'suspected homicide' aboard cruise ship out of Texas",
+   "link": "https://www.mynbc5.com/article/texas-cruise-ship-suspected-homicide-fbi/74378797",
+   "source": "WPTZ",
+   "ts": 1794268860.0
+  },
+  {
+   "title": "Border patrol provides airplane crew as search for missing boater on Lake Champlain continues",
+   "link": "https://www.mynbc5.com/article/situation-lake-champlain/74365968",
+   "source": "WPTZ",
+   "ts": 1794268620.0
+  },
+  {
+   "title": "Mount Mansfield breaks record for latest first inch of snow depth",
+   "link": "https://www.mynbc5.com/article/mount-mansfield-breaks-record-for-latest-first-inch-of-snow-depth-11-09-26/74379921",
+   "source": "WPTZ",
+   "ts": 1794268320.0
+  },
+  {
+   "title": "Vermont confirms Orleans County measles cases",
+   "link": "https://www.wcax.com/2026/11/09/vermont-confirms-essex-county-measles-cases/",
+   "source": "WCAX",
+   "ts": 1794268277.0
+  },
+  {
+   "title": "Measles cases found in Orleans County, health officials warn",
+   "link": "https://vtdigger.org/2026/11/09/measles-cases-found-in-orleans-county-health-officials-warn/",
+   "source": "VTDigger",
+   "ts": 1794266424.0
+  },
   {
    "title": "Ring camera video shows women making racist gestures outside Ole Miss student\u2019s apartment",
    "link": "https://www.wcax.com/2026/11/09/ring-camera-video-shows-women-making-racist-gestures-outside-ole-miss-students-apartment/",
    "source": "WCAX",
    "ts": 1794266012.0
-  },
-  {
-   "title": "Vermont confirms Essex County measles cases",
-   "link": "https://www.wcax.com/2026/11/09/vermont-confirms-essex-county-measles-cases/",
-   "source": "WCAX",
-   "ts": 1794265547.0
   },
   {
    "title": "Montpelier has its long-awaited housing blueprint for Country Club Road",
@@ -20,28 +44,10 @@
    "ts": 1794265367.0
   },
   {
-   "title": "Measles cases confirmed in Orleans County; North Country Hospital to screen visitors",
-   "link": "https://www.mynbc5.com/article/north-country-hospital-to-screen-guests-for-measles/74376492",
-   "source": "WPTZ",
-   "ts": 1794264840.0
-  },
-  {
    "title": "Burlington mayor, governor to meet on public safety",
    "link": "https://www.wcax.com/2026/11/09/burlington-mayor-governor-meet-public-safety/",
    "source": "WCAX",
    "ts": 1794264741.0
-  },
-  {
-   "title": "North Country community sounds alarm over climate change, calls on DEC for public hearings",
-   "link": "https://www.mynbc5.com/article/ny-town-sounds-alarm-over-climate-change/74357224",
-   "source": "WPTZ",
-   "ts": 1794264360.0
-  },
-  {
-   "title": "AI-generated political ads spiked in 2026, but campaigns still prioritized other means of messaging",
-   "link": "https://www.mynbc5.com/article/ai-political-ads-2026-midterms-fact-check/74380236",
-   "source": "WPTZ",
-   "ts": 1794263700.0
   },
   {
    "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
@@ -54,12 +60,6 @@
    "link": "https://vtdigger.org/2026/11/09/air-force-veteran-takes-a-ride-of-a-lifetime/",
    "source": "VTDigger",
    "ts": 1794263382.0
-  },
-  {
-   "title": "Vermont\u2019s schools are not the problem. Property tax is.",
-   "link": "https://vtdigger.org/2026/11/09/opinion-vermonts-schools-are-not-the-problem-property-tax-is/",
-   "source": "VTDigger",
-   "ts": 1794262229.0
   },
   {
    "title": "Supreme Court says border wall construction can continue in west Texas",
