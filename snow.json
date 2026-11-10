@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T10:00:51.141214+00:00",
+ "updated": "2026-11-10T10:28:43.041530+00:00",
  "season": "2026-27",
  "start": "2026-11-01",
  "end": "2027-04-01",
@@ -331,6 +331,15 @@
     "time": "2026-11-08 16:00"
    },
    {
+    "id": "APNA2",
+    "name": "Alpine Airstrip",
+    "state": "AK",
+    "elev_ft": "36",
+    "inches": 1.0,
+    "hours": 24.0,
+    "time": "2026-11-09 02:00"
+   },
+   {
     "id": "ENEA2",
     "name": "Ester 5Ne",
     "state": "AK",
@@ -374,15 +383,6 @@
     "inches": 0.3,
     "hours": 24.0,
     "time": "2026-11-08 08:45"
-   },
-   {
-    "id": "UBW",
-    "name": "Kuparuk,Ak",
-    "state": "AK",
-    "elev_ft": "72",
-    "inches": 0.3,
-    "hours": 24.0,
-    "time": "2026-11-09 03:00"
    }
   ],
   "home": {
@@ -5631,6 +5631,15 @@
      "time": "2026-11-08 16:00"
     },
     {
+     "id": "APNA2",
+     "name": "Alpine Airstrip",
+     "state": "AK",
+     "elev_ft": "36",
+     "inches": 1.0,
+     "hours": 24.0,
+     "time": "2026-11-09 02:00"
+    },
+    {
      "id": "ENEA2",
      "name": "Ester 5Ne",
      "state": "AK",
@@ -5674,15 +5683,6 @@
      "inches": 0.3,
      "hours": 24.0,
      "time": "2026-11-08 08:45"
-    },
-    {
-     "id": "UBW",
-     "name": "Kuparuk,Ak",
-     "state": "AK",
-     "elev_ft": "72",
-     "inches": 0.3,
-     "hours": 24.0,
-     "time": "2026-11-09 03:00"
     }
    ],
    "home": {
