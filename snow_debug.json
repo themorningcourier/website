@@ -1,97 +1,97 @@
 {
- "updated": "2026-11-09T10:24:58.343706+00:00",
+ "updated": "2026-11-10T08:31:35.443890+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "HDLA2",
-     "name": "Harding Lake 1S",
+     "id": "AYTA2",
+     "name": "Alyeska Weather Top",
      "state": "AK",
-     "elev_ft": "919",
-     "inches": 2.5,
+     "elev_ft": "2707",
+     "inches": 3.0,
      "hours": 24.0,
-     "time": "2026-11-07 17:00"
+     "time": "2026-11-08 15:00"
     },
     {
-     "id": "GLNA2",
-     "name": "Glennallen Kcam",
-     "state": "AK",
-     "elev_ft": "1381",
-     "inches": 1.4,
+     "id": "AVLV1",
+     "name": "Averill",
+     "state": "VT",
+     "elev_ft": "1703",
+     "inches": 1.5,
      "hours": 24.0,
-     "time": "2026-11-07 18:00"
-    },
-    {
-     "id": "EGLA2",
-     "name": "Eagle",
-     "state": "AK",
-     "elev_ft": "892",
-     "inches": 1.2,
-     "hours": 24.0,
-     "time": "2026-11-07 18:00"
-    },
-    {
-     "id": "CQNA2",
-     "name": "Chicken",
-     "state": "AK",
-     "elev_ft": "1781",
-     "inches": 1.0,
-     "hours": 24.0,
-     "time": "2026-11-07 17:00"
-    },
-    {
-     "id": "HERM4",
-     "name": "Herman,Mi",
-     "state": "MI",
-     "elev_ft": "1837",
-     "inches": 1.0,
-     "hours": 24.0,
-     "time": "2026-11-07 13:00"
-    },
-    {
-     "id": "TAL",
-     "name": "Ralph M Calhoun Memorial Arpt",
-     "state": "",
-     "elev_ft": "207",
-     "inches": 1.0,
-     "hours": 24.0,
-     "time": "2026-11-07 15:00"
-    },
-    {
-     "id": "CHSA2",
-     "name": "Circle Hot Springs",
-     "state": "AK",
-     "elev_ft": "853",
-     "inches": 0.9,
-     "hours": 24.0,
-     "time": "2026-11-07 17:00"
-    },
-    {
-     "id": "TOAA2",
-     "name": "Tok #2",
-     "state": "AK",
-     "elev_ft": "1660",
-     "inches": 1.4,
-     "hours": 48.0,
-     "time": "2026-11-08 02:30"
+     "time": "2026-11-08 22:00"
     },
     {
      "id": "BTT",
      "name": "Bettles Arpt",
      "state": "",
      "elev_ft": "633",
-     "inches": 0.7,
+     "inches": 1.4,
      "hours": 24.0,
-     "time": "2026-11-07 08:45"
+     "time": "2026-11-08 08:45"
     },
     {
-     "id": "AURA2",
-     "name": "Aurora",
+     "id": "WSMA2",
+     "name": "Wiseman",
      "state": "AK",
-     "elev_ft": "440",
+     "elev_ft": "1181",
+     "inches": 1.2,
+     "hours": 24.0,
+     "time": "2026-11-08 16:00"
+    },
+    {
+     "id": "APNA2",
+     "name": "Alpine Airstrip",
+     "state": "AK",
+     "elev_ft": "36",
+     "inches": 1.0,
+     "hours": 24.0,
+     "time": "2026-11-09 02:00"
+    },
+    {
+     "id": "ENEA2",
+     "name": "Ester 5Ne",
+     "state": "AK",
+     "elev_ft": "584",
+     "inches": 0.7,
+     "hours": 24.0,
+     "time": "2026-11-08 07:00"
+    },
+    {
+     "id": "EFLA2",
+     "name": "East Farmers Loop",
+     "state": "AK",
+     "elev_ft": "696",
      "inches": 0.6,
      "hours": 24.0,
-     "time": "2026-11-08 06:00"
+     "time": "2026-11-08 06:50"
+    },
+    {
+     "id": "HCSW4",
+     "name": "Hoback River Canyon Snow Study",
+     "state": "WY",
+     "elev_ft": "6168",
+     "inches": 0.5,
+     "hours": 24.0,
+     "time": "2026-11-08 21:00"
+    },
+    {
+     "id": "EGLA2",
+     "name": "Eagle",
+     "state": "AK",
+     "elev_ft": "892",
+     "inches": 0.4,
+     "hours": 24.0,
+     "time": "2026-11-08 18:00"
+    },
+    {
+     "id": "FAOA2",
+     "name": "College Observatory",
+     "state": "AK",
+     "elev_ft": "617",
+     "inches": 0.3,
+     "hours": 24.0,
+     "time": "2026-11-08 08:45"
     }
    ]
   },
@@ -113,111 +113,111 @@
      ""
     ],
     [
-     "HDLA2",
-     "2026-11-07 17:00",
-     "2.500",
+     "AYTA2",
+     "2026-11-08 15:00",
+     "3.000",
      "24.000",
-     "919",
-     "HARDING LAKE 1S"
+     "2707",
+     "ALYESKA WEATHER TOP"
     ],
     [
-     "GLNA2",
-     "2026-11-07 18:00",
-     "1.400",
+     "AVLV1",
+     "2026-11-08 22:00",
+     "1.500",
      "24.000",
-     "1381",
-     "GLENNALLEN KCAM"
-    ],
-    [
-     "EGLA2",
-     "2026-11-07 18:00",
-     "1.200",
-     "24.000",
-     "892",
-     "EAGLE"
-    ],
-    [
-     "CQNA2",
-     "2026-11-07 17:00",
-     "1.000",
-     "24.000",
-     "1781",
-     "CHICKEN"
-    ],
-    [
-     "HERM4",
-     "2026-11-07 13:00",
-     "1.000",
-     "24.000",
-     "1837",
-     "HERMAN,MI"
-    ],
-    [
-     "TAL",
-     "2026-11-07 15:00",
-     "1.000",
-     "24.000",
-     "207",
-     "RALPH M CALHOUN MEMORIAL ARPT"
-    ],
-    [
-     "CHSA2",
-     "2026-11-07 17:00",
-     "0.900",
-     "24.000",
-     "853",
-     "CIRCLE HOT SPRINGS"
-    ],
-    [
-     "TOAA2",
-     "2026-11-08 02:30",
-     "1.400",
-     "48.000",
-     "1660",
-     "TOK #2"
+     "1703",
+     "AVERILL"
     ],
     [
      "BTT",
-     "2026-11-07 08:45",
-     "0.700",
+     "2026-11-08 08:45",
+     "1.400",
      "24.000",
      "633",
      "BETTLES ARPT"
     ],
     [
-     "AURA2",
-     "2026-11-08 06:00",
-     "0.600",
+     "WSMA2",
+     "2026-11-08 16:00",
+     "1.200",
      "24.000",
-     "440",
-     "AURORA"
+     "1181",
+     "WISEMAN"
     ],
     [
-     "GSCA2",
-     "2026-11-07 15:00",
-     "0.600",
+     "APNA2",
+     "2026-11-09 02:00",
+     "1.000",
      "24.000",
-     "577",
-     "GOLDSTREAM CREEK"
+     "36",
+     "ALPINE AIRSTRIP"
     ],
     [
-     "AK-FN-16",
-     "2026-11-07 18:00",
-     "0.500",
+     "ENEA2",
+     "2026-11-08 07:00",
+     "0.700",
      "24.000",
-     "436",
-     "FAIRBANKS 4.4 W, AK"
+     "584",
+     "ESTER 5NE"
+    ],
+    [
+     "EFLA2",
+     "2026-11-08 06:50",
+     "0.600",
+     "24.000",
+     "696",
+     "EAST FARMERS LOOP"
     ],
     [
      "HCSW4",
-     "2026-11-08 01:15",
+     "2026-11-08 21:00",
      "0.500",
      "24.000",
      "6168",
      "HOBACK RIVER CANYON SNOW STUDY"
+    ],
+    [
+     "EGLA2",
+     "2026-11-08 18:00",
+     "0.400",
+     "24.000",
+     "892",
+     "EAGLE"
+    ],
+    [
+     "FAOA2",
+     "2026-11-08 08:45",
+     "0.300",
+     "24.000",
+     "617",
+     "COLLEGE OBSERVATORY"
+    ],
+    [
+     "UBW",
+     "2026-11-09 03:00",
+     "0.300",
+     "24.000",
+     "72",
+     "KUPARUK,AK"
+    ],
+    [
+     "AK-AB-38",
+     "2026-11-08 17:00",
+     "0.200",
+     "24.000",
+     "2146",
+     "EAGLE RIVER 7.8 SE, AK"
+    ],
+    [
+     "AK-BC-4",
+     "2026-11-08 20:45",
+     "0.200",
+     "24.000",
+     "203",
+     "SLEETMUTE 1.4 SSE, AK"
     ]
    ],
-   "count": 10670
+   "count": 12261
   }
  ]
 }
