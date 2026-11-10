@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-10T09:29:22.999395+00:00",
+ "updated": "2026-11-10T10:31:12.975369+00:00",
  "items": [
+  {
+   "title": "Road reopens following standoff in northern Vermont",
+   "link": "https://www.mynbc5.com/article/craftsbury-vermont-police-presence/74378224",
+   "source": "WPTZ",
+   "ts": 1794305640.0
+  },
+  {
+   "title": "The US to become first nation to fully shun a UN Human Rights Council review",
+   "link": "https://www.mynbc5.com/article/us-first-nation-shun-un-human-rights-council-review/74384155",
+   "source": "WPTZ",
+   "ts": 1794305160.0
+  },
+  {
+   "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
+   "link": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
+   "source": "NPR",
+   "ts": 1794304860.0
+  },
+  {
+   "title": "Is honesty always the best policy? When to speak up \u2014 or stay silent",
+   "link": "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent",
+   "source": "NPR",
+   "ts": 1794304800.0
+  },
+  {
+   "title": "How word of mouth is helping an Amish community's fight against measles",
+   "link": "https://www.npr.org/2026/11/10/nx-s1-6021511/pennsylvania-amish-measles-vaccine-trust",
+   "source": "NPR",
+   "ts": 1794304800.0
+  },
+  {
+   "title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+   "link": "https://www.mynbc5.com/article/us-talks-end-russia-ukraine-war-abu-dhabi/74383806",
+   "source": "WPTZ",
+   "ts": 1794304320.0
+  },
+  {
+   "title": "Several rounds of clouds and mixed showers",
+   "link": "https://www.wcax.com/2026/11/10/several-rounds-clouds-mixed-showers/",
+   "source": "WCAX",
+   "ts": 1794303451.0
+  },
   {
    "title": "Good Samaritan breaks window to free 3-year-old girl from car sinking in pond",
    "link": "https://www.wcax.com/2026/11/10/good-samaritan-breaks-window-free-3-year-old-girl-car-sinking-pond/",
@@ -12,36 +54,6 @@
    "link": "https://www.wcax.com/2026/11/10/woman-runs-onto-high-school-football-field-during-game-strangles-player-police-say/",
    "source": "WCAX",
    "ts": 1794289140.0
-  },
-  {
-   "title": "Road reopens following heavy police presence in Craftsbury, Vermont",
-   "link": "https://www.mynbc5.com/article/craftsbury-vermont-police-presence/74378224",
-   "source": "WPTZ",
-   "ts": 1794288180.0
-  },
-  {
-   "title": "DOJ sues Lyft over alleged disability discrimination",
-   "link": "https://www.mynbc5.com/article/doj-sues-lyft-disability-discrimination/74382631",
-   "source": "WPTZ",
-   "ts": 1794286740.0
-  },
-  {
-   "title": "NBC5 Play of the Week: November 9 through 12",
-   "link": "https://www.mynbc5.com/article/nbc5-play-of-the-week-november-9-through-12/74382688",
-   "source": "WPTZ",
-   "ts": 1794286380.0
-  },
-  {
-   "title": "St. Mike\u2019s men\u2019s hoops opens regular season with dominant win",
-   "link": "https://www.wcax.com/2026/11/10/st-mikes-mens-hoops-opens-regular-season-with-dominant-win/",
-   "source": "WCAX",
-   "ts": 1794286024.0
-  },
-  {
-   "title": "California voters defeat billionaire tax proposal that divided Democrats",
-   "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
-   "source": "NPR",
-   "ts": 1794279939.0
   },
   {
    "title": "Measles cases found in Orleans County, health officials warn",
@@ -56,22 +68,10 @@
    "ts": 1794265367.0
   },
   {
-   "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-   "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-   "source": "NPR",
-   "ts": 1794263449.0
-  },
-  {
    "title": "Air Force veteran takes a ride of a lifetime",
    "link": "https://vtdigger.org/2026/11/09/air-force-veteran-takes-a-ride-of-a-lifetime/",
    "source": "VTDigger",
    "ts": 1794263382.0
-  },
-  {
-   "title": "Supreme Court says border wall construction can continue in west Texas",
-   "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
-   "source": "NPR",
-   "ts": 1794260859.0
   }
  ]
 }
