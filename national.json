@@ -1,11 +1,53 @@
 {
- "updated": "2026-11-10T02:52:25.150743+00:00",
+ "updated": "2026-11-10T03:52:47.723812+00:00",
  "items": [
   {
-   "title": "Lakers get a major boost from an unexpected source in sixth straight victory",
-   "link": "https://nypost.com/2026/11/09/sports/luka-doncic-stuffs-stat-sheet-as-lakers-beat-hawks-for-sixth-straight-win/",
+   "title": "Yankees could check in on second-base stars even with Anthony Volpe as incumbent",
+   "link": "https://nypost.com/2026/11/09/sports/yankees-could-check-in-on-second-base-stars-even-with-anthony-volpe-as-incumbent/",
    "source": "New York Post",
-   "ts": 1794278922.0
+   "ts": 1794282517.0
+  },
+  {
+   "title": "Gavin Newsom\u2019s rambling word-salad excuse for saving heinous child killers from the ultimate punishment",
+   "link": "https://nypost.com/2026/11/09/opinion/gavin-newsoms-excuse-for-saving-child-killers-from-the-ultimate-punishment/",
+   "source": "New York Post",
+   "ts": 1794282485.0
+  },
+  {
+   "title": "Cockpit voice recorder capturing doomed Learjet crew\u2019s final moments recovered",
+   "link": "https://nypost.com/2026/11/09/us-news/cockpit-recorder-capturing-doomed-learjet-crews-final-moments-recovered/",
+   "source": "New York Post",
+   "ts": 1794282409.0
+  },
+  {
+   "title": "Philly DSA decries backlash over boycott targeting Jewish eateries",
+   "link": "https://www.foxnews.com/media/philly-dsa-decries-backlash-over-boycott-targeting-jewish-eateries",
+   "source": "Fox News",
+   "ts": 1794282240.0
+  },
+  {
+   "title": "California voters reject billionaire wealth tax, CBS News projects",
+   "link": "https://www.cbsnews.com/news/california-proposition-40-billionaire-wealth-tax-rejected-cbs-projects/",
+   "source": "CBS News",
+   "ts": 1794280996.0
+  },
+  {
+   "title": "Rams coach Sean McVay 'kicking himself' after Puka Nacua's knee injury on final play likely lands him on IR",
+   "link": "https://www.foxnews.com/outkick-sports/rams-coach-sean-mcvay-kicking-himself-puka-nacua-knee-injury-final-play-likely-lands-ir",
+   "source": "Fox News",
+   "ts": 1794280568.0
+  },
+  {
+   "title": "These House and Senate midterm races don't have winners yet",
+   "link": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
+   "source": "CBS News",
+   "ts": 1794279627.0
+  },
+  {
+   "title": "Philadelphia Eagles hit rock bottom as coach Nick Sirianni denies flipping off home fans",
+   "link": "https://www.foxnews.com/outkick-sports/philadelphia-eagles-hit-rock-bottom-coach-nick-sirianni-denies-flipping-off-home-fans",
+   "source": "Fox News",
+   "ts": 1794279197.0
   },
   {
    "title": "Where the Iran war stands as Trump says he sees \"no reason\" to escalate attacks",
@@ -14,58 +56,28 @@
    "ts": 1794278520.0
   },
   {
-   "title": "Matthew Schaefer-Macklin Celebrini should be next big NHL rivalry",
-   "link": "https://nypost.com/2026/11/09/sports/matthew-schaefer-macklin-celebrini-should-be-next-big-nhl-rivalry/",
-   "source": "New York Post",
-   "ts": 1794278282.0
-  },
-  {
    "title": "California voters reject new tax on billionaires in a blow to the left",
    "link": "https://www.nbcnews.com/politics/2026-election/california-reject-billionaire-tax-ballot-measure-prop-40-rcna603382",
    "source": "NBC News",
    "ts": 1794278169.0
   },
   {
-   "title": "Trump defends Hegseth as Massie moves for impeachment",
-   "link": "https://www.cbsnews.com/video/trump-defends-hegseth-as-massie-moves-for-impeachment/",
-   "source": "CBS News",
-   "ts": 1794278160.0
-  },
-  {
-   "title": "College Football Playoff committee executive admits they don't care fans are against 24-team playoff",
-   "link": "https://www.foxnews.com/outkick-sports/college-football-playoff-committee-executive-admits-dont-care-fans-against-24-team-playoff",
-   "source": "Fox News",
-   "ts": 1794277771.0
-  },
-  {
-   "title": "Ex-NYPD detective among 4 busted in massive NYC drug ring",
-   "link": "https://nypost.com/2026/11/09/us-news/ex-nypd-detective-among-4-busted-in-massive-nyc-drug-ring/",
-   "source": "New York Post",
-   "ts": 1794277534.0
-  },
-  {
-   "title": "Rep.-elect Scott Wiener says Trump is \"not connected to reality\" on Iran, economy, immigration",
-   "link": "https://www.cbsnews.com/video/rep-elect-scott-wiener-says-trump-not-connected-reality-iran-immigration/",
-   "source": "CBS News",
-   "ts": 1794277423.0
-  },
-  {
-   "title": "NTSB recovers cockpit voice recorder from Learjet crash site in Florida",
-   "link": "https://www.foxnews.com/us/ntsb-recovers-cockpit-voice-recorder-learjet-crash-site-florida",
-   "source": "Fox News",
-   "ts": 1794276529.0
-  },
-  {
-   "title": "Democrats could create 'angry' 'single-issue' voters in 2028 if they remove school choice, CEO warns",
-   "link": "https://www.foxnews.com/media/democrats-could-create-angry-single-issue-voters-2028-remove-school-choice-ceo-warns",
-   "source": "Fox News",
-   "ts": 1794276342.0
-  },
-  {
-   "title": "EXCLUSIVE: Anthropic aims to raise up to $69.3 billion in blockbuster IPO",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5",
+   "title": "Taiwan says China is conducting 'area denial' drills in Western Pacific",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXZNeGJhdmxLQ0dvcnpvNno0TkZhYUNXQmpTdTlybWQxendtT29aUEFHSG1FM1N5TWlwYXRBdHphTWlqdE1CbUtFX1lJVmVZdnhXU3JjemtJdGNNMjNYWTFFbWRkQURJSXpBc1NsRW5yd1h3Y2hWc203TzdrYlpENFVwZDZKTk1sODU5Y25URlotN0JSbTVMWmI4U1ByZEdQWWZSMDBHUFFERkpMUG9vZGY3Wms?oc=5",
    "source": "Reuters",
-   "ts": 1794273720.0
+   "ts": 1794277620.0
+  },
+  {
+   "title": "Asian stocks climb as sliding oil prices buoy sentiment",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CVDNSVXJpWURQMkF1dUt1amw1WkxILXhVSjZyZkQxdGlBdWZvT0tqclhabXRKZC1xNlRIRmJSdkhINDVsYXlRdk9paVRCa085WWVKRTJFcm9CZWo2VzNaYU5lQ2RXbDdqb3QxdkY4SDFRb2JMVE8yemVJMA?oc=5",
+   "source": "Reuters",
+   "ts": 1794277380.0
+  },
+  {
+   "title": "Saudi-led coalition says it intercepts two Houthi missiles fired towards Riyadh",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEFMZHZXSnB4Q1RWMGxYRGJrYUFLdXBsc2ZGcmowbDhlNGVjMWxtOWt6bno5WWZnd2F2NVNncnJKdFM1bm1QU2RGQmNNOFBXampZcHpYLU1mdGxIRFJ4Z0drcHcyNHYtTmhVWEVlY0FldWp1d3ZoWlpoZXljR2w1b1lvb2pSR3owY2tnbUF2MDFYQXZlNUxsUUM1TGdaQ1lJZ3ZSUzl6cVp2czBFeTA3akRSS19vMTR3LW1qcGZGUExhbEJQTlpzSFdfNGc2dw?oc=5",
+   "source": "Reuters",
+   "ts": 1794275580.0
   },
   {
    "title": "Investigators recover the voice recorder from a jet crash in Florida that killed 9",
@@ -96,18 +108,6 @@
    "link": "https://www.nbcnews.com/politics/white-house/trump-defends-jensen-huang-pete-hegseth-press-briefing-ufc-dana-white-rcna608446",
    "source": "NBC News",
    "ts": 1794269646.0
-  },
-  {
-   "title": "Exxon signs preliminary agreement with Venezuela to evaluate oil opportunities",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0NYVUk4a3pTQzdDU0xDWkNNQjQxaEh4QjIxQTdBaVdXWkJZM2ZEX1E2bzFFcnE1UmNheEJJV25RazNfeFBzd08zNmdCSmkyal9yLXZ1S1BiNnNZVmVkTC1WYXBTNklGdlhTdjJVV1JwMjNmdUxodFFGbXo4dk1LbDVnMGRlQ0VPNmljblVqNEFxYjZvV3Bsb0lVSkJjYzFSOWZPY2trU0dsbVo3dmdjNXA1cnNjYUNyazlLWHduSmVWWXVnNmc?oc=5",
-   "source": "Reuters",
-   "ts": 1794268620.0
-  },
-  {
-   "title": "Thousands participate in silent march after Krakow mass shooting that shocked the nation",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdWw0eFdQQ241MXc4cEJodjl6UWtSVFNSaEdUeFEtSjB5b3ZYRVh1aGRJR2lyeGtYM09sejhMQzF1TnBwWjcteHUtUlVwSTZ6SFFEN3M4cFlLU3NaMkZYMlZoWFJmRE1KODBVRlh3TmNQNklvY2p3UVEtc1VrU0FzLWlLeHpDenVuN1dkSGMxb2QxRXR2dzV5dWhRUE1lQVR6UU14aWJZVml6bi1sT2hLQU42VENxUEVGQnhQSU82N04?oc=5",
-   "source": "Reuters",
-   "ts": 1794268580.0
   }
  ]
 }

@@ -1,17 +1,35 @@
 {
- "updated": "2026-11-10T02:52:25.150743+00:00",
+ "updated": "2026-11-10T03:52:47.723812+00:00",
  "items": [
+  {
+   "title": "GOP lawmaker introduces articles of impeachment against Hegseth",
+   "link": "https://www.wcax.com/2026/11/10/gop-lawmaker-introduces-articles-impeachment-against-hegseth/",
+   "source": "WCAX",
+   "ts": 1794282678.0
+  },
+  {
+   "title": "Baker who's legally blind pursues dream of running his own bakery. He faces unique challenges",
+   "link": "https://www.mynbc5.com/article/legally-blind-baker-bumble-bee-bakery-albuquerque/74382173",
+   "source": "WPTZ",
+   "ts": 1794281880.0
+  },
   {
    "title": "Burlington City Council approves Anthony Geraci as next police chief",
    "link": "https://www.mynbc5.com/article/burlington-city-council-approves-anthony-geraci-as-next-police-chief/74381457",
    "source": "WPTZ",
-   "ts": 1794278640.0
+   "ts": 1794280860.0
   },
   {
-   "title": "Troy voters reject North Troy merger proposal",
-   "link": "https://www.mynbc5.com/article/troy-voters-reject-north-troy-merger-proposal/74381930",
+   "title": "California voters reject measure to tax the wealth of billionaires",
+   "link": "https://www.mynbc5.com/article/california-rejects-tax-wealth-billionaires/74382125",
    "source": "WPTZ",
-   "ts": 1794278340.0
+   "ts": 1794279945.0
+  },
+  {
+   "title": "California voters defeat billionaire tax proposal that divided Democrats",
+   "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
+   "source": "NPR",
+   "ts": 1794279939.0
   },
   {
    "title": "Another country star says he was denied CMA Awards red carpet access",
@@ -20,22 +38,10 @@
    "ts": 1794277700.0
   },
   {
-   "title": "Pickup truck heavily damaged in Williston fire",
-   "link": "https://www.mynbc5.com/article/pickup-truck-heavily-damaged-in-williston-fire/74381830",
-   "source": "WPTZ",
-   "ts": 1794277560.0
-  },
-  {
    "title": "Craftsbury man arrested after police standoff",
    "link": "https://www.wcax.com/2026/11/10/craftsbury-man-arrested-after-police-standoff/",
    "source": "WCAX",
    "ts": 1794276525.0
-  },
-  {
-   "title": "Troy merger effort fails on revote",
-   "link": "https://www.wcax.com/2026/11/10/troy-merger-effort-fails-revote/",
-   "source": "WCAX",
-   "ts": 1794275229.0
   },
   {
    "title": "Measles cases found in Orleans County, health officials warn",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
    "source": "NPR",
    "ts": 1794260859.0
-  },
-  {
-   "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
-   "link": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
-   "source": "NPR",
-   "ts": 1794257544.0
   }
  ]
 }
