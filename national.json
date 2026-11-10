@@ -1,17 +1,83 @@
 {
- "updated": "2026-11-10T16:55:00.672988+00:00",
+ "updated": "2026-11-10T17:50:15.546602+00:00",
  "items": [
   {
-   "title": "Walmart\u2019s Black Friday sale hasn\u2019t started yet, but we found $3 hoodies in 15 colors",
-   "link": "https://nypost.com/2026/11/10/shopping/walmarts-early-black-friday-sale-includes-3-hoodies-in-15-colors/",
-   "source": "New York Post",
-   "ts": 1794329478.0
+   "title": "Trump says Iran war at \"status quo,\" warns U.S. \"locked and loaded\"",
+   "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+   "source": "CBS News",
+   "ts": 1794332937.0
   },
   {
-   "title": "Live Updates: GOP lawmakers elect leaders for new Congress",
-   "link": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/",
+   "title": "Chilling new details emerge after woman, 24, was dragged out to sea on notorious California beach",
+   "link": "https://nypost.com/2026/11/10/us-news/24-year-old-woman-missing-after-being-dragged-out-to-sea/",
+   "source": "New York Post",
+   "ts": 1794332864.0
+  },
+  {
+   "title": "Skims superfan Sarah Paulson has a surprising suggestion for Kim Kardashian\u2019s \u2018ultimate bush\u2019 underwear",
+   "link": "https://pagesix.com/2026/11/10/style/sarah-paulson-has-surprising-suggestion-for-kim-kardashian-skims-ultimate-bush-underwear/",
+   "source": "New York Post",
+   "ts": 1794332767.0
+  },
+  {
+   "title": "Sun\u2019s hidden twin is hurling killer comets at Earth \u2014 and may have wiped out dinosaurs: expert",
+   "link": "https://nypost.com/2026/11/10/science/suns-hidden-twin-is-hurling-killer-comets-at-earth-and-may-have-wiped-out-dinosaurs-expert/",
+   "source": "New York Post",
+   "ts": 1794332604.0
+  },
+  {
+   "title": "First snow of season expected in Northeast amid cold snap in eastern U.S.",
+   "link": "https://www.cbsnews.com/news/first-snowfall-season-expected-northeast-this-week-cold-snap-eastern-us/",
    "source": "CBS News",
-   "ts": 1794329429.0
+   "ts": 1794332520.0
+  },
+  {
+   "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
+   "source": "Reuters",
+   "ts": 1794332275.0
+  },
+  {
+   "title": "France says Iran behind costly grocery store refrigeration hacks",
+   "link": "https://www.cbsnews.com/news/france-iran-behind-refrigerator-freezer-hack-cyberattack/",
+   "source": "CBS News",
+   "ts": 1794332082.0
+  },
+  {
+   "title": "Sotomayor lets loose on conservative Supreme Court with revealing wish: 'Crazy things'",
+   "link": "https://www.foxnews.com/politics/sotomayor-lets-loose-conservative-supreme-court-revealing-wish-crazy-things",
+   "source": "Fox News",
+   "ts": 1794331941.0
+  },
+  {
+   "title": "Pope Leo draws 650,000 in another strong Argentine turnout",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXd4VVJNMEEySzFKd1VoUXRnTWhfZ0RIaTVWd0NqTVdWTHQ0eGJaSDhZMG1VM29hWEFROVJ5YXh3cDVZVWwxRHYxRVNpZDk0UmNseXdkX3ktZjI3cFp0NkFTZ0RGR3gwYXlDSThVeklpZ21IRU5sYnhkWkgtck1RTnA0S0VicDMtdkVzeUdMeXZVZkpWNFNQdDFSZ0RfNDhwZDVrMkZ4Ymk?oc=5",
+   "source": "Reuters",
+   "ts": 1794331200.0
+  },
+  {
+   "title": "Defiant Hegseth blasts impeachment effort as 'political spectacle'",
+   "link": "https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466",
+   "source": "ABC News",
+   "ts": 1794331140.0
+  },
+  {
+   "title": "Mamdani makes behind-the-scenes moves to shape 2028 Democratic presidential race",
+   "link": "https://www.foxnews.com/politics/mamdani-makes-behind-scenes-moves-shape-2028-democratic-presidential-race",
+   "source": "Fox News",
+   "ts": 1794331126.0
+  },
+  {
+   "title": "House panel rebukes DOJ's handling of Epstein case",
+   "link": "https://abcnews.com/US/house-oversight-panel-recommends-doj-renew-probe-jeffrey/story?id=138015976",
+   "source": "ABC News",
+   "ts": 1794330926.0
+  },
+  {
+   "title": "Nvidia heads for $470 billion two-day wipeout as CEO affair fallout deepens",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+   "source": "Reuters",
+   "ts": 1794330879.0
   },
   {
    "title": "The Seattle Times says there's 'no serious scientific evidence' trans athletes have an advantage over women",
@@ -20,16 +86,10 @@
    "ts": 1794329273.0
   },
   {
-   "title": "Gas prices slip below $4 a gallon for first time since July",
-   "link": "https://www.cbsnews.com/news/gas-prices-below-4-gallon-november/",
-   "source": "CBS News",
-   "ts": 1794329199.0
-  },
-  {
-   "title": "Manosphere obsession is linked to 18% higher risk of dying from cancer",
-   "link": "https://nypost.com/2026/11/10/health/manosphere-obsession-is-linked-to-18-higher-risk-of-dying-from-cancer/",
-   "source": "New York Post",
-   "ts": 1794329166.0
+   "title": "Helicopter makes emergency landing on New Jersey pier",
+   "link": "https://www.nbcnews.com/video/helicopter-makes-emergency-landing-on-new-jersey-pier-273204293610",
+   "source": "NBC News",
+   "ts": 1794329064.0
   },
   {
    "title": "Supreme Court clears way for border wall construction in Big Bend area in Texas",
@@ -38,76 +98,16 @@
    "ts": 1794329038.0
   },
   {
-   "title": "New disturbing footage of ugly 49ers-Raiders fan brawl sparks \u2018attempted murder\u2019 claim",
-   "link": "https://nypost.com/2026/11/10/sports/new-49ers-raiders-fan-brawl-footage-sparks-attempted-murder-claim/",
-   "source": "New York Post",
-   "ts": 1794329020.0
-  },
-  {
-   "title": "EXCLUSIVE: Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUtnS210c1pKNVpEZXJ1V1JpdUdyZ0h5OGh2SzVCXzJaVGRwaDZnb0NQZUxFS0ZFWmxwbU53ZlJtdlBkOWplZHdaNkloU0xwV3hvdlpjNnh0R1FISXdMOExfc09JckJqTWxjSWlZSjZpN0RWR1kyRUF6YUlXN0dqSm5XQU5TUmFmbWpFbGlzT3FZRllaMGU4cld0cDlsaFVYY0IzV2ZNYmwxYW0yd1FDaw?oc=5",
-   "source": "Reuters",
-   "ts": 1794328819.0
-  },
-  {
-   "title": "Trump says Iran war at \"status quo,\" warns U.S. \"locked and loaded\"",
-   "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
-   "source": "CBS News",
-   "ts": 1794328753.0
-  },
-  {
-   "title": "Christian McCaffrey recalls 'whirlwind' ordeal of shocking trade that sent him from Panthers to 49ers",
-   "link": "https://www.foxnews.com/outkick-sports/christian-mccaffrey-recalls-whirlwind-ordeal-shocking-trade-panthers-49ers",
-   "source": "Fox News",
-   "ts": 1794328746.0
-  },
-  {
-   "title": "Cornyn meets with Sen-elect Talarico, describes him as 'basically ... a good person'",
-   "link": "https://www.foxnews.com/politics/cornyn-meets-sen-elect-talarico-describes-him-basically-good-person",
-   "source": "Fox News",
-   "ts": 1794328669.0
+   "title": "WATCH:  What first responders want you to know about surviving rising waters",
+   "link": "https://abcnews.com/video/138007080/",
+   "source": "ABC News",
+   "ts": 1794327967.0
   },
   {
    "title": "Amazon\u2019s Ring debuts security robots including a drone",
    "link": "https://www.nbcnews.com/tech/tech-news/amazons-ring-debuts-security-robots-drone-rcna608538",
    "source": "NBC News",
    "ts": 1794327391.0
-  },
-  {
-   "title": "Several U.S. aircraft removed from U.K. airbase over Iran threats",
-   "link": "https://www.nbcnews.com/video/u-s-moves-aircraft-from-u-k-airbase-over-iran-threats-273199173883",
-   "source": "NBC News",
-   "ts": 1794326834.0
-  },
-  {
-   "title": "Consumer prices rose 0.4% in October, higher than expected",
-   "link": "https://abcnews.com/Business/inflation-report-provide-1st-snapshot-prices-midterm-elections/story?id=137970527",
-   "source": "ABC News",
-   "ts": 1794326730.0
-  },
-  {
-   "title": "Israel's parliament sworn in as Eisenkot tries to forge a government",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXZKMU1sQ21EaElhUnNZblNweVZxQWFZNFJUZVRNVzBRMW42WF8wY0k2YnRTSmRVVlFsYTZOcHhMOTVERUJuQUFlM3BfcVpJa01aMTFvdXg5ZEFJcWoyQndmS2UwcDI0a3ZKdEhwRXJadHZIRnFjLUIza1g5V2U1TmRzVWcxSUh1bEZENThRMDZnZUVJTFJSTW9qd2FSLVU?oc=5",
-   "source": "Reuters",
-   "ts": 1794325873.0
-  },
-  {
-   "title": "US consumer prices increase strongly for third straight month in October",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWo2UHlxSDlLcGNITjBhSkhrVmNFMDZNZ29xNEdoZ045dWRUV3JoQXQ1MUZCRlNlbHBqMnh2cG1iWjN1STQzNy1OWTZSLXZONmdLZHp1V29LbWxUcnVQS0JwNFVtR3dmOXlDRVcxLXdHWldWek03TXRvU2x5aTgyR1hhVTIyb3R5NUVvdl93aEhHempGNUFtVFVfTQ?oc=5",
-   "source": "Reuters",
-   "ts": 1794324805.0
-  },
-  {
-   "title": "Defiant Hegseth blasts impeachment effort as 'spectacle,' puts 'target' on troops",
-   "link": "https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466",
-   "source": "ABC News",
-   "ts": 1794322242.0
-  },
-  {
-   "title": "Supreme Court lifts pause on border construction in Big Bend, Texas",
-   "link": "https://abcnews.com/Politics/supreme-court-lifts-pause-border-construction-big-bend/story?id=137988610",
-   "source": "ABC News",
-   "ts": 1794321552.0
   }
  ]
 }
