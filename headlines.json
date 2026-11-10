@@ -1,29 +1,35 @@
 {
- "updated": "2026-11-10T00:11:28.903187+00:00",
+ "updated": "2026-11-10T01:43:28.337612+00:00",
  "items": [
   {
-   "title": "FBI investigates 'suspected homicide' aboard cruise ship out of Texas",
-   "link": "https://www.mynbc5.com/article/texas-cruise-ship-suspected-homicide-fbi/74378797",
-   "source": "WPTZ",
-   "ts": 1794268860.0
+   "title": "New police chief approved by Burlington City Council",
+   "link": "https://www.wcax.com/2026/11/10/new-police-chief-confirmed-by-burlington-city-council/",
+   "source": "WCAX",
+   "ts": 1794273313.0
   },
   {
-   "title": "Border patrol provides airplane crew as search for missing boater on Lake Champlain continues",
-   "link": "https://www.mynbc5.com/article/situation-lake-champlain/74365968",
+   "title": "Thune, Schumer face questions about Senate leadership in aftermath of elections",
+   "link": "https://www.mynbc5.com/article/thune-schumer-questions-senate-leadership-midterms/74381263",
    "source": "WPTZ",
-   "ts": 1794268620.0
+   "ts": 1794272700.0
   },
   {
-   "title": "Mount Mansfield breaks record for latest first inch of snow depth",
-   "link": "https://www.mynbc5.com/article/mount-mansfield-breaks-record-for-latest-first-inch-of-snow-depth-11-09-26/74379921",
+   "title": "Trump after meeting with Qatari PM says he believes war with Iran is militarily 'effectively over'",
+   "link": "https://www.mynbc5.com/article/trump-iran-war-effectively-over-qatar/74379933",
    "source": "WPTZ",
-   "ts": 1794268320.0
+   "ts": 1794272400.0
+  },
+  {
+   "title": "Trump '100%' backs bill to make data centers pay more, potentially lowering electricity costs",
+   "link": "https://www.mynbc5.com/article/trump-data-center-bill-pay-more-electricity-costs/74380398",
+   "source": "WPTZ",
+   "ts": 1794270120.0
   },
   {
    "title": "Vermont confirms Orleans County measles cases",
-   "link": "https://www.wcax.com/2026/11/09/vermont-confirms-essex-county-measles-cases/",
+   "link": "https://www.wcax.com/2026/11/09/vermont-confirms-orleans-county-measles-cases/",
    "source": "WCAX",
-   "ts": 1794268277.0
+   "ts": 1794269596.0
   },
   {
    "title": "Measles cases found in Orleans County, health officials warn",
@@ -42,12 +48,6 @@
    "link": "https://vtdigger.org/2026/11/09/montpelier-has-its-long-awaited-housing-blueprint-for-country-club-road/",
    "source": "VTDigger",
    "ts": 1794265367.0
-  },
-  {
-   "title": "Burlington mayor, governor to meet on public safety",
-   "link": "https://www.wcax.com/2026/11/09/burlington-mayor-governor-meet-public-safety/",
-   "source": "WCAX",
-   "ts": 1794264741.0
   },
   {
    "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
