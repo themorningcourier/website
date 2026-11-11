@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-11T03:57:02.035627+00:00",
+ "updated": "2026-11-11T05:01:35.291489+00:00",
  "items": [
+  {
+   "title": "Mother and two young children killed in Missouri crash after semitruck struck their minivan",
+   "link": "https://www.mynbc5.com/article/kansas-city-71-highway-crash-kills-mother-two-children/74395301",
+   "source": "WPTZ",
+   "ts": 1794372480.0
+  },
+  {
+   "title": "Quarterback Patrick Mahomes, wife Brittany announce they are expecting fourth child",
+   "link": "https://www.mynbc5.com/article/patrick-brittany-mahomes-expecting-fourth-child-pregnancy-announcement/74394612",
+   "source": "WPTZ",
+   "ts": 1794371700.0
+  },
+  {
+   "title": "Police arrest son of actors Antonio Sab\u00e0to Jr., Virginia Madsen in fatal hit-and-run",
+   "link": "https://www.wcax.com/2026/11/11/alaska-police-arrest-son-actors-antonio-sabto-jr-virginia-madsen-fatal-hit-and-run/",
+   "source": "WCAX",
+   "ts": 1794370271.0
+  },
+  {
+   "title": "Couple who disliked sex offenders arrested in man\u2019s killing, police say",
+   "link": "https://www.wcax.com/2026/11/11/couple-who-disliked-sex-offenders-arrested-mans-killing-police-say/",
+   "source": "WCAX",
+   "ts": 1794369943.0
+  },
   {
    "title": "One person seriously injured in Interstate 91 crash in Barnet",
    "link": "https://www.wcax.com/2026/11/11/one-person-seriously-injured-interstate-91-crash-barnet/",
@@ -14,34 +38,10 @@
    "ts": 1794366900.0
   },
   {
-   "title": "Donald Trump\u2019s private message to Joe Biden emerges in new White House memoir",
-   "link": "https://www.mynbc5.com/article/trump-letter-to-joe-biden-white-house-book/74394674",
-   "source": "WPTZ",
-   "ts": 1794366824.0
-  },
-  {
-   "title": "Home heating oil prices about $2.50 higher than last year, EIA says",
-   "link": "https://www.wcax.com/2026/11/11/home-heating-oil-prices-about-250-higher-than-last-year-eia-says/",
-   "source": "WCAX",
-   "ts": 1794364829.0
-  },
-  {
-   "title": "Eisenkot unveils agenda to reverse Netanyahu\u2019s policies as Israel's new parliament is sworn in",
-   "link": "https://www.mynbc5.com/article/israel-parliament-sworn-in-eisenkot-netanyahu-policies/74393655",
-   "source": "WPTZ",
-   "ts": 1794363540.0
-  },
-  {
    "title": "Federal government failed to hold Epstein accountable, Republican committee says",
    "link": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says",
    "source": "NPR",
    "ts": 1794361883.0
-  },
-  {
-   "title": "Bernie Sanders won\u2019t support Schumer for Senate Democratic leader, saying it\u2019s time for change",
-   "link": "https://www.wcax.com/2026/11/11/bernie-sanders-wont-support-schumer-senate-democratic-leader-saying-its-time-change/",
-   "source": "WCAX",
-   "ts": 1794358909.0
   },
   {
    "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
