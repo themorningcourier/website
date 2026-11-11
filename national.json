@@ -1,59 +1,77 @@
 {
- "updated": "2026-11-11T02:56:19.839055+00:00",
+ "updated": "2026-11-11T03:57:02.035627+00:00",
  "items": [
   {
-   "title": "Kennedy family members join lawsuit to block Trump's arch",
-   "link": "https://www.cbsnews.com/news/kennedy-family-trump-triumphal-arch/",
-   "source": "CBS News",
-   "ts": 1794365590.0
-  },
-  {
-   "title": "Top lawyer in DOJ's Civil Division is latest in string of resignations",
-   "link": "https://www.cbsnews.com/news/top-lawyer-justice-department-civil-division-brett-shumate-resigns/",
-   "source": "CBS News",
-   "ts": 1794365552.0
-  },
-  {
-   "title": "The surprising wild card in Mets\u2019 Tarik Skubal pursuit",
-   "link": "https://nypost.com/2026/11/10/sports/the-surprising-wild-card-in-mets-tarik-skubal-pursuit/",
+   "title": "Brian Cashman clears air on Jorge Posada\u2019s shocking Yankees unwelcome revelation",
+   "link": "https://nypost.com/2026/11/10/sports/brian-cashman-clears-air-on-jorge-posada-yankees-relationship/",
    "source": "New York Post",
-   "ts": 1794365402.0
+   "ts": 1794369279.0
   },
   {
-   "title": "Three dead after car crashes into crowd near North Hollywood Metro station",
-   "link": "https://nypost.com/2026/11/10/us-news/3-dead-multiple-people-critically-injured-in-horrific-crash-near-la-metro-station/",
+   "title": "Missing 11-month-old miraculously survives being buried alive 24 hours after his dad disappeared with him",
+   "link": "https://nypost.com/2026/11/10/us-news/missing-11-month-old-miraculously-survives-being-buried-alive-24-hours-after-his-dad-disappeared-with-him/",
    "source": "New York Post",
-   "ts": 1794365391.0
+   "ts": 1794368969.0
   },
   {
-   "title": "Nvidia board names pick for Huang investigation after affair with alleged Chinese spy",
-   "link": "https://www.cbsnews.com/video/nvidia-board-names-pick-for-huang-investigator/",
+   "title": "Latest College Footbal Playoff rankings sports new No. 1, some head-scratching decisions",
+   "link": "https://nypost.com/2026/11/10/sports/latest-cfp-rankings-sports-georgia-at-no-1/",
+   "source": "New York Post",
+   "ts": 1794368968.0
+  },
+  {
+   "title": "Meghan Markle's father jailed after cutting off monitoring device",
+   "link": "https://www.cbsnews.com/news/thomas-markle-ordered-psychiatric-exam-meghan-markle-father/",
    "source": "CBS News",
-   "ts": 1794365083.0
+   "ts": 1794368837.0
   },
   {
-   "title": "USMNT star opens up about Mauricio Pochettino-Manchester United rumors",
-   "link": "https://nypost.com/2026/11/10/sports/usmnts-antonee-robinson-reacts-to-mauricio-pochettino-man-united-rumors/",
-   "source": "New York Post",
-   "ts": 1794364773.0
+   "title": "Mississippi Senate race leans Democratic; Colom holds narrow lead",
+   "link": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
+   "source": "CBS News",
+   "ts": 1794368474.0
   },
   {
-   "title": "Maddow fears Trump migrant detention centers may be used to imprison \u2018the rest of us\u2019",
-   "link": "https://www.foxnews.com/media/maddow-fears-trump-migrant-detention-centers-may-used-imprison-the-rest-us",
+   "title": "Former West Point cadet sued over alleged drugging, forced abortion of ex-girlfriend: 'Horrifying'",
+   "link": "https://www.foxnews.com/us/former-west-point-cadet-sued-alleged-drugging-forced-abortion-ex-girlfriend-horrifying",
    "source": "Fox News",
-   "ts": 1794362543.0
+   "ts": 1794367960.0
   },
   {
-   "title": "Twice-deported illegal immigrant accused of trying to storm United cockpit, threatening bomb: DHS",
-   "link": "https://www.foxnews.com/us/twice-deported-illegal-immigrant-accused-trying-storm-united-cockpit-threatening-bomb-dhs",
+   "title": "College Football Playoff Rankings: Georgia rise to No. 1, Notre Dame cracks top 5 after big win over Miami",
+   "link": "https://www.foxnews.com/outkick-sports/college-football-playoff-rankings-georgia-rises-no-1-notre-dame-cracks-top-5-big-win-miami",
    "source": "Fox News",
-   "ts": 1794362513.0
+   "ts": 1794367299.0
   },
   {
-   "title": "Turning Point USA Spox Andrew Kolvet speaks out as Jennifer Welch, Dave Chappelle mock Charlie Kirk's murder",
-   "link": "https://www.foxnews.com/media/turning-point-usa-spox-andrew-kolvet-speaks-out-jennifer-welch-dave-chappelle-mock-charlie-kirks-murder",
+   "title": "Stacy Keach dead at 85 as \u2018Mike Hammer\u2019 star\u2019s wife shares emotional tribute",
+   "link": "https://www.foxnews.com/entertainment/stacy-keach-dead-85-mike-hammer-stars-wife-shares-emotional-tribute",
    "source": "Fox News",
-   "ts": 1794360608.0
+   "ts": 1794366359.0
+  },
+  {
+   "title": "Mississippi Senate election results could come as soon as Friday",
+   "link": "https://www.cbsnews.com/video/latest-in-uncalled-senate-races-in-alaska-mississippi/",
+   "source": "CBS News",
+   "ts": 1794365700.0
+  },
+  {
+   "title": "Indian stocks poised for higher open on softer crude, robust foreign buying",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGIzT1Bsa3NLR1VMamE3ZXpZblhwbFVuV0I1Q1UxZDhGQW9RR3E5NmpQVVBiMW1ibUhkYXRoN1ZESUlRZVIteU9OX2FfcUlyZEJiU1lFcllZQm5jaWx1Wkh2WGhqMjRWYUc5NjJBY252UERLVU5HTEFmb1pwNHlXYXVUN3Z5dE4xVkVRbXJnMkZTTGpDNldBMS1PTlBRVFpPVjhOUEE5eEFsQkE0bHVjU2FJN0NSdw?oc=5",
+   "source": "Reuters",
+   "ts": 1794363900.0
+  },
+  {
+   "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDdYdlFvTWpsUDJOZkVpN1RNYmM1RlIwZUxzSGhrazVnMTJ1el9lT2lpc08yc2VrUjdyR0tSWjJIRVRMdXh2cmJDam5yY2d1QURuUFdvQkh1ZWJDdHFXbmZCejViSHhTYnl6YU1uMmEtS1NIcFU1dmhPQVZpN2R5Ykc1OVBrUXVhemRVa01TblQ5THN6eDBlOXl3Nm5qTEtKRjNDeVVraW1hRjUwZjQyclBwd1hCTlZvNkdaVVdlUDc?oc=5",
+   "source": "Reuters",
+   "ts": 1794363000.0
+  },
+  {
+   "title": "Bonds reel as hot inflation fuels jumbo Fed hike fears",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON2pqenNYSWUzSVBxc3U2RlhRT29TZGNJWFVMRVVQa0NkaDd6STY3VzhiZTB1b0RPcXB4c0ZEM1RwaGdkZUpkZHp2Q0ZCenBZZF90eTZFMnJvT2F4elJlZlMzOFFiaTVfUmxxNVcxNFZLOVpRY1ZHTjFITVpqVlJHdDJ6UXVUNXU4Z2NoOGZrVjB0QQ?oc=5",
+   "source": "Reuters",
+   "ts": 1794362700.0
   },
   {
    "title": "Missing 11-month-old boy taken by father found buried alive after 24 hours: Sheriff",
@@ -80,12 +98,6 @@
    "ts": 1794359404.0
   },
   {
-   "title": "US Treasury chief Bessent moved to military base after Iranian threats, NYT reports",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw?oc=5",
-   "source": "Reuters",
-   "ts": 1794358800.0
-  },
-  {
    "title": "Measles cases explode amid declining vaccination rates",
    "link": "https://www.nbcnews.com/nightly-news/video/measles-cases-explode-amid-declining-vaccination-rates-273242181508",
    "source": "NBC News",
@@ -96,18 +108,6 @@
    "link": "https://www.nbcnews.com/nightly-news/video/nvidia-names-outside-council-for-investigation-into-ceo-s-affair-273239621784",
    "source": "NBC News",
    "ts": 1794355117.0
-  },
-  {
-   "title": "Thomas Markle sent back to jail after cutting off his ankle bracelet",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVloVDEyT01KczFSUlV1OU1NcUFrX3FCRGxIUEpfalN5Uk14Y3VwTHBXbDNUYkREUWt0RTNOWTNRRWtqRHp6ZTB5ZHJoN2JOR3B4ck5MNXlDSE5CUEdTZkd5ZHYwSTBDMVVhUk5HZmNWTEQyQm96WmUxa3ZpSHZHaG1Va3lzUWlORERfbk1aQmJLbmVMdmo3MXkyWGNzNlgtaEkweE5ycHlmOUJmQXZSN29UcE5oWnVCTTNhcUx3?oc=5",
-   "source": "Reuters",
-   "ts": 1794354908.0
-  },
-  {
-   "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWgwbFNYa2Z4R1pzeU83WUhSVTUwSG9vTC1tT0lfV0FMZk1oWGlNellpU083T2M2VGJDV19fLXhJY3N4dHJUUnUxMTNSeU1XdVdtd3YxNWZ6RWxlcTE1RTRyZDB5UDAweUhFTk9wRjVmNGlzSFUxOEpZTkc0TEdJY05DN3VNRDlidmJnVlJHTEY5dTJaakVFX0x3Mkl2TEZFTDBfN3dBTXhZVkxVRG41X2lyMENmWVFJQ2hHbWs0bHdzem5NSER6d0xhMjl0dw?oc=5",
-   "source": "Reuters",
-   "ts": 1794354840.0
   }
  ]
 }
