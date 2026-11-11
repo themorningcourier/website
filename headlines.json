@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-10T23:39:00.696334+00:00",
+ "updated": "2026-11-11T01:04:15.478756+00:00",
  "items": [
+  {
+   "title": "Whiteface Mountain prepares for ski season with upgraded snowmaking technology",
+   "link": "https://www.mynbc5.com/article/whiteface-mountain-prepares-for-ski-season-with-upgraded-snowmaking-technology/74392303",
+   "source": "WPTZ",
+   "ts": 1794358800.0
+  },
+  {
+   "title": "Republicans pick party leadership after midterm election losses",
+   "link": "https://www.mynbc5.com/article/republicans-pick-party-leadership-after-midterm-election-losses/74393250",
+   "source": "WPTZ",
+   "ts": 1794358680.0
+  },
+  {
+   "title": "Lake Champlain sturgeon study offers hope for endangered species",
+   "link": "https://www.wcax.com/2026/11/10/lake-champlain-sturgeon-study-offers-hope-endangered-species/",
+   "source": "WCAX",
+   "ts": 1794358248.0
+  },
+  {
+   "title": "Boy who helped first responders better comfort children with autism named TIME\u2019s Kid of the Year",
+   "link": "https://www.wcax.com/2026/11/11/boy-who-helped-first-responders-better-comfort-children-with-autism-named-times-kid-year/",
+   "source": "WCAX",
+   "ts": 1794357993.0
+  },
+  {
+   "title": "Veterans restore historic Santa statue from former Air Force base",
+   "link": "https://www.mynbc5.com/article/plattsburgh-veterans-restore-historic-santa/74393857",
+   "source": "WPTZ",
+   "ts": 1794357600.0
+  },
+  {
+   "title": "Newport\u2019s hospital prepares for possible measles patients",
+   "link": "https://www.wcax.com/2026/11/10/newport-hospital-prepares-possible-measles-patients/",
+   "source": "WCAX",
+   "ts": 1794356034.0
+  },
+  {
+   "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+   "link": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+   "source": "NPR",
+   "ts": 1794354191.0
+  },
   {
    "title": "Burlington City Council confirms Geraci as new police chief with 10-2 vote",
    "link": "https://vtdigger.org/2026/11/10/burlington-city-council-confirms-geraci-as-new-police-chief-with-10-2-vote/",
@@ -8,40 +50,10 @@
    "ts": 1794353606.0
   },
   {
-   "title": "Daycare provider sentenced to up to 50 years in prison in toddler\u2019s death",
-   "link": "https://www.wcax.com/2026/11/10/daycare-provider-sentenced-up-50-years-prison-toddlers-death/",
-   "source": "WCAX",
-   "ts": 1794353578.0
-  },
-  {
-   "title": "House Republicans quash effort to impeach Defense Secretary Hegseth",
-   "link": "https://www.mynbc5.com/article/defense-secretary-hegseth-impeachment-house/74393214",
-   "source": "WPTZ",
-   "ts": 1794353400.0
-  },
-  {
-   "title": "Rep. Jim Jordan elected new House GOP leader",
-   "link": "https://www.wcax.com/2026/11/10/rep-jim-jordan-elected-new-house-gop-leader/",
-   "source": "WCAX",
-   "ts": 1794353278.0
-  },
-  {
-   "title": "\u2018Sex with Strangers\u2019 takes the stage in Montpelier",
-   "link": "https://www.wcax.com/2026/11/10/sex-with-strangers-takes-stage-montpelier/",
-   "source": "WCAX",
-   "ts": 1794353277.0
-  },
-  {
-   "title": "NASA launches $1M moon base challenge for students",
-   "link": "https://www.mynbc5.com/article/nasa-launches-1m-moon-base-challenge-for-students-space-astronauts/74390465",
-   "source": "WPTZ",
-   "ts": 1794352920.0
-  },
-  {
-   "title": "Deep-fried danger: Burlington firefighters show how to prevent Thanksgiving turkey fires",
-   "link": "https://www.mynbc5.com/article/burlington-turkey-fryer-fire-thanksgiving-safety/74391960",
-   "source": "WPTZ",
-   "ts": 1794351660.0
+   "title": "Supreme Court seems split over federal agencies' ability to fine for law violations",
+   "link": "https://www.npr.org/2026/11/10/nx-s1-6034950/2026-11-10-nx-s1-6034950-supreme-court-seems-divided-over-federal-agencies-ability-to-fine-for-law-violations",
+   "source": "NPR",
+   "ts": 1794353252.0
   },
   {
    "title": "Annual count finds slight decline in homelessness in Vermont",
@@ -60,18 +72,6 @@
    "link": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
    "source": "NPR",
    "ts": 1794347072.0
-  },
-  {
-   "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
-   "link": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
-   "source": "NPR",
-   "ts": 1794337200.0
-  },
-  {
-   "title": "U.S. boycotts U.N. human rights review for second year running",
-   "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
-   "source": "NPR",
-   "ts": 1794336814.0
   }
  ]
 }
