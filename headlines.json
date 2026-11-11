@@ -1,17 +1,35 @@
 {
- "updated": "2026-11-11T01:04:15.478756+00:00",
+ "updated": "2026-11-11T02:06:07.619948+00:00",
  "items": [
   {
-   "title": "Whiteface Mountain prepares for ski season with upgraded snowmaking technology",
-   "link": "https://www.mynbc5.com/article/whiteface-mountain-prepares-for-ski-season-with-upgraded-snowmaking-technology/74392303",
+   "title": "Body recovered from Lake Champlain identified as Burlington man",
+   "link": "https://www.mynbc5.com/article/missing-boater-body-found-lake-champlain/74392151",
    "source": "WPTZ",
-   "ts": 1794358800.0
+   "ts": 1794362580.0
   },
   {
-   "title": "Republicans pick party leadership after midterm election losses",
-   "link": "https://www.mynbc5.com/article/republicans-pick-party-leadership-after-midterm-election-losses/74393250",
+   "title": "Kyle Busch posthumously wins NASCAR Cup Series most popular driver award in Miami",
+   "link": "https://www.mynbc5.com/article/kyle-busch-most-popular-driver-award-2026/74394213",
    "source": "WPTZ",
-   "ts": 1794358680.0
+   "ts": 1794362520.0
+  },
+  {
+   "title": "House halts impeachment effort against Defense Secretary Pete Hegseth",
+   "link": "https://www.mynbc5.com/article/house-to-vote-impeachment-effort-against-defense-secretary-pete-hegseth/74392643",
+   "source": "WPTZ",
+   "ts": 1794362460.0
+  },
+  {
+   "title": "Federal government failed to hold Epstein accountable, Republican committee says",
+   "link": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says",
+   "source": "NPR",
+   "ts": 1794361883.0
+  },
+  {
+   "title": "Bernie Sanders won\u2019t support Schumer for Senate Democratic leader, saying it\u2019s time for change",
+   "link": "https://www.wcax.com/2026/11/11/bernie-sanders-wont-support-schumer-senate-democratic-leader-saying-its-time-change/",
+   "source": "WCAX",
+   "ts": 1794358909.0
   },
   {
    "title": "Lake Champlain sturgeon study offers hope for endangered species",
@@ -24,18 +42,6 @@
    "link": "https://www.wcax.com/2026/11/11/boy-who-helped-first-responders-better-comfort-children-with-autism-named-times-kid-year/",
    "source": "WCAX",
    "ts": 1794357993.0
-  },
-  {
-   "title": "Veterans restore historic Santa statue from former Air Force base",
-   "link": "https://www.mynbc5.com/article/plattsburgh-veterans-restore-historic-santa/74393857",
-   "source": "WPTZ",
-   "ts": 1794357600.0
-  },
-  {
-   "title": "Newport\u2019s hospital prepares for possible measles patients",
-   "link": "https://www.wcax.com/2026/11/10/newport-hospital-prepares-possible-measles-patients/",
-   "source": "WCAX",
-   "ts": 1794356034.0
   },
   {
    "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/10/a-broken-heart-and-a-strong-backbone/",
    "source": "VTDigger",
    "ts": 1794351253.0
-  },
-  {
-   "title": "Should you trust new AI agents with your money and data?",
-   "link": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
-   "source": "NPR",
-   "ts": 1794347072.0
   }
  ]
 }
