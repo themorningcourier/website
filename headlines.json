@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-12T10:03:37.478028+00:00",
+ "updated": "2026-11-12T11:06:29.765422+00:00",
  "items": [
+  {
+   "title": "\"Best little neighborhood restaurant in the Adirondacks\": Blue Moon Cafe is being sold to new owners",
+   "link": "https://www.mynbc5.com/article/blue-moon-cafe-sold-saranac-lake-ny/74408875",
+   "source": "WPTZ",
+   "ts": 1794480900.0
+  },
+  {
+   "title": "\u2018Help us\u2019: Kids rescued after holding handwritten note against home\u2019s window",
+   "link": "https://www.wcax.com/2026/11/12/help-us-kids-rescued-after-holding-handwritten-note-against-homes-window/",
+   "source": "WCAX",
+   "ts": 1794478868.0
+  },
+  {
+   "title": "US envoys arrive in Moscow for meeting with Putin following talks in Abu Dhabi",
+   "link": "https://www.mynbc5.com/article/trump-envoys-putin-moscow-ukraine-peace-talks/74408946",
+   "source": "WPTZ",
+   "ts": 1794478860.0
+  },
   {
    "title": "Local contestant appearing on Jeopardy! Nov. 12",
    "link": "https://www.mynbc5.com/article/jeopardy-vt-contestant-november-12-pete-haskin/74408336",
@@ -8,16 +26,22 @@
    "ts": 1794477720.0
   },
   {
-   "title": "'Malcolm in the Middle' star Frankie Muniz released from hospital after crash",
-   "link": "https://www.mynbc5.com/article/frankie-muniz-daytona-hospital-crash/74403620",
-   "source": "WPTZ",
-   "ts": 1794477120.0
+   "title": "At least 23 states considered laws governing ICE and schools this year",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
+   "source": "NPR",
+   "ts": 1794477600.0
   },
   {
-   "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-   "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
+   "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
    "source": "NPR",
-   "ts": 1794475770.0
+   "ts": 1794477600.0
+  },
+  {
+   "title": "How Scott Colom defied the odds to go from district attorney to Mississippi's Democratic US Senator",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
+   "source": "NPR",
+   "ts": 1794477600.0
   },
   {
    "title": "Mixed showers Thursday, transition to mainly snow",
@@ -30,30 +54,6 @@
    "link": "https://www.wcax.com/2026/11/12/sisters-give-birth-minutes-apart-outdoing-their-other-sisters-who-gave-birth-days-apart/",
    "source": "WCAX",
    "ts": 1794472996.0
-  },
-  {
-   "title": "Pope Leo XIV declares Peru his homeland",
-   "link": "https://www.mynbc5.com/article/pope-leo-xiv-declares-peru-his-homeland/74406757",
-   "source": "WPTZ",
-   "ts": 1794460200.0
-  },
-  {
-   "title": "UVM field hockey drops NCAA opener in shootout",
-   "link": "https://www.wcax.com/2026/11/12/uvm-field-hockey-drops-ncaa-opener-shootout/",
-   "source": "WCAX",
-   "ts": 1794458962.0
-  },
-  {
-   "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
-   "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
-   "source": "NPR",
-   "ts": 1794453032.0
-  },
-  {
-   "title": "Democrat Scott Colom wins the closest Senate race in the country",
-   "link": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
-   "source": "NPR",
-   "ts": 1794440039.0
   },
   {
    "title": "Holly A. Freeman Jones",
