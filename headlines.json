@@ -1,59 +1,65 @@
 {
- "updated": "2026-11-12T17:55:27.284353+00:00",
+ "updated": "2026-11-12T18:56:54.034809+00:00",
  "items": [
   {
-   "title": "Father of baby found buried alive in South Carolina denied bond",
-   "link": "https://www.mynbc5.com/article/baby-buried-alive-update-south-carolina/74413542",
+   "title": "Microsoft confirms Outlook outage affecting users worldwide",
+   "link": "https://www.mynbc5.com/article/microsoft-outlook-outage-2026/74414319",
    "source": "WPTZ",
-   "ts": 1794505740.0
+   "ts": 1794509280.0
   },
   {
-   "title": "Trump administration will fund new research on controversial psychedelic drug ibogaine",
-   "link": "https://www.wcax.com/2026/11/12/trump-administration-will-fund-new-research-controversial-psychedelic-drug-ibogaine/",
+   "title": "Vermont needs a growth plan that adds up",
+   "link": "https://vtdigger.org/2026/11/12/opinion-vermont-needs-a-growth-plan-that-adds-up/",
+   "source": "VTDigger",
+   "ts": 1794509229.0
+  },
+  {
+   "title": "Users report email app Microsoft Outlook is down",
+   "link": "https://www.wcax.com/2026/11/12/users-report-email-app-microsoft-outlook-is-down/",
    "source": "WCAX",
-   "ts": 1794505678.0
+   "ts": 1794509109.0
   },
   {
-   "title": "Longtime NBC Sports announcer Dan Hicks dies at 64",
-   "link": "https://www.mynbc5.com/article/longtime-nbc-sports-announcer-dan-hicks-dies-at-64/74412311",
+   "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
+   "source": "NPR",
+   "ts": 1794509040.0
+  },
+  {
+   "title": "Popular western-themed breakfast, lunch spot in Chittenden County to close this month",
+   "link": "https://www.mynbc5.com/article/the-pinwheel-in-essex-closing/74414420",
    "source": "WPTZ",
-   "ts": 1794505620.0
+   "ts": 1794508920.0
   },
   {
-   "title": "Aging Untold: The rules of texting and social media keep changing",
-   "link": "https://www.wcax.com/2026/11/12/aging-untold-rules-texting-social-media-keep-changing/",
+   "title": "Brooklyn building collapse killed 2 children and 6 adults, mayor says",
+   "link": "https://www.mynbc5.com/article/brooklyn-building-collapses/74404444",
+   "source": "WPTZ",
+   "ts": 1794508500.0
+  },
+  {
+   "title": "6-day search for missing teen ends with emotional reunion",
+   "link": "https://www.wcax.com/2026/11/12/6-day-search-missing-teen-ends-with-emotional-reunion/",
    "source": "WCAX",
-   "ts": 1794505582.0
+   "ts": 1794508384.0
   },
   {
-   "title": "Winter alerts issued ahead of elevation-dependent snow for some in Vermont, New York",
-   "link": "https://www.mynbc5.com/article/rain-snow-thursday-vt-ny/74409558",
-   "source": "WPTZ",
-   "ts": 1794505560.0
+   "title": "Drivers say Champlain Parkway has made little difference in five months",
+   "link": "https://www.wcax.com/2026/11/12/burlington-release-city-traffic-data-following-champlain-parkway-opening/",
+   "source": "WCAX",
+   "ts": 1794507846.0
+  },
+  {
+   "title": "Casualties continue to rise after Brooklyn building collapses",
+   "link": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
+   "source": "NPR",
+   "ts": 1794507300.0
   },
   {
    "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
    "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
    "source": "NPR",
    "ts": 1794503634.0
-  },
-  {
-   "title": "Canadian man cited for crash injuring NH Hall of Fame basketball coach",
-   "link": "https://www.wcax.com/2026/11/12/canadian-resident-cited-after-truck-hits-hall-fame-basketball-coach-northeast-kingdom/",
-   "source": "WCAX",
-   "ts": 1794503528.0
-  },
-  {
-   "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
-   "link": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
-   "source": "NPR",
-   "ts": 1794500404.0
-  },
-  {
-   "title": "D.C. shooting leaves 1 person killed, 4 injured. Gunman dead",
-   "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
-   "source": "NPR",
-   "ts": 1794499973.0
   },
   {
    "title": "Chronic wasting disease found in wild New York deer for first time in decades",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/11/obituary-holly-a-freeman-jones/",
    "source": "VTDigger",
    "ts": 1794438490.0
-  },
-  {
-   "title": "\u2018In memory of the greatest generation\u2019: Rutland unveils new WWII memorial",
-   "link": "https://vtdigger.org/2026/11/11/in-memory-of-the-greatest-generation-rutland-unveils-new-wwii-memorial/",
-   "source": "VTDigger",
-   "ts": 1794438010.0
   }
  ]
 }
