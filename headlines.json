@@ -1,17 +1,53 @@
 {
- "updated": "2026-11-12T22:49:49.387333+00:00",
+ "updated": "2026-11-12T23:45:02.082072+00:00",
  "items": [
   {
-   "title": "Killington community sees first snow of the season",
-   "link": "https://www.mynbc5.com/article/killington-community-sees-first-snow-of-the-season/74416313",
+   "title": "Witnesses felt helpless amid the chaos while watching a Brooklyn building come crashing down",
+   "link": "https://www.mynbc5.com/article/new-york-building-collapse-brooklyn-witness-account/74416886",
    "source": "WPTZ",
-   "ts": 1794523620.0
+   "ts": 1794526740.0
   },
   {
-   "title": "Vermont Pub and Brewery asks customers to stop stealing items from bar",
-   "link": "https://www.mynbc5.com/article/vermont-pub-and-brewery-thefts/74414531",
+   "title": "Gov. Phil Scott says he wants to work with supermajority in Vermont Legislature",
+   "link": "https://www.mynbc5.com/article/phil-scott-vt-legislature-supermajority/74416539",
    "source": "WPTZ",
-   "ts": 1794523620.0
+   "ts": 1794526740.0
+  },
+  {
+   "title": "Second round of rural health transformation funds coming to Vermont",
+   "link": "https://www.mynbc5.com/article/second-round-of-rural-health-transformation-funds-coming-to-vt/74417013",
+   "source": "WPTZ",
+   "ts": 1794526680.0
+  },
+  {
+   "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+   "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
+   "source": "NPR",
+   "ts": 1794526579.0
+  },
+  {
+   "title": "Microsoft Outlook outage affects users across US",
+   "link": "https://www.wcax.com/2026/11/12/microsoft-outlook-outage-affects-users-across-us/",
+   "source": "WCAX",
+   "ts": 1794525598.0
+  },
+  {
+   "title": "\u2018School mom\u2019 to \u2018school grandma\u2019: Secretary has served students for 52 years",
+   "link": "https://www.wcax.com/2026/11/12/school-mom-school-grandma-secretary-has-served-students-52-years/",
+   "source": "WCAX",
+   "ts": 1794525479.0
+  },
+  {
+   "title": "Trump bluntly tells JD Vance to shift focus from Iran to targeting \u2018corruption and crime\u2019 at home",
+   "link": "https://www.wcax.com/2026/11/12/trump-bluntly-tells-jd-vance-shift-focus-iran-targeting-corruption-crime-home/",
+   "source": "WCAX",
+   "ts": 1794525453.0
+  },
+  {
+   "title": "In a challenging year, Vermont\u2019s outdoor business leaders are full of optimism",
+   "link": "https://vtdigger.org/2026/11/12/in-a-challenging-year-vermonts-outdoor-business-leaders-are-full-of-optimism/",
+   "source": "VTDigger",
+   "ts": 1794524377.0
   },
   {
    "title": "Vermont to raise minimum wage by 49 cents in January",
@@ -20,28 +56,10 @@
    "ts": 1794523574.0
   },
   {
-   "title": "Plattsburgh man charged with attempted murder",
-   "link": "https://www.wcax.com/2026/11/12/plattsburgh-man-charged-with-attempted-murder/",
-   "source": "WCAX",
-   "ts": 1794523473.0
-  },
-  {
-   "title": "Races for Vermont legislative leadership take shape ahead of education reform debate",
-   "link": "https://www.wcax.com/2026/11/12/races-vermont-legislative-leadership-take-shape-ahead-education-reform-debate/",
-   "source": "WCAX",
-   "ts": 1794523040.0
-  },
-  {
-   "title": "Democrats flock to Denver for a post-midterms introspection-turned-celebration",
-   "link": "https://www.mynbc5.com/article/democrats-denver-post-midterms-event/74416473",
-   "source": "WPTZ",
-   "ts": 1794522960.0
-  },
-  {
-   "title": "802 News: Can Ben Traverse lead Burlington forward?",
-   "link": "https://www.wcax.com/2026/11/12/802-news-can-ben-traverse-lead-burlington-forward/",
-   "source": "WCAX",
-   "ts": 1794522756.0
+   "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
+   "source": "NPR",
+   "ts": 1794523540.0
   },
   {
    "title": "Solar panels are an eyesore",
@@ -50,28 +68,10 @@
    "ts": 1794521952.0
   },
   {
-   "title": "Chittenden parents file lawsuit challenging Vermont\u2019s new public tuition rules",
-   "link": "https://vtdigger.org/2026/11/12/chittenden-parents-file-lawsuit-challenging-vermonts-new-public-tuition-rules/",
-   "source": "VTDigger",
-   "ts": 1794520091.0
-  },
-  {
    "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
    "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
    "source": "NPR",
    "ts": 1794509040.0
-  },
-  {
-   "title": "Casualties continue to rise after Brooklyn building collapses",
-   "link": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
-   "source": "NPR",
-   "ts": 1794507300.0
-  },
-  {
-   "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
-   "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
-   "source": "NPR",
-   "ts": 1794503634.0
   }
  ]
 }
