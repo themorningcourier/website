@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-12T02:29:32.953815+00:00",
+ "updated": "2026-11-12T03:26:31.673299+00:00",
  "items": [
+  {
+   "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
+   "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
+   "source": "NPR",
+   "ts": 1794453032.0
+  },
+  {
+   "title": "Ocean liner SS United States heads to final destination near Destin, Florida",
+   "link": "https://www.mynbc5.com/article/ss-united-states-artificial-reef-florida-panhandle/74402473",
+   "source": "WPTZ",
+   "ts": 1794452100.0
+  },
   {
    "title": "Irma P. Hall, 'Soul Food' and 'The Ladykillers' actor who found fame at 60, dies at 91",
    "link": "https://www.mynbc5.com/article/irma-p-hall-soul-food-and-the-ladykillers-actor-who-found-fame-at-60-dies-at-91/74406014",
@@ -10,12 +22,6 @@
   {
    "title": "Ceremony in Burlington honors veterans at historic Battery Park",
    "link": "https://www.mynbc5.com/article/ceremony-in-burlington-vt-honors-veterans-at-historic-battery-park/74404891",
-   "source": "WPTZ",
-   "ts": 1794449280.0
-  },
-  {
-   "title": "Firefighters dig through rubble after NYC building collapse kills at least 2, traps others",
-   "link": "https://www.mynbc5.com/article/brooklyn-building-collapses/74404444",
    "source": "WPTZ",
    "ts": 1794449280.0
   },
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/11/vermont-conversation-freedom-in-america-is-never-guaranteed-garrett-graff-on-americas-many-revolutions/",
    "source": "VTDigger",
    "ts": 1794437778.0
-  },
-  {
-   "title": "Why is gasoline suddenly under $4 a gallon?",
-   "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
-   "source": "NPR",
-   "ts": 1794427154.0
   }
  ]
 }
