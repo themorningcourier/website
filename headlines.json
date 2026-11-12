@@ -1,11 +1,47 @@
 {
- "updated": "2026-11-12T18:56:54.034809+00:00",
+ "updated": "2026-11-12T19:56:45.166020+00:00",
  "items": [
   {
-   "title": "Microsoft confirms Outlook outage affecting users worldwide",
-   "link": "https://www.mynbc5.com/article/microsoft-outlook-outage-2026/74414319",
+   "title": "Republican Paul LePage wins election to US House in Maine\u2019s 2nd District",
+   "link": "https://www.wcax.com/2026/11/12/republican-paul-lepage-wins-election-us-house-maines-2nd-district/",
+   "source": "WCAX",
+   "ts": 1794512566.0
+  },
+  {
+   "title": "1 killed, four injured in D.C. shooting that began at gym; suspect dead",
+   "link": "https://www.mynbc5.com/article/washington-dc-logan-circle-shooting/74411030",
    "source": "WPTZ",
-   "ts": 1794509280.0
+   "ts": 1794512220.0
+  },
+  {
+   "title": "Brooklyn building collapse killed 2 children and 6 adults, mayor says",
+   "link": "https://www.mynbc5.com/article/brooklyn-building-collapses/74404444",
+   "source": "WPTZ",
+   "ts": 1794511860.0
+  },
+  {
+   "title": "US returns over $12 billion in oil proceeds to Venezuela since Maduro's ouster, report says",
+   "link": "https://www.mynbc5.com/article/oil-proceeds-returned-to-venezuela-maduro/74414466",
+   "source": "WPTZ",
+   "ts": 1794511560.0
+  },
+  {
+   "title": "Police: NY woman punched driver in North Elba road rage incident",
+   "link": "https://www.wcax.com/2026/11/12/police-ny-woman-punched-driver-north-elba-road-rage-incident/",
+   "source": "WCAX",
+   "ts": 1794510030.0
+  },
+  {
+   "title": "Swastika found on Hartford veterans monument on Veterans Day",
+   "link": "https://vtdigger.org/2026/11/12/swastika-found-on-hartford-veterans-monument-on-veterans-day/",
+   "source": "VTDigger",
+   "ts": 1794509867.0
+  },
+  {
+   "title": "Users report email app Microsoft Outlook is down",
+   "link": "https://www.wcax.com/2026/11/12/users-report-email-app-microsoft-outlook-is-down/",
+   "source": "WCAX",
+   "ts": 1794509552.0
   },
   {
    "title": "Vermont needs a growth plan that adds up",
@@ -14,40 +50,10 @@
    "ts": 1794509229.0
   },
   {
-   "title": "Users report email app Microsoft Outlook is down",
-   "link": "https://www.wcax.com/2026/11/12/users-report-email-app-microsoft-outlook-is-down/",
-   "source": "WCAX",
-   "ts": 1794509109.0
-  },
-  {
    "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
    "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
    "source": "NPR",
    "ts": 1794509040.0
-  },
-  {
-   "title": "Popular western-themed breakfast, lunch spot in Chittenden County to close this month",
-   "link": "https://www.mynbc5.com/article/the-pinwheel-in-essex-closing/74414420",
-   "source": "WPTZ",
-   "ts": 1794508920.0
-  },
-  {
-   "title": "Brooklyn building collapse killed 2 children and 6 adults, mayor says",
-   "link": "https://www.mynbc5.com/article/brooklyn-building-collapses/74404444",
-   "source": "WPTZ",
-   "ts": 1794508500.0
-  },
-  {
-   "title": "6-day search for missing teen ends with emotional reunion",
-   "link": "https://www.wcax.com/2026/11/12/6-day-search-missing-teen-ends-with-emotional-reunion/",
-   "source": "WCAX",
-   "ts": 1794508384.0
-  },
-  {
-   "title": "Drivers say Champlain Parkway has made little difference in five months",
-   "link": "https://www.wcax.com/2026/11/12/burlington-release-city-traffic-data-following-champlain-parkway-opening/",
-   "source": "WCAX",
-   "ts": 1794507846.0
   },
   {
    "title": "Casualties continue to rise after Brooklyn building collapses",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/12/chronic-wasting-disease-found-in-wild-new-york-deer-for-first-time-in-decades/",
    "source": "VTDigger",
    "ts": 1794487500.0
-  },
-  {
-   "title": "Holly A. Freeman Jones",
-   "link": "https://vtdigger.org/2026/11/11/obituary-holly-a-freeman-jones/",
-   "source": "VTDigger",
-   "ts": 1794438490.0
   }
  ]
 }
