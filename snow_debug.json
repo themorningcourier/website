@@ -1,97 +1,97 @@
 {
- "updated": "2026-11-11T10:31:14.545375+00:00",
+ "updated": "2026-11-12T08:38:45.030041+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "PTBN3",
-     "name": "Pittsburg Reservoir",
-     "state": "NH",
-     "elev_ft": "1329",
-     "inches": 2.0,
-     "hours": 24.0,
-     "time": "2026-11-09 12:00"
-    },
-    {
-     "id": "AK-BC-4",
-     "name": "Sleetmute 1.4 Sse, Ak",
+     "id": "AYTA2",
+     "name": "Alyeska Weather Top",
      "state": "AK",
-     "elev_ft": "203",
-     "inches": 1.5,
+     "elev_ft": "2707",
+     "inches": 10.0,
      "hours": 24.0,
-     "time": "2026-11-09 20:45"
-    },
-    {
-     "id": "CQNA2",
-     "name": "Chicken",
-     "state": "AK",
-     "elev_ft": "1781",
-     "inches": 1.0,
-     "hours": 24.0,
-     "time": "2026-11-09 17:00"
-    },
-    {
-     "id": "MWN",
-     "name": "Mount Washington",
-     "state": "",
-     "elev_ft": "5627",
-     "inches": 0.9,
-     "hours": 24.0,
-     "time": "2026-11-09 12:00"
-    },
-    {
-     "id": "UBW",
-     "name": "Kuparuk,Ak",
-     "state": "AK",
-     "elev_ft": "72",
-     "inches": 0.7,
-     "hours": 24.0,
-     "time": "2026-11-10 03:00"
-    },
-    {
-     "id": "EGLA2",
-     "name": "Eagle",
-     "state": "AK",
-     "elev_ft": "892",
-     "inches": 0.5,
-     "hours": 24.0,
-     "time": "2026-11-09 18:00"
-    },
-    {
-     "id": "DUT",
-     "name": "Dutch Harbor",
-     "state": "",
-     "elev_ft": "46",
-     "inches": 0.4,
-     "hours": 24.0,
-     "time": "2026-11-09 18:00"
+     "time": "2026-11-10 15:00"
     },
     {
      "id": "HCSA2",
      "name": "Haines,Ak",
      "state": "AK",
      "elev_ft": "866",
-     "inches": 0.3,
+     "inches": 7.1,
      "hours": 24.0,
-     "time": "2026-11-09 16:00"
+     "time": "2026-11-10 16:00"
     },
     {
-     "id": "VT-OL-37",
-     "name": "Brownington 4.7 Ese, Vt",
-     "state": "VT",
-     "elev_ft": "1467",
-     "inches": 0.3,
-     "hours": 24.0,
-     "time": "2026-11-09 13:00"
-    },
-    {
-     "id": "ABRA2",
-     "name": "Amber Lake North",
+     "id": "AYMA2",
+     "name": "Alyeska Weather Mid",
      "state": "AK",
-     "elev_ft": "449",
-     "inches": 0.1,
+     "elev_ft": "1644",
+     "inches": 7.0,
      "hours": 24.0,
-     "time": "2026-11-10 04:00"
+     "time": "2026-11-10 15:00"
+    },
+    {
+     "id": "MWN",
+     "name": "Mount Washington",
+     "state": "",
+     "elev_ft": "5627",
+     "inches": 1.5,
+     "hours": 24.0,
+     "time": "2026-11-10 12:00"
+    },
+    {
+     "id": "RBNA2",
+     "name": "Robertson River",
+     "state": "AK",
+     "elev_ft": "1519",
+     "inches": 1.5,
+     "hours": 24.0,
+     "time": "2026-11-10 18:00"
+    },
+    {
+     "id": "AYBA2",
+     "name": "Alyeska Base",
+     "state": "AK",
+     "elev_ft": "371",
+     "inches": 1.0,
+     "hours": 24.0,
+     "time": "2026-11-10 15:00"
+    },
+    {
+     "id": "GKBN3",
+     "name": "Gray Knob",
+     "state": "NH",
+     "elev_ft": "4360",
+     "inches": 1.0,
+     "hours": 24.0,
+     "time": "2026-11-10 12:30"
+    },
+    {
+     "id": "CHSA2",
+     "name": "Circle Hot Springs",
+     "state": "AK",
+     "elev_ft": "853",
+     "inches": 0.8,
+     "hours": 24.0,
+     "time": "2026-11-10 17:00"
+    },
+    {
+     "id": "APNA2",
+     "name": "Alpine Airstrip",
+     "state": "AK",
+     "elev_ft": "36",
+     "inches": 0.5,
+     "hours": 24.0,
+     "time": "2026-11-11 02:00"
+    },
+    {
+     "id": "AK-AB-38",
+     "name": "Eagle River 7.8 Se, Ak",
+     "state": "AK",
+     "elev_ft": "2146",
+     "inches": 0.4,
+     "hours": 24.0,
+     "time": "2026-11-10 17:00"
     }
    ]
   },
@@ -113,111 +113,111 @@
      ""
     ],
     [
-     "PTBN3",
-     "2026-11-09 12:00",
-     "2.000",
+     "AYTA2",
+     "2026-11-10 15:00",
+     "10.000",
      "24.000",
-     "1329",
-     "PITTSBURG RESERVOIR"
-    ],
-    [
-     "AK-BC-4",
-     "2026-11-09 20:45",
-     "1.500",
-     "24.000",
-     "203",
-     "SLEETMUTE 1.4 SSE, AK"
-    ],
-    [
-     "CQNA2",
-     "2026-11-09 17:00",
-     "1.000",
-     "24.000",
-     "1781",
-     "CHICKEN"
-    ],
-    [
-     "MWN",
-     "2026-11-09 12:00",
-     "0.900",
-     "24.000",
-     "5627",
-     "MOUNT WASHINGTON"
-    ],
-    [
-     "UBW",
-     "2026-11-10 03:00",
-     "0.700",
-     "24.000",
-     "72",
-     "KUPARUK,AK"
-    ],
-    [
-     "EGLA2",
-     "2026-11-09 18:00",
-     "0.500",
-     "24.000",
-     "892",
-     "EAGLE"
-    ],
-    [
-     "DUT",
-     "2026-11-09 18:00",
-     "0.400",
-     "24.000",
-     "46",
-     "DUTCH HARBOR"
+     "2707",
+     "ALYESKA WEATHER TOP"
     ],
     [
      "HCSA2",
-     "2026-11-09 16:00",
-     "0.300",
+     "2026-11-10 16:00",
+     "7.100",
      "24.000",
      "866",
      "HAINES,AK"
     ],
     [
-     "VT-OL-37",
-     "2026-11-09 13:00",
-     "0.300",
+     "AYMA2",
+     "2026-11-10 15:00",
+     "7.000",
      "24.000",
-     "1467",
-     "BROWNINGTON 4.7 ESE, VT"
+     "1644",
+     "ALYESKA WEATHER MID"
     ],
     [
-     "ABRA2",
-     "2026-11-10 04:00",
-     "0.100",
+     "MWN",
+     "2026-11-10 12:00",
+     "1.500",
      "24.000",
-     "449",
-     "AMBER LAKE NORTH"
+     "5627",
+     "MOUNT WASHINGTON"
+    ],
+    [
+     "RBNA2",
+     "2026-11-10 18:00",
+     "1.500",
+     "24.000",
+     "1519",
+     "ROBERTSON RIVER"
+    ],
+    [
+     "AYBA2",
+     "2026-11-10 15:00",
+     "1.000",
+     "24.000",
+     "371",
+     "ALYESKA BASE"
+    ],
+    [
+     "GKBN3",
+     "2026-11-10 12:30",
+     "1.000",
+     "24.000",
+     "4360",
+     "GRAY KNOB"
     ],
     [
      "CHSA2",
-     "2026-11-09 17:00",
-     "0.100",
+     "2026-11-10 17:00",
+     "0.800",
      "24.000",
      "853",
      "CIRCLE HOT SPRINGS"
     ],
     [
-     "RGNM1",
-     "2026-11-09 11:00",
-     "0.100",
+     "APNA2",
+     "2026-11-11 02:00",
+     "0.500",
      "24.000",
-     "1772",
-     "RANGELEY 2NW"
+     "36",
+     "ALPINE AIRSTRIP"
     ],
     [
      "AK-AB-38",
-     "2026-11-09 17:00",
-     "0.001",
+     "2026-11-10 17:00",
+     "0.400",
      "24.000",
      "2146",
      "EAGLE RIVER 7.8 SE, AK"
+    ],
+    [
+     "WITA2",
+     "2026-11-11 04:00",
+     "0.400",
+     "24.000",
+     "997",
+     "WHITESTONE FARMS"
+    ],
+    [
+     "HDLA2",
+     "2026-11-10 17:00",
+     "0.300",
+     "24.000",
+     "919",
+     "HARDING LAKE 1S"
+    ],
+    [
+     "KERA2",
+     "2026-11-11 06:00",
+     "0.200",
+     "24.000",
+     "1608",
+     "KEYSTONE RIDGE"
     ]
    ],
-   "count": 13190
+   "count": 13046
   }
  ]
 }
