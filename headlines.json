@@ -1,11 +1,41 @@
 {
- "updated": "2026-11-13T03:27:35.326899+00:00",
+ "updated": "2026-11-13T04:35:35.645441+00:00",
  "items": [
   {
-   "title": "Plattsburgh YMCA breaks ground on new facility on New York Road",
-   "link": "https://www.wcax.com/2026/11/13/plattsburgh-ymca-breaks-ground-new-facility-new-york-road/",
+   "title": "Diversity of Old North End highlighted in new mural",
+   "link": "https://www.mynbc5.com/article/new-mural-unveiled-at-burlington-school-takes-inspiration-from-old-north-end/74417594",
+   "source": "WPTZ",
+   "ts": 1794544080.0
+  },
+  {
+   "title": "Users report email app Microsoft Outlook is down",
+   "link": "https://www.wcax.com/2026/11/12/users-report-email-app-microsoft-outlook-is-down/",
    "source": "WCAX",
-   "ts": 1794540143.0
+   "ts": 1794544072.0
+  },
+  {
+   "title": "St. Mike\u2019s women\u2019s soccer prepares for NCAA Tournament debut",
+   "link": "https://www.wcax.com/2026/11/13/st-mikes-womens-soccer-prepares-ncaa-tournament-debut/",
+   "source": "WCAX",
+   "ts": 1794543243.0
+  },
+  {
+   "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+   "source": "NPR",
+   "ts": 1794541945.0
+  },
+  {
+   "title": "The Q Rutland opens as social space for LGBTQ+ community and allies",
+   "link": "https://www.wcax.com/2026/11/13/q-rutland-opens-social-space-lgbtq-community-allies/",
+   "source": "WCAX",
+   "ts": 1794541479.0
+  },
+  {
+   "title": "Multi-day manhunt ends with SWAT team dismantling Oklahoma house 'piece by piece'",
+   "link": "https://www.mynbc5.com/article/oklahoma-manhunt-ends-as-swat-dismantles-house/74418168",
+   "source": "WPTZ",
+   "ts": 1794540900.0
   },
   {
    "title": "Van Hollen to challenge Schumer for Senate Democratic leader, saying voters \u2018called for change\u2019",
@@ -14,40 +44,16 @@
    "ts": 1794539880.0
   },
   {
-   "title": "NFL Week 10 schedule, predictions and more",
-   "link": "https://www.mynbc5.com/article/nfl-week-10-schedule-predictions/74406713",
-   "source": "WPTZ",
-   "ts": 1794538800.0
-  },
-  {
-   "title": "Catherine, Princess of Wales opens up about her cancer recovery",
-   "link": "https://www.mynbc5.com/article/catherine-princess-of-wales-opens-up-about-her-cancer-recovery/74417476",
-   "source": "WPTZ",
-   "ts": 1794538620.0
-  },
-  {
    "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
    "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
    "source": "NPR",
    "ts": 1794533184.0
   },
   {
-   "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
-   "link": "https://www.wcax.com/2026/11/13/hidden-camera-found-bakery-bathroom-owner-arrested-separate-child-voyeurism-case-police/",
-   "source": "WCAX",
-   "ts": 1794528689.0
-  },
-  {
    "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
    "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
    "source": "NPR",
    "ts": 1794526579.0
-  },
-  {
-   "title": "Microsoft Outlook outage affects users across US",
-   "link": "https://www.wcax.com/2026/11/12/microsoft-outlook-outage-affects-users-across-us/",
-   "source": "WCAX",
-   "ts": 1794525598.0
   },
   {
    "title": "In a challenging year, Vermont\u2019s outdoor business leaders are full of optimism",
@@ -60,12 +66,6 @@
    "link": "https://vtdigger.org/2026/11/12/vermont-to-raise-minimum-wage-by-49-cents-in-january/",
    "source": "VTDigger",
    "ts": 1794523574.0
-  },
-  {
-   "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
-   "link": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
-   "source": "NPR",
-   "ts": 1794523540.0
   },
   {
    "title": "Solar panels are an eyesore",

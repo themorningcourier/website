@@ -1,41 +1,53 @@
 {
- "updated": "2026-11-13T03:27:35.326899+00:00",
+ "updated": "2026-11-13T04:35:35.645441+00:00",
  "items": [
   {
-   "title": "Noah Laba focusing on the positives of goalless Rangers campaign",
-   "link": "https://nypost.com/2026/11/12/sports/noah-laba-focusing-on-the-positives-of-goalless-rangers-campaign/",
+   "title": "Jameis Winston goes full Baha Men in viral \u2018TNF\u2019 moment: \u2018Who let the dogs out?\u2019",
+   "link": "https://nypost.com/2026/11/12/sports/jameis-winston-goes-full-baha-men-on-tnf-who-let-the-dogs-out/",
    "source": "New York Post",
-   "ts": 1794540368.0
+   "ts": 1794544441.0
   },
   {
-   "title": "Caleb Wilson out 4-6 weeks with hand fracture in big Bulls blow",
-   "link": "https://nypost.com/2026/11/12/sports/caleb-wilson-out-4-6-weeks-with-hand-fracture-in-big-bulls-blow/",
+   "title": "Microsoft Outlook outage stretches on for hours",
+   "link": "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203",
+   "source": "ABC News",
+   "ts": 1794544023.0
+  },
+  {
+   "title": "Giants blow late lead in fourth quarter to suffer heartbreaking \u2018TNF\u2019 loss to Commanders",
+   "link": "https://nypost.com/2026/11/12/sports/giants-blow-lead-suffer-heartbreaking-loss-to-commanders/",
    "source": "New York Post",
-   "ts": 1794540345.0
+   "ts": 1794543856.0
+  },
+  {
+   "title": "Justin Herbert rookie card at silent auction results in meatball sub bidding war",
+   "link": "https://nypost.com/2026/11/12/sports/justin-herbert-rookie-card-silent-auction-meatball-sub-bidding-war/",
+   "source": "New York Post",
+   "ts": 1794543225.0
   },
   {
    "title": "Van Hollen will challenge Schumer for Senate majority leader",
    "link": "https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/",
    "source": "CBS News",
-   "ts": 1794540231.0
+   "ts": 1794542318.0
   },
   {
-   "title": "Lefty Dem Chris Van Hollen challenging Schumer for Senate Majority leader, arguing voters \u2018called for change\u2019",
-   "link": "https://nypost.com/2026/11/12/us-news/chris-van-hollen-challenging-schumer-for-senate-majority-leader/",
-   "source": "New York Post",
-   "ts": 1794539867.0
+   "title": "What we know about victims of deadly Brooklyn building collapse",
+   "link": "https://abcnews.com/US/victims-deadly-brooklyn-building-collapse/story?id=138098954",
+   "source": "ABC News",
+   "ts": 1794542021.0
+  },
+  {
+   "title": "Stephen A Smith debriefs interview with President Trump, warns Democrats face steep challenge",
+   "link": "https://www.foxnews.com/media/stephen-a-smith-debriefs-interview-president-trump-warns-democrats-face-steep-challenge",
+   "source": "Fox News",
+   "ts": 1794541803.0
   },
   {
    "title": "WWE star Brie Bella talks challenges of wine business, describes perfect Las Vegas day",
    "link": "https://www.foxnews.com/outkick-sports/wwe-star-brie-bella-talks-challenges-wine-business-describes-perfect-las-vegas-day",
    "source": "Fox News",
    "ts": 1794539554.0
-  },
-  {
-   "title": "Maryland Sen. Van Hollen says he will challenge Sen. Schumer for Democratic leader",
-   "link": "https://abcnews.com/Politics/maryland-sen-chris-van-hollen-challenge-sen-chuck/story?id=138097994",
-   "source": "ABC News",
-   "ts": 1794539470.0
   },
   {
    "title": "Pete Crow-Armstrong unanimously ends Shohei Ohtani's run as NL MVP, Yordan Alvarez takes AL MVP for Astros",
@@ -50,10 +62,10 @@
    "ts": 1794538790.0
   },
   {
-   "title": "DHS touts highest ICE deportations in history, as Mullin says agency has been \u2018unleashed\u2019",
-   "link": "https://www.foxnews.com/us/dhs-touts-highest-ice-deportations-history-mullin-says-agency-unleashed",
-   "source": "Fox News",
-   "ts": 1794538499.0
+   "title": "Iran's Guards say they targeted a US early-warning radar in Bahrain",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
+   "source": "Reuters",
+   "ts": 1794538260.0
   },
   {
    "title": "Howard Lutnick agrees to testify as bipartisan pressure grows over Nvidia scandal",
@@ -62,28 +74,28 @@
    "ts": 1794537927.0
   },
   {
+   "title": "Chris Van Hollen announces run for US Senate majority leader, challenging Schumer",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDJtNkFCOFNqX2ZmeGFLZVFhcEFtWHhqQzhKMXdYZmFYdnZOZS1XSnhiRDRONGVwTUt1TmpuS1ZNMVZqZGx4RkdiUWlZTTg1WDFUS2hrbElaNjdNcDh5c3RKeXJYOG8yN3VoNlJ2dE80RV9HdUlyb1A5Y0hpMkc1ZzdZXy1DSmNkS2tUbV9jTF8xd0JLQzAyeWpxTUZ2eDVVUkZuSm5ISFZ1amxXZVVaYTlOZGlTdGhhbC1JVS13?oc=5",
+   "source": "Reuters",
+   "ts": 1794536880.0
+  },
+  {
    "title": "Crews begin excavating site of building collapse in Brooklyn",
    "link": "https://www.cbsnews.com/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/",
    "source": "CBS News",
    "ts": 1794536863.0
   },
   {
-   "title": "Microsoft Outlook outage stretches on for hours",
-   "link": "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203",
-   "source": "ABC News",
-   "ts": 1794536205.0
+   "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5",
+   "source": "Reuters",
+   "ts": 1794535680.0
   },
   {
    "title": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader",
    "link": "https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100",
    "source": "NBC News",
    "ts": 1794535391.0
-  },
-  {
-   "title": "Stocks recover from Nvidia whiplash, dollar climbs with US yields",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0cyVmdPTTRkWGt3UlMtUFRyOGhvdDNlM1FYVy1MSVN0elpQZHgtWXctVEE1M2RjQm9IcmwzUGU4cEhEQnhsQWlOX2RhUFk1NzBXeFkwM3lMek16ajB1ZmozdGpLR0cwQ2JTcGVlTTJwMEc2ZFZ3bklxeTk4eElFaHZLaw?oc=5",
-   "source": "Reuters",
-   "ts": 1794535173.0
   },
   {
    "title": "Texas Attorney General Ken Paxton has finalized his divorce",
@@ -96,18 +108,6 @@
    "link": "https://www.nbcnews.com/video/-cops-camera-crew-captures-deadly-police-shooting-during-new-mexico-ride-along-273399877650",
    "source": "NBC News",
    "ts": 1794533659.0
-  },
-  {
-   "title": "Trump had urged Jensen Huang to fight for his job, New York Times reports",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1R2ZnVrdXdnOTROYTRFd0tjRUJhYmgxSEVIOG1VOHowYVNCQm5qNHk2ZVRFQWhXUGtyNVRKcU5fNWRxSmJUZ1FYVWYxdkJ4a2h2TzhHWmhwc2VyTkhqOGU0WU5ZZWJJMFd2RGg5dmFZS3VPclR3c2ZyQ3pPZmU5VE5WMHExQWxTN2pESlFxbC1MclVJNUtIU1JHamstZVJDakltZTFWYXc4bVdkSXBaYXFR?oc=5",
-   "source": "Reuters",
-   "ts": 1794529860.0
-  },
-  {
-   "title": "US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWhFaS12YTJmTFZLWF94WFZXRndrbWxyWkhSX2FLSXFvSFBFbGR6emtfcmVPckRNZjlKYWYwX21Ha3hubnhEUmQ4bW91UndSbmZFRkd5blZyOFdqaC0yRHZXOFhWQjJuOTdrQlZJVXB4S2tvWFI0aVBpdU1mMjRnNy1TU1ZxajZ1WlNBdm9fWDFNNVpDMUFVb0hGSUVOYUE3Ui1USTRSX2w3T0dCWXZiTmpiMA?oc=5",
-   "source": "Reuters",
-   "ts": 1794528900.0
   }
  ]
 }

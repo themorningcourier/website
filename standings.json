@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T03:27:35.326899+00:00",
+ "updated": "2026-11-13T04:35:35.645441+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -123,8 +123,8 @@
     {
      "name": "Giants",
      "abbr": "NYG",
-     "rec": "5-2-1",
-     "pct": 0.6875
+     "rec": "5-3-1",
+     "pct": 0.6111111
     },
     {
      "name": "Cowboys",
@@ -135,8 +135,8 @@
     {
      "name": "Commanders",
      "abbr": "WSH",
-     "rec": "2-5-1",
-     "pct": 0.3125
+     "rec": "3-5-1",
+     "pct": 0.3888889
     },
     {
      "name": "Eagles",
