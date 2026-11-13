@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-13T09:37:31.891151+00:00",
+ "updated": "2026-11-13T11:02:25.701421+00:00",
  "items": [
+  {
+   "title": "Holiday travelers may be paying more this season. These airports had higher fares in June",
+   "link": "https://www.mynbc5.com/article/domestic-airfares-climb-holiday-travel-airports/74376734",
+   "source": "WPTZ",
+   "ts": 1794567600.0
+  },
+  {
+   "title": "'A change from status quo': Maryland Sen. Chris Van Hollen announces bid for Senate Majority Leader",
+   "link": "https://www.mynbc5.com/article/a-change-from-status-quo-maryland-sen-chris-van-hollen-announces-bid-for-senate-majority-leader/74420674",
+   "source": "WPTZ",
+   "ts": 1794567540.0
+  },
+  {
+   "title": "Watch: Snowy roads, slick travel early Friday in southern Vermont",
+   "link": "https://www.mynbc5.com/article/watch-snowy-roads-slick-travel-early-friday-in-southern-vermont/74421214",
+   "source": "WPTZ",
+   "ts": 1794567300.0
+  },
+  {
+   "title": "Hegseth awards medal to soldier who chastised him",
+   "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
+   "source": "NPR",
+   "ts": 1794565628.0
+  },
+  {
+   "title": "Vermont adds homeless shelter capacity, but it\u2019s still not enough to meet the need",
+   "link": "https://vtdigger.org/2026/11/13/vermont-adds-homeless-shelter-capacity-but-its-still-not-enough-to-meet-the-need/",
+   "source": "VTDigger",
+   "ts": 1794564900.0
+  },
+  {
+   "title": "Rivers in the sky are raining down on the Pacific Northwest. What are they?",
+   "link": "https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
+   "source": "NPR",
+   "ts": 1794564060.0
+  },
+  {
+   "title": "SpaceX's giant rocket may leave NASA in the dust",
+   "link": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
+   "source": "NPR",
+   "ts": 1794564000.0
+  },
+  {
+   "title": "Former nonprofit employee who helped foster children arrested on child endangerment charges",
+   "link": "https://www.wcax.com/2026/11/13/nonprofit-employee-who-works-with-foster-children-arrested-child-endangerment-charge/",
+   "source": "WCAX",
+   "ts": 1794563478.0
+  },
   {
    "title": "More mountain snow showers into the weekend",
    "link": "https://www.wcax.com/2026/11/13/more-mountain-snow-showers-into-weekend/",
@@ -14,48 +62,6 @@
    "ts": 1794551769.0
   },
   {
-   "title": "Soldier returning home after 84 years following a DNA match",
-   "link": "https://www.mynbc5.com/article/soldier-returning-home-following-dna-match/74418693",
-   "source": "WPTZ",
-   "ts": 1794547380.0
-  },
-  {
-   "title": "Plattsburgh men\u2019s soccer, head coach Chris Taylor relishing NCAA opportunity",
-   "link": "https://www.wcax.com/2026/11/13/plattsburgh-mens-soccer-head-coach-chris-taylor-relishing-ncaa-opportunity/",
-   "source": "WCAX",
-   "ts": 1794546844.0
-  },
-  {
-   "title": "VIDEO: Frankie Muniz says he's recovering after crash at Daytona International Speedway",
-   "link": "https://www.mynbc5.com/article/frankie-muniz-recovering-after-daytona-crash/74418573",
-   "source": "WPTZ",
-   "ts": 1794546300.0
-  },
-  {
-   "title": "Emmett LaClair wins NBC5 Play of the Week!",
-   "link": "https://www.mynbc5.com/article/nbc5-play-of-the-week-november-9-through-12/74382688",
-   "source": "WPTZ",
-   "ts": 1794545220.0
-  },
-  {
-   "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
-   "link": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
-   "source": "NPR",
-   "ts": 1794541945.0
-  },
-  {
-   "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
-   "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
-   "source": "NPR",
-   "ts": 1794533184.0
-  },
-  {
-   "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-   "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
-   "source": "NPR",
-   "ts": 1794526579.0
-  },
-  {
    "title": "In a challenging year, Vermont\u2019s outdoor business leaders are full of optimism",
    "link": "https://vtdigger.org/2026/11/12/in-a-challenging-year-vermonts-outdoor-business-leaders-are-full-of-optimism/",
    "source": "VTDigger",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/12/vermont-to-raise-minimum-wage-by-49-cents-in-january/",
    "source": "VTDigger",
    "ts": 1794523574.0
-  },
-  {
-   "title": "Solar panels are an eyesore",
-   "link": "https://vtdigger.org/2026/11/12/opinion-solar-panels-are-an-eyesore/",
-   "source": "VTDigger",
-   "ts": 1794521952.0
   }
  ]
 }
