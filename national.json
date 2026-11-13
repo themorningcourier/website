@@ -1,23 +1,89 @@
 {
- "updated": "2026-11-13T14:31:40.975499+00:00",
+ "updated": "2026-11-13T15:22:20.056873+00:00",
  "items": [
   {
-   "title": "New Shows & Movies To Watch This Weekend: \u2018The Secret Lives of Mormon Wives: Orange County\u2019 on Hulu, \u2018The Good Daughter\u2019 on Peacock + More",
-   "link": "https://decider.com/2026/11/13/best-new-movies-shows-watch-weekend-netflix-hulu-amazon-prime-hbo-november-13-2026/",
+   "title": "Designer shopper blasts RealReal after paying $250 more for fake \u2018vintage\u2019 coat",
+   "link": "https://nypost.com/2026/11/13/lifestyle/the-realreal-slammed-over-595-vintage-coat-controversy/",
    "source": "New York Post",
-   "ts": 1794580200.0
+   "ts": 1794583213.0
   },
   {
-   "title": "Don\u2019t sleep on this early Black Friday beauty deal: Anua\u2019s viral PDRN cream is down to $24",
-   "link": "https://nypost.com/2026/11/13/shopping/anua-pdrn-cream-the-k-beauty-early-black-friday-deal-to-shop-now/",
+   "title": "Explosive device tossed at cop car in shocking dawn attack \u2014 detonating with officer inside",
+   "link": "https://nypost.com/2026/11/13/us-news/arizona-police-officer-injured-after-explosive-device-thrown-at-patrol-car-in-mesa/",
    "source": "New York Post",
-   "ts": 1794580200.0
+   "ts": 1794583196.0
   },
   {
-   "title": "Is There a New \u2018Outlander\u2019 This Week? How Many \u2018Blood of My Blood\u2019 Season 2 Episodes Are Left?",
-   "link": "https://decider.com/2026/11/13/is-there-a-new-outlander-this-week-how-many-blood-of-my-blood-season-2-episodes-are-left/",
+   "title": "China warns against new U.S. export controls on computer chips",
+   "link": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
+   "source": "CBS News",
+   "ts": 1794583178.0
+  },
+  {
+   "title": "Company under scrutiny for ties to Nvidia and China",
+   "link": "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/",
+   "source": "CBS News",
+   "ts": 1794583148.0
+  },
+  {
+   "title": "Donovan Mitchell fires back at Charles Barkley for saying Cavaliers \u2018suck\u2019: \u2018Who gives a f\u2013k?\u2019",
+   "link": "https://nypost.com/2026/11/13/sports/donovan-mitchell-fires-back-at-charles-barkley-for-saying-cavaliers-suck/",
    "source": "New York Post",
-   "ts": 1794580200.0
+   "ts": 1794583080.0
+  },
+  {
+   "title": "WATCH:  Heartwarming update on Punch the Monkey",
+   "link": "https://abcnews.com/video/138104775/",
+   "source": "ABC News",
+   "ts": 1794582982.0
+  },
+  {
+   "title": "Critics say Lutnick failed to cut off diversion of Nvidia chips to China",
+   "link": "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/",
+   "source": "CBS News",
+   "ts": 1794582931.0
+  },
+  {
+   "title": "WATCH:  Empire State Building climbers appear in court",
+   "link": "https://abcnews.com/video/138104770/",
+   "source": "ABC News",
+   "ts": 1794582831.0
+  },
+  {
+   "title": "Iran live updates: US denies Iran's claim that it destroyed US radar in Bahrain",
+   "link": "https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256",
+   "source": "ABC News",
+   "ts": 1794581244.0
+  },
+  {
+   "title": "Wall St opens higher after soft producer prices data",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5",
+   "source": "Reuters",
+   "ts": 1794581023.0
+  },
+  {
+   "title": "'I've never had a show canceled:' Taylor Sheridan explains his big move to NBCUniversal",
+   "link": "https://www.foxnews.com/outkick-culture/ive-never-had-show-canceled-taylor-sheridan-explains-big-move-nbcuniversal",
+   "source": "Fox News",
+   "ts": 1794580885.0
+  },
+  {
+   "title": "Alito warns against congressional Supreme Court meddling, says some lower court judges 'have gone far astray'",
+   "link": "https://www.foxnews.com/politics/alito-warns-against-congressional-supreme-court-meddling-says-some-lower-court-judges-have-gone-far-astray",
+   "source": "Fox News",
+   "ts": 1794580553.0
+  },
+  {
+   "title": "PODCAST: Chips down after Huang exit?",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZF81TVZIV1dYTDNRVmdFNXRrRWoxa2xqX294U2tXYlo0WEpvODY5U2pQS3ZXZlpTeW9mb05xOEFOQjY1dXQzQ1pQeEVpMFdFd1JvaGQ4MXRHSEh4ZDdKTmVVTEhvbjFpVTNzN2ROOC1mbFBNS1NINTBpNVcwT1J4TWZEbUdKOTNGUU1DTUZLby1UeFIwS3BB?oc=5",
+   "source": "Reuters",
+   "ts": 1794580414.0
+  },
+  {
+   "title": "Ella Langley releases new song 'Here Then We're Gone' for 'Hunger Games: Sunrise on the Reaping'",
+   "link": "https://www.foxnews.com/outkick-culture/ella-langley-releases-new-song-here-then-were-gone-hunger-games-sunrise-reaping",
+   "source": "Fox News",
+   "ts": 1794580169.0
   },
   {
    "title": "Pope Leo makes emotional return to his \u2018beloved diocese of Chiclayo\u2019",
@@ -32,76 +98,10 @@
    "ts": 1794580070.0
   },
   {
-   "title": "Star golfer has a new appreciation for SI swimsuit models after recent shoot, Herbert auction & Herbie's dog",
-   "link": "https://www.foxnews.com/outkick-sports/star-golfer-new-appreciation-si-swimsuit-models-recent-shoot-herbert-auction-herbies-dog",
-   "source": "Fox News",
-   "ts": 1794579989.0
-  },
-  {
-   "title": "Iran live updates: 'We don't need a deal with Iran,' Trump says",
-   "link": "https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256",
-   "source": "ABC News",
-   "ts": 1794579976.0
-  },
-  {
-   "title": "Microsoft seeing \"continued recovery\" amid major worldwide outage",
-   "link": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
-   "source": "CBS News",
-   "ts": 1794579600.0
-  },
-  {
-   "title": "SOUND OFF: What's Chuck Schumer's future with Senate Dems?",
-   "link": "https://www.foxnews.com/politics/sound-off-whats-chuck-schumers-future-senate-dems",
-   "source": "Fox News",
-   "ts": 1794579510.0
-  },
-  {
    "title": "SpaceX to attempt first Starship spacecraft recovery on land in 15th flight",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw?oc=5",
    "source": "Reuters",
    "ts": 1794579384.0
-  },
-  {
-   "title": "NASCAR star delivers a brutal reality check after fans turned off the championship race",
-   "link": "https://www.foxnews.com/outkick-sports/nascar-star-delivers-brutal-reality-check-fans-turned-off-championship-race",
-   "source": "Fox News",
-   "ts": 1794579043.0
-  },
-  {
-   "title": "Search for next Nvidia CEO begins after Jensen Huang's resignation",
-   "link": "https://www.cbsnews.com/video/search-for-next-nvidia-ceo-begins-after-jensen-huangs-resignation/",
-   "source": "CBS News",
-   "ts": 1794579040.0
-  },
-  {
-   "title": "1 killed, 5 injured in shooting in D.C.; suspect is dead",
-   "link": "https://www.cbsnews.com/news/washington-dc-shooting-gym-vida/",
-   "source": "CBS News",
-   "ts": 1794578735.0
-  },
-  {
-   "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5",
-   "source": "Reuters",
-   "ts": 1794578652.0
-  },
-  {
-   "title": "WATCH:  SS United States sinks off of Florida coast to become artificial reef",
-   "link": "https://abcnews.com/video/138096476/",
-   "source": "ABC News",
-   "ts": 1794577847.0
-  },
-  {
-   "title": "Republicans dazed by midterm election defeats grapple with what went wrong",
-   "link": "https://abcnews.com/Politics/wireStory/republicans-dazed-midterm-election-defeats-grapple-wrong-138104752",
-   "source": "ABC News",
-   "ts": 1794577594.0
-  },
-  {
-   "title": "Moscow car bomb wounds former aide to pro-Russian Ukrainian politician",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcVI2bjBWdjllV2NjNmRKS3dFemNKemhlSnFXWEJGQjU4dkhJcHJlWEZKMVdPVE1PWGw0R3JjNXdLenR5OEZ5ODZMZkN6am5UNVdtdHM5LUhUdldZMVAtUVQzOVQ4X0p3Yk1odW5wc250MENjNUZfeXM1TXJTaUV1M01keXM2RmNzeE5TUmJKNGJsNmdiRjhyN3owWS1pWWlTcWoxN2gzQ3d6LWtfSmRvREphZklMNG9V?oc=5",
-   "source": "Reuters",
-   "ts": 1794575512.0
   },
   {
    "title": "Van Hollen Challenges Schumer for Senate Majority Leader",
