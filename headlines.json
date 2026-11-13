@@ -1,47 +1,59 @@
 {
- "updated": "2026-11-13T21:25:26.929121+00:00",
+ "updated": "2026-11-13T22:22:50.017850+00:00",
  "items": [
   {
-   "title": "FAA issues ground stop at all U.S. airports",
-   "link": "https://www.wcax.com/2026/11/13/all-us-airports-ground-stopped-faa-says/",
-   "source": "WCAX",
-   "ts": 1794604773.0
-  },
-  {
-   "title": "LIVE: Tanker collides with river cruiser carrying nearly 150 people near Port of New Orleans, rescues underway",
-   "link": "https://www.wcax.com/2026/11/13/river-cruiser-carrying-nearly-150-passengers-taking-water-near-port-new-orleans-rescue-efforts-underway/",
-   "source": "WCAX",
-   "ts": 1794604714.0
-  },
-  {
-   "title": "New Orleans cruise line collision: What we know",
-   "link": "https://www.mynbc5.com/article/new-orleans-mississippi-river-cruise-ship-collision/74427111",
+   "title": "Flights halted at airports across US due to air traffic control communications problems, FAA says",
+   "link": "https://www.mynbc5.com/article/faa-nationwide-ground-stop-airports/74427201",
    "source": "WPTZ",
-   "ts": 1794604680.0
+   "ts": 1794608220.0
   },
   {
-   "title": "Scattered mixed showers develop tonight bringing season\u2019s first snow for some in the northern tier",
-   "link": "https://www.wcax.com/2026/11/13/scattered-mixed-showers-develop-tonight-bringing-seasons-first-snow-some-northern-tier/",
+   "title": "Hunters prepare for major rule change in Vermont\u2019s deer rifle hunting season",
+   "link": "https://vtdigger.org/2026/11/13/hunters-prepare-for-major-rule-change-in-vermonts-deer-rifle-hunting-season/",
+   "source": "VTDigger",
+   "ts": 1794608218.0
+  },
+  {
+   "title": "Clinton County warming center plans move, expansion ahead of winter",
+   "link": "https://www.wcax.com/2026/11/13/clinton-county-warming-center-plans-move-more-beds-ahead-winter/",
    "source": "WCAX",
-   "ts": 1794604403.0
+   "ts": 1794607785.0
   },
   {
-   "title": "Vermont Supreme Court reverses dismissal of murder charge in death of NY woman",
-   "link": "https://www.mynbc5.com/article/vermont-supreme-court-reversal-moffitt-hildenbrandt/74427100",
+   "title": "New Hampshire man arrested after threatening store employees with a knife",
+   "link": "https://www.mynbc5.com/article/new-hampshire-armed-robbery-claremont/74426936",
    "source": "WPTZ",
-   "ts": 1794604320.0
+   "ts": 1794607440.0
+  },
+  {
+   "title": "FAA grounds all flights nationwide due to \u2018extraordinary circumstances\u2019",
+   "link": "https://www.wcax.com/2026/11/13/faa-grounds-all-flights-nationwide-due-extraordinary-circumstances/",
+   "source": "WCAX",
+   "ts": 1794607292.0
+  },
+  {
+   "title": "FAA issues nationwide ground stop for all U.S. airports",
+   "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+   "source": "NPR",
+   "ts": 1794606913.0
+  },
+  {
+   "title": "QUIZ: This week in national news",
+   "link": "https://www.mynbc5.com/article/microsoft-sam-hartman-nvidia-building-collapse-news-quiz/74427138",
+   "source": "WPTZ",
+   "ts": 1794606840.0
+  },
+  {
+   "title": "Vermont officials, criminal justice reform advocates explore \u2018second-look\u2019 sentencing legislation",
+   "link": "https://www.wcax.com/2026/11/13/vermont-officials-criminal-justice-reform-advocates-explore-second-look-sentencing-legislation/",
+   "source": "WCAX",
+   "ts": 1794606472.0
   },
   {
    "title": "National hatchery closure in Bethel has Vermont officials concerned",
    "link": "https://vtdigger.org/2026/11/13/national-hatchery-closure-in-bethel-has-vermont-officials-concerned/",
    "source": "VTDigger",
    "ts": 1794604157.0
-  },
-  {
-   "title": "Summit snow forecast at local ski mountains",
-   "link": "https://www.mynbc5.com/article/summit-snow-forecast-at-local-ski-mountains-11-13-26/74427081",
-   "source": "WPTZ",
-   "ts": 1794603720.0
   },
   {
    "title": "The myth of the fleeing rich just won\u2019t die",
@@ -60,18 +72,6 @@
    "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
    "source": "NPR",
    "ts": 1794589200.0
-  },
-  {
-   "title": "Does Europe regret its bet on U.S. defense?",
-   "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
-   "source": "NPR",
-   "ts": 1794586663.0
-  },
-  {
-   "title": "Vermont adds homeless shelter capacity, but it\u2019s still not enough to meet the need",
-   "link": "https://vtdigger.org/2026/11/13/vermont-adds-homeless-shelter-capacity-but-its-still-not-enough-to-meet-the-need/",
-   "source": "VTDigger",
-   "ts": 1794564900.0
   }
  ]
 }
