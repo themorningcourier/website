@@ -1,47 +1,83 @@
 {
- "updated": "2026-11-13T15:22:20.056873+00:00",
+ "updated": "2026-11-13T16:30:01.431467+00:00",
  "items": [
   {
-   "title": "Designer shopper blasts RealReal after paying $250 more for fake \u2018vintage\u2019 coat",
-   "link": "https://nypost.com/2026/11/13/lifestyle/the-realreal-slammed-over-595-vintage-coat-controversy/",
+   "title": "Is Macy\u2019s having a moment? Early Black Friday sale has diamonds, designers and more deals",
+   "link": "https://nypost.com/shopping/macys-early-black-friday-sale-has-gifts-up-to-70-off/",
    "source": "New York Post",
-   "ts": 1794583213.0
+   "ts": 1794587327.0
   },
   {
-   "title": "Explosive device tossed at cop car in shocking dawn attack \u2014 detonating with officer inside",
-   "link": "https://nypost.com/2026/11/13/us-news/arizona-police-officer-injured-after-explosive-device-thrown-at-patrol-car-in-mesa/",
+   "title": "Commanders troll Giants for Jameis Winston\u2019s \u2018Who let the dogs out?\u2019 failure",
+   "link": "https://nypost.com/2026/11/13/sports/commanders-troll-jameis-winstons-who-let-the-dogs-out-failure/",
    "source": "New York Post",
-   "ts": 1794583196.0
+   "ts": 1794587183.0
+  },
+  {
+   "title": "Hudson Williams, 25, and Carrie Anne-Moss, 59, share intimate insight into age-gap sex scene: \u2018There was definitely an energy\u2019",
+   "link": "https://pagesix.com/2026/11/13/entertainment/hudson-williams-25-and-carrie-anne-moss-59-share-insight-into-initimate-scene/",
+   "source": "New York Post",
+   "ts": 1794587143.0
   },
   {
    "title": "China warns against new U.S. export controls on computer chips",
    "link": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
    "source": "CBS News",
-   "ts": 1794583178.0
+   "ts": 1794586995.0
   },
   {
-   "title": "Company under scrutiny for ties to Nvidia and China",
-   "link": "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/",
+   "title": "Missing Australian boy found alive after 6 days in the wilderness",
+   "link": "https://www.cbsnews.com/video/missing-australian-boy-found-alive-after-6-days-in-the-wilderness/",
    "source": "CBS News",
-   "ts": 1794583148.0
+   "ts": 1794586887.0
   },
   {
-   "title": "Donovan Mitchell fires back at Charles Barkley for saying Cavaliers \u2018suck\u2019: \u2018Who gives a f\u2013k?\u2019",
-   "link": "https://nypost.com/2026/11/13/sports/donovan-mitchell-fires-back-at-charles-barkley-for-saying-cavaliers-suck/",
-   "source": "New York Post",
-   "ts": 1794583080.0
+   "title": "Exclusive discounts from CBS Mornings Deals",
+   "link": "https://www.cbsnews.com/video/cbs-mornings-deals-111326/",
+   "source": "CBS News",
+   "ts": 1794586483.0
+  },
+  {
+   "title": "Trump's spy chiefs put Republican leaders on the clock over 'huge priority' as power shift looms over Congress",
+   "link": "https://www.foxnews.com/politics/trumps-spy-chiefs-put-republican-leaders-clock-huge-priority-power-shift-looms-congress",
+   "source": "Fox News",
+   "ts": 1794586281.0
+  },
+  {
+   "title": "Could AI reduce shipping costs and grocery bills?",
+   "link": "https://www.foxnews.com/tech/could-ai-reduce-shipping-costs-grocery-bills",
+   "source": "Fox News",
+   "ts": 1794586131.0
   },
   {
    "title": "WATCH:  Heartwarming update on Punch the Monkey",
    "link": "https://abcnews.com/video/138104775/",
    "source": "ABC News",
-   "ts": 1794582982.0
+   "ts": 1794585399.0
   },
   {
-   "title": "Critics say Lutnick failed to cut off diversion of Nvidia chips to China",
-   "link": "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/",
-   "source": "CBS News",
-   "ts": 1794582931.0
+   "title": "Americans warned to avoid crowds in major city amid unprecedented police operation",
+   "link": "https://www.foxnews.com/travel/americans-warned-avoid-crowds-major-city-amid-unprecedented-police-operation",
+   "source": "Fox News",
+   "ts": 1794585275.0
+  },
+  {
+   "title": "Peruvians flock to Mass with Pope Leo in city he served as bishop",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUsxbGhoNzZ3TEh0eUlza0lFUTZVbXRTRkpJT19aLWNiWkVieDN6eHZZSFBYNnhmemhUVExZYjd4THZsR0pIRnRfUmtUUnVkbUVoUnV5VFVteFdxQ1ZucDlGSjRDUjR2OEVMTWN6NUJHQUlNWUNwRU0zSHRmN3g3YkxxRVlBdEhxN2hYWDJjSUNDcDZNOWxGR3g3MjdKR0xKakpJ?oc=5",
+   "source": "Reuters",
+   "ts": 1794584661.0
+  },
+  {
+   "title": "Bessent, Fed's Goolsbee divided on role of energy shock in inflation",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGl4M3I4cEx4Q1pteUwtd3I3OFBYWWFUU096V1Y3X2oxdl9KOFprODJXTEoxallGdk8tXzNuMzlWSXdjTTBFNjUxUHFwWmdVZTFHeTh0TEVYcWtNSXI2aUJkRFdKVFgtNmpWS01zTlhMS21ndThYQjY2bDhXSFpnV2c0Sl8wSzdBWnJzNmZVR05iUGdxU3BCUnBIYlcteEQtRkNMbDBQRF82QXVESmZSRGNvZG9yaGtfbm5QNHBTUE1jNjA?oc=5",
+   "source": "Reuters",
+   "ts": 1794584086.0
+  },
+  {
+   "title": "Bessent blames Commerce Dept over lack of export controls for Nvidia partner Megaspeed",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRNS3BqaXcwNDJlOTNLZDU2NkdSbmtHUFFPNFJTRFBvdXVselAtVGkyU25RR3Q0Q1djS0N1TDM0VnpNRXNHWmxiVE15bVduU3BUMUlONURZUC1EbTNIa1FqX3liOHBiOUk2S0xKSDMtS0lnZjg3ajVZdTVtTnl3NC1vTWNDM0M4SEFKV3d4N3dieXdvaWhNdEtYc2pvdy0xcVI3VDBGQXM4N00?oc=5",
+   "source": "Reuters",
+   "ts": 1794583566.0
   },
   {
    "title": "WATCH:  Empire State Building climbers appear in court",
@@ -56,36 +92,6 @@
    "ts": 1794581244.0
   },
   {
-   "title": "Wall St opens higher after soft producer prices data",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5",
-   "source": "Reuters",
-   "ts": 1794581023.0
-  },
-  {
-   "title": "'I've never had a show canceled:' Taylor Sheridan explains his big move to NBCUniversal",
-   "link": "https://www.foxnews.com/outkick-culture/ive-never-had-show-canceled-taylor-sheridan-explains-big-move-nbcuniversal",
-   "source": "Fox News",
-   "ts": 1794580885.0
-  },
-  {
-   "title": "Alito warns against congressional Supreme Court meddling, says some lower court judges 'have gone far astray'",
-   "link": "https://www.foxnews.com/politics/alito-warns-against-congressional-supreme-court-meddling-says-some-lower-court-judges-have-gone-far-astray",
-   "source": "Fox News",
-   "ts": 1794580553.0
-  },
-  {
-   "title": "PODCAST: Chips down after Huang exit?",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZF81TVZIV1dYTDNRVmdFNXRrRWoxa2xqX294U2tXYlo0WEpvODY5U2pQS3ZXZlpTeW9mb05xOEFOQjY1dXQzQ1pQeEVpMFdFd1JvaGQ4MXRHSEh4ZDdKTmVVTEhvbjFpVTNzN2ROOC1mbFBNS1NINTBpNVcwT1J4TWZEbUdKOTNGUU1DTUZLby1UeFIwS3BB?oc=5",
-   "source": "Reuters",
-   "ts": 1794580414.0
-  },
-  {
-   "title": "Ella Langley releases new song 'Here Then We're Gone' for 'Hunger Games: Sunrise on the Reaping'",
-   "link": "https://www.foxnews.com/outkick-culture/ella-langley-releases-new-song-here-then-were-gone-hunger-games-sunrise-reaping",
-   "source": "Fox News",
-   "ts": 1794580169.0
-  },
-  {
    "title": "Pope Leo makes emotional return to his \u2018beloved diocese of Chiclayo\u2019",
    "link": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-peru-emotional-return-diocese-chiclayo-rcna608940",
    "source": "NBC News",
@@ -96,12 +102,6 @@
    "link": "https://www.nbcnews.com/politics/white-house/trump-cuba-military-force-rubio-rcna609138",
    "source": "NBC News",
    "ts": 1794580070.0
-  },
-  {
-   "title": "SpaceX to attempt first Starship spacecraft recovery on land in 15th flight",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw?oc=5",
-   "source": "Reuters",
-   "ts": 1794579384.0
   },
   {
    "title": "Van Hollen Challenges Schumer for Senate Majority Leader",
