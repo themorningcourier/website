@@ -1,53 +1,101 @@
 {
- "updated": "2026-11-13T16:30:01.431467+00:00",
+ "updated": "2026-11-13T17:28:57.598969+00:00",
  "items": [
   {
-   "title": "Is Macy\u2019s having a moment? Early Black Friday sale has diamonds, designers and more deals",
-   "link": "https://nypost.com/shopping/macys-early-black-friday-sale-has-gifts-up-to-70-off/",
-   "source": "New York Post",
-   "ts": 1794587327.0
-  },
-  {
-   "title": "Commanders troll Giants for Jameis Winston\u2019s \u2018Who let the dogs out?\u2019 failure",
-   "link": "https://nypost.com/2026/11/13/sports/commanders-troll-jameis-winstons-who-let-the-dogs-out-failure/",
-   "source": "New York Post",
-   "ts": 1794587183.0
-  },
-  {
-   "title": "Hudson Williams, 25, and Carrie Anne-Moss, 59, share intimate insight into age-gap sex scene: \u2018There was definitely an energy\u2019",
-   "link": "https://pagesix.com/2026/11/13/entertainment/hudson-williams-25-and-carrie-anne-moss-59-share-insight-into-initimate-scene/",
-   "source": "New York Post",
-   "ts": 1794587143.0
-  },
-  {
-   "title": "China warns against new U.S. export controls on computer chips",
-   "link": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
+   "title": "As Americans drown in medical debt, how one family found a lifeline",
+   "link": "https://www.cbsnews.com/news/medical-debt-credit-card-repayment-plan/",
    "source": "CBS News",
-   "ts": 1794586995.0
+   "ts": 1794590856.0
   },
   {
-   "title": "Missing Australian boy found alive after 6 days in the wilderness",
-   "link": "https://www.cbsnews.com/video/missing-australian-boy-found-alive-after-6-days-in-the-wilderness/",
+   "title": "The Giants hung Jameis Winston out to dry \u2014 and can only blame themselves",
+   "link": "https://nypost.com/2026/11/13/sports/the-giants-hung-jameis-winston-out-to-dry/",
+   "source": "New York Post",
+   "ts": 1794590817.0
+  },
+  {
+   "title": "Best pet insurance companies of 2026",
+   "link": "https://www.cbsnews.com/moneywatch/insurance/pets/",
    "source": "CBS News",
-   "ts": 1794586887.0
+   "ts": 1794590806.0
   },
   {
-   "title": "Exclusive discounts from CBS Mornings Deals",
-   "link": "https://www.cbsnews.com/video/cbs-mornings-deals-111326/",
+   "title": "Heartbroken \u2018General Hospital\u2019 star reveals her husband has died after \u2018sudden\u2019 illness: \u2018We were supposed to have more time\u2019",
+   "link": "https://pagesix.com/2026/11/13/celebrity-news/heartbroken-general-hospital-star-reveals-her-husband-has-died-after-a-sudden-illness/",
+   "source": "New York Post",
+   "ts": 1794590758.0
+  },
+  {
+   "title": "California killer\u2019s chilling courtroom message to victim\u2019s family as he learns fate for dad\u2019s brutal murder",
+   "link": "https://nypost.com/2026/11/13/us-news/damien-murphy-sentenced-to-32-years-for-voluntary-manslaughter-in-fresno-shooting/",
+   "source": "New York Post",
+   "ts": 1794590549.0
+  },
+  {
+   "title": "Criminal probe launched into cruise ship over potential \"magic pipe\"",
+   "link": "https://www.cbsnews.com/news/coast-guard-msc-poesia-criminal-investigation-potential-magic-pipe/",
    "source": "CBS News",
-   "ts": 1794586483.0
+   "ts": 1794590505.0
   },
   {
-   "title": "Trump's spy chiefs put Republican leaders on the clock over 'huge priority' as power shift looms over Congress",
-   "link": "https://www.foxnews.com/politics/trumps-spy-chiefs-put-republican-leaders-clock-huge-priority-power-shift-looms-congress",
+   "title": "The quarterback market in college football is out of control, and Kamario Taylor is just the beginning",
+   "link": "https://www.foxnews.com/outkick-sports/quarterback-market-college-football-out-of-control-kamario-taylor-beginning",
    "source": "Fox News",
-   "ts": 1794586281.0
+   "ts": 1794590361.0
   },
   {
-   "title": "Could AI reduce shipping costs and grocery bills?",
-   "link": "https://www.foxnews.com/tech/could-ai-reduce-shipping-costs-grocery-bills",
+   "title": "Ravens finally reveal Lamar Jackson's official return timeline and QB could miss rest of regular season",
+   "link": "https://www.foxnews.com/outkick-sports/ravens-reveal-lamar-jackson-official-return-timeline-qb-could-miss-rest-regular-season",
    "source": "Fox News",
-   "ts": 1794586131.0
+   "ts": 1794590345.0
+  },
+  {
+   "title": "Why Virginia Cavaliers' fast-paced offense makes them the pick over Maryland at -5.5",
+   "link": "https://www.foxnews.com/outkick-betting/why-virginia-cavaliers-fast-paced-offense-makes-them-pick-over-maryland-5-5",
+   "source": "Fox News",
+   "ts": 1794590289.0
+  },
+  {
+   "title": "Weekend storm brings season\u2019s first widespread freeze to millions across U.S.",
+   "link": "https://www.nbcnews.com/weather/storms/weekend-storm-bring-seasons-first-widespread-freeze-millions-us-rcna609181",
+   "source": "NBC News",
+   "ts": 1794590232.0
+  },
+  {
+   "title": "How US tech pain is European stock markets' gain",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5",
+   "source": "Reuters",
+   "ts": 1794589424.0
+  },
+  {
+   "title": "Feds add D.C. terrorism charge for White House Correspondents\u2019 Dinner gunman",
+   "link": "https://www.nbcnews.com/politics/justice-department/feds-add-dc-terrorism-charge-white-house-correspondents-dinner-gunman-rcna609174",
+   "source": "NBC News",
+   "ts": 1794589023.0
+  },
+  {
+   "title": "Alex Murdaugh seeks dismissal of murder case, says agent lied to grand jury",
+   "link": "https://www.nbcnews.com/video/alex-murdaugh-seeks-dismissal-of-murder-case-says-agent-lied-to-grand-jury-273454149936",
+   "source": "NBC News",
+   "ts": 1794588550.0
+  },
+  {
+   "title": "Iran live updates: US denies Iran's claim that it destroyed US radar in Bahrain",
+   "link": "https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256",
+   "source": "ABC News",
+   "ts": 1794588458.0
+  },
+  {
+   "title": "SpaceX to attempt first Starship spacecraft recovery on land in 15th flight",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw?oc=5",
+   "source": "Reuters",
+   "ts": 1794586544.0
+  },
+  {
+   "title": "White House urges Congress to provide $30.1 billion for aviation reform",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNkVZemRYZzluclpNcE5QNFpDTDUtMzRTaWxjWVpIOUU4WDBHUnlkSDNfbVNoMlh1Z3BER0dVVzRUUm5BWm5FUTQ3aHFQNGhDb1o3MFR4ZktEZEp1Q1dzNHcyUlBFV3NaTkUzRXlkV3FQbjgtSFhHR0N6Uzd4M3RtRGRXbDFfcFdpSzJjLVhfTE53eF9IWDJzNkN0VHJpM2E5YW5ubHhzVUUzRE95LTFKLW55VmlrUQ?oc=5",
+   "source": "Reuters",
+   "ts": 1794586410.0
   },
   {
    "title": "WATCH:  Heartwarming update on Punch the Monkey",
@@ -56,58 +104,10 @@
    "ts": 1794585399.0
   },
   {
-   "title": "Americans warned to avoid crowds in major city amid unprecedented police operation",
-   "link": "https://www.foxnews.com/travel/americans-warned-avoid-crowds-major-city-amid-unprecedented-police-operation",
-   "source": "Fox News",
-   "ts": 1794585275.0
-  },
-  {
-   "title": "Peruvians flock to Mass with Pope Leo in city he served as bishop",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUsxbGhoNzZ3TEh0eUlza0lFUTZVbXRTRkpJT19aLWNiWkVieDN6eHZZSFBYNnhmemhUVExZYjd4THZsR0pIRnRfUmtUUnVkbUVoUnV5VFVteFdxQ1ZucDlGSjRDUjR2OEVMTWN6NUJHQUlNWUNwRU0zSHRmN3g3YkxxRVlBdEhxN2hYWDJjSUNDcDZNOWxGR3g3MjdKR0xKakpJ?oc=5",
-   "source": "Reuters",
-   "ts": 1794584661.0
-  },
-  {
-   "title": "Bessent, Fed's Goolsbee divided on role of energy shock in inflation",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGl4M3I4cEx4Q1pteUwtd3I3OFBYWWFUU096V1Y3X2oxdl9KOFprODJXTEoxallGdk8tXzNuMzlWSXdjTTBFNjUxUHFwWmdVZTFHeTh0TEVYcWtNSXI2aUJkRFdKVFgtNmpWS01zTlhMS21ndThYQjY2bDhXSFpnV2c0Sl8wSzdBWnJzNmZVR05iUGdxU3BCUnBIYlcteEQtRkNMbDBQRF82QXVESmZSRGNvZG9yaGtfbm5QNHBTUE1jNjA?oc=5",
-   "source": "Reuters",
-   "ts": 1794584086.0
-  },
-  {
-   "title": "Bessent blames Commerce Dept over lack of export controls for Nvidia partner Megaspeed",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRNS3BqaXcwNDJlOTNLZDU2NkdSbmtHUFFPNFJTRFBvdXVselAtVGkyU25RR3Q0Q1djS0N1TDM0VnpNRXNHWmxiVE15bVduU3BUMUlONURZUC1EbTNIa1FqX3liOHBiOUk2S0xKSDMtS0lnZjg3ajVZdTVtTnl3NC1vTWNDM0M4SEFKV3d4N3dieXdvaWhNdEtYc2pvdy0xcVI3VDBGQXM4N00?oc=5",
-   "source": "Reuters",
-   "ts": 1794583566.0
-  },
-  {
    "title": "WATCH:  Empire State Building climbers appear in court",
    "link": "https://abcnews.com/video/138104770/",
    "source": "ABC News",
    "ts": 1794582831.0
-  },
-  {
-   "title": "Iran live updates: US denies Iran's claim that it destroyed US radar in Bahrain",
-   "link": "https://abcnews.com/International/live-updates/iran-live-updates-americans-tired-forever-wars-araghchi/?id=137967256",
-   "source": "ABC News",
-   "ts": 1794581244.0
-  },
-  {
-   "title": "Pope Leo makes emotional return to his \u2018beloved diocese of Chiclayo\u2019",
-   "link": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-peru-emotional-return-diocese-chiclayo-rcna608940",
-   "source": "NBC News",
-   "ts": 1794580150.0
-  },
-  {
-   "title": "Trump says he wants to \u2018get Cuba done\u2019 when asked about use of military force",
-   "link": "https://www.nbcnews.com/politics/white-house/trump-cuba-military-force-rubio-rcna609138",
-   "source": "NBC News",
-   "ts": 1794580070.0
-  },
-  {
-   "title": "Van Hollen Challenges Schumer for Senate Majority Leader",
-   "link": "https://www.today.com/video/van-hollen-challenges-schumer-for-senate-majority-leader-273441349510",
-   "source": "NBC News",
-   "ts": 1794572570.0
   }
  ]
 }
