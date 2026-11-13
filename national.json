@@ -1,29 +1,41 @@
 {
- "updated": "2026-11-13T05:38:44.135550+00:00",
+ "updated": "2026-11-13T07:17:16.890470+00:00",
  "items": [
   {
-   "title": "Dominic Zvada still looking for consistency after another Giants blunder",
-   "link": "https://nypost.com/2026/11/13/sports/dominic-zvada-still-looking-for-consistency-with-giants/",
+   "title": "Trump says \"we don't need a deal with Iran\"",
+   "link": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+   "source": "CBS News",
+   "ts": 1794553872.0
+  },
+  {
+   "title": "Newsom reveals when he'll decide on 2028 White House bid amid growing speculation",
+   "link": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation",
+   "source": "Fox News",
+   "ts": 1794553697.0
+  },
+  {
+   "title": "Matias Maccelli, Ryan Pulock give Islanders needed boost \u2014 but not without another injury scare",
+   "link": "https://nypost.com/2026/11/13/sports/matias-maccelli-ryan-pulock-give-islanders-needed-boost/",
    "source": "New York Post",
-   "ts": 1794547497.0
+   "ts": 1794552310.0
+  },
+  {
+   "title": "NYC borough under tornado warning as ominous cloud swirled above JFK airport",
+   "link": "https://nypost.com/2026/11/13/us-news/nyc-borough-under-tornado-warning-as-ominous-cloud-swirled-above-jfk-airport/",
+   "source": "New York Post",
+   "ts": 1794550443.0
+  },
+  {
+   "title": "Makeshift Islanders lineup delivers just what was needed to snap four-game losing streak",
+   "link": "https://nypost.com/2026/11/13/sports/islanders-snap-four-game-losing-streak-against-kings-with-makeshift-lineup/",
+   "source": "New York Post",
+   "ts": 1794550438.0
   },
   {
    "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock",
    "link": "https://www.foxnews.com/health/highly-contagious-bird-flu-detected-wisconsin-officials-euthanize-infected-flock",
    "source": "Fox News",
    "ts": 1794547220.0
-  },
-  {
-   "title": "Malik Nabers speaking new body language in Giants loss after criticism",
-   "link": "https://nypost.com/2026/11/13/sports/malik-nabers-speaking-new-body-language-in-giants-loss/",
-   "source": "New York Post",
-   "ts": 1794546919.0
-  },
-  {
-   "title": "Cam Skattebo filled MetLife with hope \u2014 and the Giants let the air out",
-   "link": "https://nypost.com/2026/11/13/sports/cam-skattebo-filled-metlife-with-hope-and-the-giants-let-the-air-out/",
-   "source": "New York Post",
-   "ts": 1794546905.0
   },
   {
    "title": "Microsoft Outlook outage stretches on for hours",
@@ -38,12 +50,6 @@
    "ts": 1794546518.0
   },
   {
-   "title": "Trump says \"we don't need a deal with Iran\"",
-   "link": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
-   "source": "CBS News",
-   "ts": 1794545568.0
-  },
-  {
    "title": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5",
    "source": "Reuters",
@@ -56,28 +62,22 @@
    "ts": 1794542318.0
   },
   {
-   "title": "Delhi overtakes Lahore as world's most polluted city as air quality drops",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDFhYWxpT2NaY1pyQmI2UU9LZGZJdTlEQ2wwbGxGNHJnbGxOUmdDWVJMQ0VUMXk5NmpBMTJoZXJzTGJuRDZnU09DT0gxTWFqRjlyTk4zSUZqRXlVb1NYTEJRaTVBMUpRcm9nTzZHTUJzanJlcVZOSE1UczBpZXdkdS1WRFVQWFJ2LTROZVVkZEt1dUF6d2NPZU0zbFVsZ0I0R012SUp2OXhEVDFJUTNTVUplbGd1cXBnS0laV2RJczE?oc=5",
-   "source": "Reuters",
-   "ts": 1794542160.0
-  },
-  {
    "title": "What we know about victims of deadly Brooklyn building collapse",
    "link": "https://abcnews.com/US/victims-deadly-brooklyn-building-collapse/story?id=138098954",
    "source": "ABC News",
    "ts": 1794542021.0
   },
   {
-   "title": "Stephen A Smith debriefs interview with President Trump, warns Democrats face steep challenge",
-   "link": "https://www.foxnews.com/media/stephen-a-smith-debriefs-interview-president-trump-warns-democrats-face-steep-challenge",
-   "source": "Fox News",
-   "ts": 1794541803.0
-  },
-  {
    "title": "Gold rises on bargain hunting but heads for weekly decline",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
    "source": "Reuters",
    "ts": 1794541380.0
+  },
+  {
+   "title": "Australia's spy agency, federal police hit by Microsoft outage",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ0x3UHpOT2FfZW9tc1Zia0F3NmNsZzUzUUJqd25Kcl9JdUFlOVhOMEFXR2ctazRoVXlkMFF4V1hIbGlLdnNQc3ZMRlBTeGZBVmxwSGx6a2cxVXgtZDhFUE80WFkxLUhfRjNMRmhtcGZvaGxlWjItSXpibmVXSkxrT1N4eWI4U3JzRDJnTXQ0SzBTMkFTYnBKT3JBWEQ1V0RMNzFoRDR6ckdvSTVRekw1SlU5SQ?oc=5",
+   "source": "Reuters",
+   "ts": 1794539280.0
   },
   {
    "title": "GOP lawmakers press Huang and Lutnick to testify over Nvidia",
