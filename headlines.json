@@ -1,23 +1,29 @@
 {
- "updated": "2026-11-13T01:09:43.952933+00:00",
+ "updated": "2026-11-13T02:26:08.100781+00:00",
  "items": [
   {
-   "title": "Two executions bring US closer to 40 as death penalty draws renewed scrutiny",
-   "link": "https://www.mynbc5.com/article/oklahoma-texas-james-pavatt-john-rubio-executions/74413063",
+   "title": "Van Hollen to challenge Schumer for Senate Democratic leader, saying voters \u2018called for change\u2019",
+   "link": "https://www.mynbc5.com/article/van-hollen-challenge-schumer-senate-democratic-leader/74417808",
    "source": "WPTZ",
-   "ts": 1794532080.0
+   "ts": 1794535980.0
   },
   {
-   "title": "Plattsburgh YMCA to relocate after 118 years on Oak Street",
-   "link": "https://www.mynbc5.com/article/plattsburgh-ymca-to-break-ground-on-new-facility-after-years-of-planning/74413540",
+   "title": "Crews respond to structure fire in Ellenburg",
+   "link": "https://www.mynbc5.com/article/crews-respond-to-structure-fire-in-ellenburg/74417578",
    "source": "WPTZ",
-   "ts": 1794530760.0
+   "ts": 1794535680.0
   },
   {
-   "title": "Microsoft confirms Outlook outage affecting users worldwide",
-   "link": "https://www.mynbc5.com/article/microsoft-outlook-outage-2026/74414319",
+   "title": "Navy has quietly fired some commanders and other officials, drawing congressional pushback",
+   "link": "https://www.mynbc5.com/article/navy-fired-commanders-other-officials-congress-pushback/74417753",
    "source": "WPTZ",
-   "ts": 1794529920.0
+   "ts": 1794535020.0
+  },
+  {
+   "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+   "source": "NPR",
+   "ts": 1794533184.0
   },
   {
    "title": "Hidden camera found in bakery bathroom; owner arrested in separate child voyeurism case: police",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/12/opinion-solar-panels-are-an-eyesore/",
    "source": "VTDigger",
    "ts": 1794521952.0
-  },
-  {
-   "title": "'Punch in the gut': Homes sales fall to their lowest in 16 years",
-   "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
-   "source": "NPR",
-   "ts": 1794509040.0
   }
  ]
 }
