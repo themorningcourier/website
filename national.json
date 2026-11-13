@@ -1,35 +1,65 @@
 {
- "updated": "2026-11-13T04:35:35.645441+00:00",
+ "updated": "2026-11-13T05:38:44.135550+00:00",
  "items": [
   {
-   "title": "Jameis Winston goes full Baha Men in viral \u2018TNF\u2019 moment: \u2018Who let the dogs out?\u2019",
-   "link": "https://nypost.com/2026/11/12/sports/jameis-winston-goes-full-baha-men-on-tnf-who-let-the-dogs-out/",
+   "title": "Dominic Zvada still looking for consistency after another Giants blunder",
+   "link": "https://nypost.com/2026/11/13/sports/dominic-zvada-still-looking-for-consistency-with-giants/",
    "source": "New York Post",
-   "ts": 1794544441.0
+   "ts": 1794547497.0
+  },
+  {
+   "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock",
+   "link": "https://www.foxnews.com/health/highly-contagious-bird-flu-detected-wisconsin-officials-euthanize-infected-flock",
+   "source": "Fox News",
+   "ts": 1794547220.0
+  },
+  {
+   "title": "Malik Nabers speaking new body language in Giants loss after criticism",
+   "link": "https://nypost.com/2026/11/13/sports/malik-nabers-speaking-new-body-language-in-giants-loss/",
+   "source": "New York Post",
+   "ts": 1794546919.0
+  },
+  {
+   "title": "Cam Skattebo filled MetLife with hope \u2014 and the Giants let the air out",
+   "link": "https://nypost.com/2026/11/13/sports/cam-skattebo-filled-metlife-with-hope-and-the-giants-let-the-air-out/",
+   "source": "New York Post",
+   "ts": 1794546905.0
   },
   {
    "title": "Microsoft Outlook outage stretches on for hours",
    "link": "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203",
    "source": "ABC News",
-   "ts": 1794544023.0
+   "ts": 1794546815.0
   },
   {
-   "title": "Giants blow late lead in fourth quarter to suffer heartbreaking \u2018TNF\u2019 loss to Commanders",
-   "link": "https://nypost.com/2026/11/12/sports/giants-blow-lead-suffer-heartbreaking-loss-to-commanders/",
-   "source": "New York Post",
-   "ts": 1794543856.0
+   "title": "Jayden Daniels throws three touchdowns as Commanders rally past Giants Thursday night",
+   "link": "https://www.foxnews.com/outkick-sports/jayden-daniels-throws-three-touchdowns-commanders-rally-past-giants-thursday-night",
+   "source": "Fox News",
+   "ts": 1794546518.0
   },
   {
-   "title": "Justin Herbert rookie card at silent auction results in meatball sub bidding war",
-   "link": "https://nypost.com/2026/11/12/sports/justin-herbert-rookie-card-silent-auction-meatball-sub-bidding-war/",
-   "source": "New York Post",
-   "ts": 1794543225.0
+   "title": "Trump says \"we don't need a deal with Iran\"",
+   "link": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+   "source": "CBS News",
+   "ts": 1794545568.0
+  },
+  {
+   "title": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5",
+   "source": "Reuters",
+   "ts": 1794542700.0
   },
   {
    "title": "Van Hollen will challenge Schumer for Senate majority leader",
    "link": "https://www.cbsnews.com/news/chris-van-hollen-challenge-chuck-schumer-senate-majority-leader-democrat/",
    "source": "CBS News",
    "ts": 1794542318.0
+  },
+  {
+   "title": "Delhi overtakes Lahore as world's most polluted city as air quality drops",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDFhYWxpT2NaY1pyQmI2UU9LZGZJdTlEQ2wwbGxGNHJnbGxOUmdDWVJMQ0VUMXk5NmpBMTJoZXJzTGJuRDZnU09DT0gxTWFqRjlyTk4zSUZqRXlVb1NYTEJRaTVBMUpRcm9nTzZHTUJzanJlcVZOSE1UczBpZXdkdS1WRFVQWFJ2LTROZVVkZEt1dUF6d2NPZU0zbFVsZ0I0R012SUp2OXhEVDFJUTNTVUplbGd1cXBnS0laV2RJczE?oc=5",
+   "source": "Reuters",
+   "ts": 1794542160.0
   },
   {
    "title": "What we know about victims of deadly Brooklyn building collapse",
@@ -44,16 +74,10 @@
    "ts": 1794541803.0
   },
   {
-   "title": "WWE star Brie Bella talks challenges of wine business, describes perfect Las Vegas day",
-   "link": "https://www.foxnews.com/outkick-sports/wwe-star-brie-bella-talks-challenges-wine-business-describes-perfect-las-vegas-day",
-   "source": "Fox News",
-   "ts": 1794539554.0
-  },
-  {
-   "title": "Pete Crow-Armstrong unanimously ends Shohei Ohtani's run as NL MVP, Yordan Alvarez takes AL MVP for Astros",
-   "link": "https://www.foxnews.com/outkick-sports/pete-crow-armstrong-unanimously-ends-shohei-ohtani-run-nl-mvp-yordan-alvarez-takes-al-mvp-astros",
-   "source": "Fox News",
-   "ts": 1794539197.0
+   "title": "Gold rises on bargain hunting but heads for weekly decline",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
+   "source": "Reuters",
+   "ts": 1794541380.0
   },
   {
    "title": "GOP lawmakers press Huang and Lutnick to testify over Nvidia",
@@ -62,34 +86,10 @@
    "ts": 1794538790.0
   },
   {
-   "title": "Iran's Guards say they targeted a US early-warning radar in Bahrain",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
-   "source": "Reuters",
-   "ts": 1794538260.0
-  },
-  {
    "title": "Howard Lutnick agrees to testify as bipartisan pressure grows over Nvidia scandal",
    "link": "https://www.nbcnews.com/politics/congress/commerce-secretary-howard-lutnick-testify-pressure-nvidia-scandal-rcna609093",
    "source": "NBC News",
    "ts": 1794537927.0
-  },
-  {
-   "title": "Chris Van Hollen announces run for US Senate majority leader, challenging Schumer",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDJtNkFCOFNqX2ZmeGFLZVFhcEFtWHhqQzhKMXdYZmFYdnZOZS1XSnhiRDRONGVwTUt1TmpuS1ZNMVZqZGx4RkdiUWlZTTg1WDFUS2hrbElaNjdNcDh5c3RKeXJYOG8yN3VoNlJ2dE80RV9HdUlyb1A5Y0hpMkc1ZzdZXy1DSmNkS2tUbV9jTF8xd0JLQzAyeWpxTUZ2eDVVUkZuSm5ISFZ1amxXZVVaYTlOZGlTdGhhbC1JVS13?oc=5",
-   "source": "Reuters",
-   "ts": 1794536880.0
-  },
-  {
-   "title": "Crews begin excavating site of building collapse in Brooklyn",
-   "link": "https://www.cbsnews.com/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/",
-   "source": "CBS News",
-   "ts": 1794536863.0
-  },
-  {
-   "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5",
-   "source": "Reuters",
-   "ts": 1794535680.0
   },
   {
    "title": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader",
@@ -104,10 +104,10 @@
    "ts": 1794534125.0
   },
   {
-   "title": "\u2018COPS\u2019 camera crew captures deadly police shooting during New Mexico ride-along",
-   "link": "https://www.nbcnews.com/video/-cops-camera-crew-captures-deadly-police-shooting-during-new-mexico-ride-along-273399877650",
+   "title": "Democrats can\u2019t wait until after Trump to produce results, James Talarico says",
+   "link": "https://www.nbcnews.com/politics/2026-election/democrats-cant-wait-trump-produce-results-james-talarico-says-rcna609096",
    "source": "NBC News",
-   "ts": 1794533659.0
+   "ts": 1794533328.0
   }
  ]
 }
