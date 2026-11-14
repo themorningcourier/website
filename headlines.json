@@ -1,11 +1,35 @@
 {
- "updated": "2026-11-14T18:46:21.589504+00:00",
+ "updated": "2026-11-14T19:45:01.840394+00:00",
  "items": [
+  {
+   "title": "Drone activity over US base in Britain prompts security response",
+   "link": "https://www.mynbc5.com/article/drone-activity-us-base-britain-prompts-security-response/74431080",
+   "source": "WPTZ",
+   "ts": 1794685080.0
+  },
+  {
+   "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
+   "link": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
+   "source": "NPR",
+   "ts": 1794683634.0
+  },
+  {
+   "title": "Port of New Orleans sues tanker owners following ship collision on Mississippi River",
+   "link": "https://www.wcax.com/2026/11/14/port-new-orleans-sues-tanker-owners-following-ship-collision-mississippi-river/",
+   "source": "WCAX",
+   "ts": 1794683517.0
+  },
   {
    "title": "Officer resuscitates infant who stopped breathing",
    "link": "https://www.wcax.com/2026/11/14/officer-resuscitates-infant-who-stopped-breathing/",
    "source": "WCAX",
-   "ts": 1794681133.0
+   "ts": 1794683318.0
+  },
+  {
+   "title": "\u2018Thank God for her\u2019: Head Start director\u2019s quick action saves choking child",
+   "link": "https://www.wcax.com/2026/11/14/thank-god-her-head-start-directors-quick-action-saves-choking-child/",
+   "source": "WCAX",
+   "ts": 1794683138.0
   },
   {
    "title": "When will flights be back to normal after nationwide ground stop?",
@@ -14,22 +38,10 @@
    "ts": 1794679500.0
   },
   {
-   "title": "\u2018Thank God for her\u2019: Head Start director\u2019s quick action saves choking child",
-   "link": "https://www.wcax.com/2026/11/14/thank-god-her-head-start-directors-quick-action-saves-choking-child/",
-   "source": "WCAX",
-   "ts": 1794678655.0
-  },
-  {
    "title": "US air travel schedule should recover from ground stop by the end of Sunday, FAA says",
    "link": "https://www.mynbc5.com/article/faa-nationwide-ground-stop-sean-duffy-update/74430639",
    "source": "WPTZ",
    "ts": 1794678540.0
-  },
-  {
-   "title": "Interactive graphic shows the dramatic impact of Friday's FAA ground stop",
-   "link": "https://www.mynbc5.com/article/faa-ground-stiop-skies-comparison/74428717",
-   "source": "WPTZ",
-   "ts": 1794677760.0
   },
   {
    "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
@@ -38,22 +50,10 @@
    "ts": 1794675184.0
   },
   {
-   "title": "Mother and daughter found dead in home; suspect shot hours later, police say",
-   "link": "https://www.wcax.com/2026/11/14/mother-daughter-found-dead-home-suspect-shot-hours-later-police-say/",
-   "source": "WCAX",
-   "ts": 1794673672.0
-  },
-  {
    "title": "Fuel crisis and protests pressure Chile's far-right president",
    "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
    "source": "NPR",
    "ts": 1794672312.0
-  },
-  {
-   "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-   "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-   "source": "NPR",
-   "ts": 1794661685.0
   },
   {
    "title": "Flights halted at Burlington airport and across US due to air traffic control communications problems",
