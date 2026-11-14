@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-14T10:45:09.392805+00:00",
+ "updated": "2026-11-14T11:42:41.347171+00:00",
  "items": [
+  {
+   "title": "FBI part of investigation into credible bomb threat at Illinois ethanol plant",
+   "link": "https://www.wcax.com/2026/11/14/fbi-part-investigation-into-credible-bomb-threat-illinois-ethanol-plant/",
+   "source": "WCAX",
+   "ts": 1794655648.0
+  },
+  {
+   "title": "What passengers can expect now that nationwide ground stop has lifted",
+   "link": "https://www.mynbc5.com/article/nationwide-ground-stop-lifted-what-travelers-can-expect/74430061",
+   "source": "WPTZ",
+   "ts": 1794655560.0
+  },
   {
    "title": "Microsoft says services are now fully restored after global outage",
    "link": "https://www.mynbc5.com/article/microsoft-365-outage-restored-worldwide/74429959",
@@ -20,12 +32,6 @@
    "ts": 1794651420.0
   },
   {
-   "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-   "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-   "source": "NPR",
-   "ts": 1794650400.0
-  },
-  {
    "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
    "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
    "source": "NPR",
@@ -38,22 +44,16 @@
    "ts": 1794650400.0
   },
   {
+   "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
+   "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
+   "source": "NPR",
+   "ts": 1794650400.0
+  },
+  {
    "title": "What to Do: Saturday, Nov. 14",
    "link": "https://www.wcax.com/2026/11/14/what-do-saturday-nov-14/",
    "source": "WCAX",
    "ts": 1794648468.0
-  },
-  {
-   "title": "Family of high school freshman who died after collapsing in class remembers \u2018a good kid\u2019",
-   "link": "https://www.wcax.com/2026/11/14/family-high-school-freshman-who-died-after-collapsing-class-remembers-good-kid/",
-   "source": "WCAX",
-   "ts": 1794647681.0
-  },
-  {
-   "title": "Nationwide flight grounding disrupts football games this weekend",
-   "link": "https://www.mynbc5.com/article/faa-flight-grounding-disrupts-football-sports-games/74428485",
-   "source": "WPTZ",
-   "ts": 1794637740.0
   },
   {
    "title": "Flights halted at Burlington airport and across US due to air traffic control communications problems",
