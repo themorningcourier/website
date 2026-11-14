@@ -1,23 +1,35 @@
 {
- "updated": "2026-11-14T12:52:42.213638+00:00",
+ "updated": "2026-11-14T13:54:03.467882+00:00",
  "items": [
+  {
+   "title": "Interactive graphic shows the dramatic impact of Friday's FAA ground stop",
+   "link": "https://www.mynbc5.com/article/faa-ground-stiop-skies-comparison/74428717",
+   "source": "WPTZ",
+   "ts": 1794662700.0
+  },
+  {
+   "title": "Things to do: Nov. 14, 2026",
+   "link": "https://www.mynbc5.com/article/things-to-do-nov-14-2026/74430170",
+   "source": "WPTZ",
+   "ts": 1794661740.0
+  },
+  {
+   "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+   "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+   "source": "NPR",
+   "ts": 1794661685.0
+  },
+  {
+   "title": "Perspective: A new kind of White House press secretary",
+   "link": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
+   "source": "NPR",
+   "ts": 1794661200.0
+  },
   {
    "title": "Travelers around the country react after rare FAA nationwide ground stop",
    "link": "https://www.mynbc5.com/article/faa-nationwide-ground-stop-traveler-impacts/74430091",
    "source": "WPTZ",
    "ts": 1794659820.0
-  },
-  {
-   "title": "Things to do:  Nov. 14, 2026",
-   "link": "https://www.mynbc5.com/article/things-to-do-nov-14-2026/74430170",
-   "source": "WPTZ",
-   "ts": 1794659280.0
-  },
-  {
-   "title": "Vernon Fire Department to donate proceeds of charity event to family impacted by house fire",
-   "link": "https://www.mynbc5.com/article/vernon-pond-road-fire/74425102",
-   "source": "WPTZ",
-   "ts": 1794658740.0
   },
   {
    "title": "FBI part of investigation into credible bomb threat at Illinois ethanol plant",
@@ -34,18 +46,6 @@
   {
    "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
    "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-   "source": "NPR",
-   "ts": 1794650400.0
-  },
-  {
-   "title": "An organ transplant controversy tests 'the dead donor rule'",
-   "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-   "source": "NPR",
-   "ts": 1794650400.0
-  },
-  {
-   "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-   "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
    "source": "NPR",
    "ts": 1794650400.0
   },
