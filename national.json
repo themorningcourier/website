@@ -1,23 +1,59 @@
 {
- "updated": "2026-11-14T08:53:51.181974+00:00",
+ "updated": "2026-11-14T09:48:36.373032+00:00",
  "items": [
   {
-   "title": "2 Americans die in suspected drowning incident in the Bahamas",
-   "link": "https://abcnews.com/International/2-americans-die-suspected-drowning-incident-bahamas/story?id=138137434",
+   "title": "Microsoft restores service to Outlook and Teams after historic outage crippled businesses, governments",
+   "link": "https://nypost.com/2026/11/14/business/microsoft-restores-service-to-outlook-and-teams-after-historic-outage-crippled-businesses-governments/",
+   "source": "New York Post",
+   "ts": 1794648536.0
+  },
+  {
+   "title": "Bomb threat at Illinois ethanol plant forces mandatory mile-wide evacuation order",
+   "link": "https://nypost.com/2026/11/14/us-news/illinois-bomb-threat-at-peoria-ethanol-plant-prompts-mile-wide-evacuation/",
+   "source": "New York Post",
+   "ts": 1794647741.0
+  },
+  {
+   "title": "Peoria police urge evacuations after reported bomb threat at Illinois plant",
+   "link": "https://abcnews.com/US/peoria-police-urge-evacuations-after-reported-bomb-threat/story?id=138137440",
    "source": "ABC News",
-   "ts": 1794645868.0
+   "ts": 1794646910.0
   },
   {
-   "title": "\u2018Saved by the Bell\u2019 star Tiffani Thiessen says she needs hip replacement at 52 after painful diagnosis",
-   "link": "https://pagesix.com/2026/11/14/celebrity-news/saved-by-the-bell-tiffani-thiessen-needs-hip-replacement-after-diagnosis/",
-   "source": "New York Post",
-   "ts": 1794644017.0
+   "title": "Massie's push to impeach Hegseth splits constituents in his own backyard: 'Pure spite'",
+   "link": "https://www.foxnews.com/politics/massie-push-impeach-hegseth-splits-constituents-backyard-pure-spite",
+   "source": "Fox News",
+   "ts": 1794646819.0
   },
   {
-   "title": "Dear Abby: Am I wrong to deny my sister-in-law the money my husband left for me?",
-   "link": "https://nypost.com/2026/11/14/lifestyle/dear-abby-am-i-wrong-to-deny-my-sister-in-law-the-money-my-husband-left-for-me/",
+   "title": "Blue wave meets ballot box surprises as voters split on abortion, voter ID and billionaire taxes",
+   "link": "https://www.foxnews.com/politics/blue-wave-meets-ballot-box-surprises-voters-split-abortion-voter-id-billionaire-taxes",
+   "source": "Fox News",
+   "ts": 1794646800.0
+  },
+  {
+   "title": "Aaron Rodgers reunites with brother Jordan in rare photo after years-long family feud: \u2018Really proud\u2019",
+   "link": "https://pagesix.com/2026/11/14/celebrity-news/steelers-aaron-rodgers-reunites-with-brother-jordan-in-rare-photo-after-years-long-family-feud/",
    "source": "New York Post",
-   "ts": 1794643200.0
+   "ts": 1794646555.0
+  },
+  {
+   "title": "Hours-long halt to US flights leaves travelers frustrated, anxious",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFQtZGduZ2NiVFhiUEhHTnI4VDg2NFA2UlVaVkI2VDBaUVMtWDFQbUJsb19pUlBKXzRUd2RBcG9FRHR0Z3lXYnA4d1ZQVUVWdWpIeXlCVGpEYkp6ZUNWbV9IOFNyRUhOVXZoalRWaFJCZzY1X1g1RXZtMmFWejUtN0F6SUE1ZGt6dl9OQjBIV1ZuWkRtVFZIU1lGXzZTa296YnozRnJYSy1pMmo4cy1hSkpWT1V2eWR0d3hJbk51YTdQOEU?oc=5",
+   "source": "Reuters",
+   "ts": 1794646140.0
+  },
+  {
+   "title": "South Sudan delays election to February 11 2027",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3U0Um9xVEQzN2ZkMWdFaHFWOEV0T1FTVVRaZXU0WnFFVjRiQ1Z4SUZ2VVNrNXUxZ2d6RWY0VXBJcUZNMU04ZmUyRVlXOURtWk5Kb2h6Y28wMVVHYnZkN0l6Vks3Z1hTa3cta25wbDhhb0JBUldpWmtzVlpvYUt0LVVfQzJpYlF6c29vQUI3SUMxQl96SUZYVw?oc=5",
+   "source": "Reuters",
+   "ts": 1794645157.0
+  },
+  {
+   "title": "Tesla invites select customers to buy Cybercab for personal use",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWE9RSGUwWDAzVms5ZGZVZlpvTFhDUno1ay0tOTVIT1VNbjBWVkhsdzRTRWtaSWhjeF9mUFlsNTVQLTVPVEt1RGVlZzFDcDJZU0lQdTQwREtrOTkxanBwSnhMcTBNYzV4UHlacWZXZUpMTVNvMEYtMm5lWDR4UFVOZUJHcXV6TmJ0R2NrelM0Q1Y1OVVCbUNlT3dLdnUwZnZvSzhnWk1lVDlzLXhBVnBqMFZJdDVtaFVrOWl5bUtYbw?oc=5",
+   "source": "Reuters",
+   "ts": 1794643332.0
   },
   {
    "title": "Microsoft says it \"restored service\" after major worldwide outage",
@@ -26,40 +62,16 @@
    "ts": 1794641525.0
   },
   {
-   "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
-   "link": "https://nypost.com/2026/11/14/us-news/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska/",
-   "source": "New York Post",
-   "ts": 1794640624.0
-  },
-  {
    "title": "Alaska elects first Democrat governor since 1998",
    "link": "https://www.cbsnews.com/news/alaska-governor-jkt-jonathan-kreiss-tomkins-election/",
    "source": "CBS News",
    "ts": 1794640289.0
   },
   {
-   "title": "Canada, US make progress on trade deal, Carney says",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFV4SHZzV0VocU4wQzJyTFVCSGRUTlVPVkpkRTJYOVN6cXM2TTQ2SEhOLUQ0bVNZTW1OZ0xQMEpJT2Y5ZzJMZFFzcUlmYVRBQXlmSEdSdlhkTDVoclMwcjlMcFVIYkNTVjBtQ2RfdjdIMTVqWVdrU1FmMHdIZFRNTXRUekVvVkZleXlmSVZvN19pTmRsU3l5WWRvMzdEdw?oc=5",
-   "source": "Reuters",
-   "ts": 1794636960.0
-  },
-  {
    "title": "Democrat flips Alaska governor's mansion after Trump-backed GOP infighting",
    "link": "https://www.foxnews.com/politics/democrat-flips-alaska-governors-mansion-trump-backed-gop-infighting",
    "source": "Fox News",
    "ts": 1794636574.0
-  },
-  {
-   "title": "Microsoft says consumer products services recovered; still monitoring enterprise services",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkxxbE1VclJTQkp3R3ZZR3M4b0UtTUNMMmIzb09GSzlZQU1kUDQzN3ZKRXhleXhXV1BUd1lEMXVSMnZBUDN3WEwwdUM0QVhydk5mZWwxZnRndlJHd2FEQUpWUnRaeG5raGFMY2Z2M1RHRlZYLThiVktPTVVsYVFFS0dkMHlyNmtPNWRlQ3NsYjNRY0dxZVdQaFhRUlRpMTNjdlZqbDBZcVg3Q0tRV3ZFWlQ1bTJIZHl3WXFDV2FJbFVocm8w?oc=5",
-   "source": "Reuters",
-   "ts": 1794634847.0
-  },
-  {
-   "title": "Trump, other Quad leaders to meet in Manila on Tuesday, sources say",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkJpakJlUjRXbXpPc01TZFBYdXpIcGdDWldNS0J4U2kwZ2pqczhDekh3UEFraUx6bHdacG1aem1qY1k1Y1haYVpPVTROa21JOVhZaldkWUxNTE91UmJlSGZ2RFNsbGQxajBlOGlYR1ZuRmwwYkVxYU9uZmtiY2pXMHJuZlBOWFU5WkU1Sk93SnFCcHhGRGcwN1h0bnliVHlwVE0xbG9FWE9aWk15LXJFbg?oc=5",
-   "source": "Reuters",
-   "ts": 1794634560.0
   },
   {
    "title": "Alaskans opt to stick with ranked choice voting",
@@ -80,22 +92,10 @@
    "ts": 1794631461.0
   },
   {
-   "title": "Mike Evans ruled out, Trent Williams questionable as NFC-leading 49ers' injury concerns persist",
-   "link": "https://www.foxnews.com/outkick-sports/mike-evans-ruled-out-trent-williams-questionable-nfc-leading-49ers-injury-concerns-persist",
-   "source": "Fox News",
-   "ts": 1794627906.0
-  },
-  {
    "title": "Rubio urges conservatives to uplift their ideology, brushes off GOP midterm losses",
    "link": "https://www.nbcnews.com/politics/trump-administration/rubio-urges-conservatives-uplift-ideology-brushes-republicans-midterm-rcna609284",
    "source": "NBC News",
    "ts": 1794627513.0
-  },
-  {
-   "title": "Kentucky needs buzzer-beating three to survive Northern Arizona's upset bid at Rupp Arena",
-   "link": "https://www.foxnews.com/outkick-sports/kentucky-needs-buzzer-beating-three-survive-northern-arizona-upset-bid-rupp-arena",
-   "source": "Fox News",
-   "ts": 1794626711.0
   },
   {
    "title": "FAA ground stop live updates: Duffy blames 'overloaded' routers after stop lifted",
