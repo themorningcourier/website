@@ -1,59 +1,65 @@
 {
- "updated": "2026-11-14T19:45:01.840394+00:00",
+ "updated": "2026-11-14T20:41:18.301085+00:00",
  "items": [
   {
-   "title": "The Corn Rake Witness | Post Mortem",
-   "link": "https://www.cbsnews.com/video/111426-48-hours-post-mortem-episode-4/",
+   "title": "\"Face the Nation with Margaret Brennan\" guests for Nov. 15, 2026",
+   "link": "https://www.cbsnews.com/news/face-the-nation-guests-11-15-2026/",
    "source": "CBS News",
-   "ts": 1794700800.0
+   "ts": 1794688500.0
   },
   {
-   "title": "Travelers stranded, flights canceled after ground stop. Here's what we know",
-   "link": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
-   "source": "CBS News",
-   "ts": 1794685360.0
-  },
-  {
-   "title": "Monster 60-foot waves threaten California coast as forecasters issue dire warning to beachgoers",
-   "link": "https://nypost.com/2026/11/14/us-news/massive-waves-up-to-60-feet-threaten-northern-california-coast-as-nws-issues-urgent-warning/",
+   "title": "Devoted gamers set for mass sick-out on GTA VI launch day",
+   "link": "https://nypost.com/2026/11/14/tech/grand-theft-auto-vi-release-will-see-18-of-us-workers-take-off-to-game-data/",
    "source": "New York Post",
-   "ts": 1794685247.0
+   "ts": 1794688443.0
   },
   {
-   "title": "Islanders activate Mathew Barzal to pave way for long-awaited season debut",
-   "link": "https://nypost.com/2026/11/14/sports/islanders-activate-mathew-barzal-to-pave-way-for-season-debut/",
+   "title": "How to watch Arch Manning in Texas vs. LSU: Start time, livestream",
+   "link": "https://nypost.com/2026/11/14/sports/how-to-watch-texas-vs-lsu-start-time-livestream/",
    "source": "New York Post",
-   "ts": 1794684928.0
+   "ts": 1794688200.0
   },
   {
-   "title": "Evacuations underway after bomb found at plant",
+   "title": "Authorities investigate 'credible' bomb threat at Illinois plant",
    "link": "https://abcnews.com/US/peoria-police-urge-evacuations-after-reported-bomb-threat/story?id=138137440",
    "source": "ABC News",
-   "ts": 1794684827.0
+   "ts": 1794688066.0
   },
   {
-   "title": "Inside the California GOP civil war after crushing midterm wipeout",
-   "link": "https://nypost.com/2026/11/14/us-news/inside-california-gop-turmoil-following-midterm-losses/",
+   "title": "Midterm Democratic blowout scrambles field of 2028 White House hopefuls",
+   "link": "https://nypost.com/2026/11/14/us-news/midterm-blowout-fuels-jon-ossoff-aoc-runs-and-scrambles-gop-field/",
    "source": "New York Post",
-   "ts": 1794684708.0
+   "ts": 1794688040.0
   },
   {
-   "title": "Shane Gillis says he promised 'no controversy' before 'SNL' monologue that sparked backlash",
-   "link": "https://www.foxnews.com/media/shane-gillis-says-he-promised-no-controversy-before-snl-monologue-sparked-backlash",
+   "title": "Kentucky coach Mark Pope gives insanely tone-deaf answer after Wildcats nearly lose as 30-point favorites",
+   "link": "https://www.foxnews.com/outkick-sports/kentucky-coach-mark-pope-tone-deaf-answer-wildcats-nearly-lose-30-point-favorites",
    "source": "Fox News",
-   "ts": 1794684699.0
+   "ts": 1794687571.0
   },
   {
-   "title": "Justice Alito warns America must preserve 3 core principles regardless of country\u2019s \u2018atmosphere\u2019",
-   "link": "https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere",
+   "title": "Built from Scratch: How a meteorologist built a better umbrella",
+   "link": "https://www.foxnews.com/lifestyle/weatherman-umbrellas-meteorologist",
    "source": "Fox News",
-   "ts": 1794684574.0
+   "ts": 1794687441.0
   },
   {
-   "title": "Netanyahu says it's time to remove Iran threat \"once and for all\"",
-   "link": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+   "title": "Former top FAA official warns of 48-hour recovery after aging tech 'overwhelmed' ahead of ground stop",
+   "link": "https://www.foxnews.com/media/former-top-faa-official-warns-48-hour-recovery-aging-tech-overwhelmed-ground-stop",
+   "source": "Fox News",
+   "ts": 1794686940.0
+  },
+  {
+   "title": "Dramatic video shows river boats colliding",
+   "link": "https://www.cbsnews.com/video/dramatic-video-shows-river-boats-colliding/",
    "source": "CBS News",
-   "ts": 1794684158.0
+   "ts": 1794686556.0
+  },
+  {
+   "title": "Evacuation lifted after bomb threat near industrial plant in Illinois",
+   "link": "https://www.cbsnews.com/news/peoria-illinois-bomb-threat-evacuation/",
+   "source": "CBS News",
+   "ts": 1794686231.0
   },
   {
    "title": "Meta fined $887M in Italy over Android gallery photos, videos on Facebook",
@@ -68,10 +74,22 @@
    "ts": 1794684067.0
   },
   {
-   "title": "US reportedly loses longstanding measles elimination status as cases surge nationwide",
-   "link": "https://www.foxnews.com/health/us-loses-longstanding-measles-elimination-status-cases-surge-nationwide",
-   "source": "Fox News",
-   "ts": 1794683836.0
+   "title": "Thousands of US flights canceled, delayed as air travel system slowly recovers from shutdown",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXZEZWRocXp0dXdaSC1HaHpfRDdJdlU2WG9IbndjZnN0M0JBd05qbDlrdmtkOFpnalRoejZsWktJSlRkZERUZ29WbVBCWkw1WjlzbVpqODV3anFPLXNJNlJJNWlraGdLWmIyMWpsM2NrVTdqNWFmaFFDNkQ5M1BRWkJNN2xYSTRwMmVkZ1J6NjE5dVcwd0N2QjFGVEFrTWZzLUJQVWQ4TWFQcVI1d01FZk5ndW9qVjVsbGNrMHE2UlVIUUh2RklVeV9jMEw5WkFsSGc?oc=5",
+   "source": "Reuters",
+   "ts": 1794683706.0
+  },
+  {
+   "title": "France, Netherlands patch up spat over Air France-KLM",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DendfeUFoQ21WQzVJWjZCR3F5cFBtak16LV9mSlNNRlF1anMxdTZfUmI3STNmbkxkNEFVSkJNSjQ4d1AwdGkzTlNNYVZhZlVhcVhjR0tpbjRwSVA1?oc=5",
+   "source": "Reuters",
+   "ts": 1794683706.0
+  },
+  {
+   "title": "Hours-long halt to US flights leaves travelers frustrated, anxious",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFQtZGduZ2NiVFhiUEhHTnI4VDg2NFA2UlVaVkI2VDBaUVMtWDFQbUJsb19pUlBKXzRUd2RBcG9FRHR0Z3lXYnA4d1ZQVUVWdWpIeXlCVGpEYkp6ZUNWbV9IOFNyRUhOVXZoalRWaFJCZzY1X1g1RXZtMmFWejUtN0F6SUE1ZGt6dl9OQjBIV1ZuWkRtVFZIU1lGXzZTa296YnozRnJYSy1pMmo4cy1hSkpWT1V2eWR0d3hJbk51YTdQOEU?oc=5",
+   "source": "Reuters",
+   "ts": 1794683349.0
   },
   {
    "title": "He was drafted as an NFL team\u2019s future. It arrives now.",
