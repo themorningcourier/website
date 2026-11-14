@@ -1,17 +1,35 @@
 {
- "updated": "2026-11-14T16:43:33.195576+00:00",
+ "updated": "2026-11-14T17:40:10.009511+00:00",
  "items": [
+  {
+   "title": "Interactive graphic shows the dramatic impact of Friday's FAA ground stop",
+   "link": "https://www.mynbc5.com/article/faa-ground-stiop-skies-comparison/74428717",
+   "source": "WPTZ",
+   "ts": 1794677760.0
+  },
+  {
+   "title": "Man who went into water after New Orleans cruise ship collision speaks out",
+   "link": "https://www.mynbc5.com/article/new-orleans-cruise-boat-crash-survivor/74430687",
+   "source": "WPTZ",
+   "ts": 1794677340.0
+  },
+  {
+   "title": "What to know about flights after the US nationwide ground stop",
+   "link": "https://www.mynbc5.com/article/faa-nationwide-ground-stop-flights-resume-what-to-know/74430407",
+   "source": "WPTZ",
+   "ts": 1794675300.0
+  },
+  {
+   "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+   "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+   "source": "NPR",
+   "ts": 1794675184.0
+  },
   {
    "title": "Mother and daughter found dead in home; suspect shot hours later, police say",
    "link": "https://www.wcax.com/2026/11/14/mother-daughter-found-dead-home-suspect-shot-hours-later-police-say/",
    "source": "WCAX",
    "ts": 1794673672.0
-  },
-  {
-   "title": "LIVE: US transportation leaders giving update after rare FAA nationwide ground stop",
-   "link": "https://www.mynbc5.com/article/faa-nationwide-ground-stop-flights-resume-what-to-know/74430407",
-   "source": "WPTZ",
-   "ts": 1794673320.0
   },
   {
    "title": "Fuel crisis and protests pressure Chile's far-right president",
@@ -20,28 +38,10 @@
    "ts": 1794672312.0
   },
   {
-   "title": "When will flights be back to normal after nationwide ground stop?",
-   "link": "https://www.mynbc5.com/article/faa-ground-stop-when-flight-delays-return-to-normal/74430323",
-   "source": "WPTZ",
-   "ts": 1794670980.0
-  },
-  {
-   "title": "Darth Vader's lightsaber used in \u2018I am your father\u2019 duel sells for nearly $5 million",
-   "link": "https://www.mynbc5.com/article/darth-vader-lightsaber-sells-for-nearly-5-million/74426414",
-   "source": "WPTZ",
-   "ts": 1794670080.0
-  },
-  {
    "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
    "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
    "source": "NPR",
    "ts": 1794661685.0
-  },
-  {
-   "title": "Perspective: A new kind of White House press secretary",
-   "link": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
-   "source": "NPR",
-   "ts": 1794661200.0
   },
   {
    "title": "FBI part of investigation into credible bomb threat at Illinois ethanol plant",
