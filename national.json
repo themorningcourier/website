@@ -1,53 +1,95 @@
 {
- "updated": "2026-11-14T00:13:20.550633+00:00",
+ "updated": "2026-11-14T01:43:13.150088+00:00",
  "items": [
   {
-   "title": "John Harbaugh breaks down key \u2014 and controversial \u2014 moments from Giants loss",
-   "link": "https://nypost.com/2026/11/13/sports/john-harbaugh-on-key-controversial-moments-from-giants-loss/",
+   "title": "Fantasy football: Audric Estime leads crop of unlikely running back saviors",
+   "link": "https://nypost.com/2026/11/13/sports/fantasy-football-audric-estime-leads-crop-of-unlikely-running-back-saviors/",
    "source": "New York Post",
-   "ts": 1794614975.0
+   "ts": 1794620443.0
   },
   {
-   "title": "Passengers rescued after tanker hit river cruise in New Orleans",
-   "link": "https://www.cbsnews.com/news/tanker-cruise-collision-mississippi-river-new-orleans/",
-   "source": "CBS News",
-   "ts": 1794614920.0
-  },
-  {
-   "title": "Jets offense trying to move past massive \u2018what-ifs\u2019 as they finally get true opportunity to shine",
-   "link": "https://nypost.com/2026/11/13/sports/jets-offense-trying-to-move-past-what-ifs-as-they-get-chance-to-shine/",
-   "source": "New York Post",
-   "ts": 1794614790.0
-  },
-  {
-   "title": "Travelers facing uncertainty amid nationwide ground stop",
-   "link": "https://www.cbsnews.com/video/travelers-facing-uncertainty-amid-nationwide-ground-stop/",
-   "source": "CBS News",
-   "ts": 1794614597.0
-  },
-  {
-   "title": "FAA ground stop live updates: 1,000 flights canceled, no indication a 'nefarious' act",
+   "title": "FAA ground stop live updates: Nationwide ground stop lifted",
    "link": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140",
    "source": "ABC News",
-   "ts": 1794614437.0
+   "ts": 1794620180.0
   },
   {
-   "title": "New details in sudden death of British actress Lisa Maxwell\u2019s daughter revealed after 27-year-old\u2019s sudden passing",
-   "link": "https://pagesix.com/2026/11/13/celebrity-news/new-details-in-death-of-actress-lisa-maxwells-daughter-revealed-after-27-year-olds-sudden-passing/",
+   "title": "Trump to meet with Putin and Xi in China next week, US officials say",
+   "link": "https://abcnews.com/Politics/trump-meet-putin-xi-china-week-us-officials/story?id=138128914",
+   "source": "ABC News",
+   "ts": 1794620149.0
+  },
+  {
+   "title": "Mariah Carey makes major outfit change after sparking fan concern over her wobbly walk",
+   "link": "https://pagesix.com/2026/11/13/celebrity-news/mariah-carey-makes-major-outfit-change-after-sparking-fan-concern-over-her-wobbly-walk/",
    "source": "New York Post",
-   "ts": 1794614401.0
+   "ts": 1794620089.0
   },
   {
-   "title": "Naresh Bhatt Convicted: The Road to Justice for Mamta's Family | Case by Case | \"48 Hours\" Podcast",
-   "link": "https://www.cbsnews.com/video/111326-48-hours-case-by-case-episode-30/",
+   "title": "Latest developments on FAA's national ground stop",
+   "link": "https://www.cbsnews.com/video/latest-developments-on-faas-national-ground-stop/",
    "source": "CBS News",
-   "ts": 1794614400.0
+   "ts": 1794619865.0
+  },
+  {
+   "title": "Joe Rogan says podcasters have no business at Trump press conferences alongside real journalists",
+   "link": "https://www.foxnews.com/media/joe-rogan-says-podcasters-no-business-trump-press-conferences-alongside-real-journalists",
+   "source": "Fox News",
+   "ts": 1794619728.0
+  },
+  {
+   "title": "NY politicians keep poisoning any hope for affordable apartments",
+   "link": "https://nypost.com/2026/11/13/opinion/ny-politicians-keep-poisoning-any-hope-for-affordable-apartments/",
+   "source": "New York Post",
+   "ts": 1794619723.0
+  },
+  {
+   "title": "NBA and NHL teams scramble as nationwide FAA ground stop disrupts weekend sports travel",
+   "link": "https://www.foxnews.com/outkick-sports/nba-nhl-teams-scramble-nationwide-faa-ground-stop-disrupts-weekend-sports-travel",
+   "source": "Fox News",
+   "ts": 1794619253.0
+  },
+  {
+   "title": "Former FAA chief spokesperson says ATC system is \"horribly outdated\" amid ground stop",
+   "link": "https://www.cbsnews.com/video/former-faa-chief-spokesperson-says-atc-system-is-horribly-outdated-amid-ground-stop/",
+   "source": "CBS News",
+   "ts": 1794619061.0
   },
   {
    "title": "'Miracle': All rescued from capsized New Orleans riverboat in tanker collision",
    "link": "https://abcnews.com/US/vessel-collision-port-new-orleans-emergency-crews-responding/story?id=138119847",
    "source": "ABC News",
-   "ts": 1794614249.0
+   "ts": 1794617151.0
+  },
+  {
+   "title": "Democrats strategize on how to deliver on midterm mandate",
+   "link": "https://www.cbsnews.com/news/democrats-post-election-voters-economy-trump-factor/",
+   "source": "CBS News",
+   "ts": 1794616980.0
+  },
+  {
+   "title": "Powerful storms strike on both coasts",
+   "link": "https://www.nbcnews.com/nightly-news/video/powerful-storms-strike-on-both-coasts-273486917980",
+   "source": "NBC News",
+   "ts": 1794616382.0
+  },
+  {
+   "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
+   "source": "Reuters",
+   "ts": 1794615900.0
+  },
+  {
+   "title": "All accounted for after tanker crashes into New Orleans riverboat",
+   "link": "https://www.nbcnews.com/nightly-news/video/all-accounted-for-after-tanker-crashes-into-new-orleans-riverboat-273486405725",
+   "source": "NBC News",
+   "ts": 1794615472.0
+  },
+  {
+   "title": "SpaceX historic test flight takes off",
+   "link": "https://www.nbcnews.com/nightly-news/video/spacex-historic-test-flight-takes-off-273485893908",
+   "source": "NBC News",
+   "ts": 1794615455.0
   },
   {
    "title": "Bruce Arians says Andrew Luck had a rare skill that even Peyton Manning and Tom Brady lacked",
@@ -62,52 +104,10 @@
    "ts": 1794613379.0
   },
   {
-   "title": "Flights grounded across US after air traffic communications outage",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
-   "source": "Reuters",
-   "ts": 1794612964.0
-  },
-  {
    "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnRLUFljeVFkcXJzT2xiV3lQWnlaMENnaUNHVlZNdWtscEZSVnRIaWZYSERpb0hTVEc2cmVZaEw4Q1FBX3B6VmNvMnhaSm5GV1RvQ2pwNExEazBSNWRRejMyTU5NZU5RXzdhdU5xMDZZUHFWekdwZG9wWEJOeV9HQnVwLTR4b2FXc1FfWDRPVTd2Tm1JVkRCYk5aUjFROWhqR1pRay1oWVFjdnpnSTRHdzd3?oc=5",
    "source": "Reuters",
    "ts": 1794612805.0
-  },
-  {
-   "title": "Which current three-loss team would be the most dangerous in this year's College Football Playoff?",
-   "link": "https://www.foxnews.com/outkick-sports/current-three-loss-team-most-dangerous-college-football-playoff",
-   "source": "Fox News",
-   "ts": 1794612177.0
-  },
-  {
-   "title": "Mike Myers teases possible political nature of 'Austin Powers 4,' but critic warns that would be \u2018foolish\u2019",
-   "link": "https://www.foxnews.com/media/mike-myers-teases-possible-political-nature-austin-powers-4-critic-warns-foolish",
-   "source": "Fox News",
-   "ts": 1794611984.0
-  },
-  {
-   "title": "All passengers from New Orleans boat crash accounted for, mayor says",
-   "link": "https://www.nbcnews.com/video/all-passengers-from-new-orleans-boat-crash-accounted-for-mayor-says-273482821542",
-   "source": "NBC News",
-   "ts": 1794611971.0
-  },
-  {
-   "title": "White House correspondents' dinner shooting suspect charged with terrorism",
-   "link": "https://abcnews.com/Politics/man-accused-white-house-correspondents-association-dinner-shooting/story?id=138118021",
-   "source": "ABC News",
-   "ts": 1794611795.0
-  },
-  {
-   "title": "Some airports beginning to run out of space for planes amid nationwide ground stop",
-   "link": "https://www.nbcnews.com/video/some-airports-beginning-to-run-out-of-space-for-planes-amid-nationwide-ground-stop-273478213938",
-   "source": "NBC News",
-   "ts": 1794610299.0
-  },
-  {
-   "title": "Trump administration delays Medicaid work requirements by six months",
-   "link": "https://www.nbcnews.com/politics/politics-news/trump-administration-delays-medicaid-work-requirements-six-months-rcna609256",
-   "source": "NBC News",
-   "ts": 1794610186.0
   }
  ]
 }
