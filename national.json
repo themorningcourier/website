@@ -1,17 +1,59 @@
 {
- "updated": "2026-11-14T02:52:49.362429+00:00",
+ "updated": "2026-11-14T03:54:00.518308+00:00",
  "items": [
   {
-   "title": "Chargers get harsh reality check from edge rusher as frustration builds: \u2018Walk upstairs and ask them\u2019",
-   "link": "https://nypost.com/2026/11/13/sports/chargers-harsh-reality-check-bud-dupree-internal-frustration/",
+   "title": "US Soccer stays mum on whether Mauricio Pochettino\u2019s $10M buyout with be used for next coach",
+   "link": "https://nypost.com/2026/11/13/sports/us-stays-mum-on-if-mauricio-pochettinos-buyout-with-be-used-for-next-coach/",
    "source": "New York Post",
-   "ts": 1794624591.0
+   "ts": 1794628369.0
   },
   {
-   "title": "Rangers\u2019 Dylan Garand gets full-circle moment in return to British Columbia",
-   "link": "https://nypost.com/2026/11/13/sports/rangers-dylan-garand-gets-full-circle-moment-in-return-to-british-columbia/",
+   "title": "Malik Nabers\u2019 tough week has him stewing on costly mistakes that \u2018could\u2019ve been the difference\u2019",
+   "link": "https://nypost.com/2026/11/13/sports/giants-malik-nabers-tough-week-has-him-stewing-on-mistakes/",
    "source": "New York Post",
-   "ts": 1794624314.0
+   "ts": 1794628362.0
+  },
+  {
+   "title": "UCLA football loses another quarterback in first half against Illinois",
+   "link": "https://nypost.com/2026/11/13/sports/ucla-football-quarterback-injury-illinois-game/",
+   "source": "New York Post",
+   "ts": 1794628336.0
+  },
+  {
+   "title": "Mike Evans ruled out, Trent Williams questionable as NFC-leading 49ers' injury concerns persist",
+   "link": "https://www.foxnews.com/outkick-sports/mike-evans-ruled-out-trent-williams-questionable-nfc-leading-49ers-injury-concerns-persist",
+   "source": "Fox News",
+   "ts": 1794627906.0
+  },
+  {
+   "title": "Rubio urges conservatives to uplift their ideology, brushes off GOP midterm losses",
+   "link": "https://www.nbcnews.com/politics/trump-administration/rubio-urges-conservatives-uplift-ideology-brushes-republicans-midterm-rcna609284",
+   "source": "NBC News",
+   "ts": 1794627513.0
+  },
+  {
+   "title": "Kentucky needs buzzer-beating three to survive Northern Arizona's upset bid at Rupp Arena",
+   "link": "https://www.foxnews.com/outkick-sports/kentucky-needs-buzzer-beating-three-survive-northern-arizona-upset-bid-rupp-arena",
+   "source": "Fox News",
+   "ts": 1794626711.0
+  },
+  {
+   "title": "FAA lifts nationwide ground stop that halted thousands of flights",
+   "link": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
+   "source": "CBS News",
+   "ts": 1794626671.0
+  },
+  {
+   "title": "FAA ground stop live updates: Duffy blames 'overloaded' routers after stop lifted",
+   "link": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140",
+   "source": "ABC News",
+   "ts": 1794625124.0
+  },
+  {
+   "title": "Cowboys owner Jerry Jones updates timeline for NFL's 18-game schedule, floats preseason reduction",
+   "link": "https://www.foxnews.com/outkick-sports/cowboys-owner-jerry-jones-updates-timeline-nfl-18-game-schedule-floats-preseason-reduction",
+   "source": "Fox News",
+   "ts": 1794624941.0
   },
   {
    "title": "Trump to meet with Putin and Xi in China next week, US officials say",
@@ -20,46 +62,22 @@
    "ts": 1794624211.0
   },
   {
-   "title": "FAA lifts nationwide ground stop",
-   "link": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
-   "source": "CBS News",
-   "ts": 1794624180.0
-  },
-  {
-   "title": "FAA ground stop live updates: Duffy blames 'overloaded' routers after stop lifted",
-   "link": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140",
-   "source": "ABC News",
-   "ts": 1794624142.0
-  },
-  {
-   "title": "Monster ex-cop sentenced to chemical castration for raping young kids: \u2018We will take his manhood!\u2019",
-   "link": "https://nypost.com/2026/11/13/us-news/monster-ex-cop-sentenced-to-chemical-castration-for-raping-young-kids-we-will-take-his-manhood/",
-   "source": "New York Post",
-   "ts": 1794623701.0
-  },
-  {
-   "title": "NBA star Dejounte Murray requests trade after Pelicans clash, public frustration spills onto social media",
-   "link": "https://www.foxnews.com/outkick-sports/nba-star-dejounte-murray-requests-trade-pelicans-clash-public-frustration-spills-social-media",
-   "source": "Fox News",
-   "ts": 1794623413.0
-  },
-  {
    "title": "How \"Banana Man\" took a small Indiana town by storm",
    "link": "https://www.cbsnews.com/news/banana-man-linton-indiana-superhero/",
    "source": "CBS News",
    "ts": 1794623367.0
   },
   {
+   "title": "US flight shutdown exposes deepening air traffic network crisis",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjVhcU43VTJkOW9MLXR5bEkxOEMydDE0a2NTU1dsVXE3VWY2bjdhWXhpRllkUmhiYUp4VlYwOU1WWWpYeWctajkzYURrSlJXWTNvZzZIQWs4VVJWcW53aVpzajZkTExSTldjOHFEYm9feGtpZUI0UDN1ZzYzREFJM2N0NHVyREV3M01FVlhoa2ZTUUFhZ3FDazNZSENvTmtGMXp2WHlTMldVNDg4SkJhZHFhd0RGaF9WN0pLand4em1uVlZY?oc=5",
+   "source": "Reuters",
+   "ts": 1794622680.0
+  },
+  {
    "title": "Nationwide ground stop lifted, Duffy calls for congressional funding to upgrade ATC system",
    "link": "https://www.cbsnews.com/video/nationwide-ground-stop-lifted-duffy-calls-for-congressional-funding-to-upgrade-atc-system/",
    "source": "CBS News",
    "ts": 1794622590.0
-  },
-  {
-   "title": "ADF seeks to defend Washington girls' sports measure, argues state cannot fully represent female athletes",
-   "link": "https://www.foxnews.com/outkick-sports/adf-seeks-defend-washington-girls-sports-measure-argues-state-cannot-fully-represent-female-athletes",
-   "source": "Fox News",
-   "ts": 1794622334.0
   },
   {
    "title": "LIVE:  ABC News Live",
@@ -74,40 +92,22 @@
    "ts": 1794621142.0
   },
   {
-   "title": "Joe Rogan says podcasters have no business at Trump press conferences alongside real journalists",
-   "link": "https://www.foxnews.com/media/joe-rogan-says-podcasters-no-business-trump-press-conferences-alongside-real-journalists",
-   "source": "Fox News",
-   "ts": 1794619728.0
-  },
-  {
    "title": "Rubio assails international court in speech to conservative legal group",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblc1UEZaUHNzR0QzV051c0Nid3k2WWI3Y1RFNm00LW4wTm83X0Y5MlFRU29fZ0RvYnJFVURiMV96VS1HWmZnV1BkUW16MHJYdXdRbjJSOTJERzh5NXhiRGxjNUkwRDVwNjUxdHF3cXRKN21GNUVELWx2VHpMeHpUYjdjZWY3SFZ6QWs0MWh4cXFnUk1aMFMtT1NIMEl0VTJfcGFOalFvUG41ck5wczB3?oc=5",
    "source": "Reuters",
    "ts": 1794618360.0
   },
   {
+   "title": "US loses measles-free status after continued spread of the disease, WSJ reports",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmxORmhpLU9PVHl1bVFzT1A5QVhUVU5FWTM5Uzl3WDRJeWFvUXJVNWJxcmp1T3A5T2Z3MmlTMjJLUmVuZVRxa1VFWVFPbFZ2TnFBRlpNU3ZqOUpzczBTTzBkRXVaZ01oZEU5WGM4SzQ1ZTlBeFh0YnlMbzgzNHN4VFpTc3BiYXJMVEdkUHdFWFZKYV9vZzhHMUV4MjV6WGZjRndHSFlUczFvV2FIcFdPeHpYSQ?oc=5",
+   "source": "Reuters",
+   "ts": 1794617700.0
+  },
+  {
    "title": "Powerful storms strike on both coasts",
    "link": "https://www.nbcnews.com/nightly-news/video/powerful-storms-strike-on-both-coasts-273486917980",
    "source": "NBC News",
    "ts": 1794616382.0
-  },
-  {
-   "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
-   "source": "Reuters",
-   "ts": 1794615900.0
-  },
-  {
-   "title": "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5",
-   "source": "Reuters",
-   "ts": 1794615720.0
-  },
-  {
-   "title": "All accounted for after tanker crashes into New Orleans riverboat",
-   "link": "https://www.nbcnews.com/nightly-news/video/all-accounted-for-after-tanker-crashes-into-new-orleans-riverboat-273486405725",
-   "source": "NBC News",
-   "ts": 1794615472.0
   }
  ]
 }
