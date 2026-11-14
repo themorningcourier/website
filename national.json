@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-14T08:03:43.738614+00:00",
+ "updated": "2026-11-14T08:53:51.181974+00:00",
  "items": [
+  {
+   "title": "2 Americans die in suspected drowning incident in the Bahamas",
+   "link": "https://abcnews.com/International/2-americans-die-suspected-drowning-incident-bahamas/story?id=138137434",
+   "source": "ABC News",
+   "ts": 1794645868.0
+  },
+  {
+   "title": "\u2018Saved by the Bell\u2019 star Tiffani Thiessen says she needs hip replacement at 52 after painful diagnosis",
+   "link": "https://pagesix.com/2026/11/14/celebrity-news/saved-by-the-bell-tiffani-thiessen-needs-hip-replacement-after-diagnosis/",
+   "source": "New York Post",
+   "ts": 1794644017.0
+  },
   {
    "title": "Dear Abby: Am I wrong to deny my sister-in-law the money my husband left for me?",
    "link": "https://nypost.com/2026/11/14/lifestyle/dear-abby-am-i-wrong-to-deny-my-sister-in-law-the-money-my-husband-left-for-me/",
@@ -24,12 +36,6 @@
    "link": "https://www.cbsnews.com/news/alaska-governor-jkt-jonathan-kreiss-tomkins-election/",
    "source": "CBS News",
    "ts": 1794640289.0
-  },
-  {
-   "title": "Sean Duffy urges college football teams to reach out to FAA as schools scramble to travel after nationwide ground stop",
-   "link": "https://nypost.com/2026/11/14/sports/college-football-teams-urged-to-reach-out-to-faa-scramble-to-travel-after-nationwide-ground-stop-game-time-changes/",
-   "source": "New York Post",
-   "ts": 1794639244.0
   },
   {
    "title": "Canada, US make progress on trade deal, Carney says",
@@ -102,12 +108,6 @@
    "link": "https://abcnews.com/Politics/trump-meet-putin-xi-china-week-us-officials/story?id=138128914",
    "source": "ABC News",
    "ts": 1794624211.0
-  },
-  {
-   "title": "LIVE:  ABC News Live",
-   "link": "https://abcnews.com/video/41463246/",
-   "source": "ABC News",
-   "ts": 1794621790.0
   }
  ]
 }
