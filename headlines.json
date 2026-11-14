@@ -1,23 +1,35 @@
 {
- "updated": "2026-11-14T15:42:04.131692+00:00",
+ "updated": "2026-11-14T16:43:33.195576+00:00",
  "items": [
   {
-   "title": "LIVE: Transportation Secretary giving update after rare FAA nationwide ground stop",
+   "title": "Mother and daughter found dead in home; suspect shot hours later, police say",
+   "link": "https://www.wcax.com/2026/11/14/mother-daughter-found-dead-home-suspect-shot-hours-later-police-say/",
+   "source": "WCAX",
+   "ts": 1794673672.0
+  },
+  {
+   "title": "LIVE: US transportation leaders giving update after rare FAA nationwide ground stop",
    "link": "https://www.mynbc5.com/article/faa-nationwide-ground-stop-flights-resume-what-to-know/74430407",
    "source": "WPTZ",
-   "ts": 1794670140.0
+   "ts": 1794673320.0
+  },
+  {
+   "title": "Fuel crisis and protests pressure Chile's far-right president",
+   "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+   "source": "NPR",
+   "ts": 1794672312.0
+  },
+  {
+   "title": "When will flights be back to normal after nationwide ground stop?",
+   "link": "https://www.mynbc5.com/article/faa-ground-stop-when-flight-delays-return-to-normal/74430323",
+   "source": "WPTZ",
+   "ts": 1794670980.0
   },
   {
    "title": "Darth Vader's lightsaber used in \u2018I am your father\u2019 duel sells for nearly $5 million",
    "link": "https://www.mynbc5.com/article/darth-vader-lightsaber-sells-for-nearly-5-million/74426414",
    "source": "WPTZ",
    "ts": 1794670080.0
-  },
-  {
-   "title": "Avril Lavigne welcomes her first child",
-   "link": "https://www.mynbc5.com/article/avril-lavigne-welcomes-first-child/74430493",
-   "source": "WPTZ",
-   "ts": 1794669000.0
   },
   {
    "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
@@ -42,18 +54,6 @@
    "link": "https://www.wcax.com/2026/11/14/valley-showers-mountain-snow-showers-today-some-accumulation-is-likely-impacts-wont-be-significant/",
    "source": "WCAX",
    "ts": 1794651625.0
-  },
-  {
-   "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-   "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-   "source": "NPR",
-   "ts": 1794650400.0
-  },
-  {
-   "title": "What to Do: Saturday, Nov. 14",
-   "link": "https://www.wcax.com/2026/11/14/what-do-saturday-nov-14/",
-   "source": "WCAX",
-   "ts": 1794648468.0
   },
   {
    "title": "Flights halted at Burlington airport and across US due to air traffic control communications problems",
