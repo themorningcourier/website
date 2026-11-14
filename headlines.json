@@ -1,17 +1,35 @@
 {
- "updated": "2026-11-13T23:19:26.321111+00:00",
+ "updated": "2026-11-14T00:13:20.550633+00:00",
  "items": [
   {
-   "title": "How long is the nationwide ground stop going to last?",
-   "link": "https://www.mynbc5.com/article/how-long-is-the-nationwide-ground-stop-going-to-last/74427872",
+   "title": "LISTEN: Student pilot seeks help from air traffic control during nationwide ground stop",
+   "link": "https://www.mynbc5.com/article/student-pilot-atc-help-nationwide-ground-stop/74428271",
    "source": "WPTZ",
-   "ts": 1794611520.0
+   "ts": 1794615000.0
+  },
+  {
+   "title": "Flights halted at airports across US due to air traffic control communications problems",
+   "link": "https://www.mynbc5.com/article/faa-nationwide-ground-stop-airports/74427201",
+   "source": "WPTZ",
+   "ts": 1794614100.0
+  },
+  {
+   "title": "Microsoft outage shows the risks of relying on a single technology provider for essential services",
+   "link": "https://www.mynbc5.com/article/microsoft-global-outage-disrupts-outlook-teams-copilot/74421314",
+   "source": "WPTZ",
+   "ts": 1794614100.0
+  },
+  {
+   "title": "DA chooses not to press charges against driver who killed 2 on soccer field during youth match",
+   "link": "https://www.wcax.com/2026/11/13/da-chooses-not-press-charges-against-driver-who-killed-2-soccer-field-during-youth-match/",
+   "source": "WCAX",
+   "ts": 1794613271.0
   },
   {
    "title": "LIVE: All people accounted for following cruise ship collision in New Orleans",
    "link": "https://www.wcax.com/2026/11/13/river-cruiser-carrying-nearly-150-passengers-taking-water-near-port-new-orleans-rescue-efforts-underway/",
    "source": "WCAX",
-   "ts": 1794611196.0
+   "ts": 1794613197.0
   },
   {
    "title": "Flights halted at Burlington airport and across US due to air traffic control communications problems",
@@ -20,34 +38,22 @@
    "ts": 1794610529.0
   },
   {
-   "title": "Leahy BTV, Plattsburgh International Airport impacted by nationwide ground stop",
-   "link": "https://www.mynbc5.com/article/leahy-btv-impacted-by-nationwide-ground-stop-flights-can-still-land/74427349",
-   "source": "WPTZ",
-   "ts": 1794610500.0
-  },
-  {
-   "title": "Flights halted at airports across US due to air traffic control communications problems",
-   "link": "https://www.mynbc5.com/article/faa-nationwide-ground-stop-airports/74427201",
-   "source": "WPTZ",
-   "ts": 1794610440.0
-  },
-  {
    "title": "Stuck in Vermont: The first musical at the new Burlington High School",
    "link": "https://www.wcax.com/2026/11/13/stuck-vermont-first-musical-new-burlington-high-school/",
    "source": "WCAX",
    "ts": 1794610369.0
   },
   {
-   "title": "Vermont Supreme Court orders new look at dismissal of murder case",
-   "link": "https://www.wcax.com/2026/11/13/vermont-supreme-court-orders-new-look-dismissal-murder-case/",
-   "source": "WCAX",
-   "ts": 1794609893.0
-  },
-  {
-   "title": "DHS head Mark Waye Mullin says there is not a threat to the U.S. amid FAA ground stop",
-   "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-mark-waye-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+   "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+   "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
    "source": "NPR",
    "ts": 1794609406.0
+  },
+  {
+   "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+   "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+   "source": "NPR",
+   "ts": 1794609405.0
   },
   {
    "title": "Legal action against owner of Corinth\u2019s historic village store building forthcoming",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/13/hunters-prepare-for-major-rule-change-in-vermonts-deer-rifle-hunting-season/",
    "source": "VTDigger",
    "ts": 1794608218.0
-  },
-  {
-   "title": "FAA issues nationwide ground stop for all U.S. airports",
-   "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
-   "source": "NPR",
-   "ts": 1794606913.0
   }
  ]
 }
