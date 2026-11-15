@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-15T18:47:14.749860+00:00",
+ "updated": "2026-11-15T19:46:32.611164+00:00",
  "items": [
+  {
+   "title": "'Somebody hit us': Planes collide while taxiing at Miami International Airport, injuring 2",
+   "link": "https://www.mynbc5.com/article/miami-international-airport-plane-collision/74432395",
+   "source": "WPTZ",
+   "ts": 1794771240.0
+  },
+  {
+   "title": "A mysterious statue emerged on Easter Island. More could be hiding right beneath it",
+   "link": "https://www.mynbc5.com/article/easter-island-statue/74433361",
+   "source": "WPTZ",
+   "ts": 1794770220.0
+  },
+  {
+   "title": "Europe scrambles to respond to wave of bomb threats disrupting transport, media and schools",
+   "link": "https://www.mynbc5.com/article/europe-bomb-threats-disrupt-transport-media-schools/74433226",
+   "source": "WPTZ",
+   "ts": 1794770160.0
+  },
   {
    "title": "Listen to the final song Dolly Parton ever recorded",
    "link": "https://www.wcax.com/2026/11/15/listen-final-song-dolly-parton-ever-recorded/",
@@ -12,24 +30,6 @@
    "link": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
    "source": "NPR",
    "ts": 1794764727.0
-  },
-  {
-   "title": "Police lift evacuation order after bomb found near ethanol plant in central Illinois",
-   "link": "https://www.mynbc5.com/article/peoria-ethanol-plant-bomb-evacuation-lifted/74431436",
-   "source": "WPTZ",
-   "ts": 1794760140.0
-  },
-  {
-   "title": "Some paw-sitive news: Hundreds take part in neighborhood cat tour",
-   "link": "https://www.mynbc5.com/article/somerville-neighborhood-cat-tour/74433004",
-   "source": "WPTZ",
-   "ts": 1794759540.0
-  },
-  {
-   "title": "Air travel expected to recover Monday following ground stop as lawmakers debate next steps",
-   "link": "https://www.mynbc5.com/article/faa-nationwide-ground-stop-air-travel-recovery/74432471",
-   "source": "WPTZ",
-   "ts": 1794757740.0
   },
   {
    "title": "Spend our tax dollars on healthcare, not pricey consultants",
@@ -56,7 +56,7 @@
    "ts": 1794750300.0
   },
   {
-   "title": "PREVENTING BLACK LUNG DISEASE",
+   "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
    "link": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
    "source": "NPR",
    "ts": 1794748290.0
