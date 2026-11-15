@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T16:45:24.322402+00:00",
+ "updated": "2026-11-15T17:40:20.627134+00:00",
  "items": [
   {
    "title": "Police lift evacuation order after bomb found near ethanol plant in central Illinois",
@@ -56,6 +56,12 @@
    "ts": 1794739272.0
   },
   {
+   "title": "New Mexico wanted free childcare for all. This is what's worked \u2014 and what hasn't",
+   "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+   "source": "NPR",
+   "ts": 1794736800.0
+  },
+  {
    "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
    "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
    "source": "NPR",
@@ -64,12 +70,6 @@
   {
    "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
    "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
-   "source": "NPR",
-   "ts": 1794736800.0
-  },
-  {
-   "title": "New Mexico wanted free childcare for all. This is what's worked \u2014 and what hasn't",
-   "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
    "source": "NPR",
    "ts": 1794736800.0
   }
