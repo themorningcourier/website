@@ -1,23 +1,35 @@
 {
- "updated": "2026-11-15T01:06:01.379980+00:00",
+ "updated": "2026-11-15T02:10:58.781635+00:00",
  "items": [
+  {
+   "title": "NFL teams with German mascots wooing fans in Munich",
+   "link": "https://www.mynbc5.com/article/nfl-teams-with-german-mascots/74431766",
+   "source": "WPTZ",
+   "ts": 1794707100.0
+  },
+  {
+   "title": "UVM defeats Plattsburgh State 104-59",
+   "link": "https://www.wcax.com/2026/11/15/uvm-defeats-plattsburgh-state-104-59/",
+   "source": "WCAX",
+   "ts": 1794705402.0
+  },
+  {
+   "title": "Middlebury field hockey, soccer teams all collect NCAA tournament wins",
+   "link": "https://www.wcax.com/2026/11/15/middlebury-field-hockey-soccer-teams-all-collect-ncaa-tournament-wins/",
+   "source": "WCAX",
+   "ts": 1794705334.0
+  },
+  {
+   "title": "FAA ground stop disrupts college football",
+   "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
+   "source": "NPR",
+   "ts": 1794705239.0
+  },
   {
    "title": "Vermont Pub and Brewery serves final beers after 38 years",
    "link": "https://www.wcax.com/2026/11/15/vermont-pub-brewery-serves-final-beers-after-38-years/",
    "source": "WCAX",
    "ts": 1794704141.0
-  },
-  {
-   "title": "BTV flights relatively back to normal, delays still expected",
-   "link": "https://www.wcax.com/2026/11/15/btv-flights-relatively-back-normal-delays-still-expected/",
-   "source": "WCAX",
-   "ts": 1794704006.0
-  },
-  {
-   "title": "Vermont Air National Guard members return from Germany",
-   "link": "https://www.wcax.com/2026/11/15/vermont-air-national-guard-members-return-germany/",
-   "source": "WCAX",
-   "ts": 1794703939.0
   },
   {
    "title": "'It's insane': Lost class ring found after six years",
@@ -38,12 +50,6 @@
    "ts": 1794701032.0
   },
   {
-   "title": "Police lift evacuation order after bomb found near ethanol plant in central Illinois",
-   "link": "https://www.mynbc5.com/article/peoria-ethanol-plant-bomb-evacuation-lifted/74431436",
-   "source": "WPTZ",
-   "ts": 1794700980.0
-  },
-  {
    "title": "Living \u2018in the shadows\u2019: Some pro-ICE Vermonters support pathways to citizenship",
    "link": "https://vtdigger.org/2026/11/14/living-in-the-shadows-some-pro-ice-vermonters-support-pathways-to-citizenship/",
    "source": "VTDigger",
@@ -54,12 +60,6 @@
    "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
    "source": "NPR",
    "ts": 1794696518.0
-  },
-  {
-   "title": "US has lost measles elimination status, global health authorities say",
-   "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
-   "source": "NPR",
-   "ts": 1794694502.0
   },
   {
    "title": "Flights halted at Burlington airport and across US due to air traffic control communications problems",
