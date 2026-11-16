@@ -1,47 +1,53 @@
 {
- "updated": "2026-11-16T20:29:14.495313+00:00",
+ "updated": "2026-11-16T21:26:41.736500+00:00",
  "items": [
   {
-   "title": "Study estimates how much pollution US data centers produce",
-   "link": "https://www.mynbc5.com/article/pollution-us-data-centers-study/74443458",
+   "title": "'The Night The Stars Fell': The Leonid meteor shower through history",
+   "link": "https://www.mynbc5.com/article/space-leonid-meteor-shower-through-history/74414879",
    "source": "WPTZ",
-   "ts": 1794860700.0
+   "ts": 1794864000.0
   },
   {
-   "title": "Customers at Chase, Wells Fargo, other US banks report difficulty with services",
+   "title": "Technical issue triggers online banking delays across major US banks",
    "link": "https://www.wcax.com/2026/11/16/chase-wells-fargo-bank-america-us-bank-hit-by-nationwide-outage-users-say/",
    "source": "WCAX",
-   "ts": 1794860552.0
+   "ts": 1794863800.0
   },
   {
-   "title": "Report: Lake Placid Olympic venues generate $484 million",
-   "link": "https://www.wcax.com/2026/11/16/report-lake-placid-olympic-venues-generate-484-million/",
+   "title": "Vermont officials react after death of Barre Mayor Thom Lauzon",
+   "link": "https://www.mynbc5.com/article/barre-mayor-thom-lauzon-dies-gov-scotts-office-says/74441113",
+   "source": "WPTZ",
+   "ts": 1794863580.0
+  },
+  {
+   "title": "Customers at major US banks report difficulty with some online services",
+   "link": "https://www.mynbc5.com/article/bank-outages-chase-wells-fargo-bank-of-america/74443090",
+   "source": "WPTZ",
+   "ts": 1794863400.0
+  },
+  {
+   "title": "Zoo monitoring Fiona the hippo after she ingested object \u2018tossed\u2019 by visitor",
+   "link": "https://www.wcax.com/2026/11/16/zoo-monitoring-fiona-hippo-after-she-ingested-object-tossed-by-visitor/",
    "source": "WCAX",
-   "ts": 1794860460.0
+   "ts": 1794863094.0
+  },
+  {
+   "title": "A quiet, mild, and sunny stretch develops this week for Vermont and the North Country",
+   "link": "https://www.wcax.com/2026/11/16/quiet-mild-sunny-stretch-develops-this-week-vermont-north-country/",
+   "source": "WCAX",
+   "ts": 1794862588.0
+  },
+  {
+   "title": "Forced drug switches are burying clinics in paperwork",
+   "link": "https://vtdigger.org/2026/11/16/opinion-forced-drug-switches-are-burying-clinics-in-paperwork/",
+   "source": "VTDigger",
+   "ts": 1794861819.0
   },
   {
    "title": "State help for flood survivors was disorganized and slow to arrive. For some, it never came.",
    "link": "https://vtdigger.org/2026/11/16/state-help-for-flood-survivors-was-disorganized-and-slow-to-arrive-for-some-it-never-came/",
    "source": "VTDigger",
    "ts": 1794860413.0
-  },
-  {
-   "title": "Customers at major US banks report difficulty with some online services",
-   "link": "https://www.mynbc5.com/article/bank-outages-chase-wells-fargo-bank-of-america/74443090",
-   "source": "WPTZ",
-   "ts": 1794860220.0
-  },
-  {
-   "title": "Vermont State Police investigate after car windshields damaged by rocks in Lamoille County",
-   "link": "https://www.mynbc5.com/article/vermont-state-police-investigate-after-car-windshields-damaged-by-rocks-in-lamoille-county/74443276",
-   "source": "WPTZ",
-   "ts": 1794859320.0
-  },
-  {
-   "title": "Vermont visitor spending falls as Canadian visits decline",
-   "link": "https://www.wcax.com/2026/11/16/vermont-visitor-spending-falls-canadian-visits-decline/",
-   "source": "WCAX",
-   "ts": 1794859159.0
   },
   {
    "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
    "source": "NPR",
    "ts": 1794850447.0
-  },
-  {
-   "title": "Barre City Mayor Thom Lauzon dies",
-   "link": "https://vtdigger.org/2026/11/16/barre-city-mayor-thom-lauzon-dies/",
-   "source": "VTDigger",
-   "ts": 1794847111.0
   }
  ]
 }
