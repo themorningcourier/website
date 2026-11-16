@@ -1,41 +1,47 @@
 {
- "updated": "2026-11-16T22:26:01.959211+00:00",
+ "updated": "2026-11-16T23:22:14.090453+00:00",
  "items": [
   {
-   "title": "United Airlines experiencing 'widespread system outage' just days after nationwide ground stop",
+   "title": "Live chickens hurled at convenience store clerk in Massachusetts, police say",
+   "link": "https://www.mynbc5.com/article/massachusetts-live-chickens-thrown-cumberland-farms/74445176",
+   "source": "WPTZ",
+   "ts": 1794871080.0
+  },
+  {
+   "title": "United Airlines says it resolved a technology issue that affected departing flights",
    "link": "https://www.mynbc5.com/article/united-airlines-experiencing-widespread-system-outage-just-days-after-nationwide-ground-stop/74444477",
    "source": "WPTZ",
-   "ts": 1794867720.0
+   "ts": 1794870960.0
   },
   {
-   "title": "Plattsburgh YMCA searches for new child care leader",
-   "link": "https://www.wcax.com/2026/11/16/plattsburgh-ymca-searches-new-child-care-leader/",
-   "source": "WCAX",
-   "ts": 1794867350.0
-  },
-  {
-   "title": "St. Albans police searching for carjacking suspect after Walmart incident",
-   "link": "https://www.wcax.com/2026/11/16/st-albans-police-searching-carjacking-suspect-after-walmart-incident/",
-   "source": "WCAX",
-   "ts": 1794867266.0
-  },
-  {
-   "title": "Vermont officials react after death of Barre Mayor Thom Lauzon",
-   "link": "https://www.mynbc5.com/article/barre-mayor-thom-lauzon-dies-gov-scotts-office-says/74441113",
+   "title": "Travelers return to Burlington airport as FAA faces questions over nationwide ground stop",
+   "link": "https://www.mynbc5.com/article/faa-shutdown-burlington-airport-travelers/74444230",
    "source": "WPTZ",
-   "ts": 1794867240.0
+   "ts": 1794870780.0
+  },
+  {
+   "title": "Record late snow for Mount Mansfield and Burlington this past weekend",
+   "link": "https://www.wcax.com/2026/11/16/record-late-snow-mount-mansfield-burlington-this-past-weekend/",
+   "source": "WCAX",
+   "ts": 1794870718.0
+  },
+  {
+   "title": "Made in Vermont: \u2018Cranberry Bob\u2019 takes the tart fruit to heart",
+   "link": "https://www.wcax.com/2026/11/16/made-vermont-cranberry-bob-takes-tart-fruit-heart/",
+   "source": "WCAX",
+   "ts": 1794869298.0
+  },
+  {
+   "title": "Dismissed Bennington County murder case heads back to court",
+   "link": "https://vtdigger.org/2026/11/16/dismissed-bennington-county-murder-case-heads-back-to-court/",
+   "source": "VTDigger",
+   "ts": 1794868724.0
   },
   {
    "title": "Vermont State Police continue to investigate Berkshire death",
-   "link": "https://www.wcax.com/2026/11/16/berkshire/",
+   "link": "https://www.wcax.com/2026/11/16/vermont-state-police-continue-investigate-berkshire-death/",
    "source": "WCAX",
-   "ts": 1794866978.0
-  },
-  {
-   "title": "CAUGHT ON CAMERA: Rollover crash in Oklahoma that caused sparks caught on camera",
-   "link": "https://www.mynbc5.com/article/oklahoma-city-i40-rollover-crash-dashcam-video/74444571",
-   "source": "WPTZ",
-   "ts": 1794866940.0
+   "ts": 1794868675.0
   },
   {
    "title": "California sues OpenAI over hacking risks",
@@ -45,7 +51,7 @@
   },
   {
    "title": "Montpelier appoints new police chief",
-   "link": "https://vtdigger.org/2026/11/16/montpelier-appoints-new-police-chief-2/",
+   "link": "https://vtdigger.org/2026/11/16/montpelier-appoints-new-police-chief-2026/",
    "source": "VTDigger",
    "ts": 1794866178.0
   },
@@ -54,12 +60,6 @@
    "link": "https://vtdigger.org/2026/11/16/opinion-forced-drug-switches-are-burying-clinics-in-paperwork/",
    "source": "VTDigger",
    "ts": 1794861819.0
-  },
-  {
-   "title": "State help for flood survivors was disorganized and slow to arrive. For some, it never came.",
-   "link": "https://vtdigger.org/2026/11/16/state-help-for-flood-survivors-was-disorganized-and-slow-to-arrive-for-some-it-never-came/",
-   "source": "VTDigger",
-   "ts": 1794860413.0
   },
   {
    "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
