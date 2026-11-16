@@ -1,97 +1,97 @@
 {
- "updated": "2026-11-15T10:19:31.073805+00:00",
+ "updated": "2026-11-16T10:02:26.346418+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "NY-SH-17",
-     "name": "Sharon Springs 0.5 S, Ny",
-     "state": "NY",
-     "elev_ft": "1378",
-     "inches": 12.0,
+     "id": "MTLT1",
+     "name": "Gatlinburg,Tn",
+     "state": "TN",
+     "elev_ft": "6345",
+     "inches": 5.5,
      "hours": 24.0,
-     "time": "2026-11-13 12:00"
+     "time": "2026-11-14 12:00"
     },
     {
-     "id": "NY-OT-11",
-     "name": "Hartwick, Ny",
-     "state": "NY",
-     "elev_ft": "1335",
-     "inches": 10.6,
+     "id": "CRLO3",
+     "name": "Crater Lake National Park Hq",
+     "state": "OR",
+     "elev_ft": "6499",
+     "inches": 5.0,
      "hours": 24.0,
-     "time": "2026-11-13 14:50"
+     "time": "2026-11-14 16:45"
     },
     {
-     "id": "NY-SH-15",
-     "name": "Summit 4.6 Se, Ny",
-     "state": "NY",
-     "elev_ft": "2018",
-     "inches": 10.0,
+     "id": "NC-ML-15",
+     "name": "Buladean 1.3 Ese, Nc",
+     "state": "NC",
+     "elev_ft": "4058",
+     "inches": 4.7,
      "hours": 24.0,
-     "time": "2026-11-13 13:00"
+     "time": "2026-11-14 13:00"
     },
     {
-     "id": "NY-DL-34",
-     "name": "Schenevus 5.9 Ssw, Ny",
-     "state": "NY",
-     "elev_ft": "1427",
-     "inches": 8.5,
+     "id": "PKCU1",
+     "name": "Silver Lk Brighton",
+     "state": "UT",
+     "elev_ft": "8770",
+     "inches": 4.6,
      "hours": 24.0,
-     "time": "2026-11-13 12:30"
+     "time": "2026-11-14 17:00"
     },
     {
-     "id": "SHBN6",
-     "name": "Sherburne",
-     "state": "NY",
-     "elev_ft": "1050",
-     "inches": 8.0,
+     "id": "PA-WN-65",
+     "name": "Gouldsboro 3.8 Ne, Pa",
+     "state": "PA",
+     "elev_ft": "2077",
+     "inches": 4.5,
      "hours": 24.0,
-     "time": "2026-11-13 12:30"
+     "time": "2026-11-14 15:00"
     },
     {
-     "id": "NY-DL-25",
-     "name": "Hobart 4.8 Ese, Ny",
-     "state": "NY",
-     "elev_ft": "2205",
-     "inches": 7.0,
+     "id": "NC-ML-1",
+     "name": "Bakersville 5.4 N, Nc",
+     "state": "NC",
+     "elev_ft": "3885",
+     "inches": 4.4,
      "hours": 24.0,
-     "time": "2026-11-13 12:00"
+     "time": "2026-11-14 12:00"
     },
     {
-     "id": "NY-DL-32",
-     "name": "Delhi 6.6 Wnw, Ny",
-     "state": "NY",
-     "elev_ft": "2014",
-     "inches": 7.0,
+     "id": "CO-LP-35",
+     "name": "Bayfield 7.0 N, Co",
+     "state": "CO",
+     "elev_ft": "8041",
+     "inches": 4.0,
      "hours": 24.0,
-     "time": "2026-11-13 12:00"
+     "time": "2026-11-14 14:00"
     },
     {
-     "id": "NRWN6",
-     "name": "Norwich",
-     "state": "NY",
-     "elev_ft": "991",
-     "inches": 6.0,
+     "id": "CO-LP-79",
+     "name": "Rockwood 6.9 Nnw, Co",
+     "state": "CO",
+     "elev_ft": "8976",
+     "inches": 4.0,
      "hours": 24.0,
-     "time": "2026-11-13 12:00"
+     "time": "2026-11-14 14:00"
     },
     {
-     "id": "NY-AB-1",
-     "name": "Altamont 2.7 Ssw, Ny",
-     "state": "NY",
-     "elev_ft": "1450",
-     "inches": 6.0,
+     "id": "INVN2",
+     "name": "Incline Village",
+     "state": "NV",
+     "elev_ft": "6352",
+     "inches": 4.0,
      "hours": 24.0,
-     "time": "2026-11-13 13:55"
+     "time": "2026-11-14 17:00"
     },
     {
-     "id": "NY-AB-10",
-     "name": "Rensselaerville 2.1 Nnw, Ny",
-     "state": "NY",
-     "elev_ft": "1624",
-     "inches": 5.9,
+     "id": "CA-ED-9",
+     "name": "Tahoma .5 S, Ca",
+     "state": "CA",
+     "elev_ft": "6385",
+     "inches": 3.7,
      "hours": 24.0,
-     "time": "2026-11-13 12:00"
+     "time": "2026-11-14 15:00"
     }
    ]
   },
@@ -113,111 +113,111 @@
      ""
     ],
     [
-     "NY-SH-17",
-     "2026-11-13 12:00",
-     "12.000",
+     "MTLT1",
+     "2026-11-14 12:00",
+     "5.500",
      "24.000",
-     "1378",
-     "SHARON SPRINGS 0.5 S, NY"
+     "6345",
+     "GATLINBURG,TN"
     ],
     [
-     "NY-OT-11",
-     "2026-11-13 14:50",
-     "10.600",
-     "24.000",
-     "1335",
-     "HARTWICK, NY"
-    ],
-    [
-     "NY-SH-15",
-     "2026-11-13 13:00",
-     "10.000",
-     "24.000",
-     "2018",
-     "SUMMIT 4.6 SE, NY"
-    ],
-    [
-     "NY-DL-34",
-     "2026-11-13 12:30",
-     "8.500",
-     "24.000",
-     "1427",
-     "SCHENEVUS 5.9 SSW, NY"
-    ],
-    [
-     "SHBN6",
-     "2026-11-13 12:30",
-     "8.000",
-     "24.000",
-     "1050",
-     "SHERBURNE"
-    ],
-    [
-     "NY-DL-25",
-     "2026-11-13 12:00",
-     "7.000",
-     "24.000",
-     "2205",
-     "HOBART 4.8 ESE, NY"
-    ],
-    [
-     "NY-DL-32",
-     "2026-11-13 12:00",
-     "7.000",
-     "24.000",
-     "2014",
-     "DELHI 6.6 WNW, NY"
-    ],
-    [
-     "NRWN6",
-     "2026-11-13 12:00",
-     "6.000",
-     "24.000",
-     "991",
-     "NORWICH"
-    ],
-    [
-     "NY-AB-1",
-     "2026-11-13 13:55",
-     "6.000",
-     "24.000",
-     "1450",
-     "ALTAMONT 2.7 SSW, NY"
-    ],
-    [
-     "NY-AB-10",
-     "2026-11-13 12:00",
-     "5.900",
-     "24.000",
-     "1624",
-     "RENSSELAERVILLE 2.1 NNW, NY"
-    ],
-    [
-     "NVLN6",
-     "2026-11-13 13:30",
+     "CRLO3",
+     "2026-11-14 16:45",
      "5.000",
      "24.000",
-     "869",
-     "NORTHVILLE"
+     "6499",
+     "CRATER LAKE NATIONAL PARK HQ"
     ],
     [
-     "NY-CN-14",
-     "2026-11-13 13:00",
-     "4.500",
+     "NC-ML-15",
+     "2026-11-14 13:00",
+     "4.700",
      "24.000",
-     "1250",
-     "OXFORD 0.8 NNW, NY"
+     "4058",
+     "BULADEAN 1.3 ESE, NC"
     ],
     [
-     "NY-CN-14",
-     "2026-11-13 12:00",
+     "PKCU1",
+     "2026-11-14 17:00",
+     "4.600",
+     "24.000",
+     "8770",
+     "SILVER LK BRIGHTON"
+    ],
+    [
+     "PA-WN-65",
+     "2026-11-14 15:00",
      "4.500",
      "24.000",
-     "1250",
-     "OXFORD 0.8 NNW, NY"
+     "2077",
+     "GOULDSBORO 3.8 NE, PA"
+    ],
+    [
+     "NC-ML-1",
+     "2026-11-14 12:00",
+     "4.400",
+     "24.000",
+     "3885",
+     "BAKERSVILLE 5.4 N, NC"
+    ],
+    [
+     "CO-LP-35",
+     "2026-11-14 14:00",
+     "4.000",
+     "24.000",
+     "8041",
+     "BAYFIELD 7.0 N, CO"
+    ],
+    [
+     "CO-LP-79",
+     "2026-11-14 14:00",
+     "4.000",
+     "24.000",
+     "8976",
+     "ROCKWOOD 6.9 NNW, CO"
+    ],
+    [
+     "INVN2",
+     "2026-11-14 17:00",
+     "4.000",
+     "24.000",
+     "6352",
+     "INCLINE VILLAGE"
+    ],
+    [
+     "CA-ED-9",
+     "2026-11-14 15:00",
+     "3.700",
+     "24.000",
+     "6385",
+     "TAHOMA .5 S, CA"
+    ],
+    [
+     "TAAC1",
+     "2026-11-14 15:00",
+     "3.700",
+     "24.000",
+     "6385",
+     "TAHOMA, CA"
+    ],
+    [
+     "ATAU1",
+     "2026-11-15 01:00",
+     "3.600",
+     "24.000",
+     "8684",
+     "ALTA"
+    ],
+    [
+     "NC-MS-23",
+     "2026-11-14 13:00",
+     "3.500",
+     "24.000",
+     "3891",
+     "HOT SPRINGS 9.6 SW, NC"
     ]
    ],
-   "count": 11616
+   "count": 11032
   }
  ]
 }
