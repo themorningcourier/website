@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T23:49:17.825836+00:00",
+ "updated": "2026-11-16T01:25:41.571322+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -106,8 +106,8 @@
     {
      "name": "Raiders",
      "abbr": "LV",
-     "rec": "4-5",
-     "pct": 0.44444445
+     "rec": "4-6",
+     "pct": 0.4
     },
     {
      "name": "Chargers",
@@ -129,8 +129,8 @@
     {
      "name": "Cowboys",
      "abbr": "DAL",
-     "rec": "4-5",
-     "pct": 0.44444445
+     "rec": "4-6",
+     "pct": 0.4
     },
     {
      "name": "Commanders",
@@ -210,26 +210,26 @@
     {
      "name": "49ers",
      "abbr": "SF",
-     "rec": "7-1",
-     "pct": 0.875
+     "rec": "8-1",
+     "pct": 0.8888889
     },
     {
      "name": "Seahawks",
      "abbr": "SEA",
-     "rec": "5-4",
-     "pct": 0.5555556
+     "rec": "6-4",
+     "pct": 0.6
     },
     {
      "name": "Rams",
      "abbr": "LAR",
-     "rec": "5-4",
-     "pct": 0.5555556
+     "rec": "6-4",
+     "pct": 0.6
     },
     {
      "name": "Cardinals",
      "abbr": "ARI",
-     "rec": "3-6",
-     "pct": 0.33333334
+     "rec": "3-7",
+     "pct": 0.3
     }
    ]
   }
