@@ -1,41 +1,47 @@
 {
- "updated": "2026-11-16T19:36:09.555280+00:00",
+ "updated": "2026-11-16T20:29:14.495313+00:00",
  "items": [
   {
-   "title": "Customers at some of the nation's largest banks report issues accessing accounts online",
-   "link": "https://www.mynbc5.com/article/bank-outages-chase-wells-fargo-bank-of-america/74443090",
+   "title": "Study estimates how much pollution US data centers produce",
+   "link": "https://www.mynbc5.com/article/pollution-us-data-centers-study/74443458",
    "source": "WPTZ",
-   "ts": 1794857460.0
+   "ts": 1794860700.0
   },
   {
-   "title": "New Montpelier chief of police named after three-month search",
-   "link": "https://www.mynbc5.com/article/jonathan-young-montpelier-chief-of-police/74443313",
-   "source": "WPTZ",
-   "ts": 1794857340.0
-  },
-  {
-   "title": "Chase, Wells Fargo, Bank of America, US Bank hit by nationwide outage, users say",
+   "title": "Customers at Chase, Wells Fargo, other US banks report difficulty with services",
    "link": "https://www.wcax.com/2026/11/16/chase-wells-fargo-bank-america-us-bank-hit-by-nationwide-outage-users-say/",
    "source": "WCAX",
-   "ts": 1794857316.0
+   "ts": 1794860552.0
   },
   {
-   "title": "Mayor: Suspect in custody after explosive device found at Illinois plant, forcing thousands to evacuate",
-   "link": "https://www.wcax.com/2026/11/16/mayor-suspect-custody-after-explosive-device-found-illinois-plant/",
+   "title": "Report: Lake Placid Olympic venues generate $484 million",
+   "link": "https://www.wcax.com/2026/11/16/report-lake-placid-olympic-venues-generate-484-million/",
    "source": "WCAX",
-   "ts": 1794856348.0
+   "ts": 1794860460.0
   },
   {
-   "title": "Barre Mayor Thom Lauzon dies, Gov. Scott's office says",
-   "link": "https://www.mynbc5.com/article/barre-mayor-thom-lauzon-dies-gov-scotts-office-says/74441113",
+   "title": "State help for flood survivors was disorganized and slow to arrive. For some, it never came.",
+   "link": "https://vtdigger.org/2026/11/16/state-help-for-flood-survivors-was-disorganized-and-slow-to-arrive-for-some-it-never-came/",
+   "source": "VTDigger",
+   "ts": 1794860413.0
+  },
+  {
+   "title": "Customers at major US banks report difficulty with some online services",
+   "link": "https://www.mynbc5.com/article/bank-outages-chase-wells-fargo-bank-of-america/74443090",
    "source": "WPTZ",
-   "ts": 1794856260.0
+   "ts": 1794860220.0
   },
   {
-   "title": "These doctors had a history of being disciplined. Prison officials hired them anyway",
-   "link": "https://www.wcax.com/2026/11/16/these-doctors-had-history-being-disciplined-prison-officials-hired-them-anyway/",
+   "title": "Vermont State Police investigate after car windshields damaged by rocks in Lamoille County",
+   "link": "https://www.mynbc5.com/article/vermont-state-police-investigate-after-car-windshields-damaged-by-rocks-in-lamoille-county/74443276",
+   "source": "WPTZ",
+   "ts": 1794859320.0
+  },
+  {
+   "title": "Vermont visitor spending falls as Canadian visits decline",
+   "link": "https://www.wcax.com/2026/11/16/vermont-visitor-spending-falls-canadian-visits-decline/",
    "source": "WCAX",
-   "ts": 1794855719.0
+   "ts": 1794859159.0
   },
   {
    "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/16/barre-city-mayor-thom-lauzon-dies/",
    "source": "VTDigger",
    "ts": 1794847111.0
-  },
-  {
-   "title": "Spend our tax dollars on healthcare, not pricey consultants",
-   "link": "https://vtdigger.org/2026/11/15/opinion-spend-our-tax-dollars-on-healthcare-not-pricey-consultants/",
-   "source": "VTDigger",
-   "ts": 1794753180.0
   }
  ]
 }
