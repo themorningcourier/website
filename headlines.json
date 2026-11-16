@@ -1,41 +1,47 @@
 {
- "updated": "2026-11-16T10:41:53.255377+00:00",
+ "updated": "2026-11-16T12:13:00.254485+00:00",
  "items": [
   {
-   "title": "Check your flight: some delays remain after FAA ground stop",
-   "link": "https://www.mynbc5.com/article/check-your-flight-after-faa-ground-stop-burlington/74437026",
-   "source": "WPTZ",
-   "ts": 1794825480.0
+   "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+   "link": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+   "source": "NPR",
+   "ts": 1794830894.0
   },
   {
-   "title": "Close call: NY woman nearly hits police cruiser in VT, officers say",
-   "link": "https://www.mynbc5.com/article/plattsburgh-woman-nearly-hits-police-cruiser-montpelier-vt/74436860",
+   "title": "Leahy BTV, Plattsburgh International Airport impacted by nationwide ground stop",
+   "link": "https://www.mynbc5.com/article/leahy-btv-impacted-by-nationwide-ground-stop-flights-can-still-land/74427349",
    "source": "WPTZ",
-   "ts": 1794824700.0
+   "ts": 1794830520.0
   },
   {
-   "title": "Police: 2 Americans drown after being pulled by strong sea currents in the Bahamas",
-   "link": "https://www.mynbc5.com/article/police-2-americans-drown-strong-sea-currents-bahamas/74437158",
+   "title": "Prince William and Princess Catherine arrive in India for 3-day visit",
+   "link": "https://www.mynbc5.com/article/prince-william-princess-catherine-india/74438518",
    "source": "WPTZ",
-   "ts": 1794824640.0
+   "ts": 1794830520.0
   },
   {
-   "title": "Father accused of killing 3-month-old son by aggressively rocking bouncer to get him to stop crying",
-   "link": "https://www.wcax.com/2026/11/16/father-accused-killing-3-month-old-son-by-aggressively-rocking-bouncer-get-him-stop-crying/",
+   "title": "New regulations and fines proposed for street parking in Chittenden County",
+   "link": "https://www.mynbc5.com/article/new-parking-regulations-fines-south-burlington-vt/74437508",
+   "source": "WPTZ",
+   "ts": 1794830220.0
+  },
+  {
+   "title": "Gas prices drop across the region",
+   "link": "https://www.wcax.com/2026/11/16/gas-prices-drop-across-region/",
    "source": "WCAX",
-   "ts": 1794824458.0
+   "ts": 1794830068.0
   },
   {
-   "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-   "source": "NPR",
-   "ts": 1794823200.0
+   "title": "Title IX processes vary across Vermont colleges",
+   "link": "https://www.wcax.com/2026/11/16/title-ix-processes-vary-across-vermont-colleges/",
+   "source": "WCAX",
+   "ts": 1794829572.0
   },
   {
-   "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
-   "source": "NPR",
-   "ts": 1794823200.0
+   "title": "Police investigate Brandon domestic disturbance",
+   "link": "https://www.wcax.com/2026/11/16/police-investigate-brandon-domestic-disturbance/",
+   "source": "WCAX",
+   "ts": 1794828503.0
   },
   {
    "title": "As millions lose food aid nationwide, this SNAP office is doubling up as a food pantry",
@@ -44,16 +50,10 @@
    "ts": 1794823200.0
   },
   {
-   "title": "A sunnier and warmer week on the way",
-   "link": "https://www.wcax.com/2026/11/16/sunnier-warmer-week-way/",
-   "source": "WCAX",
-   "ts": 1794820505.0
-  },
-  {
-   "title": "Tanker\u2019s steering failed minutes before it crashed into cruise ship, NTSB says",
-   "link": "https://www.wcax.com/2026/11/16/tankers-steering-failed-minutes-before-it-crashed-into-cruise-ship-ntsb-says/",
-   "source": "WCAX",
-   "ts": 1794812511.0
+   "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+   "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+   "source": "NPR",
+   "ts": 1794823200.0
   },
   {
    "title": "Spend our tax dollars on healthcare, not pricey consultants",
