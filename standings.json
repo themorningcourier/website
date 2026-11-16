@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T04:16:09.215554+00:00",
+ "updated": "2026-11-16T05:53:58.015797+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -34,16 +34,16 @@
    "name": "AFC North",
    "teams": [
     {
-     "name": "Steelers",
-     "abbr": "PIT",
-     "rec": "6-2",
-     "pct": 0.75
-    },
-    {
      "name": "Bengals",
      "abbr": "CIN",
-     "rec": "6-2",
-     "pct": 0.75
+     "rec": "7-2",
+     "pct": 0.7777778
+    },
+    {
+     "name": "Steelers",
+     "abbr": "PIT",
+     "rec": "6-3",
+     "pct": 0.6666667
     },
     {
      "name": "Browns",
