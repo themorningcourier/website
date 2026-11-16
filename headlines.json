@@ -1,41 +1,53 @@
 {
- "updated": "2026-11-16T21:26:41.736500+00:00",
+ "updated": "2026-11-16T22:26:01.959211+00:00",
  "items": [
   {
-   "title": "'The Night The Stars Fell': The Leonid meteor shower through history",
-   "link": "https://www.mynbc5.com/article/space-leonid-meteor-shower-through-history/74414879",
+   "title": "United Airlines experiencing 'widespread system outage' just days after nationwide ground stop",
+   "link": "https://www.mynbc5.com/article/united-airlines-experiencing-widespread-system-outage-just-days-after-nationwide-ground-stop/74444477",
    "source": "WPTZ",
-   "ts": 1794864000.0
+   "ts": 1794867720.0
   },
   {
-   "title": "Technical issue triggers online banking delays across major US banks",
-   "link": "https://www.wcax.com/2026/11/16/chase-wells-fargo-bank-america-us-bank-hit-by-nationwide-outage-users-say/",
+   "title": "Plattsburgh YMCA searches for new child care leader",
+   "link": "https://www.wcax.com/2026/11/16/plattsburgh-ymca-searches-new-child-care-leader/",
    "source": "WCAX",
-   "ts": 1794863800.0
+   "ts": 1794867350.0
+  },
+  {
+   "title": "St. Albans police searching for carjacking suspect after Walmart incident",
+   "link": "https://www.wcax.com/2026/11/16/st-albans-police-searching-carjacking-suspect-after-walmart-incident/",
+   "source": "WCAX",
+   "ts": 1794867266.0
   },
   {
    "title": "Vermont officials react after death of Barre Mayor Thom Lauzon",
    "link": "https://www.mynbc5.com/article/barre-mayor-thom-lauzon-dies-gov-scotts-office-says/74441113",
    "source": "WPTZ",
-   "ts": 1794863580.0
+   "ts": 1794867240.0
   },
   {
-   "title": "Customers at major US banks report difficulty with some online services",
-   "link": "https://www.mynbc5.com/article/bank-outages-chase-wells-fargo-bank-of-america/74443090",
+   "title": "Vermont State Police continue to investigate Berkshire death",
+   "link": "https://www.wcax.com/2026/11/16/berkshire/",
+   "source": "WCAX",
+   "ts": 1794866978.0
+  },
+  {
+   "title": "CAUGHT ON CAMERA: Rollover crash in Oklahoma that caused sparks caught on camera",
+   "link": "https://www.mynbc5.com/article/oklahoma-city-i40-rollover-crash-dashcam-video/74444571",
    "source": "WPTZ",
-   "ts": 1794863400.0
+   "ts": 1794866940.0
   },
   {
-   "title": "Zoo monitoring Fiona the hippo after she ingested object \u2018tossed\u2019 by visitor",
-   "link": "https://www.wcax.com/2026/11/16/zoo-monitoring-fiona-hippo-after-she-ingested-object-tossed-by-visitor/",
-   "source": "WCAX",
-   "ts": 1794863094.0
+   "title": "California sues OpenAI over hacking risks",
+   "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+   "source": "NPR",
+   "ts": 1794866782.0
   },
   {
-   "title": "A quiet, mild, and sunny stretch develops this week for Vermont and the North Country",
-   "link": "https://www.wcax.com/2026/11/16/quiet-mild-sunny-stretch-develops-this-week-vermont-north-country/",
-   "source": "WCAX",
-   "ts": 1794862588.0
+   "title": "Montpelier appoints new police chief",
+   "link": "https://vtdigger.org/2026/11/16/montpelier-appoints-new-police-chief-2/",
+   "source": "VTDigger",
+   "ts": 1794866178.0
   },
   {
    "title": "Forced drug switches are burying clinics in paperwork",
@@ -56,22 +68,10 @@
    "ts": 1794854966.0
   },
   {
-   "title": "Vermont Senate Democrats nominate Andrew Perchlik to be chamber\u2019s next leader",
-   "link": "https://vtdigger.org/2026/11/16/vermont-senate-democrats-nominate-andrew-perchlik-to-be-chambers-next-leader/",
-   "source": "VTDigger",
-   "ts": 1794852355.0
-  },
-  {
    "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
    "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
    "source": "NPR",
    "ts": 1794852290.0
-  },
-  {
-   "title": "Nearly two million people are behind bars in the US. How did we get here?",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
-   "source": "NPR",
-   "ts": 1794850447.0
   }
  ]
 }
