@@ -1,9 +1,8 @@
 {
- "updated": "2026-11-17T01:53:37.426347+00:00",
+ "updated": "2026-11-17T02:53:06.540396+00:00",
  "log": [
   "https://site.api.espn.com/apis/v2/sports/football/nfl/standings?level=3 failed HTTP Error 403: Forbidden",
   "https://site.api.espn.com/apis/v2/sports/football/nfl/standings failed HTTP Error 403: Forbidden",
-  "https://site.web.api.espn.com/apis/v2/sports/football/nfl/standings?level=3 keys=['uid', 'id', 'name', 'abbreviation', 'shortName', 'children', 'isConference', 'season'] groups=8",
-  "Reuters https://news.google.com/rss/search?q=when:1d+site:reuters.com&hl=en-US&gl=US&ceid=US:en HTTP Error 429: Too Many Requests"
+  "https://site.web.api.espn.com/apis/v2/sports/football/nfl/standings?level=3 keys=['uid', 'id', 'name', 'abbreviation', 'shortName', 'children', 'isConference', 'season'] groups=8"
  ]
 }
