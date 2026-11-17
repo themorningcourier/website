@@ -1,35 +1,47 @@
 {
- "updated": "2026-11-17T10:08:04.945744+00:00",
+ "updated": "2026-11-17T11:25:15.644443+00:00",
  "items": [
   {
-   "title": "Do school cellphone bans work? New study says yes \u2013 but it's complicated",
-   "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
+   "title": "El Ni\u00f1o brings warmer temperatures as ski resorts get ready to open",
+   "link": "https://www.mynbc5.com/article/ski-resorts-prep-for-el-nino-vt-ny/74450691",
+   "source": "WPTZ",
+   "ts": 1794914520.0
+  },
+  {
+   "title": "The dangerous rescue on Camel\u2019s Hump",
+   "link": "https://www.wcax.com/2026/11/17/dangerous-rescue-camels-hump/",
+   "source": "WCAX",
+   "ts": 1794914125.0
+  },
+  {
+   "title": "Medication used to treat blood pressure recalled over possible metal contamination",
+   "link": "https://www.mynbc5.com/article/medication-blood-pressure-possible-metal-contamination/74450443",
+   "source": "WPTZ",
+   "ts": 1794913800.0
+  },
+  {
+   "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
    "source": "NPR",
-   "ts": 1794909600.0
+   "ts": 1794913200.0
+  },
+  {
+   "title": "Trump arrives in Philippines to kick off Asia trip",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+   "source": "NPR",
+   "ts": 1794912235.0
+  },
+  {
+   "title": "Pope forgives person who nailed him in the eye with a rosary in Peru",
+   "link": "https://www.mynbc5.com/article/pope-forgives-person-eye-rosary-peru/74450364",
+   "source": "WPTZ",
+   "ts": 1794911340.0
   },
   {
    "title": "More people are getting the flu. Should you get a flu shot before you travel?",
    "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
    "source": "NPR",
    "ts": 1794909600.0
-  },
-  {
-   "title": "She went to college to become a social worker. Now she's joined the skilled trades",
-   "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
-   "source": "NPR",
-   "ts": 1794909600.0
-  },
-  {
-   "title": "Pope Leo says there is no change to agenda or priorities after his lung cancer surgery",
-   "link": "https://www.mynbc5.com/article/pope-leo-no-change-agenda-priorities-lung-cancer-surgery/74450166",
-   "source": "WPTZ",
-   "ts": 1794909120.0
-  },
-  {
-   "title": "'Just a test:' FEMA to conduct nationwide Emergency Alert System test Tuesday",
-   "link": "https://www.mynbc5.com/article/routine-nationwide-emergency-alert-system-test/74449535",
-   "source": "WPTZ",
-   "ts": 1794908160.0
   },
   {
    "title": "Brighter & warmer weather, as temperatures soar into the 50s and beyond",
@@ -42,18 +54,6 @@
    "link": "https://www.wcax.com/2026/11/17/puppy-wanders-into-car-dealership-after-being-abandoned-finds-her-forever-home/",
    "source": "WCAX",
    "ts": 1794905017.0
-  },
-  {
-   "title": "Mother charged after newborn dies from blunt force injuries 2 days after birth",
-   "link": "https://www.wcax.com/2026/11/17/mother-charged-after-newborn-dies-blunt-force-injuries-2-days-after-birth/",
-   "source": "WCAX",
-   "ts": 1794899015.0
-  },
-  {
-   "title": "Flight carrying US senator makes emergency landing in Florida",
-   "link": "https://www.mynbc5.com/article/american-airlines-flight-senator-emergency-landing/74448803",
-   "source": "WPTZ",
-   "ts": 1794896940.0
   },
   {
    "title": "Dismissed Bennington County murder case heads back to court",
