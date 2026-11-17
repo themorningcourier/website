@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-17T08:39:51.018654+00:00",
+ "updated": "2026-11-17T10:08:04.945744+00:00",
  "items": [
+  {
+   "title": "Do school cellphone bans work? New study says yes \u2013 but it's complicated",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
+   "source": "NPR",
+   "ts": 1794909600.0
+  },
+  {
+   "title": "More people are getting the flu. Should you get a flu shot before you travel?",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
+   "source": "NPR",
+   "ts": 1794909600.0
+  },
+  {
+   "title": "She went to college to become a social worker. Now she's joined the skilled trades",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
+   "source": "NPR",
+   "ts": 1794909600.0
+  },
+  {
+   "title": "Pope Leo says there is no change to agenda or priorities after his lung cancer surgery",
+   "link": "https://www.mynbc5.com/article/pope-leo-no-change-agenda-priorities-lung-cancer-surgery/74450166",
+   "source": "WPTZ",
+   "ts": 1794909120.0
+  },
+  {
+   "title": "'Just a test:' FEMA to conduct nationwide Emergency Alert System test Tuesday",
+   "link": "https://www.mynbc5.com/article/routine-nationwide-emergency-alert-system-test/74449535",
+   "source": "WPTZ",
+   "ts": 1794908160.0
+  },
+  {
+   "title": "Brighter & warmer weather, as temperatures soar into the 50s and beyond",
+   "link": "https://www.wcax.com/2026/11/17/brighter-warmer-weather-temperatures-soar-into-50s-beyond/",
+   "source": "WCAX",
+   "ts": 1794907240.0
+  },
+  {
+   "title": "Puppy wanders into car dealership after being abandoned and finds her forever home",
+   "link": "https://www.wcax.com/2026/11/17/puppy-wanders-into-car-dealership-after-being-abandoned-finds-her-forever-home/",
+   "source": "WCAX",
+   "ts": 1794905017.0
+  },
   {
    "title": "Mother charged after newborn dies from blunt force injuries 2 days after birth",
    "link": "https://www.wcax.com/2026/11/17/mother-charged-after-newborn-dies-blunt-force-injuries-2-days-after-birth/",
@@ -14,40 +56,10 @@
    "ts": 1794896940.0
   },
   {
-   "title": "New Hampshire hospital server outage due to 'cyber incident'",
-   "link": "https://www.mynbc5.com/article/monadnock-community-hospital-server-outage-cyber-incident/74448697",
-   "source": "WPTZ",
-   "ts": 1794893160.0
-  },
-  {
-   "title": "Cat rescued from highway sign in New Hampshire",
-   "link": "https://www.mynbc5.com/article/cat-rescued-from-highway-sign-in-new-hampshire/74448564",
-   "source": "WPTZ",
-   "ts": 1794890400.0
-  },
-  {
-   "title": "Vermont report finds little or no corporate purchases of single-family homes, duplexes",
-   "link": "https://www.wcax.com/2026/11/17/vermont-report-finds-little-or-no-corporate-purchases-single-family-homes-duplexes/",
-   "source": "WCAX",
-   "ts": 1794886562.0
-  },
-  {
-   "title": "LSU guard MiLaysia Fulwiley accused of hitting officer with vehicle, denies police account",
-   "link": "https://www.wcax.com/2026/11/17/lsu-guard-milaysia-fulwiley-accused-hitting-officer-with-vehicle-denies-police-account/",
-   "source": "WCAX",
-   "ts": 1794884449.0
-  },
-  {
    "title": "Dismissed Bennington County murder case heads back to court",
    "link": "https://vtdigger.org/2026/11/16/dismissed-bennington-county-murder-case-heads-back-to-court/",
    "source": "VTDigger",
    "ts": 1794868724.0
-  },
-  {
-   "title": "California sues OpenAI over hacking risks",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
-   "source": "NPR",
-   "ts": 1794866782.0
   },
   {
    "title": "Montpelier appoints new police chief",
@@ -60,18 +72,6 @@
    "link": "https://vtdigger.org/2026/11/16/opinion-forced-drug-switches-are-burying-clinics-in-paperwork/",
    "source": "VTDigger",
    "ts": 1794861819.0
-  },
-  {
-   "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-   "source": "NPR",
-   "ts": 1794854966.0
-  },
-  {
-   "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-   "source": "NPR",
-   "ts": 1794852290.0
   }
  ]
 }
