@@ -1,23 +1,29 @@
 {
- "updated": "2026-11-17T03:56:14.660743+00:00",
+ "updated": "2026-11-17T05:00:30.965119+00:00",
  "items": [
+  {
+   "title": "Cat rescued from highway sign in New Hampshire",
+   "link": "https://www.mynbc5.com/article/cat-rescued-from-highway-sign-in-new-hampshire/74448564",
+   "source": "WPTZ",
+   "ts": 1794890400.0
+  },
+  {
+   "title": "Vermonters take advantage of cheap gas prices at Eden General Store before pumps are replaced",
+   "link": "https://www.mynbc5.com/article/vermonters-cheap-gas-prices-eden-general-store-pumps/74446343",
+   "source": "WPTZ",
+   "ts": 1794888780.0
+  },
+  {
+   "title": "BODYCAM FOOTAGE: 2 teens stranded on capsized boat rescued without injury by deputies in Florida",
+   "link": "https://www.mynbc5.com/article/teens-rescued-capsized-boat-florida-video/74446684",
+   "source": "WPTZ",
+   "ts": 1794887760.0
+  },
   {
    "title": "Vermont report finds little or no corporate purchases of single-family homes, duplexes",
    "link": "https://www.wcax.com/2026/11/17/vermont-report-finds-little-or-no-corporate-purchases-single-family-homes-duplexes/",
    "source": "WCAX",
    "ts": 1794886562.0
-  },
-  {
-   "title": "As more parents refuse vitamin K shots, bleeding in infants has risen, new data shows",
-   "link": "https://www.mynbc5.com/article/parents-refuse-vitamin-k-shots-bleeding-infants-data/74446514",
-   "source": "WPTZ",
-   "ts": 1794885780.0
-  },
-  {
-   "title": "Fundraiser for 90-year-old veteran creates friendships across generations, state lines",
-   "link": "https://www.mynbc5.com/article/gofundme-for-veteran-is-story-of-friendship/74446360",
-   "source": "WPTZ",
-   "ts": 1794885480.0
   },
   {
    "title": "LSU guard MiLaysia Fulwiley accused of hitting officer with vehicle, denies police account",
@@ -30,12 +36,6 @@
    "link": "https://www.wcax.com/2026/11/17/musicians-tour-bus-involved-deadly-collision-florida/",
    "source": "WCAX",
    "ts": 1794883873.0
-  },
-  {
-   "title": "Rare North Atlantic right whale population drops, alarming scientists",
-   "link": "https://www.mynbc5.com/article/north-atlantic-right-whale-population-decline/74446265",
-   "source": "WPTZ",
-   "ts": 1794883440.0
   },
   {
    "title": "Dismissed Bennington County murder case heads back to court",
