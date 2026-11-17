@@ -1,11 +1,47 @@
 {
- "updated": "2026-11-17T11:25:15.644443+00:00",
+ "updated": "2026-11-17T12:29:20.422570+00:00",
  "items": [
+  {
+   "title": "A 2-month lull ends with Iran\u2019s third strike on US targets in Bahrain",
+   "link": "https://www.mynbc5.com/article/a-2-month-lull-ends-iran-third-strike-us-targets-bahrain/74451635",
+   "source": "WPTZ",
+   "ts": 1794918060.0
+  },
+  {
+   "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+   "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+   "source": "NPR",
+   "ts": 1794918057.0
+  },
+  {
+   "title": "Canadian spending in Vermont has plummeted as cross-border tourism slowed 28% in 2025, new data says",
+   "link": "https://vtdigger.org/2026/11/17/canadian-spending-in-vermont-has-plummeted-as-cross-border-tourism-slowed-28-percent-in-2025-new-data-says/",
+   "source": "VTDigger",
+   "ts": 1794917580.0
+  },
+  {
+   "title": "Sources: US intel indicates Iran developing plans to potentially use 'dirty bomb' in Washington",
+   "link": "https://www.mynbc5.com/article/sources-us-intel-iran-plans-potentially-dirty-bomb-washington/74451283",
+   "source": "WPTZ",
+   "ts": 1794916560.0
+  },
   {
    "title": "El Ni\u00f1o brings warmer temperatures as ski resorts get ready to open",
    "link": "https://www.mynbc5.com/article/ski-resorts-prep-for-el-nino-vt-ny/74450691",
    "source": "WPTZ",
-   "ts": 1794914520.0
+   "ts": 1794916080.0
+  },
+  {
+   "title": "Montpelier names new police chief",
+   "link": "https://www.wcax.com/2026/11/17/montpelier-names-new-police-chief/",
+   "source": "WCAX",
+   "ts": 1794916040.0
+  },
+  {
+   "title": "Can Google win the AI race without killing its cash cow?",
+   "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
+   "source": "NPR",
+   "ts": 1794915000.0
   },
   {
    "title": "The dangerous rescue on Camel\u2019s Hump",
@@ -14,46 +50,16 @@
    "ts": 1794914125.0
   },
   {
-   "title": "Medication used to treat blood pressure recalled over possible metal contamination",
-   "link": "https://www.mynbc5.com/article/medication-blood-pressure-possible-metal-contamination/74450443",
-   "source": "WPTZ",
-   "ts": 1794913800.0
-  },
-  {
    "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
    "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
    "source": "NPR",
    "ts": 1794913200.0
   },
   {
-   "title": "Trump arrives in Philippines to kick off Asia trip",
-   "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-   "source": "NPR",
-   "ts": 1794912235.0
-  },
-  {
-   "title": "Pope forgives person who nailed him in the eye with a rosary in Peru",
-   "link": "https://www.mynbc5.com/article/pope-forgives-person-eye-rosary-peru/74450364",
-   "source": "WPTZ",
-   "ts": 1794911340.0
-  },
-  {
-   "title": "More people are getting the flu. Should you get a flu shot before you travel?",
-   "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
-   "source": "NPR",
-   "ts": 1794909600.0
-  },
-  {
    "title": "Brighter & warmer weather, as temperatures soar into the 50s and beyond",
    "link": "https://www.wcax.com/2026/11/17/brighter-warmer-weather-temperatures-soar-into-50s-beyond/",
    "source": "WCAX",
    "ts": 1794907240.0
-  },
-  {
-   "title": "Puppy wanders into car dealership after being abandoned and finds her forever home",
-   "link": "https://www.wcax.com/2026/11/17/puppy-wanders-into-car-dealership-after-being-abandoned-finds-her-forever-home/",
-   "source": "WCAX",
-   "ts": 1794905017.0
   },
   {
    "title": "Dismissed Bennington County murder case heads back to court",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/16/montpelier-appoints-new-police-chief-2026/",
    "source": "VTDigger",
    "ts": 1794866178.0
-  },
-  {
-   "title": "Forced drug switches are burying clinics in paperwork",
-   "link": "https://vtdigger.org/2026/11/16/opinion-forced-drug-switches-are-burying-clinics-in-paperwork/",
-   "source": "VTDigger",
-   "ts": 1794861819.0
   }
  ]
 }
