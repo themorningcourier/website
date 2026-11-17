@@ -1,53 +1,101 @@
 {
- "updated": "2026-11-17T13:50:30.002012+00:00",
+ "updated": "2026-11-17T14:57:12.980449+00:00",
  "items": [
-  {
-   "title": "SPEAK UP: What message should Trump give to China?",
-   "link": "https://www.foxnews.com/politics/speak-up-what-message-should-trump-give-china",
-   "source": "Fox News",
-   "ts": 1794923025.0
-  },
   {
    "title": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
    "link": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
    "source": "CBS News",
-   "ts": 1794922861.0
+   "ts": 1794927242.0
   },
   {
-   "title": "Nvidia forms export control panel amid concerns over China sales",
-   "link": "https://www.cbsnews.com/news/nvidia-export-control-committee-china-chips/",
-   "source": "CBS News",
-   "ts": 1794922555.0
-  },
-  {
-   "title": "Trump arrives in the Philippines amid protests",
-   "link": "https://www.cbsnews.com/video/trump-arrives-in-the-philippines-amid-protests/",
-   "source": "CBS News",
-   "ts": 1794922503.0
-  },
-  {
-   "title": "DHS Secretary Markwayne Mullin suggests AI could be behind chaotic outages at airlines, banks",
-   "link": "https://nypost.com/2026/11/17/us-news/dhs-secretary-markwayne-mullin-suggests-ai-could-be-behind-recent-outages-at-airlines-banks/",
+   "title": "Married teacher had baby with boy, 12, she abused before being caught on camera",
+   "link": "https://nypost.com/2026/11/17/world-news/married-teacher-had-baby-with-boy-12-she-abused-before-being-caught-on-camera/",
    "source": "New York Post",
-   "ts": 1794922318.0
+   "ts": 1794927176.0
   },
   {
-   "title": "\u2018Manningcast\u2019 guest Stavros Halkias loses it over Zay Flowers costly fumble: \u2018This f\u2013king sucks\u2019",
-   "link": "https://nypost.com/2026/11/17/sports/manningcast-guest-stavros-halkias-loses-it-over-zay-flowers-costly-fumble/",
+   "title": "HELOC vs. home equity loans: Which should you use to pay off expensive credit card debt?",
+   "link": "https://nypost.com/business/heloc-vs-home-equity-loan-for-credit-card-debt-consolidation/",
    "source": "New York Post",
-   "ts": 1794922294.0
+   "ts": 1794927069.0
   },
   {
-   "title": "\u2018Absolute game-changer\u2019 \u2014 Parents lining up for hit Baby Shark gadget before Black Friday",
-   "link": "https://nypost.com/2026/11/17/shopping/parents-lining-up-for-viral-baby-shark-gadget-before-black-friday/",
+   "title": "5 everyday spending habits that can plunge you deeper into debt",
+   "link": "https://nypost.com/business/bad-debt-spending-habits/",
    "source": "New York Post",
-   "ts": 1794922200.0
+   "ts": 1794926931.0
   },
   {
-   "title": "Trump Asia trip live updates: Trump and Quad leaders gather in Manila",
-   "link": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
+   "title": "Ukraine damages Russia's Crimean bridge in 'unprecedented' attack, Zelenskyy says",
+   "link": "https://abcnews.com/International/ukraine-attacks-crimean-bridge-2nd-consecutive-night-officials/story?id=138201512",
    "source": "ABC News",
-   "ts": 1794921722.0
+   "ts": 1794926852.0
+  },
+  {
+   "title": "JPMorganChase initiative aims to help Americans achieve homeownership",
+   "link": "https://www.cbsnews.com/video/jpmorganchase-initiative-aims-to-help-americans-achieve-homeownership/",
+   "source": "CBS News",
+   "ts": 1794926760.0
+  },
+  {
+   "title": "Widespread service outages at major U.S. banks appear to be over",
+   "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+   "source": "CBS News",
+   "ts": 1794926656.0
+  },
+  {
+   "title": "SJSU volleyball coach's assault allegations prompt responses by current and former employers",
+   "link": "https://www.foxnews.com/outkick-sports/sjsu-volleyball-coach-assault-allegations-prompt-responses-current-former-employers",
+   "source": "Fox News",
+   "ts": 1794926644.0
+  },
+  {
+   "title": "Shoppers slowed spending in October with high prices leading to caution",
+   "link": "https://abcnews.com/Business/wireStory/shoppers-slowed-spending-october-high-prices-leading-caution-138209405",
+   "source": "ABC News",
+   "ts": 1794926551.0
+  },
+  {
+   "title": "Perfect Game takes youth baseball scouting worldwide in unprecedented expansion move",
+   "link": "https://www.foxnews.com/outkick-sports/perfect-game-takes-youth-baseball-scouting-worldwide-unprecedented-expansion-move",
+   "source": "Fox News",
+   "ts": 1794925881.0
+  },
+  {
+   "title": "Trump's $50B air traffic control overhaul faces GOP pushback after nationwide ground stop",
+   "link": "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop",
+   "source": "Fox News",
+   "ts": 1794925770.0
+  },
+  {
+   "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5",
+   "source": "Reuters",
+   "ts": 1794924708.0
+  },
+  {
+   "title": "The advice Biden got from Mitt Romney, and other takeaways from his memoir",
+   "link": "https://abcnews.com/Politics/advice-biden-mitt-romney-takeaways-memoir/story?id=138193017",
+   "source": "ABC News",
+   "ts": 1794924500.0
+  },
+  {
+   "title": "South Korea to check students after exam candidate used AI to cheat",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGE1NWg5RXYzeVZBS3VzUGptS2I4ODBKd1FaUjF1R0hpVHpXeEpkcFF2U1lpWU42QmZGYzZYZ2NZV05QRVVfXy04T1dpeGpKM0lXNmVnMHhOc05abFZ6NEZUYjIxTTFybk5zcFRUVWdmeHM4TGp5QV83OVZVVjE0cmtjY1RYbHJERVJLeDV2ZXdhTWR2SkRGYVVHQjFxLXkwalJMNGk0YnVwd1RIcnI3VDJwSDg1Q1VQRmM0RA?oc=5",
+   "source": "Reuters",
+   "ts": 1794924460.0
+  },
+  {
+   "title": "Sony defeats \u00a32 billion UK claim over PlayStation Store pricing",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hMbWxfN3A3R0lvakk4Qk93Z0Iwbk5IYVhNTmhfMTNkSVlZLTdhLWVxaUFOdkFsSW04MmNHV01XelkwLWIzWGt1ZkpjdlJZSW5qWG1FMW5VX2JGM0lPcGFuVUN2M29hUU0wN3pIdzNQblR2YXZxYXc1VVNkRl9Rd3B4MGRVUk0tOExNbzIzZkhvRVRDYTJkOWlKM0tXXy1uaHQ2UDJGWQ?oc=5",
+   "source": "Reuters",
+   "ts": 1794924378.0
+  },
+  {
+   "title": "Grammy Nominees Revealed: Olivia Dean, Raye, Rosal\u00eda, More",
+   "link": "https://www.today.com/video/grammy-snubs-see-the-names-missing-from-nominations-list-273636421884",
+   "source": "NBC News",
+   "ts": 1794922302.0
   },
   {
    "title": "New Concerns Arise Over What AI Toys Could Be Teaching Kids",
@@ -56,58 +104,10 @@
    "ts": 1794921659.0
   },
   {
-   "title": "Mullin took government plane to LSU-Texas football game with Americans stranded in wake of FAA outage: report",
-   "link": "https://www.foxnews.com/politics/mullin-took-government-plane-lsu-texas-football-game-americans-stranded-wake-faa-outage-report",
-   "source": "Fox News",
-   "ts": 1794921554.0
-  },
-  {
-   "title": "Nvidia forms export-control committee after Huang affair raises security concerns",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M?oc=5",
-   "source": "Reuters",
-   "ts": 1794921060.0
-  },
-  {
-   "title": "Trump says US taking seriously report of possible Iranian dirty bomb plot in Washington",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVVnUzJMMDJJUTh1NTl4Vy1VU2U0bjEzVkRGWFBtamliVkRZQkZud2VuZ25YSDc0VzM5aXhQWWN2YTBFSTRaV1BSNUE3aWp5bmpsV0ZSMDMyT2YxcW5LekhIVEt6Tm9Od1ItNUs1U0ZOd2tfeTJSdkJhVVEtbUFzV2d0Z1NGa0doNGljVlhVOUJNS1UwYXFjVVRxMEY2OTRGY1lHQzcxRTlXR2VnVkh3QjRENEd0VTFPMjRJdmk3bVpXUEVWS3RV?oc=5",
-   "source": "Reuters",
-   "ts": 1794920905.0
-  },
-  {
-   "title": "Phil Collins says he relies on full-time nurse after \u2018enforced\u2019 time off in hospital",
-   "link": "https://www.foxnews.com/entertainment/phil-collins-relies-full-time-nurse-enforced-time-hospital",
-   "source": "Fox News",
-   "ts": 1794920428.0
-  },
-  {
-   "title": "Ukraine damages Crimean bridge in major strike as Russia pounds Kyiv bridges",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5",
-   "source": "Reuters",
-   "ts": 1794919806.0
-  },
-  {
    "title": "Bond Fans Shaken and Stirred Over Robert Pattison 007 Casting",
    "link": "https://www.today.com/video/bond-fans-shaken-and-stirred-over-robert-pattison-007-casting-273635397668",
    "source": "NBC News",
    "ts": 1794918929.0
-  },
-  {
-   "title": "Iran live updates: CENTCOM says drone attack on Bahrain defeated 'without any damage'",
-   "link": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071",
-   "source": "ABC News",
-   "ts": 1794918496.0
-  },
-  {
-   "title": "Trump Arrives in Asia for Historic Meeting With Xi Jinping and Putin",
-   "link": "https://www.today.com/video/trump-suggests-north-korea-s-kim-jong-un-may-join-asia-meeting-273634885662",
-   "source": "NBC News",
-   "ts": 1794918114.0
-  },
-  {
-   "title": "WATCH:  SUV crashes into 2 driverless taxis",
-   "link": "https://abcnews.com/video/138202579/",
-   "source": "ABC News",
-   "ts": 1794916651.0
   }
  ]
 }
