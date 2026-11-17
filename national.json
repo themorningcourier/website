@@ -1,29 +1,101 @@
 {
- "updated": "2026-11-17T14:57:12.980449+00:00",
+ "updated": "2026-11-17T15:58:18.254584+00:00",
  "items": [
   {
-   "title": "Trump in Asia for Putin, Xi summit; possible Kim meeting",
-   "link": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+   "title": "Nvidia forms export control panel amid concerns over China sales",
+   "link": "https://www.cbsnews.com/news/nvidia-export-control-committee-china-chips/",
    "source": "CBS News",
-   "ts": 1794927242.0
+   "ts": 1794930965.0
   },
   {
-   "title": "Married teacher had baby with boy, 12, she abused before being caught on camera",
-   "link": "https://nypost.com/2026/11/17/world-news/married-teacher-had-baby-with-boy-12-she-abused-before-being-caught-on-camera/",
-   "source": "New York Post",
-   "ts": 1794927176.0
+   "title": "Hawley, Durbin introduce Roblox safety bill ahead of hearing",
+   "link": "https://www.cbsnews.com/news/roblox-bill-josh-hawley-dick-durbin/",
+   "source": "CBS News",
+   "ts": 1794930938.0
   },
   {
-   "title": "HELOC vs. home equity loans: Which should you use to pay off expensive credit card debt?",
-   "link": "https://nypost.com/business/heloc-vs-home-equity-loan-for-credit-card-debt-consolidation/",
-   "source": "New York Post",
-   "ts": 1794927069.0
+   "title": "Illinois basketball visits Duke as Blue Devils look to cover -6.5 spread in college hoops showdown",
+   "link": "https://www.foxnews.com/outkick-betting/illinois-basketball-visits-duke-blue-devils-look-cover-6-5-spread-college-hoops-showdown",
+   "source": "Fox News",
+   "ts": 1794930839.0
   },
   {
-   "title": "5 everyday spending habits that can plunge you deeper into debt",
-   "link": "https://nypost.com/business/bad-debt-spending-habits/",
+   "title": "Brad Pitt clamors for key James Bond role as he gushes over Robert Pattinson\u2019s 007 casting",
+   "link": "https://pagesix.com/2026/11/17/entertainment/brad-pitt-clamors-for-key-james-bond-role-as-he-gushes-over-robert-pattinsons-007-casting/",
    "source": "New York Post",
-   "ts": 1794926931.0
+   "ts": 1794930580.0
+  },
+  {
+   "title": "Santa Monica Pier horror as man slaps woman then leaps into the ocean and drowns",
+   "link": "https://nypost.com/2026/11/17/us-news/man-jumps-from-santa-monica-pier-after-slapping-woman-drowns/",
+   "source": "New York Post",
+   "ts": 1794930472.0
+  },
+  {
+   "title": "Bryson DeChambeau is headed to Europe, Chad Ramey wins to save his job and Patrick Reed is officially back",
+   "link": "https://www.foxnews.com/outkick-sports/bryson-dechambeau-headed-europe-chad-ramey-wins-save-his-job-patrick-reed-officially-back",
+   "source": "Fox News",
+   "ts": 1794930401.0
+  },
+  {
+   "title": "Madison Beer\u2019s commitment to Justin Herbert can\u2019t be questioned after glamorous red carpet photo",
+   "link": "https://nypost.com/2026/11/17/sports/madison-beers-commitment-to-justin-herbert-cant-be-questioned-after-red-carpet-photo/",
+   "source": "New York Post",
+   "ts": 1794930342.0
+  },
+  {
+   "title": "Far-left US groups battle Trump plan to rival China's tech dominance",
+   "link": "https://www.foxnews.com/politics/far-left-us-groups-battle-trump-plan-rival-chinas-tech-dominance",
+   "source": "Fox News",
+   "ts": 1794929893.0
+  },
+  {
+   "title": "Federal Reserve's Cook refuses to participate in White House hearing",
+   "link": "https://abcnews.com/Business/wireStory/federal-reserves-cook-refuses-participate-white-house-hearing-138213022",
+   "source": "ABC News",
+   "ts": 1794929420.0
+  },
+  {
+   "title": "Jensen Huang agrees to House interview on Nvidia\u2019s sales to China",
+   "link": "https://www.nbcnews.com/business/corporations/jensen-huang-agrees-house-interview-nvidias-chip-smuggling-rcna609803",
+   "source": "NBC News",
+   "ts": 1794929395.0
+  },
+  {
+   "title": "Ex-Nvidia CEO Jensen Huang agrees to testify to Congress amid affair probe",
+   "link": "https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/",
+   "source": "CBS News",
+   "ts": 1794929381.0
+  },
+  {
+   "title": "US retail sales increase moderately; import prices rise above expectations",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXFYQzF0Y092amNQX1ZybEpWNGF0TkJ6SDY0eWtIenJRRWE2by1QSXROdzVLLUF3MjJqNGxyZkJVVWEzeUZGNXlIekdaT0pMUFRmd2pPbl9BZTRGZERFSnFOend6M0FKU3laSWdPdEpiWkw3TlVTejkwdFZaeHJyR3dTb2o5Y0toVnZaVkxIeWEwZw?oc=5",
+   "source": "Reuters",
+   "ts": 1794929307.0
+  },
+  {
+   "title": "\u2018It\u2019s life\u2019: Trump brushes aside concerns about outages",
+   "link": "https://www.nbcnews.com/politics/donald-trump/trump-downplays-bank-email-travel-outages-faa-ground-stop-microsoft-rcna609796",
+   "source": "NBC News",
+   "ts": 1794929262.0
+  },
+  {
+   "title": "Fraud lawsuit against Selena Gomez\u2019s mental health company voluntarily dropped",
+   "link": "https://www.nbcnews.com/news/us-news/fraud-lawsuit-selena-gomezs-mental-health-company-voluntarily-dropped-rcna609774",
+   "source": "NBC News",
+   "ts": 1794928527.0
+  },
+  {
+   "title": "Congo's Ebola outbreak is spreading and killing at a record pace",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEFWMzBNRHVFZGVza1RSRXBVZkxZZlJuUmI3cDYzc1Z0RU4xTmZvM0lWZzBTdFRCXzlaUURKQTBRX2FBakk2eWtXN1JYelhKNjdvRmd1TDZxUFJCQ3puQ0lYOW5aYzd2cmF3YUxCaGtONUE4YXJPc1VRQmY0dGp1NjBZTzFSYUJUdHFramt0SEV1Tmx5TGVlUG1hVHlFbjh1WTdvUWR4N2NCRExCT1lVM1FUZjFiM0ZPeTkxTHJ5Z2w2M3pK?oc=5",
+   "source": "Reuters",
+   "ts": 1794928049.0
+  },
+  {
+   "title": "Sellas vaccine extends survival in blood cancer trial, shares surge",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3FEUmx6RWVvS3AzWXBDaDZvTUdmdUo4RjlwWmlrdDEyYUxrNUxVVTFybndQRGExYVA5SWdmWndNZkJkR1pkcVdvdVVtX21qZjNsZUFfd0VnMnRTTjVRTEtVSGpsNHk5R0N5eHFxRlROQmpCYk1TdVl5bm9qZ1AySlVNN1lvUVZYb1FRUVdFWDVUZVJFcExyYWNVb3VQWjZNLXZSNGQyLW9TeEJqWTdWSFJ2eVd6R3VON29KclpPTEFBTk55akk2aQ?oc=5",
+   "source": "Reuters",
+   "ts": 1794927243.0
   },
   {
    "title": "Ukraine damages Russia's Crimean bridge in 'unprecedented' attack, Zelenskyy says",
@@ -32,82 +104,10 @@
    "ts": 1794926852.0
   },
   {
-   "title": "JPMorganChase initiative aims to help Americans achieve homeownership",
-   "link": "https://www.cbsnews.com/video/jpmorganchase-initiative-aims-to-help-americans-achieve-homeownership/",
-   "source": "CBS News",
-   "ts": 1794926760.0
-  },
-  {
-   "title": "Widespread service outages at major U.S. banks appear to be over",
-   "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
-   "source": "CBS News",
-   "ts": 1794926656.0
-  },
-  {
-   "title": "SJSU volleyball coach's assault allegations prompt responses by current and former employers",
-   "link": "https://www.foxnews.com/outkick-sports/sjsu-volleyball-coach-assault-allegations-prompt-responses-current-former-employers",
-   "source": "Fox News",
-   "ts": 1794926644.0
-  },
-  {
    "title": "Shoppers slowed spending in October with high prices leading to caution",
    "link": "https://abcnews.com/Business/wireStory/shoppers-slowed-spending-october-high-prices-leading-caution-138209405",
    "source": "ABC News",
    "ts": 1794926551.0
-  },
-  {
-   "title": "Perfect Game takes youth baseball scouting worldwide in unprecedented expansion move",
-   "link": "https://www.foxnews.com/outkick-sports/perfect-game-takes-youth-baseball-scouting-worldwide-unprecedented-expansion-move",
-   "source": "Fox News",
-   "ts": 1794925881.0
-  },
-  {
-   "title": "Trump's $50B air traffic control overhaul faces GOP pushback after nationwide ground stop",
-   "link": "https://www.foxnews.com/politics/trumps-50b-air-traffic-control-overhaul-faces-gop-pushback-after-nationwide-ground-stop",
-   "source": "Fox News",
-   "ts": 1794925770.0
-  },
-  {
-   "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5",
-   "source": "Reuters",
-   "ts": 1794924708.0
-  },
-  {
-   "title": "The advice Biden got from Mitt Romney, and other takeaways from his memoir",
-   "link": "https://abcnews.com/Politics/advice-biden-mitt-romney-takeaways-memoir/story?id=138193017",
-   "source": "ABC News",
-   "ts": 1794924500.0
-  },
-  {
-   "title": "South Korea to check students after exam candidate used AI to cheat",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGE1NWg5RXYzeVZBS3VzUGptS2I4ODBKd1FaUjF1R0hpVHpXeEpkcFF2U1lpWU42QmZGYzZYZ2NZV05QRVVfXy04T1dpeGpKM0lXNmVnMHhOc05abFZ6NEZUYjIxTTFybk5zcFRUVWdmeHM4TGp5QV83OVZVVjE0cmtjY1RYbHJERVJLeDV2ZXdhTWR2SkRGYVVHQjFxLXkwalJMNGk0YnVwd1RIcnI3VDJwSDg1Q1VQRmM0RA?oc=5",
-   "source": "Reuters",
-   "ts": 1794924460.0
-  },
-  {
-   "title": "Sony defeats \u00a32 billion UK claim over PlayStation Store pricing",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hMbWxfN3A3R0lvakk4Qk93Z0Iwbk5IYVhNTmhfMTNkSVlZLTdhLWVxaUFOdkFsSW04MmNHV01XelkwLWIzWGt1ZkpjdlJZSW5qWG1FMW5VX2JGM0lPcGFuVUN2M29hUU0wN3pIdzNQblR2YXZxYXc1VVNkRl9Rd3B4MGRVUk0tOExNbzIzZkhvRVRDYTJkOWlKM0tXXy1uaHQ2UDJGWQ?oc=5",
-   "source": "Reuters",
-   "ts": 1794924378.0
-  },
-  {
-   "title": "Grammy Nominees Revealed: Olivia Dean, Raye, Rosal\u00eda, More",
-   "link": "https://www.today.com/video/grammy-snubs-see-the-names-missing-from-nominations-list-273636421884",
-   "source": "NBC News",
-   "ts": 1794922302.0
-  },
-  {
-   "title": "New Concerns Arise Over What AI Toys Could Be Teaching Kids",
-   "link": "https://www.today.com/video/new-concerns-arise-over-what-ai-toys-could-be-teaching-kids-273637445593",
-   "source": "NBC News",
-   "ts": 1794921659.0
-  },
-  {
-   "title": "Bond Fans Shaken and Stirred Over Robert Pattison 007 Casting",
-   "link": "https://www.today.com/video/bond-fans-shaken-and-stirred-over-robert-pattison-007-casting-273635397668",
-   "source": "NBC News",
-   "ts": 1794918929.0
   }
  ]
 }
