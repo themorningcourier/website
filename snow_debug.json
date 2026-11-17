@@ -1,97 +1,97 @@
 {
- "updated": "2026-11-16T10:04:00.847935+00:00",
+ "updated": "2026-11-17T08:38:36.063436+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "MTLT1",
-     "name": "Gatlinburg,Tn",
-     "state": "TN",
-     "elev_ft": "6345",
-     "inches": 5.5,
+     "id": "AYMA2",
+     "name": "Alyeska Weather Mid",
+     "state": "AK",
+     "elev_ft": "1644",
+     "inches": 5.0,
      "hours": 24.0,
-     "time": "2026-11-14 12:00"
+     "time": "2026-11-15 15:00"
+    },
+    {
+     "id": "AYTA2",
+     "name": "Alyeska Weather Top",
+     "state": "AK",
+     "elev_ft": "2707",
+     "inches": 5.0,
+     "hours": 24.0,
+     "time": "2026-11-15 15:00"
+    },
+    {
+     "id": "AK-AB-51",
+     "name": "Anchorage 4.5 E, Ak",
+     "state": "AK",
+     "elev_ft": "230",
+     "inches": 4.7,
+     "hours": 24.0,
+     "time": "2026-11-15 22:30"
+    },
+    {
+     "id": "NM-RA-40",
+     "name": "Truchas 1.4 Ese, Nm",
+     "state": "NM",
+     "elev_ft": "8284",
+     "inches": 4.4,
+     "hours": 24.0,
+     "time": "2026-11-15 14:00"
+    },
+    {
+     "id": "AYBA2",
+     "name": "Alyeska Base",
+     "state": "AK",
+     "elev_ft": "371",
+     "inches": 4.0,
+     "hours": 24.0,
+     "time": "2026-11-15 15:00"
     },
     {
      "id": "CRLO3",
      "name": "Crater Lake National Park Hq",
      "state": "OR",
      "elev_ft": "6499",
-     "inches": 5.0,
+     "inches": 4.0,
      "hours": 24.0,
-     "time": "2026-11-14 16:45"
+     "time": "2026-11-15 16:20"
+    },
+    {
+     "id": "GKBN3",
+     "name": "Gray Knob",
+     "state": "NH",
+     "elev_ft": "4360",
+     "inches": 3.5,
+     "hours": 24.0,
+     "time": "2026-11-15 13:30"
     },
     {
      "id": "NC-ML-15",
      "name": "Buladean 1.3 Ese, Nc",
      "state": "NC",
      "elev_ft": "4058",
-     "inches": 4.7,
+     "inches": 3.5,
      "hours": 24.0,
-     "time": "2026-11-14 13:00"
+     "time": "2026-11-15 13:00"
     },
     {
-     "id": "PKCU1",
-     "name": "Silver Lk Brighton",
-     "state": "UT",
-     "elev_ft": "8770",
-     "inches": 4.6,
+     "id": "VT-OL-36",
+     "name": "Glover 5.7 Sw, Vt",
+     "state": "VT",
+     "elev_ft": "1791",
+     "inches": 3.0,
      "hours": 24.0,
-     "time": "2026-11-14 17:00"
+     "time": "2026-11-15 14:00"
     },
     {
-     "id": "PA-WN-65",
-     "name": "Gouldsboro 3.8 Ne, Pa",
-     "state": "PA",
-     "elev_ft": "2077",
-     "inches": 4.5,
+     "id": "MWN",
+     "name": "Mount Washington",
+     "state": "",
+     "elev_ft": "5627",
+     "inches": 2.9,
      "hours": 24.0,
-     "time": "2026-11-14 15:00"
-    },
-    {
-     "id": "NC-ML-1",
-     "name": "Bakersville 5.4 N, Nc",
-     "state": "NC",
-     "elev_ft": "3885",
-     "inches": 4.4,
-     "hours": 24.0,
-     "time": "2026-11-14 12:00"
-    },
-    {
-     "id": "CO-LP-35",
-     "name": "Bayfield 7.0 N, Co",
-     "state": "CO",
-     "elev_ft": "8041",
-     "inches": 4.0,
-     "hours": 24.0,
-     "time": "2026-11-14 14:00"
-    },
-    {
-     "id": "CO-LP-79",
-     "name": "Rockwood 6.9 Nnw, Co",
-     "state": "CO",
-     "elev_ft": "8976",
-     "inches": 4.0,
-     "hours": 24.0,
-     "time": "2026-11-14 14:00"
-    },
-    {
-     "id": "INVN2",
-     "name": "Incline Village",
-     "state": "NV",
-     "elev_ft": "6352",
-     "inches": 4.0,
-     "hours": 24.0,
-     "time": "2026-11-14 17:00"
-    },
-    {
-     "id": "CA-ED-9",
-     "name": "Tahoma .5 S, Ca",
-     "state": "CA",
-     "elev_ft": "6385",
-     "inches": 3.7,
-     "hours": 24.0,
-     "time": "2026-11-14 15:00"
+     "time": "2026-11-15 12:00"
     }
    ]
   },
@@ -113,111 +113,111 @@
      ""
     ],
     [
-     "MTLT1",
-     "2026-11-14 12:00",
-     "5.500",
+     "AYMA2",
+     "2026-11-15 15:00",
+     "5.000",
      "24.000",
-     "6345",
-     "GATLINBURG,TN"
+     "1644",
+     "ALYESKA WEATHER MID"
+    ],
+    [
+     "AYTA2",
+     "2026-11-15 15:00",
+     "5.000",
+     "24.000",
+     "2707",
+     "ALYESKA WEATHER TOP"
+    ],
+    [
+     "AK-AB-51",
+     "2026-11-15 22:30",
+     "4.700",
+     "24.000",
+     "230",
+     "ANCHORAGE 4.5 E, AK"
+    ],
+    [
+     "NM-RA-40",
+     "2026-11-15 14:00",
+     "4.400",
+     "24.000",
+     "8284",
+     "TRUCHAS 1.4 ESE, NM"
+    ],
+    [
+     "AYBA2",
+     "2026-11-15 15:00",
+     "4.000",
+     "24.000",
+     "371",
+     "ALYESKA BASE"
     ],
     [
      "CRLO3",
-     "2026-11-14 16:45",
-     "5.000",
+     "2026-11-15 16:20",
+     "4.000",
      "24.000",
      "6499",
      "CRATER LAKE NATIONAL PARK HQ"
     ],
     [
+     "GKBN3",
+     "2026-11-15 13:30",
+     "3.500",
+     "24.000",
+     "4360",
+     "GRAY KNOB"
+    ],
+    [
      "NC-ML-15",
-     "2026-11-14 13:00",
-     "4.700",
+     "2026-11-15 13:00",
+     "3.500",
      "24.000",
      "4058",
      "BULADEAN 1.3 ESE, NC"
     ],
     [
-     "PKCU1",
-     "2026-11-14 17:00",
-     "4.600",
+     "VT-OL-36",
+     "2026-11-15 14:00",
+     "3.000",
      "24.000",
-     "8770",
-     "SILVER LK BRIGHTON"
+     "1791",
+     "GLOVER 5.7 SW, VT"
     ],
     [
-     "PA-WN-65",
-     "2026-11-14 15:00",
-     "4.500",
+     "MWN",
+     "2026-11-15 12:00",
+     "2.900",
      "24.000",
-     "2077",
-     "GOULDSBORO 3.8 NE, PA"
+     "5627",
+     "MOUNT WASHINGTON"
     ],
     [
-     "NC-ML-1",
-     "2026-11-14 12:00",
-     "4.400",
+     "MRRN6",
+     "2026-11-15 12:00",
+     "2.700",
      "24.000",
-     "3885",
-     "BAKERSVILLE 5.4 N, NC"
+     "1690",
+     "MORRISVILLE 6 SW"
     ],
     [
-     "CO-LP-35",
-     "2026-11-14 14:00",
-     "4.000",
+     "DNPA2",
+     "2026-11-15 17:00",
+     "2.600",
      "24.000",
-     "8041",
-     "BAYFIELD 7.0 N, CO"
+     "2008",
+     "MCKINLEY PARK"
     ],
     [
-     "CO-LP-79",
-     "2026-11-14 14:00",
-     "4.000",
+     "SLNV1",
+     "2026-11-15 12:00",
+     "2.500",
      "24.000",
-     "8976",
-     "ROCKWOOD 6.9 NNW, CO"
-    ],
-    [
-     "INVN2",
-     "2026-11-14 17:00",
-     "4.000",
-     "24.000",
-     "6352",
-     "INCLINE VILLAGE"
-    ],
-    [
-     "CA-ED-9",
-     "2026-11-14 15:00",
-     "3.700",
-     "24.000",
-     "6385",
-     "TAHOMA .5 S, CA"
-    ],
-    [
-     "TAAC1",
-     "2026-11-14 15:00",
-     "3.700",
-     "24.000",
-     "6385",
-     "TAHOMA, CA"
-    ],
-    [
-     "ATAU1",
-     "2026-11-15 01:00",
-     "3.600",
-     "24.000",
-     "8684",
-     "ALTA"
-    ],
-    [
-     "NC-MS-23",
-     "2026-11-14 13:00",
-     "3.500",
-     "24.000",
-     "3891",
-     "HOT SPRINGS 9.6 SW, NC"
+     "1368",
+     "SOUTH LINCOLN"
     ]
    ],
-   "count": 11032
+   "count": 11664
   }
  ]
 }
