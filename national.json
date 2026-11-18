@@ -1,23 +1,83 @@
 {
- "updated": "2026-11-18T09:06:11.032666+00:00",
+ "updated": "2026-11-18T10:11:09.345949+00:00",
  "items": [
   {
-   "title": "Trump in China for Putin, Xi summit; possible meeting with Kim Jong Un",
+   "title": "Iran fires at Kuwait, widening strikes after US hit Iranian island",
+   "link": "https://nypost.com/2026/11/18/world-news/iran-fires-at-kuwait-widening-strikes-after-us-hit-iranian-island/",
+   "source": "New York Post",
+   "ts": 1794996245.0
+  },
+  {
+   "title": "Trump arrives in China ahead of summit with Putin and Xi",
    "link": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
    "source": "CBS News",
-   "ts": 1794992280.0
+   "ts": 1794996188.0
+  },
+  {
+   "title": "Pro athletes clamor for \u2018Grand Theft Auto VI\u2019 release \u2014 but they insist their day jobs come first",
+   "link": "https://nypost.com/2026/11/18/sports/grand-theft-auto-vi-release-leaves-pro-athletes-wanting-to-play/",
+   "source": "New York Post",
+   "ts": 1794996183.0
+  },
+  {
+   "title": "Dem governor\u2019s tale of mourning fellow serviceman ripped apart after soldiers wife gives brutal fact check",
+   "link": "https://www.foxnews.com/politics/dem-governors-tale-mourning-fellow-serviceman-ripped-apart-soldiers-wife-gives-brutal-fact-check",
+   "source": "Fox News",
+   "ts": 1794996059.0
+  },
+  {
+   "title": "Robert Pattinson is the new James Bond. Can he become the hero the West needs?",
+   "link": "https://www.foxnews.com/opinion/robert-pattinson-new-james-bond-hero-west-needs",
+   "source": "Fox News",
+   "ts": 1794996046.0
+  },
+  {
+   "title": "The FBI is changing how it fights crime and protects Americans in their communities",
+   "link": "https://www.foxnews.com/opinion/fbi-changing-how-it-fights-crime-protects-americans-communities",
+   "source": "Fox News",
+   "ts": 1794996043.0
+  },
+  {
+   "title": "Fresh proof Hochul and Mamdani were clueless about their pied-\u00e0-terre tax",
+   "link": "https://nypost.com/2026/11/18/opinion/fresh-proof-hochul-and-mamdani-were-clueless-about-their-pied-a-terre-tax/",
+   "source": "New York Post",
+   "ts": 1794996000.0
+  },
+  {
+   "title": "House Democrat warns a dozen Trump allies to save their records, calling it \u2018just the beginning\u2019",
+   "link": "https://www.nbcnews.com/politics/congress/democrat-investigations-warn-trump-allies-vance-donald-jr-eric-rcna609904",
+   "source": "NBC News",
+   "ts": 1794996000.0
+  },
+  {
+   "title": "Trump Asia trip live updates: Xi greets Trump as he arrives for APEC summit",
+   "link": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
+   "source": "ABC News",
+   "ts": 1794995858.0
+  },
+  {
+   "title": "Jeff Bezos says he was \u2018heavily involved\u2019 in picking the new James Bond",
+   "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/jeff-bezos-heavily-involved-casting-robert-pattinson-james-bond-amazon-rcna609958",
+   "source": "NBC News",
+   "ts": 1794995611.0
+  },
+  {
+   "title": "Amid string of outages, bipartisan letter urges strategy to combat AI-assisted cyber threats",
+   "link": "https://www.nbcnews.com/tech/tech-news/bipartisan-letter-urges-strategy-combat-ai-assisted-cyberattacks-rcna609945",
+   "source": "NBC News",
+   "ts": 1794995140.0
   },
   {
    "title": "Iran live updates: US conducts airstrikes on Qeshm Island, US military official says",
    "link": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071",
    "source": "ABC News",
-   "ts": 1794992072.0
+   "ts": 1794994342.0
   },
   {
-   "title": "Swedish politician Lars Eriksson fired after starring in, producing adult films",
-   "link": "https://nypost.com/2026/11/18/world-news/swedish-politician-lars-eriksson-fired-from-jokkmokk-government-for-producing-porn/",
-   "source": "New York Post",
-   "ts": 1794991990.0
+   "title": "Nvidia stops shipping US-approved AI chips to China",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0dHN3dEWU8xaElLV21veDdXMWI3eUpBYWNYV2ZXSWZTUkJLX3dELUNmeEZhSGtlczFEMWFjXzZMTWhNRUJrZnlHT0VqN0ZYcXZwQ1dXTzJLSnJCREtWZXhQWVlQY20waTh4WlVZNmVTemVLM1l4UXNrbUJDd3p4OUhweklHT2F2SDRXTXpiWTRab3dIalpnQjVJNmc?oc=5",
+   "source": "Reuters",
+   "ts": 1794993474.0
   },
   {
    "title": "US Military jet wrecked while parked in Irish airport: Feds",
@@ -26,10 +86,10 @@
    "ts": 1794991389.0
   },
   {
-   "title": "Islanders\u2019 Mathew Barzal snares two assists in first home game since injury return",
-   "link": "https://nypost.com/2026/11/18/sports/islanders-mathew-barzal-solid-in-first-home-game-since-injury-return/",
-   "source": "New York Post",
-   "ts": 1794991247.0
+   "title": "Nvidia's numbers impress but investors fret over CEO succession",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbldlWEozckRZVFhNcGlyNVhJSkxoQ1E2UFduQ3ZaNHFBT0RKMW12eTNJV1BhNzZVMENXWFk0OWE1Z1RWRlUwMW82a2RhYm9kQjlIcmlUb1dzNVBUU25hVHQ5eEdVckRac3B5cUlFMjZkUUlJUFYyZFdjVW95R1ZiT0JZdnFSM0RvMG8tdkxOY21uNFRuOGRTdFJqMzBySXgtTDQ2T2ZzUDdzb1UxbGtfeA?oc=5",
+   "source": "Reuters",
+   "ts": 1794990811.0
   },
   {
    "title": "Iran ramps up retaliation on Gulf countries after U.S. strikes",
@@ -38,76 +98,16 @@
    "ts": 1794990774.0
   },
   {
-   "title": "Trump says US wrapped up \u2018very big trade deal\u2019 with Philippines",
-   "link": "https://nypost.com/2026/11/18/us-news/trump-says-us-wrapped-up-very-big-trade-deal-with-philippines/",
-   "source": "New York Post",
-   "ts": 1794990671.0
-  },
-  {
-   "title": "Nvidia's numbers impress but investors fret over CEO succession",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbldlWEozckRZVFhNcGlyNVhJSkxoQ1E2UFduQ3ZaNHFBT0RKMW12eTNJV1BhNzZVMENXWFk0OWE1Z1RWRlUwMW82a2RhYm9kQjlIcmlUb1dzNVBUU25hVHQ5eEdVckRac3B5cUlFMjZkUUlJUFYyZFdjVW95R1ZiT0JZdnFSM0RvMG8tdkxOY21uNFRuOGRTdFJqMzBySXgtTDQ2T2ZzUDdzb1UxbGtfeA?oc=5",
-   "source": "Reuters",
-   "ts": 1794990202.0
-  },
-  {
    "title": "After $6.3 billion crypto heist, Binance plans foray into 5 Asian markets",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnZiblFkQkE2ci1kNUpEUVB1YnE1SFZmSmV1VzEyUVN2ZmZkVVlvZW1UbEIwOVFMUi03OUVUQlFZYlViSy03WlFWd2JwTlpDaHhiMXJzMXJ0NUd1c0o0bUpsMENLMFNlbnRGT0NfbmNNZXg5ci1ybXVHRjNrcjN2LTNGaHJLZGRqU3B3bUVaM3dyeTc4SWowSzRYbF9QNVh2eTVnNnRQc3p4ZUxRa3VEZGRvbGtLWnNSYVB3d2Fmeno?oc=5",
    "source": "Reuters",
    "ts": 1794987600.0
   },
   {
-   "title": "Trump Asia trip live updates: Trump joins Philippine president in bilateral meeting",
-   "link": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
-   "source": "ABC News",
-   "ts": 1794986750.0
-  },
-  {
-   "title": "Italy approves antisemitism law amid leftist opposition protests",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRTNXZGFtaWhlXzBudGFGN1hxYkNkbXRETG5IbG9QeWc3aVFyYlhNQVBkdkNsX1Q4U2dJR2czZmthRnNxZmg4UlFXQW5EWGM4NTNxM05XWV81eGtNUTlZeWdMblNSOUVwS2pua0U1eU9wVHpSTHJZeTlibmlnYW91SWJza0J6b2MxMnFDdmdxcDQ4UEhhM1RaQ3Z6Q3h0S1UweDJRRkFHVTRfdw?oc=5",
-   "source": "Reuters",
-   "ts": 1794986040.0
-  },
-  {
    "title": "Voyager 1 sets distance record of 1 \"light day\" from Earth",
    "link": "https://www.cbsnews.com/news/voyager-1-probe-light-day-earth-father-than-anything/",
    "source": "CBS News",
    "ts": 1794985560.0
-  },
-  {
-   "title": "RFK Jr. faces fierce backlash after US loses measles-free status for first time in 26 years",
-   "link": "https://www.foxnews.com/health/rfk-jr-faces-fierce-backlash-us-loses-measles-free-status-first-time-26-years",
-   "source": "Fox News",
-   "ts": 1794980097.0
-  },
-  {
-   "title": "Patriots-Chargers game loses primetime slot as NFL makes first flex scheduling move of 2026 season",
-   "link": "https://www.foxnews.com/outkick-sports/patriots-chargers-game-loses-primetime-slot-nfl-makes-first-flex-scheduling-move-2026-season",
-   "source": "Fox News",
-   "ts": 1794974355.0
-  },
-  {
-   "title": "Democrat Mary Peltola wins Alaska\u2019s Senate race, NBC News projects",
-   "link": "https://www.nbcnews.com/video/democrat-mary-peltola-wins-alaska-s-senate-race-nbc-news-projects-273698885569",
-   "source": "NBC News",
-   "ts": 1794973701.0
-  },
-  {
-   "title": "Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar",
-   "link": "https://www.foxnews.com/politics/alaska-dem-peltola-defeats-sullivan-flipping-gop-senate-seat-decoy-dan-uproar",
-   "source": "Fox News",
-   "ts": 1794972444.0
-  },
-  {
-   "title": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan",
-   "link": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307",
-   "source": "NBC News",
-   "ts": 1794971957.0
-  },
-  {
-   "title": "Nvidia enters the post-Jensen Huang era with a bang",
-   "link": "https://www.nbcnews.com/business/corporations/nvidia-post-jensen-huang-kress-earnings-rcna609782",
-   "source": "NBC News",
-   "ts": 1794969709.0
   }
  ]
 }

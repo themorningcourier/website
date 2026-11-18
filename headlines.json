@@ -1,11 +1,41 @@
 {
- "updated": "2026-11-18T09:06:11.032666+00:00",
+ "updated": "2026-11-18T10:11:09.345949+00:00",
  "items": [
   {
-   "title": "Rubio says there's 'zero' information that U.S. outages are caused by a malign actor",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6045411/rubio-outages-malign-actor",
+   "title": "Iran widens Gulf attacks, firing on a US air base in Kuwait and at targets in Bahrain",
+   "link": "https://www.mynbc5.com/article/iran-gulf-attacks-us-air-base-kuwait-bahrain/74461869",
+   "source": "WPTZ",
+   "ts": 1794996120.0
+  },
+  {
+   "title": "How the East Potomac golf course became a D.C. landmark \u2014 and what could happen to it",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6042889/how-the-east-potomac-golf-course-became-a-d-c-landmark-and-what-could-happen-to-it",
    "source": "NPR",
-   "ts": 1794990470.0
+   "ts": 1794996120.0
+  },
+  {
+   "title": "Special education teachers shared their stories. You told NPR you felt seen",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6031176/special-education-teachers-audience-response",
+   "source": "NPR",
+   "ts": 1794996000.0
+  },
+  {
+   "title": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+   "source": "NPR",
+   "ts": 1794996000.0
+  },
+  {
+   "title": "Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China",
+   "link": "https://www.mynbc5.com/article/trump-china-president-open-trade-putin-condemns-sanctions/74461871",
+   "source": "WPTZ",
+   "ts": 1794994740.0
+  },
+  {
+   "title": "Sunnier and warmer conditions persist through the week",
+   "link": "https://www.wcax.com/2026/11/18/sunnier-warmer-conditions-persist-through-week/",
+   "source": "WCAX",
+   "ts": 1794993165.0
   },
   {
    "title": "Man, 50, allegedly stabs another man to death at party celebrating his release from prison",
@@ -20,34 +50,10 @@
    "ts": 1794978360.0
   },
   {
-   "title": "NBC5 Play of the Week: November 17-20",
-   "link": "https://www.mynbc5.com/article/nbc5-potw-november-17-20/74460118",
-   "source": "WPTZ",
-   "ts": 1794977340.0
-  },
-  {
-   "title": "Barre City Councilors agreed to postpone appointment of new mayor, out of respect for Thom Lauzon",
-   "link": "https://www.mynbc5.com/article/barre-community-grieves-passing-mayor-thom-lauzon/74459487",
-   "source": "WPTZ",
-   "ts": 1794975960.0
-  },
-  {
    "title": "Paris Hilton urges House to pass AI deepfake porn bill",
    "link": "https://www.wcax.com/2026/11/18/paris-hilton-urges-house-pass-ai-deepfake-porn-bill/",
    "source": "WCAX",
    "ts": 1794974716.0
-  },
-  {
-   "title": "Highway patrol to pay $70,000 to former Wild Orchid member in DUI arrest settlement",
-   "link": "https://www.wcax.com/2026/11/18/highway-patrol-pay-70000-former-wild-orchid-member-dui-arrest-settlement/",
-   "source": "WCAX",
-   "ts": 1794974507.0
-  },
-  {
-   "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
-   "link": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
-   "source": "NPR",
-   "ts": 1794972443.0
   },
   {
    "title": "\u2018I just wasn\u2019t thinking it through\u2019: Ex-deputy permanently banned from police work for racist message",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/17/vermont-public-schools-expect-the-lowest-health-insurance-increase-in-years-for-districts-its-only-a-small-relief/",
    "source": "VTDigger",
    "ts": 1794951677.0
-  },
-  {
-   "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-   "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-   "source": "NPR",
-   "ts": 1794940471.0
   }
  ]
 }
