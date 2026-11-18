@@ -1,65 +1,77 @@
 {
- "updated": "2026-11-18T01:55:19.275831+00:00",
+ "updated": "2026-11-18T02:54:53.823800+00:00",
  "items": [
   {
-   "title": "Knicks\u2019 Karl-Anthony Towns acting like \u2018second coach\u2019 sign of fixed Mike Brown partnership",
-   "link": "https://nypost.com/2026/11/17/sports/knicks-karl-anthony-towns-acting-like-a-second-coach/",
+   "title": "Stephen A. Smith drops harsh truth bomb on Steph Curry\u2019s NBA future",
+   "link": "https://nypost.com/2026/11/17/sports/stephen-a-smith-steph-curry-retirement/",
    "source": "New York Post",
-   "ts": 1794966895.0
+   "ts": 1794970329.0
   },
   {
-   "title": "White House drops Heidi Overton's nomination for FDA commissioner",
-   "link": "https://www.cbsnews.com/news/white-house-drops-heidi-overton-fda-commissioner/",
-   "source": "CBS News",
-   "ts": 1794966792.0
-  },
-  {
-   "title": "Trump FDA nominee Heidi Overton struggling to win GOP support",
-   "link": "https://www.cbsnews.com/news/trump-fda-nominee-heidi-overton-confirmation-struggle/",
-   "source": "CBS News",
-   "ts": 1794966600.0
-  },
-  {
-   "title": "Watch: Rubio says there is \"zero evidence\" recent tech outages are related",
-   "link": "https://www.cbsnews.com/video/rubio-says-there-is-zero-evidence-the-recent-tech-outages-are-related-amid-security-fears/",
-   "source": "CBS News",
-   "ts": 1794966171.0
-  },
-  {
-   "title": "Pope Leo breaks silence on rosary striking his face in Peru, reveals details about cancer: 'Major surgery'",
-   "link": "https://www.foxnews.com/world/pope-leo-breaks-silence-rosary-striking-face-peru-reveals-details-cancer-major-surgery",
-   "source": "Fox News",
-   "ts": 1794966055.0
-  },
-  {
-   "title": "Mandy Moore\u2019s ex Ryan Adams engaged to woman 30 years younger than him: \u2018I\u2019ve never been happier\u2019",
-   "link": "https://pagesix.com/2026/11/17/celebrity-news/mandy-moores-ex-ryan-adams-engaged-to-woman-30-years-younger-than-him/",
-   "source": "New York Post",
-   "ts": 1794965925.0
-  },
-  {
-   "title": "LA\u2019s disastrous homeless agency axed after billions spent \u2014 but zero change",
-   "link": "https://nypost.com/2026/11/17/opinion/las-disastrous-homeless-agency-axed-after-billions-spent-but-zero-change/",
-   "source": "New York Post",
-   "ts": 1794965925.0
-  },
-  {
-   "title": "Pentagon sued by The Intercept, Freedom of the Press Foundation over alleged 'blacklist' of news outlets",
-   "link": "https://www.foxnews.com/media/pentagon-sued-intercept-freedom-press-foundation-alleged-blacklist-news-outlets",
-   "source": "Fox News",
-   "ts": 1794965440.0
-  },
-  {
-   "title": "Trump's pick Heidi Overton dropped as nominee for FDA commissioner",
-   "link": "https://abcnews.com/Politics/trumps-pick-heidi-overton-dropped-nominee-fda-commissioner/story?id=138232475",
+   "title": "National intelligence director says no signs of cyberattack amid tech outage concerns",
+   "link": "https://abcnews.com/US/national-intelligence-director-signs-cyberattack-amid-tech-outage/story?id=138229967",
    "source": "ABC News",
-   "ts": 1794964042.0
+   "ts": 1794970236.0
   },
   {
-   "title": "Antonio Sab\u00e0to Jr and Virginia Madsen\u2019s son bails himself out of jail after fatal hit-and-run in Alaska",
-   "link": "https://www.foxnews.com/entertainment/antonio-sabato-jr-virginia-madsens-son-bails-himself-out-jail-after-fatal-hit-and-run-alaska",
+   "title": "NY school boss accused of possessing child porn \u2014 and authorities believe he may have preyed on more kids",
+   "link": "https://nypost.com/2026/11/17/us-news/ny-school-boss-accused-of-possessing-child-porn-and-authorities-believe-he-may-have-preyed-on-more-kids/",
+   "source": "New York Post",
+   "ts": 1794969892.0
+  },
+  {
+   "title": "Ex-Nvidia CEO agrees to testify to Congress amid affair probe",
+   "link": "https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/",
+   "source": "CBS News",
+   "ts": 1794969890.0
+  },
+  {
+   "title": "Rubio says there's \"zero evidence\" recent tech outages are related",
+   "link": "https://www.cbsnews.com/news/marco-rubio-tech-outages-not-connected/",
+   "source": "CBS News",
+   "ts": 1794969827.0
+  },
+  {
+   "title": "Ken Griffin, target of Zohran Mamdani, has officially sold his $58 million apartment to NY Jets owner",
+   "link": "https://www.foxnews.com/outkick-sports/ken-griffin-target-zohran-mamdani-officially-sold-58-million-apartment-ny-jets-owner",
    "source": "Fox News",
-   "ts": 1794963949.0
+   "ts": 1794969770.0
+  },
+  {
+   "title": "Nvidia enters the post-Jensen Huang era with a bang",
+   "link": "https://www.nbcnews.com/business/corporations/nvidia-post-jensen-huang-kress-earnings-rcna609782",
+   "source": "NBC News",
+   "ts": 1794969709.0
+  },
+  {
+   "title": "Major drug kingpin \u2018The Kraken\u2019 captured in California after yearslong hunt",
+   "link": "https://www.foxnews.com/us/major-drug-kingpin-the-kraken-captured-california-after-yearslong-hunt",
+   "source": "Fox News",
+   "ts": 1794969700.0
+  },
+  {
+   "title": "Substitute teacher, 20, busted for dating, sexting 17-year-old student at Christian private school: cops",
+   "link": "https://nypost.com/2026/11/17/us-news/substitute-teacher-busted-for-dating-sexting-17-year-old-student-at-christian-private-school-cops/",
+   "source": "New York Post",
+   "ts": 1794969373.0
+  },
+  {
+   "title": "Airline schedules returning to normal after ground stop, FAA says",
+   "link": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/",
+   "source": "CBS News",
+   "ts": 1794969335.0
+  },
+  {
+   "title": "Former Yankees slugger Mark Teixeira celebrates as Congress\u2019s version of Mr Irrelevant at office lottery",
+   "link": "https://www.foxnews.com/outkick-sports/former-yankees-slugger-mark-teixeira-celebrates-congress-version-mr-irrelevant-office-lottery",
+   "source": "Fox News",
+   "ts": 1794969313.0
+  },
+  {
+   "title": "Asia stocks set to snap losing streak on Nvidia beat as Anthropic looms",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ?oc=5",
+   "source": "Reuters",
+   "ts": 1794966360.0
   },
   {
    "title": "White House drops Heidi Overton\u2019s FDA nomination after Republicans raise concerns",
@@ -96,18 +108,6 @@
    "link": "https://abcnews.com/Politics/mullin-defends-taking-government-plane-lsu-texas-game/story?id=138227526",
    "source": "ABC News",
    "ts": 1794958848.0
-  },
-  {
-   "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEg3anV0Q2ZiXzRhYjVfZkhyTlM2Q3RnX3ZFUExIQ0xQWjZqbkRmXy1mSVY5N1E2dXI0Q2s5WE5oQmNnLXZia24zNU5nUF9FNnZQMENHcFhYMUlhVklwT1RBczRnWFRiXzl3MHRoTWpPRlZJQUNlSjBHeGl5akprVmlNNnFYNmRiNEFqZUlzbUxnRU9FWGRxRGdUTU93QTQ3S3prbktDSUxQbHM2MjFsWWtpLXNOWWFC?oc=5",
-   "source": "Reuters",
-   "ts": 1794958603.0
-  },
-  {
-   "title": "Waymo robotaxis banned from California freeways",
-   "link": "https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917",
-   "source": "NBC News",
-   "ts": 1794957870.0
   }
  ]
 }
