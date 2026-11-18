@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-18T07:53:43.508264+00:00",
+ "updated": "2026-11-18T09:06:11.032666+00:00",
  "items": [
+  {
+   "title": "Rubio says there's 'zero' information that U.S. outages are caused by a malign actor",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6045411/rubio-outages-malign-actor",
+   "source": "NPR",
+   "ts": 1794990470.0
+  },
   {
    "title": "Man, 50, allegedly stabs another man to death at party celebrating his release from prison",
    "link": "https://www.wcax.com/2026/11/18/man-50-allegedly-stabs-another-man-death-party-celebrating-his-release-prison/",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
    "source": "NPR",
    "ts": 1794940471.0
-  },
-  {
-   "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
-   "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
-   "source": "NPR",
-   "ts": 1794936991.0
   }
  ]
 }
