@@ -1,6 +1,84 @@
 {
- "updated": "2026-11-17T23:27:29.584622+00:00",
+ "updated": "2026-11-18T00:26:53.754234+00:00",
  "items": [
+  {
+   "title": "Nvidia sees strong growth in first earnings report without Huang",
+   "link": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/",
+   "source": "CBS News",
+   "ts": 1794961500.0
+  },
+  {
+   "title": "NSA's classified internal network goes down, sources say",
+   "link": "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/",
+   "source": "CBS News",
+   "ts": 1794961371.0
+  },
+  {
+   "title": "Work begins on 8-foot fence around LA\u2019s notorious, drug-ridden MacArthur Park in $2.3M crackdown",
+   "link": "https://nypost.com/2026/11/17/us-news/work-begins-on-8-foot-fence-around-las-notorious-drug-ridden-macarthur-park-in-2-3m-crackdown/",
+   "source": "New York Post",
+   "ts": 1794961119.0
+  },
+  {
+   "title": "WNBA interviewing commissioner candidates as Cathy Engelbert\u2019s tenure winds down",
+   "link": "https://nypost.com/2026/11/17/sports/wnba-interviewing-candidates-to-replace-commissioner-cathy-engelbert/",
+   "source": "New York Post",
+   "ts": 1794961083.0
+  },
+  {
+   "title": "Duffy says \"I can't guarantee\" that the FAA telecom network will work indefinitely",
+   "link": "https://www.cbsnews.com/video/duffy-says-cant-guarantee-faa-telecom-network-work-indefinitely/",
+   "source": "CBS News",
+   "ts": 1794961059.0
+  },
+  {
+   "title": "Dodgers protect four prospects from Rule 5 draft, including top pitcher snatched from Yankees",
+   "link": "https://nypost.com/2026/11/17/sports/dodgers-protect-top-pitching-prospects-rule-5-draft/",
+   "source": "New York Post",
+   "ts": 1794961035.0
+  },
+  {
+   "title": "Paige Spiranac leaves it all on the field, and little to the imagination, while asking NFL fans tough question",
+   "link": "https://www.foxnews.com/outkick-sports/paige-spiranac-leaves-field-little-imagination-asking-nfl-fans-tough-question",
+   "source": "Fox News",
+   "ts": 1794960949.0
+  },
+  {
+   "title": "Steelers star says international games 'freak me out' after Aidan Hutchinson's injury in Germany",
+   "link": "https://www.foxnews.com/outkick-sports/steelers-star-says-international-games-freak-me-out-after-aidan-hutchinson-injury-germany",
+   "source": "Fox News",
+   "ts": 1794960516.0
+  },
+  {
+   "title": "NJ sues to compel ICE facility operator to comply with subpoena in medical probe",
+   "link": "https://abcnews.com/US/nj-sues-compel-ice-facility-operator-comply-subpoena/story?id=138226584",
+   "source": "ABC News",
+   "ts": 1794960094.0
+  },
+  {
+   "title": "Irish boxer Lee Reeves dies at 31 after three months in a coma following Dublin fight",
+   "link": "https://www.foxnews.com/outkick-sports/irish-boxer-lee-reeves-dies-31-three-months-coma-following-dublin-fight",
+   "source": "Fox News",
+   "ts": 1794959717.0
+  },
+  {
+   "title": "US officially loses measles elimination status, RFK Jr. says will 'work to regain' it",
+   "link": "https://abcnews.com/Health/us-officially-loses-measles-elimination-status-paho/story?id=138203543",
+   "source": "ABC News",
+   "ts": 1794959074.0
+  },
+  {
+   "title": "Mullin defends taking government plane to LSU-Texas game after ground stop",
+   "link": "https://abcnews.com/Politics/mullin-defends-taking-government-plane-lsu-texas-game/story?id=138227526",
+   "source": "ABC News",
+   "ts": 1794958848.0
+  },
+  {
+   "title": "Tech outage wave reaches US government, Trump says all is 'fine'",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTFrNFhKT3ZkYUp6V1R4ZTlwSnlGT2RHTnZUanZxZ1dSNEZwLUtBd2YzZGNZZk1XQ3RHT3hPU2FFaEVwSEkzbzFoNmt1d2ZkenRyTjV4MWlQcnZwWUJ6c3B3Mk5BejhqNkJUaFI3WTZZSlczN0dpYUIzQ2VnNGJ4LVNZeWJuenBuT29LQ1JheGtxbk85aC15cnJlYk85YklfYTN4UHY1aG1qTVE4YVdNSWpjTTNmUFktTnZKQ3dha0ZVSlU?oc=5",
+   "source": "Reuters",
+   "ts": 1794958114.0
+  },
   {
    "title": "Waymo robotaxis banned from California freeways",
    "link": "https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917",
@@ -8,46 +86,10 @@
    "ts": 1794957870.0
   },
   {
-   "title": "Marco Rubio to global elite: \u2018Stop quoting laws to men with swords\u2019",
-   "link": "https://nypost.com/2026/11/17/opinion/marco-rubio-to-global-elite-stop-quoting-laws-to-men-with-swords/",
-   "source": "New York Post",
-   "ts": 1794957708.0
-  },
-  {
-   "title": "Man convicted in Iran-backed plot to kill Trump is sentenced",
-   "link": "https://www.cbsnews.com/news/asif-merchant-sentencing-prison-iran-backed-plot-to-murder-trump/",
-   "source": "CBS News",
-   "ts": 1794957688.0
-  },
-  {
-   "title": "Student accused of taking photos of planes for China to be detained",
-   "link": "https://www.cbsnews.com/news/student-accused-photos-planes-chinese-communist-party-detained/",
-   "source": "CBS News",
-   "ts": 1794957480.0
-  },
-  {
-   "title": "Inside Ilhan Omar\u2019s ex-husband and brother\u2019s paranoid life in the shadows",
-   "link": "https://nypost.com/2026/11/17/world-news/inside-ilhan-omars-ex-husband-and-brothers-paranoid-life-in-the-shadows/",
-   "source": "New York Post",
-   "ts": 1794957474.0
-  },
-  {
-   "title": "Duff asks lawmakers for $50 billion in emergency funding for FAA upgrades",
-   "link": "https://www.cbsnews.com/video/duff-asks-lawmakers-for-50-billion-in-emergency-funding-for-atc-upgrades/",
-   "source": "CBS News",
-   "ts": 1794957414.0
-  },
-  {
-   "title": "Christian Cousins\u2019 \u2018Kindergarten Cop\u2019 co-stars share never-before-seen footage of late actor",
-   "link": "https://pagesix.com/2026/11/17/celebrity-news/christian-cousins-kindergarten-cop-co-stars-share-footage-of-him/",
-   "source": "New York Post",
-   "ts": 1794957367.0
-  },
-  {
-   "title": "White House blasts 'Trumpcare for All' pitch from far-left El-Sayed who called president 'unserious fool'",
-   "link": "https://www.foxnews.com/politics/white-house-blasts-trumpcare-all-pitch-far-left-el-sayed-called-president-unserious-fool",
-   "source": "Fox News",
-   "ts": 1794957020.0
+   "title": "German minister rejects US criticism of Kyiv's deep strikes as 'stupid'",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmdnNC1aejdXR1ZzZFEzSGVBNEJ5T2VRZTdHTU1mVGlrcnJkZTlacmJ2V3UteWNQZkNKTUpQa1gtRGxNaGV6ejVaM1JQZkszX2FZeWs0RXlQM09aYnBvdllESnktVEZMclBBcnZDNVdremViZjZmSlZHcGRLeHpCLWc3VnQ3M0psWXBReEg2SEZzSmQ0dkVBbU1ZOTVaVGI1Yld6cWNiaXBGeFB5OFZCTA?oc=5",
+   "source": "Reuters",
+   "ts": 1794957651.0
   },
   {
    "title": "Classified US national security communications network hit by outage, NSA says",
@@ -56,58 +98,16 @@
    "ts": 1794956946.0
   },
   {
-   "title": "Jennifer Sey fights Colorado law that could punish businesses for refusing transgender pronouns",
-   "link": "https://www.foxnews.com/outkick-sports/jennifer-sey-fights-colorado-law-punish-businesses-refusing-transgender-pronouns",
-   "source": "Fox News",
-   "ts": 1794956374.0
-  },
-  {
    "title": "Sean Duffy\u2019s $50 billion demand for air travel fixes is met with yelling and skepticism in Congress",
    "link": "https://www.nbcnews.com/politics/congress/sean-duffys-50-billion-demand-groundstop-fixes-congress-skepitcal-rcna609844",
    "source": "NBC News",
    "ts": 1794955893.0
   },
   {
-   "title": "Reported 'Monday Night Football' booth tension won't derail ESPN's first Super Bowl, network boss insists",
-   "link": "https://www.foxnews.com/outkick-sports/reported-monday-night-football-booth-tension-wont-derail-espn-first-super-bowl-network-boss-insists",
-   "source": "Fox News",
-   "ts": 1794955811.0
-  },
-  {
    "title": "81-year-old former teacher goes viral after dancing with Chris Brown at L.A. concert",
    "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/81-year-old-former-teacher-goes-viral-dancing-chris-brown-l-concert-rcna609887",
    "source": "NBC News",
    "ts": 1794955780.0
-  },
-  {
-   "title": "German minister rejects US criticism of Kyiv's deep strikes as 'stupid'",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmdnNC1aejdXR1ZzZFEzSGVBNEJ5T2VRZTdHTU1mVGlrcnJkZTlacmJ2V3UteWNQZkNKTUpQa1gtRGxNaGV6ejVaM1JQZkszX2FZeWs0RXlQM09aYnBvdllESnktVEZMclBBcnZDNVdremViZjZmSlZHcGRLeHpCLWc3VnQ3M0psWXBReEg2SEZzSmQ0dkVBbU1ZOTVaVGI1Yld6cWNiaXBGeFB5OFZCTA?oc=5",
-   "source": "Reuters",
-   "ts": 1794954760.0
-  },
-  {
-   "title": "Nvidia chair says the board will not rehire Huang as CEO",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUzY1ZVJpMEF5SkVrMm5oVXBaUE9FNFVkUTNxQllsbHo0YXpJMnZQc0Zjc2c2Z2FjRTNYdHAxdi1ZaEFJZkFIRUxqaVNHWUpTZTdydVZtejBWd2Rqa2llYVJDR2MwdjFORHhPSkc0WXAxbml3NWdiTkx5bW9FbE9xdUl1Y1paSnZMcG1OM3RSSHV1TGhHWl92dEpGenJGTXpSbXV3OVRfQzdHTXNqX1NXRzVaY1NGdEFwOTNWSm5R?oc=5",
-   "source": "Reuters",
-   "ts": 1794954508.0
-  },
-  {
-   "title": "Nvidia board 'does not intend to reinstate' Jensen Huang",
-   "link": "https://abcnews.com/Business/nvidia-forms-national-security-committee-feds-probe-company/story?id=138206932",
-   "source": "ABC News",
-   "ts": 1794954161.0
-  },
-  {
-   "title": "Trump picks LaNeve, Hegseth's former aide, as top Army officer",
-   "link": "https://abcnews.com/Politics/trump-nominates-laneve-top-army-officer/story?id=138219615",
-   "source": "ABC News",
-   "ts": 1794953576.0
-  },
-  {
-   "title": "Iran live updates: US conducts airstrikes on Qeshm Island, US military official says",
-   "link": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071",
-   "source": "ABC News",
-   "ts": 1794952986.0
   }
  ]
 }
