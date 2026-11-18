@@ -1,41 +1,71 @@
 {
- "updated": "2026-11-18T03:58:25.508357+00:00",
+ "updated": "2026-11-18T05:03:53.608858+00:00",
  "items": [
   {
-   "title": "Joonas Korpisalo adding to Rangers\u2019 unexpected dynamic goalie tandem after Igor Shesterkin injury",
-   "link": "https://nypost.com/2026/11/17/sports/joonas-korpisalo-adding-to-rangers-unexpected-dynamic-goalie-tandem/",
+   "title": "Josh Hart takes positive Knicks step in win after weeks that were \u2018kicking my ass\u2019",
+   "link": "https://nypost.com/2026/11/18/sports/josh-hart-takes-positive-knicks-step-in-win-after-weeks-that-were-kicking-my-ass/",
    "source": "New York Post",
-   "ts": 1794973711.0
+   "ts": 1794978077.0
+  },
+  {
+   "title": "Democrat Mary Peltola wins Alaska Senate race: AP projects",
+   "link": "https://abcnews.com/Politics/democrat-mary-peltola-wins-alaska-senate-race-defeating/story?id=137983873",
+   "source": "ABC News",
+   "ts": 1794977670.0
+  },
+  {
+   "title": "Mary Peltola finally declared winner of Alaska Senate race 2 weeks after midterms",
+   "link": "https://nypost.com/2026/11/17/us-news/mary-peltola-finally-declared-winner-of-alaska-senate-race-2-weeks-after-midterms/",
+   "source": "New York Post",
+   "ts": 1794977166.0
+  },
+  {
+   "title": "Latest College Football Playoff rankings has same No. 1 \u2014 and a flip",
+   "link": "https://nypost.com/2026/11/17/sports/latest-college-football-playoff-rankings-has-same-no-1-and-a-flip/",
+   "source": "New York Post",
+   "ts": 1794976916.0
+  },
+  {
+   "title": "How India became a rice powerhouse - and why it's becoming a problem",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLS1aa2RCdVBHNXQxZ29XN0RvNGVxa3AwNHpBODVJRXc0aThWX283QllXWmFfQzNxVUowS2xrUlR5M1BKMjV2LXowanYwVHZUVzZnaUVjMXVWRmdJSU4wR1ExOElxZktDbTNpZVlOeTlaYmUxSTNiNlJXZHJodUpMQTgwT095bnNHVWtfeVFSSnBlU3FxdEYtdGpNdG5tdExq?oc=5",
+   "source": "Reuters",
+   "ts": 1794976657.0
+  },
+  {
+   "title": "Democrats have flipped 46 House seats. Here's the breakdown.",
+   "link": "https://www.cbsnews.com/news/house-districts-flipped-2026-midterm-elections/",
+   "source": "CBS News",
+   "ts": 1794975458.0
+  },
+  {
+   "title": "Trump Asia trip live updates: Trump greets Philippines' president ahead of meeting",
+   "link": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
+   "source": "ABC News",
+   "ts": 1794974508.0
+  },
+  {
+   "title": "Trump in Philippines ahead of Putin, Xi summit; possible Kim meeting",
+   "link": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+   "source": "CBS News",
+   "ts": 1794974490.0
+  },
+  {
+   "title": "Patriots-Chargers game loses primetime slot as NFL makes first flex scheduling move of 2026 season",
+   "link": "https://www.foxnews.com/outkick-sports/patriots-chargers-game-loses-primetime-slot-nfl-makes-first-flex-scheduling-move-2026-season",
+   "source": "Fox News",
+   "ts": 1794974355.0
+  },
+  {
+   "title": "Democrat Mary Peltola wins Alaska\u2019s Senate race, NBC News projects",
+   "link": "https://www.nbcnews.com/video/democrat-mary-peltola-wins-alaska-s-senate-race-nbc-news-projects-273698885569",
+   "source": "NBC News",
+   "ts": 1794973701.0
   },
   {
    "title": "Mary Peltola wins Alaska Senate race, flipping seat for Dems",
    "link": "https://www.cbsnews.com/news/alaska-2026-senate-sullivan-peltola/",
    "source": "CBS News",
    "ts": 1794973632.0
-  },
-  {
-   "title": "Democrat Mary Peltola wins Alaska Senate race: AP projects",
-   "link": "https://abcnews.com/Politics/democrat-mary-peltola-wins-alaska-senate-race-defeating/story?id=137983873",
-   "source": "ABC News",
-   "ts": 1794973371.0
-  },
-  {
-   "title": "Jaromir Jagr sounds ready to call it a hockey career at 54: \u2018Squeezed every last drop\u2019",
-   "link": "https://nypost.com/2026/11/17/sports/jaromir-jagr-sounds-ready-to-call-it-a-hockey-career-at-54/",
-   "source": "New York Post",
-   "ts": 1794973352.0
-  },
-  {
-   "title": "Vicious fight breaks out over putting Hollywood megastar in California city\u2019s Hall of Fame",
-   "link": "https://nypost.com/2026/11/17/entertainment/john-waynes-oc-hall-of-fame-bid-fails-in-2-2-board-vote/",
-   "source": "New York Post",
-   "ts": 1794973295.0
-  },
-  {
-   "title": "White House drops its nomination for FDA commissioner",
-   "link": "https://www.cbsnews.com/news/white-house-drops-heidi-overton-fda-commissioner/",
-   "source": "CBS News",
-   "ts": 1794972649.0
   },
   {
    "title": "Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar",
@@ -50,10 +80,10 @@
    "ts": 1794972242.0
   },
   {
-   "title": "Trump in Philippines ahead of Putin, Xi summit; possible Kim meeting",
-   "link": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
-   "source": "CBS News",
-   "ts": 1794972160.0
+   "title": "China's Xi calls for free and open trade at APEC summit",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
+   "source": "Reuters",
+   "ts": 1794972060.0
   },
   {
    "title": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan",
@@ -62,10 +92,10 @@
    "ts": 1794971957.0
   },
   {
-   "title": "Mamdani's luxury home tax hits $500M milestone despite thousands of exemptions",
-   "link": "https://www.foxnews.com/politics/mamdanis-luxury-home-tax-hits-500m-milestone-despite-thousands-exemptions",
-   "source": "Fox News",
-   "ts": 1794971177.0
+   "title": "Gold slides to over one-year low on firm dollar, US rate outlook",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
+   "source": "Reuters",
+   "ts": 1794971400.0
   },
   {
    "title": "National intelligence director says no signs of cyberattack amid tech outage concerns",
@@ -78,36 +108,6 @@
    "link": "https://www.nbcnews.com/business/corporations/nvidia-post-jensen-huang-kress-earnings-rcna609782",
    "source": "NBC News",
    "ts": 1794969709.0
-  },
-  {
-   "title": "Oil prices fall as higher US crude stocks temper supply risks",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmp3REJQam1xdjkyMkpCN1JlSkotTnJNM0JEWDVFNmJqZ2FHbmNIN2E0V2twa2N3djBLTXlNNVJvcDJmZVNXMlBlQnk2VG1FTThnX0hQbVRqS2dKbVVBdXl6MWR5ZHo0S2VneWt2bUdwVjE4TnNxaHFLN0hHNU9IUVljVnNXLWJTeHdORFFJX3BfQXhPTThEbGFYQXhYaGNneHRHcVRGS2NyOFhxTzVN?oc=5",
-   "source": "Reuters",
-   "ts": 1794968160.0
-  },
-  {
-   "title": "Asia stocks set to snap losing streak on Nvidia beat as Anthropic looms",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ?oc=5",
-   "source": "Reuters",
-   "ts": 1794966360.0
-  },
-  {
-   "title": "How India became a rice powerhouse - and why it's becoming a problem",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLS1aa2RCdVBHNXQxZ29XN0RvNGVxa3AwNHpBODVJRXc0aThWX283QllXWmFfQzNxVUowS2xrUlR5M1BKMjV2LXowanYwVHZUVzZnaUVjMXVWRmdJSU4wR1ExOElxZktDbTNpZVlOeTlaYmUxSTNiNlJXZHJodUpMQTgwT095bnNHVWtfeVFSSnBlU3FxdEYtdGpNdG5tdExq?oc=5",
-   "source": "Reuters",
-   "ts": 1794963600.0
-  },
-  {
-   "title": "White House drops Heidi Overton\u2019s FDA nomination after Republicans raise concerns",
-   "link": "https://www.nbcnews.com/health/health-care/white-house-drops-dr-heidi-overton-fda-nomination-commissioner-rcna609883",
-   "source": "NBC News",
-   "ts": 1794962667.0
-  },
-  {
-   "title": "NJ sues to compel ICE facility operator to comply with subpoena in medical probe",
-   "link": "https://abcnews.com/US/nj-sues-compel-ice-facility-operator-comply-subpoena/story?id=138226584",
-   "source": "ABC News",
-   "ts": 1794960094.0
   }
  ]
 }
