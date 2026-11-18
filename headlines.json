@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-18T02:54:53.823800+00:00",
+ "updated": "2026-11-18T03:58:25.508357+00:00",
  "items": [
+  {
+   "title": "Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan",
+   "link": "https://www.mynbc5.com/article/alaska-senate-race-peltola-beats-dan-sullivan/74459832",
+   "source": "WPTZ",
+   "ts": 1794973740.0
+  },
+  {
+   "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
+   "link": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
+   "source": "NPR",
+   "ts": 1794972443.0
+  },
+  {
+   "title": "White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans",
+   "link": "https://www.mynbc5.com/article/white-house-pulls-fda-nominee-heidi-overton/74459032",
+   "source": "WPTZ",
+   "ts": 1794971220.0
+  },
   {
    "title": "Widespread outage hits Apple services, including Apple Pay, iCloud",
    "link": "https://www.wcax.com/2026/11/17/widespread-outage-hits-apple-services-including-apple-pay-icloud-reports-say/",
@@ -24,18 +42,6 @@
    "link": "https://www.mynbc5.com/article/canada-china-expand-tariff-cuts-trade-relations/74459492",
    "source": "WPTZ",
    "ts": 1794968100.0
-  },
-  {
-   "title": "A painting was buried in a New York apartment closet. It just sold for $4.8 million",
-   "link": "https://www.mynbc5.com/article/georgia-o-keeffe-painting-auction-new-york-apartment/74457050",
-   "source": "WPTZ",
-   "ts": 1794966540.0
-  },
-  {
-   "title": "WWE Hall of Famer 'Cowboy' Bill Watts dies at 87",
-   "link": "https://www.mynbc5.com/article/wwe-hall-of-famer-cowboy-bill-watts-dies-at-87/74458736",
-   "source": "WPTZ",
-   "ts": 1794966300.0
   },
   {
    "title": "\u2018I just wasn\u2019t thinking it through\u2019: Ex-deputy permanently banned from police work for racist message",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
    "source": "NPR",
    "ts": 1794936991.0
-  },
-  {
-   "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-   "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
-   "source": "NPR",
-   "ts": 1794918057.0
   }
  ]
 }
