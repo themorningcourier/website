@@ -1,29 +1,77 @@
 {
- "updated": "2026-11-19T22:52:41.294112+00:00",
+ "updated": "2026-11-19T23:47:11.965069+00:00",
  "items": [
   {
-   "title": "Lakers star gets honest on public scrutiny weighing NBA players down",
-   "link": "https://nypost.com/2026/11/19/sports/lakers-star-gets-honest-on-public-scrutiny-weighing-nba-players-down/",
+   "title": "Aidan Hutchinson\u2019s celebration-induced injury was avoidable \u2014 especially to those paid to cover it",
+   "link": "https://nypost.com/2026/11/19/sports/aidan-hutchinsons-injury-was-avoidable-especially-to-those-paid-to-cover-it/",
    "source": "New York Post",
-   "ts": 1795128706.0
+   "ts": 1795131900.0
   },
   {
-   "title": "Fiona the hippo has died, Cincinnati Zoo says",
-   "link": "https://www.cbsnews.com/news/fiona-the-hippo-dies-cincinnati-zoo/",
+   "title": "Former Dodgers pitcher breaks silence on tying Mookie Betts with 4 World Series rings",
+   "link": "https://nypost.com/2026/11/19/sports/former-dodgers-pitcher-breaks-silence-on-tying-mookie-betts-with-4-world-series-rings/",
+   "source": "New York Post",
+   "ts": 1795131820.0
+  },
+  {
+   "title": "California AG Rob Bonta serves Nvidia with subpoena in wake of ex-CEO Jensen Huang\u2019s Chinese spy, affairs scandals",
+   "link": "https://nypost.com/2026/11/19/business/california-ag-rob-bonta-serves-nvidia-with-subpoena-in-wake-of-jensen-huangs-chinese-spy-affairs-scandals/",
+   "source": "New York Post",
+   "ts": 1795131669.0
+  },
+  {
+   "title": "AI fueling \"disturbingly high\" inflation, Chicago Fed president says",
+   "link": "https://www.cbsnews.com/news/ai-boom-inflation-chicago-fed-goolsbee/",
    "source": "CBS News",
-   "ts": 1795128702.0
+   "ts": 1795131606.0
   },
   {
-   "title": "Travis Kelce supports wife Taylor Swift\u2019s 2026 CMA performance with subtle move",
-   "link": "https://pagesix.com/2026/11/19/entertainment/travis-kelce-supports-wife-taylor-swifts-2026-cma-performance-with-subtle-move/",
-   "source": "New York Post",
-   "ts": 1795128690.0
+   "title": "Rahm Emanuel on possibly running for president in 2028",
+   "link": "https://www.cbsnews.com/video/rahm-emanuel-on-possibly-running-for-president-in-2028/",
+   "source": "CBS News",
+   "ts": 1795131243.0
   },
   {
-   "title": "Hailey Bieber\u2019s makeup artist swears by this 30%-off face mask for \u2018plump and juicy\u2019 skin",
-   "link": "https://pagesix.com/2026/11/19/style/hailey-bieber-makeup-artist-mary-phillips-swears-by-medicube-masks/",
-   "source": "New York Post",
-   "ts": 1795128678.0
+   "title": "Teen accused of fatally shooting identical twin brother after fight about touching his belongings",
+   "link": "https://www.foxnews.com/us/teen-accused-fatally-shooting-identical-twin-brother-after-fight-about-touching-his-belongings",
+   "source": "Fox News",
+   "ts": 1795131165.0
+  },
+  {
+   "title": "Rahm Emanuel says Trump \"confuses friend with foe\" amid meeting with Xi, Putin",
+   "link": "https://www.cbsnews.com/video/rahm-emanuel-says-trump-confuses-friend-with-foe/",
+   "source": "CBS News",
+   "ts": 1795131124.0
+  },
+  {
+   "title": "49ers' Kyle Juszczyk reveals hardest part of playing in Mexico City as San Fran returns to face Vikings",
+   "link": "https://www.foxnews.com/outkick-sports/49ers-kyle-juszczyk-reveals-hardest-part-playing-mexico-city-san-fran-returns-face-vikings",
+   "source": "Fox News",
+   "ts": 1795131017.0
+  },
+  {
+   "title": "Human vs. ChatGPT NFL Week 11 betting picks: A struggling human backs ugly underdogs to stop the slide",
+   "link": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-11-betting-picks-struggling-human-backs-ugly-underdogs-stop-slide",
+   "source": "Fox News",
+   "ts": 1795131000.0
+  },
+  {
+   "title": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
+   "source": "Reuters",
+   "ts": 1795129556.0
+  },
+  {
+   "title": "At China summit, Trump calls Putin 'my friend' amid Ukraine war",
+   "link": "https://abcnews.com/International/china-summit-trump-calls-putin-friend-amid-ukraine/story?id=138282642",
+   "source": "ABC News",
+   "ts": 1795129400.0
+  },
+  {
+   "title": "Who is getting rich from Anthropic's record IPO",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPancyR3hqXzc1cWJHZDlBeDc5Wk50dkNqX0R4VlFEUFV2V2FLNlkzVTlRd0lxQ3h1S1FrWHQ1UG9UM3NwT1RuZUdUVWszek1FR2xzRDhZM0RWNGcyWm9SZVR2NDV4Mm1UTXlLUm5XMUlFMUY0bmhtS0QyM3N1bzRVNE1YSVREbms2UTYtQVVPaXpXcVZRTG5haVVWYXRKZw?oc=5",
+   "source": "Reuters",
+   "ts": 1795129122.0
   },
   {
    "title": "Cincinnati Zoo mourns Fiona the hippo after fatal incident involving hat",
@@ -32,34 +80,16 @@
    "ts": 1795128299.0
   },
   {
-   "title": "Here's what Trump's meeting with Xi and Putin accomplished as he leaves China",
-   "link": "https://www.cbsnews.com/video/heres-what-trumps-meeting-with-xi-and-putin-accomplished-as-he-leaves-china/",
-   "source": "CBS News",
-   "ts": 1795128215.0
+   "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
+   "source": "Reuters",
+   "ts": 1795128228.0
   },
   {
-   "title": "Michigan WR Andrew Marsh charged with indecent exposure after alleged incident with delivery driver",
-   "link": "https://www.foxnews.com/outkick-sports/michigan-wr-andrew-marsh-charged-indecent-exposure-alleged-incident-delivery-driver",
-   "source": "Fox News",
-   "ts": 1795128054.0
-  },
-  {
-   "title": "Consumers stock doomsday pantries as tech outages cause jitters",
-   "link": "https://www.cbsnews.com/news/doomsday-prepping-scenarios-walmart-costco-technology-outages/",
-   "source": "CBS News",
-   "ts": 1795127981.0
-  },
-  {
-   "title": "\u2018Stand your ground\u2019 claim falters in road-rage killing as men charged with murder, ex-cops face accusations",
-   "link": "https://www.foxnews.com/us/stand-your-ground-claim-falters-road-rage-killing-men-charged-murder-ex-cops-face-accusations",
-   "source": "Fox News",
-   "ts": 1795127602.0
-  },
-  {
-   "title": "Florida Gators cheerleaders weaponized the ABCs to distract a Houston free-throw shooter",
-   "link": "https://www.foxnews.com/outkick-sports/florida-gators-cheerleaders-weaponized-abcs-distract-houston-free-throw-shooter",
-   "source": "Fox News",
-   "ts": 1795127424.0
+   "title": "Talking Shop with comedian Heather McMahan",
+   "link": "https://www.nbcnews.com/select/shopping/heather-mcmahan-favorite-things-rcna610295",
+   "source": "NBC News",
+   "ts": 1795127700.0
   },
   {
    "title": "Trump\u2019s pick for agency providing election security says Jan. 6 was not an attack",
@@ -74,40 +104,10 @@
    "ts": 1795126849.0
   },
   {
-   "title": "Intuit to sell Mailchimp at about a third of its 2021 purchase price, shares slump",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSEQ4aFF0TFRXWll0Y2hSaHJFbWNmQ3Q2Y1RIZkZsRENVeU9sNzUyU3JsNVJoOXZMWVFQVnVTUzN6Ri1XdlBvbkRsbmtibnRBaXFKS3JVazBCenA4QmJkS2xpdVBzSVpjeGI0dkZyZjV5bWprd0tVd1g0bTVDSkp1c3JmSTRhc0J6bmlaZlNvd05VaHlvMGVJcTFXSDBGdEhkQ2hMbDlQZw?oc=5",
-   "source": "Reuters",
-   "ts": 1795126831.0
-  },
-  {
-   "title": "Top UN court finds Myanmar committed genocide against Muslim Rohingya",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzZlQXBMbFU3Qzl0M2E2b0tJZHVzejVGQXczQTUxaHJmV1ZMZ3dVTWFGRzhsT1ZvNmdMMVRQVlNyMnVmX1RoUWo4UmtCT2RSX3Y5Q0JjWm9paEtmbXhCLXM0bTR4aXg5eUQ2dWRSZGlaT09VWTF6Q3FuUHFMR0ZqSmc3UWdDRHc2OHpJNE9pX2FmZldBME1xc29YRENBQkE0ZGhORjlTWkpyMzBCSzF5R21lRmcwMFFRNWltZ1FQYmdROXEtVUxXekp5RQ?oc=5",
-   "source": "Reuters",
-   "ts": 1795126344.0
-  },
-  {
-   "title": "EXCLUSIVE: Trump official floated ceding Guyanese territory to Venezuela, sources say",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnB0WnNKdXV5b0F3V0djaHNNT1JkMGoyVGlmZ2M0anZxRDFRNUEwNDFsS0EtY0VDTmRWSUlCeVNhNWpTZk80SFVGVzR0d1dRbHFRMjlmV2VCSUl0cENEYUx2MGJFckt1TV82S0ljVkdLREllQ2RMZ0RENjluQk43aE9FWHR0eHlTNmxZa2RweU4wY2F0ZXhKU25ENHpoTi15WkdZU2hhZXdUZVJFOUlTQlFhdTFJeTNuTWlxdzZR?oc=5",
-   "source": "Reuters",
-   "ts": 1795125686.0
-  },
-  {
-   "title": "Trump gives posthumous pardon to Pete Rose, all-time MLB hits leader",
-   "link": "https://www.nbcnews.com/politics/donald-trump/posthumously-pardons-pete-rose-mlb-hit-leader-betting-baseball-rcna610308",
-   "source": "NBC News",
-   "ts": 1795125117.0
-  },
-  {
    "title": "Pete Rose posthumously pardoned by Trump after career hits leader reinstated by MLB",
    "link": "https://abcnews.com/Sports/wireStory/pete-rose-posthumously-pardoned-trump-after-baseballs-career-138302855",
    "source": "ABC News",
    "ts": 1795124862.0
-  },
-  {
-   "title": "Trump China trip: Iran and Ukraine not in 'peace declaration' and more takeaways",
-   "link": "https://abcnews.com/Politics/trump-china-trip-iran-ukraine-peace-declaration-takeaways/story?id=138292154",
-   "source": "ABC News",
-   "ts": 1795123454.0
   }
  ]
 }
