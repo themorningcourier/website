@@ -1,41 +1,47 @@
 {
- "updated": "2026-11-18T23:53:27.434897+00:00",
+ "updated": "2026-11-19T01:13:26.197061+00:00",
  "items": [
   {
-   "title": "'98% confident': Mullin doesn't suspect cyberattacks are behind recent tech outages",
-   "link": "https://www.mynbc5.com/article/mullin-doesnt-suspect-cyberattacks-are-behind-recent-tech-outages/74469927",
-   "source": "WPTZ",
-   "ts": 1795045380.0
-  },
-  {
-   "title": "Clinton Community College inaugurates its 10th president",
-   "link": "https://www.mynbc5.com/article/clinton-community-college-inaugurates-its-10th-president/74471077",
-   "source": "WPTZ",
-   "ts": 1795045260.0
-  },
-  {
-   "title": "Paramedic mom unknowingly responds to scene where son was crushed to death while working on car",
-   "link": "https://www.wcax.com/2026/11/18/paramedic-mom-unknowingly-responds-scene-where-son-was-crushed-death-while-working-car/",
+   "title": "Caseworker attacked outside courthouse; client faces attempted murder charge",
+   "link": "https://www.wcax.com/2026/11/17/caseworker-attacked-outside-courthouse-client-faces-attempted-murder-charge/",
    "source": "WCAX",
-   "ts": 1795045033.0
+   "ts": 1795049078.0
   },
   {
-   "title": "SUNY chancellor unveils mentorship program for first-generation students at Plattsburgh",
-   "link": "https://www.mynbc5.com/article/suny-chancellor-unveils-mentorship-program-for-first-generation-students-at-plattsburgh/74470910",
+   "title": "Fletcher store serves up essentials during busy deer season",
+   "link": "https://www.wcax.com/2026/11/18/fletcher-store-serves-up-essentials-during-busy-deer-season/",
+   "source": "WCAX",
+   "ts": 1795047748.0
+  },
+  {
+   "title": "Grand jury indicts Illinois man on terrorism and weapons charges in foiled Hindu temple shooting",
+   "link": "https://www.mynbc5.com/article/aurora-illinois-hindu-temple-shooting-indictment/74470994",
    "source": "WPTZ",
-   "ts": 1795044840.0
+   "ts": 1795047180.0
   },
   {
-   "title": "New restrictions at Burlington City Hall limit public access",
-   "link": "https://www.wcax.com/2026/11/18/new-restrictions-burlington-city-hall-limit-public-access/",
-   "source": "WCAX",
-   "ts": 1795044359.0
+   "title": "Pearl Harbor survivor Gebhard 'Geb' Galle dies at 105. He's remembered for saving 4 shipmates",
+   "link": "https://www.mynbc5.com/article/pearl-harbor-survivor-geb-galle-dies-at-105/74470818",
+   "source": "WPTZ",
+   "ts": 1795046160.0
   },
   {
-   "title": "Man arrested after string of burglaries at Brattleboro businesses",
-   "link": "https://www.wcax.com/2026/11/18/man-arrested-after-string-burglaries-brattleboro-businesses/",
+   "title": "Girl, 11, sentenced for rape, assault of 5-year-old",
+   "link": "https://www.wcax.com/2026/11/18/girl-11-sentenced-rape-assault-5-year-old/",
    "source": "WCAX",
-   "ts": 1795044227.0
+   "ts": 1795046147.0
+  },
+  {
+   "title": "North Hero unveils new fire station and town garage",
+   "link": "https://www.mynbc5.com/article/north-hero-celebrates-fire-station/74469305",
+   "source": "WPTZ",
+   "ts": 1795046100.0
+  },
+  {
+   "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+   "source": "NPR",
+   "ts": 1795046096.0
   },
   {
    "title": "For 100 years, a nonprofit has provided free services for visually impaired Vermonters. Now it\u2019s looking to scale up.",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
    "source": "NPR",
    "ts": 1795025759.0
-  },
-  {
-   "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
-   "source": "NPR",
-   "ts": 1795021844.0
   }
  ]
 }
