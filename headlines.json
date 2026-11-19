@@ -1,23 +1,35 @@
 {
- "updated": "2026-11-19T04:38:13.276651+00:00",
+ "updated": "2026-11-19T06:06:12.017413+00:00",
  "items": [
+  {
+   "title": "NFL Week 11 schedule, predictions and more",
+   "link": "https://www.mynbc5.com/article/nfl-week-11-schedule-predictions/74448740",
+   "source": "WPTZ",
+   "ts": 1795067580.0
+  },
+  {
+   "title": "Judge issues 14-day extension of order blocking Trump's memorial arch in DC",
+   "link": "https://www.mynbc5.com/article/judge-14-day-extension-blocking-trump-arch-dc/74472103",
+   "source": "WPTZ",
+   "ts": 1795065960.0
+  },
+  {
+   "title": "Win a trip to go behind the news with NPR",
+   "link": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway",
+   "source": "NPR",
+   "ts": 1795064460.0
+  },
+  {
+   "title": "St. Mike\u2019s sweep hoops doubleheader",
+   "link": "https://www.wcax.com/2026/11/19/st-mikes-sweep-hoops-doubleheader/",
+   "source": "WCAX",
+   "ts": 1795064193.0
+  },
   {
    "title": "Two Mad River Valley elementary schools on chopping block amid budget challenges",
    "link": "https://www.mynbc5.com/article/harwood-board-closure-mad-river-valley-elementary-schools-money/74471999",
    "source": "WPTZ",
    "ts": 1795062960.0
-  },
-  {
-   "title": "GTA VI is here. What non-gamers need to know",
-   "link": "https://www.mynbc5.com/article/what-is-gta-vi-explained/74472259",
-   "source": "WPTZ",
-   "ts": 1795062360.0
-  },
-  {
-   "title": "After a 13-year wait, 'Grand Theft Auto VI' arrives with enormous hype and expectations",
-   "link": "https://www.mynbc5.com/article/grand-theft-auto-vi-launch-13-years-later/74462600",
-   "source": "WPTZ",
-   "ts": 1795062000.0
   },
   {
    "title": "School district suspends 2 hockey teams during police investigation",
@@ -30,12 +42,6 @@
    "link": "https://www.wcax.com/2026/11/19/report-says-land-bank-could-help-ease-vermont-housing-crisis-funding-questions-remain/",
    "source": "WCAX",
    "ts": 1795057876.0
-  },
-  {
-   "title": "Claremont firefighters contain brush fire",
-   "link": "https://www.wcax.com/2026/11/19/claremont-firefighters-contain-brush-fire/",
-   "source": "WCAX",
-   "ts": 1795054446.0
   },
   {
    "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/18/gov-phil-scott-appoints-new-transportation-utilities-leaders/",
    "source": "VTDigger",
    "ts": 1795040173.0
-  },
-  {
-   "title": "Why the Nvidia scandal is a national security issue",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6044275/why-the-nvidia-scandal-is-a-national-security-issue",
-   "source": "NPR",
-   "ts": 1795039976.0
   }
  ]
 }

@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-19T04:38:13.276651+00:00",
+ "updated": "2026-11-19T06:06:12.017413+00:00",
  "items": [
   {
-   "title": "Penn State tries to distance itself from campus lecture on \u2018need to decolonize\u2019 Holocaust museums following backlash",
-   "link": "https://nypost.com/2026/11/18/us-news/penn-state-tries-to-distance-itself-from-campus-lecture-on-need-to-decolonize-holocaust-museums/",
+   "title": "Lakers\u2019 nine-game winning streak ends with loss to Jazz",
+   "link": "https://nypost.com/2026/11/19/sports/lakers-winning-streak-ends-with-loss-to-jazz/",
    "source": "New York Post",
-   "ts": 1795063052.0
+   "ts": 1795068203.0
   },
   {
-   "title": "China\u2019s second-richest man to drain California city\u2019s water supply in extraordinary deal",
-   "link": "https://nypost.com/2026/11/18/us-news/fairfield-water-battle-ends-with-chinas-second-richest-man-taking-control/",
+   "title": "Trump praises Putin ahead of rare joint meeting with Xi in China",
+   "link": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
+   "source": "CBS News",
+   "ts": 1795067989.0
+  },
+  {
+   "title": "Lindsay Clancy files appeal ahead of March 2027 retrial",
+   "link": "https://abcnews.com/US/lindsay-clancy-files-appeal-ahead-march-2027-retrial/story?id=138277240",
+   "source": "ABC News",
+   "ts": 1795067464.0
+  },
+  {
+   "title": "Timoth\u00e9e Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz",
+   "link": "https://nypost.com/2026/11/19/sports/timothee-chalamet-and-kylie-jenner-spotted-sitting-courtside-during-lakers-jazz-game/",
    "source": "New York Post",
-   "ts": 1795062600.0
+   "ts": 1795067247.0
+  },
+  {
+   "title": "Michigan firefighters and police officers brawl during charity football game",
+   "link": "https://nypost.com/2026/11/19/sports/michigan-firefighters-and-police-officers-brawl-during-charity-football-game-in-flint/",
+   "source": "New York Post",
+   "ts": 1795067247.0
+  },
+  {
+   "title": "Trump Asia trip live updates: Trump, Xi, Putin to meet in historic trilateral talks",
+   "link": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
+   "source": "ABC News",
+   "ts": 1795066904.0
   },
   {
    "title": "WNBA launches search for next commissioner, but outgoing Cathy Engelbert could stay into 2027",
    "link": "https://www.foxnews.com/outkick-sports/wnba-launches-search-next-commissioner-outgoing-cathy-engelbert-could-stay-2027",
    "source": "Fox News",
    "ts": 1795062485.0
-  },
-  {
-   "title": "Trump Asia trip live updates: Trump, Xi, Putin and other leaders pose for group photo",
-   "link": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
-   "source": "ABC News",
-   "ts": 1795062084.0
-  },
-  {
-   "title": "Injured 49ers receiver reveals surprising update in birthday post",
-   "link": "https://nypost.com/2026/11/18/sports/49ers-christian-kirk-injury-update-birthday-post/",
-   "source": "New York Post",
-   "ts": 1795061619.0
-  },
-  {
-   "title": "Musk regrets nearly $500 million midterm elections spending, says he\u2019s not MAGA",
-   "link": "https://abcnews.com/Politics/musk-regrets-500-million-midterm-elections-spending-hes/story?id=138270985",
-   "source": "ABC News",
-   "ts": 1795061442.0
-  },
-  {
-   "title": "Trump and Xi speak at APEC summit ahead of rare joint meeting with Putin",
-   "link": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
-   "source": "CBS News",
-   "ts": 1795061205.0
   },
   {
    "title": "Hardcore GTA fans ditch work so they have time to play",
@@ -74,13 +74,25 @@
    "ts": 1795058319.0
   },
   {
+   "title": "'GTA VI' to supercharge Sony \u2014 just not in Japan",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1pwcXVKYWNHblYzQU9xMGMwd0dWWkhQQmxDcEV3OU9ubXZZNC1USElINmVhX1IyMkFqSXNZTTRCT0VSX0pmcTYxR3RuaVVVb3Bsa1RuTmV4YWJNQXVrdXlxVHJhRVYtVVVGWndsSmJNM2NoaThhQXFSSlA0TENya3I4bFo3SXVKbkVGQUxxRHRIN0lQVS1kSFdaMEpLNzBu?oc=5",
+   "source": "Reuters",
+   "ts": 1795057500.0
+  },
+  {
    "title": "'The View' co-host Whoopi Goldberg demands Dems impeach RFK Jr, 'get his a-- out of there'",
    "link": "https://www.foxnews.com/media/the-view-co-host-whoopi-goldberg-demands-dems-impeach-rfk-jr-get-his-a-out-there",
    "source": "Fox News",
    "ts": 1795057258.0
   },
   {
-   "title": "Virginia school district shutters after finding 500 staff members weren\u2019t screened for child abuse",
+   "title": "Oil prices steady as Middle East shipping attacks counter supply surplus outlook",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5",
+   "source": "Reuters",
+   "ts": 1795056420.0
+  },
+  {
+   "title": "Virginia school district shutters after finding staff members weren\u2019t screened for abuse",
    "link": "https://www.nbcnews.com/news/us-news/virginia-school-district-shutters-finding-500-staff-members-werent-scr-rcna610140",
    "source": "NBC News",
    "ts": 1795055636.0
@@ -92,22 +104,10 @@
    "ts": 1795054115.0
   },
   {
-   "title": "Stocks rise after Anthropic IPO pricing sets stage for blockbuster debut",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKVlNYZ0xucjVqQUMzV3BSemlBQ2ZPcmxTejY2bXF6bzUyZTR3OEhOc3FoQW5JS095Uzl2LWhJcDdpVXpoeWF3c245cllBNFRjeks3eTdta3kxU3BiWm1IcG1ScWIweFVBdTk0eFpURlFDZi1kUmVIQ0dVTQ?oc=5",
-   "source": "Reuters",
-   "ts": 1795053180.0
-  },
-  {
    "title": "WATCH:  Animal rescuers describe cat rescue after Brooklyn building collapse",
    "link": "https://abcnews.com/video/138262254/",
    "source": "ABC News",
    "ts": 1795052817.0
-  },
-  {
-   "title": "Trump says he referred to ex-Nvidia boss Huang's situation 'briefly' in talk with Xi",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZGVNM0xjMGtxNjE0aEFnRWU2QURJZy1TSzZGSkFXNVk0eTM0bkhOZWF4cXJjWGhyZEVfZjNuWjZxVVlqUWh5cDUzckE2QTdISldZeThRZG9sZTB3dzdIU1ZOX2RJV0FMQXJ4V2dKS0U3V0t1YWNpcXE4R2FuZVVRVFJaUUNnYmZkS1pQXzluQ25WaUROQ2NVQk5wNHpPa2NheXhUZFFiQ3o5cjNxcHFWUWRVS3FCNm1meTltX0xiMA?oc=5",
-   "source": "Reuters",
-   "ts": 1795052760.0
   }
  ]
 }
