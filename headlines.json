@@ -1,23 +1,41 @@
 {
- "updated": "2026-11-19T08:43:28.341586+00:00",
+ "updated": "2026-11-19T10:10:02.364677+00:00",
  "items": [
   {
-   "title": "Trump tells Xi that China should buy more US farm goods",
-   "link": "https://www.mynbc5.com/article/trump-tells-xi-that-china-should-buy-more-us-farm-goods/74472964",
+   "title": "Danish parliament approves security deal with Greenland and US",
+   "link": "https://www.mynbc5.com/article/danish-parliament-approves-security-deal-greenland-us/74474252",
    "source": "WPTZ",
-   "ts": 1795068360.0
+   "ts": 1795082520.0
   },
   {
-   "title": "NFL Week 11 schedule, predictions and more",
-   "link": "https://www.mynbc5.com/article/nfl-week-11-schedule-predictions/74448740",
-   "source": "WPTZ",
-   "ts": 1795067580.0
+   "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
+   "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+   "source": "NPR",
+   "ts": 1795082400.0
   },
   {
-   "title": "Judge issues 14-day extension of order blocking Trump's memorial arch in DC",
-   "link": "https://www.mynbc5.com/article/judge-14-day-extension-blocking-trump-arch-dc/74472103",
+   "title": "Online threat prompts school closures in St. Lawrence County; classes set to resume on Thursday",
+   "link": "https://www.mynbc5.com/article/massena-students-threatened-schools-closed/74474171",
    "source": "WPTZ",
-   "ts": 1795065960.0
+   "ts": 1795082220.0
+  },
+  {
+   "title": "US military returns to 2 aircraft carriers in the Middle East",
+   "link": "https://www.mynbc5.com/article/us-military-returns-2-aircraft-carriers-middle-east/74474253",
+   "source": "WPTZ",
+   "ts": 1795082160.0
+  },
+  {
+   "title": "Morning news brief",
+   "link": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief",
+   "source": "NPR",
+   "ts": 1795081589.0
+  },
+  {
+   "title": "Sunshine and warmer weather not going anywhere yet",
+   "link": "https://www.wcax.com/2026/11/19/sunshine-warmer-weather-not-going-anywhere-yet/",
+   "source": "WCAX",
+   "ts": 1795079795.0
   },
   {
    "title": "Win a trip to go behind the news with NPR",
@@ -38,18 +56,6 @@
    "ts": 1795059810.0
   },
   {
-   "title": "Report says land bank could help ease Vermont housing crisis; funding questions remain",
-   "link": "https://www.wcax.com/2026/11/19/report-says-land-bank-could-help-ease-vermont-housing-crisis-funding-questions-remain/",
-   "source": "WCAX",
-   "ts": 1795057876.0
-  },
-  {
-   "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
-   "source": "NPR",
-   "ts": 1795046096.0
-  },
-  {
    "title": "For 100 years, a nonprofit has provided free services for visually impaired Vermonters. Now it\u2019s looking to scale up.",
    "link": "https://vtdigger.org/2026/11/18/for-100-years-a-nonprofit-has-provided-free-services-for-visually-impaired-vermonters-now-its-looking-to-scale-up/",
    "source": "VTDigger",
@@ -60,12 +66,6 @@
    "link": "https://vtdigger.org/2026/11/18/vermont-officials-take-police-dispatch-and-records-system-offline-following-potential-security-threat/",
    "source": "VTDigger",
    "ts": 1795042333.0
-  },
-  {
-   "title": "The law releasing the Epstein files passed one year ago. What do his victims say?",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6041708/the-law-releasing-the-epstein-files-passed-one-year-ago-what-do-his-victims-say",
-   "source": "NPR",
-   "ts": 1795040863.0
   },
   {
    "title": "Gov. Phil Scott appoints new transportation, utilities leaders",
