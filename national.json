@@ -1,41 +1,53 @@
 {
- "updated": "2026-11-19T06:06:12.017413+00:00",
+ "updated": "2026-11-19T07:24:26.983044+00:00",
  "items": [
   {
-   "title": "Lakers\u2019 nine-game winning streak ends with loss to Jazz",
-   "link": "https://nypost.com/2026/11/19/sports/lakers-winning-streak-ends-with-loss-to-jazz/",
-   "source": "New York Post",
-   "ts": 1795068203.0
+   "title": "Iran ramps up attacks on Gulf countries after U.S. strikes",
+   "link": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+   "source": "CBS News",
+   "ts": 1795072638.0
   },
   {
-   "title": "Trump praises Putin ahead of rare joint meeting with Xi in China",
+   "title": "LIVE:  ABC News Live",
+   "link": "https://abcnews.com/video/41463246/",
+   "source": "ABC News",
+   "ts": 1795072232.0
+  },
+  {
+   "title": "Stephen Baldwin slams brother Alec\u2019s acting chops: \u2018Not the most talented\u2019",
+   "link": "https://pagesix.com/2026/11/19/entertainment/stephen-baldwin-shades-brother-alec-baldwins-acting-skills-not-the-most-talented/",
+   "source": "New York Post",
+   "ts": 1795072156.0
+  },
+  {
+   "title": "Stephen Baldwin throws shade at brother Alec\u2019s acting chops: \u2018Not the most talented\u2019",
+   "link": "https://pagesix.com/2026/11/19/entertainment/stephen-baldwin-shades-brother-alec-baldwins-acting-skills-not-the-most-talented/",
+   "source": "New York Post",
+   "ts": 1795072156.0
+  },
+  {
+   "title": "Trump, Xi, Putin set for rare joint meeting in China",
    "link": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
    "source": "CBS News",
-   "ts": 1795067989.0
+   "ts": 1795071918.0
+  },
+  {
+   "title": "Trump Asia trip live updates: Trump, Xi, Putin to meet in historic trilateral talks",
+   "link": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
+   "source": "ABC News",
+   "ts": 1795071232.0
+  },
+  {
+   "title": "Ian Jackson nearly killed Rick Pitino \u2014 then scored game-high 22 points for St. John\u2019s",
+   "link": "https://nypost.com/2026/11/19/sports/ian-jackson-nearly-killed-rick-pitino-then-scored-game-high-22-points/",
+   "source": "New York Post",
+   "ts": 1795070798.0
   },
   {
    "title": "Lindsay Clancy files appeal ahead of March 2027 retrial",
    "link": "https://abcnews.com/US/lindsay-clancy-files-appeal-ahead-march-2027-retrial/story?id=138277240",
    "source": "ABC News",
    "ts": 1795067464.0
-  },
-  {
-   "title": "Timoth\u00e9e Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz",
-   "link": "https://nypost.com/2026/11/19/sports/timothee-chalamet-and-kylie-jenner-spotted-sitting-courtside-during-lakers-jazz-game/",
-   "source": "New York Post",
-   "ts": 1795067247.0
-  },
-  {
-   "title": "Michigan firefighters and police officers brawl during charity football game",
-   "link": "https://nypost.com/2026/11/19/sports/michigan-firefighters-and-police-officers-brawl-during-charity-football-game-in-flint/",
-   "source": "New York Post",
-   "ts": 1795067247.0
-  },
-  {
-   "title": "Trump Asia trip live updates: Trump, Xi, Putin to meet in historic trilateral talks",
-   "link": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
-   "source": "ABC News",
-   "ts": 1795066904.0
   },
   {
    "title": "WNBA launches search for next commissioner, but outgoing Cathy Engelbert could stay into 2027",
@@ -50,16 +62,22 @@
    "ts": 1795060300.0
   },
   {
-   "title": "Costco sees surge in panic buying after tech outages, report says",
-   "link": "https://www.cbsnews.com/news/costco-panic-buying-tech-outages-generators/",
-   "source": "CBS News",
-   "ts": 1795060191.0
-  },
-  {
    "title": "Trump pushes for three-way nuclear deal as Russia and China show little interest",
    "link": "https://www.nbcnews.com/world/asia/trump-pushes-three-way-nuclear-deal-russia-china-show-little-interest-rcna610145",
    "source": "NBC News",
    "ts": 1795060002.0
+  },
+  {
+   "title": "Hong Kong drops case against Chinese sea captain over Baltic pipeline damage",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZFU4Q09VSm9jOE0xbU04dVVyM3N2XzFBVDRwWTJ6VXRkVjZ3YXlKY0dZZ190eVpqMFZEREpmdnJsOWZlSFJIb3dfZEp1ZkVTcTRxN2ZBSW1XSnNzRnh3RWRvYXVrd1RhTUJ3M0NuazQxdnBtMmhPNzBKYjYtN0lWZVY1Q001R0ZjcnE3ZjdYN1kxbUlWT0JiYUFFMnpxLUdWcU5ySlhLZWMtRGQzeWIxMDc1RjRrOFhZOWJDMTZPLW1qZw?oc=5",
+   "source": "Reuters",
+   "ts": 1795059360.0
+  },
+  {
+   "title": "Japan says PM Takaichi, Putin held talks at APEC summit in China",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGFYWEJrZkpsMjh1dWNROWxsODdhQzUxYmR2WEhqNFIxRjNLM2l6QWlNZ2lHSlFIeGhQQnJBQTN4MGNpVXBIVkxSU1lLOVZkTk9LRXJfb0RDeXJKaFM5X245bFg5WnQ0WEtQQktxSzhGbjNPMVNFRmNLb25zM1JqcUE1Z1dFSXRjSjJUS1hzZXpEREFiejN4V1dWc05kbnA5Yi1sUjBUcjU?oc=5",
+   "source": "Reuters",
+   "ts": 1795058700.0
   },
   {
    "title": "Houthi missile threat towards Riyadh causes damage, Saudi-led coalition says",
@@ -74,22 +92,10 @@
    "ts": 1795058319.0
   },
   {
-   "title": "'GTA VI' to supercharge Sony \u2014 just not in Japan",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1pwcXVKYWNHblYzQU9xMGMwd0dWWkhQQmxDcEV3OU9ubXZZNC1USElINmVhX1IyMkFqSXNZTTRCT0VSX0pmcTYxR3RuaVVVb3Bsa1RuTmV4YWJNQXVrdXlxVHJhRVYtVVVGWndsSmJNM2NoaThhQXFSSlA0TENya3I4bFo3SXVKbkVGQUxxRHRIN0lQVS1kSFdaMEpLNzBu?oc=5",
-   "source": "Reuters",
-   "ts": 1795057500.0
-  },
-  {
    "title": "'The View' co-host Whoopi Goldberg demands Dems impeach RFK Jr, 'get his a-- out of there'",
    "link": "https://www.foxnews.com/media/the-view-co-host-whoopi-goldberg-demands-dems-impeach-rfk-jr-get-his-a-out-there",
    "source": "Fox News",
    "ts": 1795057258.0
-  },
-  {
-   "title": "Oil prices steady as Middle East shipping attacks counter supply surplus outlook",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5",
-   "source": "Reuters",
-   "ts": 1795056420.0
   },
   {
    "title": "Virginia school district shutters after finding staff members weren\u2019t screened for abuse",
@@ -102,12 +108,6 @@
    "link": "https://www.nbcnews.com/video/grand-theft-auto-vi-launches-after-13-years-of-development-273781317952",
    "source": "NBC News",
    "ts": 1795054115.0
-  },
-  {
-   "title": "WATCH:  Animal rescuers describe cat rescue after Brooklyn building collapse",
-   "link": "https://abcnews.com/video/138262254/",
-   "source": "ABC News",
-   "ts": 1795052817.0
   }
  ]
 }
