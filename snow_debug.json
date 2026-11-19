@@ -1,97 +1,97 @@
 {
- "updated": "2026-11-18T10:32:27.011319+00:00",
+ "updated": "2026-11-19T08:42:33.741753+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "AYMA2",
-     "name": "Alyeska Weather Mid",
-     "state": "AK",
-     "elev_ft": "1644",
-     "inches": 10.0,
-     "hours": 24.0,
-     "time": "2026-11-16 15:00"
+     "id": "ELRN2",
+     "name": "Ely 6Ne",
+     "state": "NV",
+     "elev_ft": "6253",
+     "inches": 3.4,
+     "hours": 6.0,
+     "time": "2026-11-17 18:00"
     },
     {
-     "id": "AUDA2",
-     "name": "Anchorage Upper Dearmoun",
-     "state": "AK",
-     "elev_ft": "1289",
-     "inches": 6.0,
+     "id": "ASTN2",
+     "name": "Austin #2",
+     "state": "NV",
+     "elev_ft": "6762",
+     "inches": 9.3,
      "hours": 24.0,
-     "time": "2026-11-16 07:00"
+     "time": "2026-11-18 01:00"
     },
     {
-     "id": "AFC",
-     "name": "Anchorage, Ak",
-     "state": "AK",
-     "elev_ft": "128",
-     "inches": 5.5,
+     "id": "EKAN2",
+     "name": "Eureka",
+     "state": "NV",
+     "elev_ft": "6440",
+     "inches": 5.0,
      "hours": 24.0,
-     "time": "2026-11-16 09:00"
+     "time": "2026-11-17 14:45"
     },
     {
-     "id": "LONA2",
-     "name": "Sterling 6Sw",
-     "state": "AK",
-     "elev_ft": "299",
-     "inches": 5.5,
+     "id": "ATAU1",
+     "name": "Alta",
+     "state": "UT",
+     "elev_ft": "8684",
+     "inches": 4.9,
      "hours": 24.0,
-     "time": "2026-11-16 19:00"
+     "time": "2026-11-18 01:00"
     },
     {
-     "id": "AYBA2",
-     "name": "Alyeska Base",
+     "id": "VACM8",
+     "name": "Virginia City",
+     "state": "MT",
+     "elev_ft": "5781",
+     "inches": 4.4,
+     "hours": 24.0,
+     "time": "2026-11-17 15:00"
+    },
+    {
+     "id": "JRGN2",
+     "name": "Jarbidge",
+     "state": "NV",
+     "elev_ft": "6201",
+     "inches": 4.3,
+     "hours": 24.0,
+     "time": "2026-11-17 16:30"
+    },
+    {
+     "id": "AYTA2",
+     "name": "Alyeska Weather Top",
      "state": "AK",
-     "elev_ft": "371",
+     "elev_ft": "2707",
      "inches": 4.0,
      "hours": 24.0,
-     "time": "2026-11-16 15:00"
+     "time": "2026-11-17 15:00"
     },
     {
-     "id": "AK-AB-52",
-     "name": "Anchorage 4.7 Ssw, Ak",
-     "state": "AK",
-     "elev_ft": "112",
+     "id": "ID-AM-2",
+     "name": "Mccall 3.6 Wnw, Id",
+     "state": "ID",
+     "elev_ft": "5095",
+     "inches": 4.0,
+     "hours": 24.0,
+     "time": "2026-11-17 16:00"
+    },
+    {
+     "id": "LNBM8",
+     "name": "Lindbergh Lake",
+     "state": "MT",
+     "elev_ft": "4370",
      "inches": 3.6,
      "hours": 24.0,
-     "time": "2026-11-16 16:00"
+     "time": "2026-11-18 01:00"
     },
     {
-     "id": "KEYA2",
-     "name": "Kenai River At Kenai Keys",
-     "state": "AK",
-     "elev_ft": "194",
+     "id": "MYLI1",
+     "name": "Mccall",
+     "state": "ID",
+     "elev_ft": "5007",
      "inches": 3.5,
      "hours": 24.0,
-     "time": "2026-11-16 18:34"
-    },
-    {
-     "id": "CRLO3",
-     "name": "Crater Lake National Park Hq",
-     "state": "OR",
-     "elev_ft": "6499",
-     "inches": 3.0,
-     "hours": 24.0,
-     "time": "2026-11-16 16:53"
-    },
-    {
-     "id": "BKBW2",
-     "name": "Davis.",
-     "state": "WV",
-     "elev_ft": "3727",
-     "inches": 2.3,
-     "hours": 24.0,
-     "time": "2026-11-16 12:00"
-    },
-    {
-     "id": "AK-BC-4",
-     "name": "Sleetmute 1.4 Sse, Ak",
-     "state": "AK",
-     "elev_ft": "203",
-     "inches": 2.2,
-     "hours": 24.0,
-     "time": "2026-11-16 20:45"
+     "time": "2026-11-17 21:00"
     }
    ]
   },
@@ -113,111 +113,111 @@
      ""
     ],
     [
-     "AYMA2",
-     "2026-11-16 15:00",
-     "10.000",
-     "24.000",
-     "1644",
-     "ALYESKA WEATHER MID"
-    ],
-    [
-     "AUDA2",
-     "2026-11-16 07:00",
+     "ELRN2",
+     "2026-11-17 18:00",
+     "3.400",
      "6.000",
-     "24.000",
-     "1289",
-     "ANCHORAGE UPPER DEARMOUN"
+     "6253",
+     "ELY 6NE"
     ],
     [
-     "AFC",
-     "2026-11-16 09:00",
-     "5.500",
+     "ASTN2",
+     "2026-11-18 01:00",
+     "9.300",
      "24.000",
-     "128",
-     "ANCHORAGE, AK"
+     "6762",
+     "AUSTIN #2"
     ],
     [
-     "LONA2",
-     "2026-11-16 19:00",
-     "5.500",
+     "EKAN2",
+     "2026-11-17 14:45",
+     "5.000",
      "24.000",
-     "299",
-     "STERLING 6SW"
+     "6440",
+     "EUREKA"
     ],
     [
-     "AYBA2",
-     "2026-11-16 15:00",
+     "ATAU1",
+     "2026-11-18 01:00",
+     "4.900",
+     "24.000",
+     "8684",
+     "ALTA"
+    ],
+    [
+     "VACM8",
+     "2026-11-17 15:00",
+     "4.400",
+     "24.000",
+     "5781",
+     "VIRGINIA CITY"
+    ],
+    [
+     "JRGN2",
+     "2026-11-17 16:30",
+     "4.300",
+     "24.000",
+     "6201",
+     "JARBIDGE"
+    ],
+    [
+     "AYTA2",
+     "2026-11-17 15:00",
      "4.000",
      "24.000",
-     "371",
-     "ALYESKA BASE"
+     "2707",
+     "ALYESKA WEATHER TOP"
     ],
     [
-     "AK-AB-52",
-     "2026-11-16 16:00",
+     "ID-AM-2",
+     "2026-11-17 16:00",
+     "4.000",
+     "24.000",
+     "5095",
+     "MCCALL 3.6 WNW, ID"
+    ],
+    [
+     "LNBM8",
+     "2026-11-18 01:00",
      "3.600",
      "24.000",
-     "112",
-     "ANCHORAGE 4.7 SSW, AK"
+     "4370",
+     "LINDBERGH LAKE"
     ],
     [
-     "KEYA2",
-     "2026-11-16 18:34",
+     "MYLI1",
+     "2026-11-17 21:00",
      "3.500",
      "24.000",
-     "194",
-     "KENAI RIVER AT KENAI KEYS"
+     "5007",
+     "MCCALL"
     ],
     [
-     "CRLO3",
-     "2026-11-16 16:53",
-     "3.000",
+     "BOCC1",
+     "2026-11-17 16:00",
+     "3.200",
      "24.000",
-     "6499",
-     "CRATER LAKE NATIONAL PARK HQ"
+     "5577",
+     "BOCA"
     ],
     [
-     "BKBW2",
-     "2026-11-16 12:00",
-     "2.300",
-     "24.000",
-     "3727",
-     "DAVIS."
+     "ELRN2",
+     "2026-11-18 00:00",
+     "0.800",
+     "6.000",
+     "6253",
+     "ELY 6NE"
     ],
     [
-     "AK-BC-4",
-     "2026-11-16 20:45",
-     "2.200",
+     "STAI1",
+     "2026-11-17 14:00",
+     "3.100",
      "24.000",
-     "203",
-     "SLEETMUTE 1.4 SSE, AK"
-    ],
-    [
-     "ASFW1",
-     "2026-11-16 18:45",
-     "2.000",
-     "24.000",
-     "5390",
-     "RAINIER PARADISE RANGER STN"
-    ],
-    [
-     "CA-ED-35",
-     "2026-11-17 04:00",
-     "2.000",
-     "24.000",
-     "6319",
-     "SOUTH LAKE TAHOE 1.4 ESE, CA"
-    ],
-    [
-     "CVAI1",
-     "2026-11-16 15:00",
-     "2.000",
-     "24.000",
-     "4465",
-     "CENTERVILLE ARBAUGH RANCH"
+     "6243",
+     "STANLEY"
     ]
    ],
-   "count": 12550
+   "count": 13425
   }
  ]
 }
