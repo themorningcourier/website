@@ -1,97 +1,88 @@
 {
- "updated": "2026-11-19T10:30:32.763772+00:00",
+ "updated": "2026-11-20T08:40:31.781671+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "ELRN2",
-     "name": "Ely 6Ne",
-     "state": "NV",
-     "elev_ft": "6253",
-     "inches": 3.4,
-     "hours": 6.0,
-     "time": "2026-11-17 18:00"
+     "id": "JFK",
+     "name": "John F Kennedy Intl Arpt",
+     "state": "",
+     "elev_ft": "39",
+     "inches": 42.0,
+     "hours": 24.0,
+     "time": "2026-11-18 12:00"
     },
     {
-     "id": "ASTN2",
-     "name": "Austin #2",
-     "state": "NV",
-     "elev_ft": "6762",
-     "inches": 9.3,
+     "id": "PKCU1",
+     "name": "Silver Lk Brighton",
+     "state": "UT",
+     "elev_ft": "8770",
+     "inches": 11.5,
      "hours": 24.0,
-     "time": "2026-11-18 01:00"
+     "time": "2026-11-18 17:00"
     },
     {
-     "id": "EKAN2",
-     "name": "Eureka",
-     "state": "NV",
-     "elev_ft": "6440",
-     "inches": 5.0,
+     "id": "CRLO3",
+     "name": "Crater Lake National Park Hq",
+     "state": "OR",
+     "elev_ft": "6499",
+     "inches": 11.2,
      "hours": 24.0,
-     "time": "2026-11-17 14:45"
+     "time": "2026-11-18 18:00"
     },
     {
      "id": "ATAU1",
      "name": "Alta",
      "state": "UT",
      "elev_ft": "8684",
-     "inches": 4.9,
+     "inches": 9.0,
      "hours": 24.0,
-     "time": "2026-11-18 01:00"
+     "time": "2026-11-19 01:00"
     },
     {
-     "id": "VACM8",
-     "name": "Virginia City",
+     "id": "MT-GR-6",
+     "name": "Cut Bank 0.3 Nnw, Mt",
      "state": "MT",
-     "elev_ft": "5781",
-     "inches": 4.4,
+     "elev_ft": "3753",
+     "inches": 9.0,
      "hours": 24.0,
-     "time": "2026-11-17 15:00"
+     "time": "2026-11-18 12:00"
     },
     {
-     "id": "JRGN2",
-     "name": "Jarbidge",
-     "state": "NV",
-     "elev_ft": "6201",
-     "inches": 4.3,
+     "id": "UT-WS-8",
+     "name": "Heber City 10.1 Ese, Ut",
+     "state": "UT",
+     "elev_ft": "8314",
+     "inches": 7.0,
      "hours": 24.0,
-     "time": "2026-11-17 16:30"
+     "time": "2026-11-18 15:00"
     },
     {
-     "id": "AYTA2",
-     "name": "Alyeska Weather Top",
-     "state": "AK",
-     "elev_ft": "2707",
-     "inches": 4.0,
-     "hours": 24.0,
-     "time": "2026-11-17 15:00"
-    },
-    {
-     "id": "ID-AM-2",
-     "name": "Mccall 3.6 Wnw, Id",
-     "state": "ID",
-     "elev_ft": "5095",
-     "inches": 4.0,
-     "hours": 24.0,
-     "time": "2026-11-17 16:00"
-    },
-    {
-     "id": "LNBM8",
-     "name": "Lindbergh Lake",
+     "id": "BYNM8",
+     "name": "Bynum 4 Sse",
      "state": "MT",
-     "elev_ft": "4370",
-     "inches": 3.6,
+     "elev_ft": "4039",
+     "inches": 6.1,
      "hours": 24.0,
-     "time": "2026-11-18 01:00"
+     "time": "2026-11-18 13:30"
     },
     {
-     "id": "MYLI1",
-     "name": "Mccall",
-     "state": "ID",
-     "elev_ft": "5007",
-     "inches": 3.5,
+     "id": "GTFM8",
+     "name": "Great Falls 16 St S",
+     "state": "MT",
+     "elev_ft": "3442",
+     "inches": 5.9,
      "hours": 24.0,
-     "time": "2026-11-17 21:00"
+     "time": "2026-11-18 13:00"
+    },
+    {
+     "id": "ID-MD-5",
+     "name": "Sugar City 1.9 S, Id",
+     "state": "ID",
+     "elev_ft": "4885",
+     "inches": 5.9,
+     "hours": 24.0,
+     "time": "2026-11-18 16:00"
     }
    ]
   },
@@ -113,111 +104,111 @@
      ""
     ],
     [
-     "ELRN2",
-     "2026-11-17 18:00",
-     "3.400",
-     "6.000",
-     "6253",
-     "ELY 6NE"
+     "JFK",
+     "2026-11-18 12:00",
+     "42.000",
+     "24.000",
+     "39",
+     "JOHN F KENNEDY INTL ARPT"
     ],
     [
-     "ASTN2",
-     "2026-11-18 01:00",
-     "9.300",
+     "PKCU1",
+     "2026-11-18 17:00",
+     "11.500",
      "24.000",
-     "6762",
-     "AUSTIN #2"
+     "8770",
+     "SILVER LK BRIGHTON"
     ],
     [
-     "EKAN2",
-     "2026-11-17 14:45",
-     "5.000",
+     "CRLO3",
+     "2026-11-18 18:00",
+     "11.200",
      "24.000",
-     "6440",
-     "EUREKA"
+     "6499",
+     "CRATER LAKE NATIONAL PARK HQ"
     ],
     [
      "ATAU1",
-     "2026-11-18 01:00",
-     "4.900",
+     "2026-11-19 01:00",
+     "9.000",
      "24.000",
      "8684",
      "ALTA"
     ],
     [
-     "VACM8",
-     "2026-11-17 15:00",
-     "4.400",
+     "MT-GR-6",
+     "2026-11-18 12:00",
+     "9.000",
      "24.000",
-     "5781",
-     "VIRGINIA CITY"
+     "3753",
+     "CUT BANK 0.3 NNW, MT"
     ],
     [
-     "JRGN2",
-     "2026-11-17 16:30",
-     "4.300",
+     "CAN-AB-214",
+     "2026-11-18 15:00",
+     "7.000",
      "24.000",
-     "6201",
-     "JARBIDGE"
+     "4160",
+     "CALGARY 16.5 NW, CAN"
     ],
     [
-     "AYTA2",
-     "2026-11-17 15:00",
-     "4.000",
+     "UT-WS-8",
+     "2026-11-18 15:00",
+     "7.000",
      "24.000",
-     "2707",
-     "ALYESKA WEATHER TOP"
+     "8314",
+     "HEBER CITY 10.1 ESE, UT"
     ],
     [
-     "ID-AM-2",
-     "2026-11-17 16:00",
-     "4.000",
+     "BYNM8",
+     "2026-11-18 13:30",
+     "6.100",
      "24.000",
-     "5095",
-     "MCCALL 3.6 WNW, ID"
+     "4039",
+     "BYNUM 4 SSE"
     ],
     [
-     "LNBM8",
-     "2026-11-18 01:00",
-     "3.600",
+     "GTFM8",
+     "2026-11-18 13:00",
+     "5.900",
      "24.000",
-     "4370",
-     "LINDBERGH LAKE"
+     "3442",
+     "GREAT FALLS 16 ST S"
     ],
     [
-     "MYLI1",
-     "2026-11-17 21:00",
-     "3.500",
+     "ID-MD-5",
+     "2026-11-18 16:00",
+     "5.900",
      "24.000",
-     "5007",
-     "MCCALL"
+     "4885",
+     "SUGAR CITY 1.9 S, ID"
     ],
     [
-     "BOCC1",
-     "2026-11-17 16:00",
-     "3.200",
+     "TFX",
+     "2026-11-18 07:00",
+     "5.800",
      "24.000",
-     "5577",
-     "BOCA"
+     "3707",
+     "GREAT FALLS,MT"
     ],
     [
-     "ELRN2",
-     "2026-11-18 00:00",
-     "0.800",
-     "6.000",
-     "6253",
-     "ELY 6NE"
+     "BBNU1",
+     "2026-11-18 07:00",
+     "5.500",
+     "24.000",
+     "4961",
+     "BOUNTIFUL BENCH"
     ],
     [
-     "STAI1",
-     "2026-11-17 14:00",
-     "3.100",
+     "MT-GN-11",
+     "2026-11-18 14:00",
+     "5.200",
      "24.000",
-     "6243",
-     "STANLEY"
+     "4931",
+     "BOZEMAN 1.5 SSE, MT"
     ]
    ],
-   "count": 13432
+   "count": 13452
   }
  ]
 }
