@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-20T21:52:01.728222+00:00",
+ "updated": "2026-11-20T22:50:36.838429+00:00",
  "items": [
+  {
+   "title": "Does mushroom coffee deliver on its health promises? Unpacking 5 selling points",
+   "link": "https://www.mynbc5.com/article/is-mushroom-coffee-healthy-fact-check/74494530",
+   "source": "WPTZ",
+   "ts": 1795214700.0
+  },
+  {
+   "title": "Alex Murdaugh retrial moves forward after South Carolina judge refuses to toss murder indictments",
+   "link": "https://www.mynbc5.com/article/alex-murdaugh-retrial-south-carolina-judge-ruling/74495030",
+   "source": "WPTZ",
+   "ts": 1795214580.0
+  },
+  {
+   "title": "Church Street Marketplace prepares for annual tree lighting, kickoff to holiday season",
+   "link": "https://www.mynbc5.com/article/church-street-marketplace-tree-holidays/74477762",
+   "source": "WPTZ",
+   "ts": 1795214460.0
+  },
+  {
+   "title": "A week of tech disruptions explained \u2014 sorta",
+   "link": "https://vtdigger.org/2026/11/20/a-week-of-tech-disruptions-explained-sorta/",
+   "source": "VTDigger",
+   "ts": 1795214354.0
+  },
+  {
+   "title": "Firefighters rescue people trapped in Brattleboro apartment building",
+   "link": "https://www.wcax.com/2026/11/20/firefighters-rescue-people-trapped-brattleboro-apartment-building/",
+   "source": "WCAX",
+   "ts": 1795214215.0
+  },
+  {
+   "title": "Vermont\u2019s $80M IT overhaul pause lengthens as \u2018shocking\u2019 audit finds more concerns",
+   "link": "https://vtdigger.org/2026/11/20/vermonts-80m-it-overhaul-pause-lengthens-as-shocking-audit-finds-more-concerns/",
+   "source": "VTDigger",
+   "ts": 1795213839.0
+  },
+  {
+   "title": "Trump warns U.S. companies against building data centers overseas",
+   "link": "https://www.wcax.com/2026/11/20/trump-warns-us-companies-against-building-data-centers-overseas/",
+   "source": "WCAX",
+   "ts": 1795213426.0
+  },
+  {
+   "title": "S&P 500 sinks 3.7% and Nasdaq composite goes negative for the year as tech sell-off worsens",
+   "link": "https://www.wcax.com/2026/11/20/us-stocks-tumble-sp-500-drops-sell-off-ai-stocks-accelerates/",
+   "source": "WCAX",
+   "ts": 1795213344.0
+  },
+  {
+   "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+   "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+   "source": "NPR",
+   "ts": 1795212689.0
+  },
   {
    "title": "PFAS contamination from capped landfill impacting Shaftsbury residents and officials",
    "link": "https://vtdigger.org/2026/11/20/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/",
@@ -8,70 +62,16 @@
    "ts": 1795210989.0
   },
   {
-   "title": "Central Park\u2019s horse-drawn carriage drivers sue NYC over incoming ban",
-   "link": "https://www.wcax.com/2026/11/20/central-parks-horse-drawn-carriage-drivers-sue-nyc-over-incoming-ban/",
-   "source": "WCAX",
-   "ts": 1795210829.0
-  },
-  {
-   "title": "State officials say FBI has been notified about reported security incident targeting Valcour",
-   "link": "https://www.mynbc5.com/article/state-officials-say-fbi-has-been-notified-about-reported-security-incident-targeting-valcour/74483004",
-   "source": "WPTZ",
-   "ts": 1795210800.0
-  },
-  {
-   "title": "Proposal for weapons testing facility in Northern New York denied, APA says",
-   "link": "https://www.mynbc5.com/article/lewis-new-york-apa-howitzer-test-site-denied/74493115",
-   "source": "WPTZ",
-   "ts": 1795210800.0
-  },
-  {
-   "title": "Christmas Bureau in Plattsburgh launches toy drive to support families",
-   "link": "https://www.mynbc5.com/article/christmas-bureau-in-plattsburgh-launches-toy-drive-to-support-families/74493886",
-   "source": "WPTZ",
-   "ts": 1795210620.0
-  },
-  {
-   "title": "Fired Shelburne police sergeant stripped of police certification for role in deadly crash",
-   "link": "https://vtdigger.org/2026/11/20/fired-shelburne-police-sergeant-stripped-of-police-certification-for-role-in-deadly-crash/",
-   "source": "VTDigger",
-   "ts": 1795210540.0
-  },
-  {
-   "title": "Burlington leaders, businesses discuss downtown challenges ahead of holidays",
-   "link": "https://www.wcax.com/2026/11/20/burlington-leaders-businesses-discuss-downtown-challenges-ahead-holidays/",
-   "source": "WCAX",
-   "ts": 1795210106.0
-  },
-  {
-   "title": "16-year-old boy accused of killing his twin brother, police say",
-   "link": "https://www.wcax.com/2026/11/20/16-year-old-boy-accused-killing-his-twin-brother-police-say/",
-   "source": "WCAX",
-   "ts": 1795209197.0
-  },
-  {
-   "title": "Tax every dollar the same, however it\u2019s earned",
-   "link": "https://vtdigger.org/2026/11/20/opinion-tax-every-dollar-the-same-however-its-earned/",
-   "source": "VTDigger",
-   "ts": 1795208417.0
-  },
-  {
-   "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+   "title": "The latest from Trump's press conference",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
    "source": "NPR",
-   "ts": 1795199109.0
+   "ts": 1795210701.0
   },
   {
-   "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+   "title": "Rising seas have forced this Quinault village to relocate",
+   "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
    "source": "NPR",
-   "ts": 1795194000.0
-  },
-  {
-   "title": "How Orchestra Noir turned classical music into a cultural movement",
-   "link": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
-   "source": "NPR",
-   "ts": 1795191138.0
+   "ts": 1795210693.0
   }
  ]
 }
