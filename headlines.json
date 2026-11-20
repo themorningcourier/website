@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-20T08:41:45.972420+00:00",
+ "updated": "2026-11-20T10:05:48.642087+00:00",
  "items": [
+  {
+   "title": "Man in ICU after 7-foot plank flies off pickup, crashes through windshield",
+   "link": "https://www.wcax.com/2026/11/20/man-icu-after-7-foot-plank-flies-off-pickup-crashes-through-windshield/",
+   "source": "WCAX",
+   "ts": 1795166928.0
+  },
+  {
+   "title": "Warm weather lasts into the weekend, big changes next week",
+   "link": "https://www.wcax.com/2026/11/20/warm-weather-lasts-into-weekend-big-changes-next-week/",
+   "source": "WCAX",
+   "ts": 1795166300.0
+  },
+  {
+   "title": "The U.K. and EU hold a rare summit to strengthen ties",
+   "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+   "source": "NPR",
+   "ts": 1795166081.0
+  },
   {
    "title": "Possible gunman on campus at Quinnipiac University",
    "link": "https://www.mynbc5.com/article/quinnipiac-university-sends-slert-for-possible-gunman/74484621",
@@ -20,22 +38,10 @@
    "ts": 1795149798.0
   },
   {
-   "title": "UVM women\u2019s hoops downs High Point",
-   "link": "https://www.wcax.com/2026/11/20/uvm-womens-hoops-downs-high-point/",
-   "source": "WCAX",
-   "ts": 1795149728.0
-  },
-  {
    "title": "Vermont women's basketball takes down undefeated High Point 74-72",
    "link": "https://www.mynbc5.com/article/vermont-womens-basketball-takes-down-undefeated-high-point-74-72/74484112",
    "source": "WPTZ",
    "ts": 1795149600.0
-  },
-  {
-   "title": "School district to close after learning 500 employees didn\u2019t undergo child protective services screenings",
-   "link": "https://www.wcax.com/2026/11/20/school-district-close-after-learning-500-employees-didnt-undergo-child-protective-services-screenings/",
-   "source": "WCAX",
-   "ts": 1795144028.0
   },
   {
    "title": "Before Thanksgiving, one food bank needs hundreds more donated turkeys to meet the need",
@@ -66,12 +72,6 @@
    "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
    "source": "NPR",
    "ts": 1795112903.0
-  },
-  {
-   "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
-   "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
-   "source": "NPR",
-   "ts": 1795107791.0
   }
  ]
 }
