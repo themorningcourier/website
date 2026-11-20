@@ -1,23 +1,65 @@
 {
- "updated": "2026-11-20T03:26:12.950759+00:00",
+ "updated": "2026-11-20T04:36:31.032588+00:00",
  "items": [
+  {
+   "title": "USDA impacted by \u2018cybersecurity incident\u2019 resulting in outages: report",
+   "link": "https://nypost.com/2026/11/19/us-news/usda-impacted-by-cybersecurity-incident-resulting-in-outages-report/",
+   "source": "New York Post",
+   "ts": 1795149189.0
+  },
   {
    "title": "Senate passes bipartisan permitting bill designed to boost energy projects",
    "link": "https://www.cbsnews.com/news/senate-bipartisan-permitting-reform-bill-energy-baaja-trump/",
    "source": "CBS News",
-   "ts": 1795144680.0
+   "ts": 1795149006.0
   },
   {
-   "title": "US Army delays detonation of bomb-making chemicals in Iowa after public safety concerns",
-   "link": "https://nypost.com/2026/11/19/us-news/us-army-delays-detonation-of-bomb-making-chemicals-in-iowa-amid-public-safety-concerns/",
-   "source": "New York Post",
-   "ts": 1795144593.0
-  },
-  {
-   "title": "Quinnipiac University placed on lockdown as police respond to possible gunman",
-   "link": "https://www.foxnews.com/us/quinnipiac-university-placed-lockdown-police-respond-possible-gunman",
+   "title": "Texans finally get first win at home in 2026 season, dismantling lowly Colts to keep playoff dreams alive",
+   "link": "https://www.foxnews.com/outkick-sports/texans-finally-get-first-win-home-2026-season-dismantling-lowly-colts-keep-playoff-dreams-alive",
    "source": "Fox News",
-   "ts": 1795144210.0
+   "ts": 1795148440.0
+  },
+  {
+   "title": "Army delays detonation in Iowa that could send toxic dust into Illinois",
+   "link": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/",
+   "source": "CBS News",
+   "ts": 1795148174.0
+  },
+  {
+   "title": "2-year-old lost in the desert for 7 hours wearing \u2018nothing but a diaper\u2019 found by volunteer",
+   "link": "https://nypost.com/2026/11/19/us-news/2-year-old-lost-in-the-desert-for-7-hours-wearing-nothing-but-a-diaper-found-by-volunteer/",
+   "source": "New York Post",
+   "ts": 1795148135.0
+  },
+  {
+   "title": "DOJ moves to dismiss lawsuit over Alaska Senate race",
+   "link": "https://www.cbsnews.com/news/trump-administration-dismiss-alaska-senate-lawsuit/",
+   "source": "CBS News",
+   "ts": 1795146945.0
+  },
+  {
+   "title": "DOJ dropping Alaska midterms Senate certification lawsuit, saying case is 'moot'",
+   "link": "https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517",
+   "source": "ABC News",
+   "ts": 1795146940.0
+  },
+  {
+   "title": "Russell Westbrook shows there\u2019s no hard feelings in Los Angeles with heartfelt statement",
+   "link": "https://nypost.com/2026/11/19/sports/russell-westbrook-los-angeles-heartfelt-statement-thanksgiving-meals/",
+   "source": "New York Post",
+   "ts": 1795146900.0
+  },
+  {
+   "title": "WNBA star Caitlin Clark reveals unwavering loyalty to Notre Dame football after going incognito",
+   "link": "https://www.foxnews.com/outkick-sports/wnba-star-caitlin-clark-reveals-unwavering-loyalty-notre-dame-football-going-incognito",
+   "source": "Fox News",
+   "ts": 1795146576.0
+  },
+  {
+   "title": "Senate Republicans break through Washington gridlock with massive American energy, data center overhaul",
+   "link": "https://www.foxnews.com/politics/senate-republicans-break-through-washington-gridlock-massive-american-energy-data-center-overhaul",
+   "source": "Fox News",
+   "ts": 1795144773.0
   },
   {
    "title": "Senate passes bill simplifying permitting rules to build in America, sending it to House",
@@ -26,40 +68,10 @@
    "ts": 1795144191.0
   },
   {
-   "title": "Geno Auriemma blasts NIL payouts to player that \u2018hasn\u2019t dribbled the ball one time in college\u2019",
-   "link": "https://nypost.com/2026/11/19/sports/uconns-geno-auriemma-blasts-college-basketballs-nil-spending/",
-   "source": "New York Post",
-   "ts": 1795144009.0
-  },
-  {
-   "title": "Mets sign southpaw Darwinzon Hernandez to three-year deal after stint in Japan",
-   "link": "https://nypost.com/2026/11/19/sports/mets-sign-southpaw-darwinzon-hernandez-to-three-year-deal-after-stint-in-japan/",
-   "source": "New York Post",
-   "ts": 1795144007.0
-  },
-  {
-   "title": "Army delays controlled detonation of unstable bomb-making chemical in Iowa",
-   "link": "https://www.foxnews.com/us/army-delays-controlled-detonation-unstable-bomb-making-chemical-iowa",
-   "source": "Fox News",
-   "ts": 1795143867.0
-  },
-  {
-   "title": "Iran may be working on biological weapons, Trump says",
-   "link": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-   "source": "CBS News",
-   "ts": 1795143734.0
-  },
-  {
-   "title": "Feds release brazen heist video, charge 14 in alleged $22.5M California freight train theft ring",
-   "link": "https://www.foxnews.com/us/feds-release-brazen-heist-video-charge-14-alleged-22-5m-california-freight-train-theft-ring",
-   "source": "Fox News",
-   "ts": 1795143327.0
-  },
-  {
-   "title": "White House national cyber director leaving his post",
-   "link": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/",
-   "source": "CBS News",
-   "ts": 1795143029.0
+   "title": "Indian stocks slip from nine-month highs at open; Asia market rout deepens",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEJHRkZDOVdTT19VcGt0YU9SeHdvSmo4cDZVR1R2RzdDUUFJREc0bkNBcDFrUDN1X052bGljQUdsQ19jMTkxZlhYZTI3LW94RUFKb043WXpDZW5mUThLVk95eVcxU005bVNGV0EyY2JlWUlpWDAwZHJDaGJSMlNIMndQZ0QyWGtGVlo4WjB1YjZzNGlfYzBPVFdfaE1MTVdabVZmLXdLdkxsTDJmczdWSW5wRUNlMTg?oc=5",
+   "source": "Reuters",
+   "ts": 1795142040.0
   },
   {
    "title": "Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns",
@@ -74,10 +86,10 @@
    "ts": 1795139964.0
   },
   {
-   "title": "Army postpones plan to detonate nearly 10,000 pounds of lead azide until Monday",
-   "link": "https://abcnews.com/US/iowa-army-plant-lead-azide-detonation/story?id=138261613",
-   "source": "ABC News",
-   "ts": 1795137902.0
+   "title": "Dollar near 19-month peak as AI jitters sap risk appetite",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSWwtcmZqemtkQmd4OWJQUHN1OXZLZTgxM1FtVk5JTlAtNndPYzRndHkxbEZ2MEdNZGtRdWUwMUxlblhtLThfQ0NoRHYtZ1lzd2VkSHc4N0U3UlFjUGFubjBkOFc4bDhpR3lELUoxalJBN1lkUUtUYk1NSk9sanNaeUZrZVVXTWlDV2Zja1FFQ3lPaXNUN2FXb3BST0dmZHd3?oc=5",
+   "source": "Reuters",
+   "ts": 1795139220.0
   },
   {
    "title": "WATCH:  Motorcyclist survives after fiery crash with Tesla",
@@ -86,7 +98,7 @@
    "ts": 1795136671.0
   },
   {
-   "title": "White House national cyber director is leaving the administration",
+   "title": "White House national cyber director is leaving the administration after series of tech outages",
    "link": "https://www.nbcnews.com/politics/white-house/national-cyber-director-sean-cairncross-leaving-kirsten-davies-replaci-rcna610329",
    "source": "NBC News",
    "ts": 1795135702.0
@@ -96,18 +108,6 @@
    "link": "https://abcnews.com/Politics/trump-pardons-late-baseball-great-pete-rose-after/story?id=138304528",
    "source": "ABC News",
    "ts": 1795134015.0
-  },
-  {
-   "title": "Anthropic listing extends Nasdaq's dominant run against arch-rival NYSE",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWhjY1NUcTVVRHVTNFhsWVhDN3dsbEFZbmJ6Y3dGcTZXV1RwUndiSnl1cGFKek9jc04xczFjOE5JMkVQZ0E1VG4zOHJ6czlkSjI1am9FUUZELS10SlMxUmRaRmpJLU9RbGlGZ0tuRkFPeDlRZnpyNEtWTU9aY1BoeHhiZ0c3ampXNXMzTHlyREpydWxqVFBZOTVVb1V1TmxuN3d0OTJ0WXdvZnVURGlSRWZ6ZUtkTWhVbUpvZWdYcHY?oc=5",
-   "source": "Reuters",
-   "ts": 1795131510.0
-  },
-  {
-   "title": "Record profits but record outflows: 'Sell Korea' trade stalks Seoul market",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDVJVUxnTV8wWW53ZDBmMC1GX3V1Z2k1N24zdTk0bkdYR2lBYTB2c3J4QVkzUFRiTHJSTkoycmM0ZG5jSWxnSkxVOWJNZzFFX3kydHoyWU9oSURMel9Yck5VMlk3TTVaNkhBX09wU1B1TzVuYlhnYnZhMmhnMEpIMmZLeXVXT09IWEs5cXJLOWtNcklfZkU1NU85WE1NSEE1ZUhzRDBKY2dzaW5pWnQzdTJra3UybUdXVWpDeWRYYw?oc=5",
-   "source": "Reuters",
-   "ts": 1795131479.0
   }
  ]
 }

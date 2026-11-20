@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:26:12.950759+00:00",
+ "updated": "2026-11-20T04:36:31.032588+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -71,14 +71,14 @@
     {
      "name": "Texans",
      "abbr": "HOU",
-     "rec": "3-6",
-     "pct": 0.33333334
+     "rec": "4-6",
+     "pct": 0.4
     },
     {
      "name": "Colts",
      "abbr": "IND",
-     "rec": "3-7",
-     "pct": 0.3
+     "rec": "3-8",
+     "pct": 0.27272728
     },
     {
      "name": "Titans",
