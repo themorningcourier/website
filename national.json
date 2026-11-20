@@ -1,35 +1,59 @@
 {
- "updated": "2026-11-20T07:20:01.173394+00:00",
+ "updated": "2026-11-20T08:41:45.972420+00:00",
  "items": [
+  {
+   "title": "Legendary Las Vegas buffet at Caesars Palace to close for renovations after rumors swirled of its demise",
+   "link": "https://nypost.com/2026/11/20/lifestyle/legendary-las-vegas-buffet-at-caesars-palace-to-close-for-renovations/",
+   "source": "New York Post",
+   "ts": 1795163651.0
+  },
+  {
+   "title": "Meet Anthropic's 7 co-founders, now worth about $20 billion each",
+   "link": "https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/",
+   "source": "CBS News",
+   "ts": 1795163558.0
+  },
+  {
+   "title": "FBI arrests Georgia man accused of sending cryptocurrency to ISIS-linked individuals and groups",
+   "link": "https://www.foxnews.com/us/fbi-arrests-georgia-man-accused-sending-cryptocurrency-isis-linked-individuals-groups",
+   "source": "Fox News",
+   "ts": 1795162186.0
+  },
+  {
+   "title": "Dear Abby: I have dementia and don\u2019t know how to tell my 91-year-old mom",
+   "link": "https://nypost.com/2026/11/20/lifestyle/dear-abby-i-have-dementia-and-dont-know-how-to-tell-my-91-year-old-mom/",
+   "source": "New York Post",
+   "ts": 1795161600.0
+  },
+  {
+   "title": "Former Secret Service investigator sounds alarm over AI scams as Americans grow increasingly anxious",
+   "link": "https://www.foxnews.com/tech/former-secret-service-investigator-sounds-alarm-ai-scams-americans-grow-increasingly-anxious",
+   "source": "Fox News",
+   "ts": 1795161211.0
+  },
+  {
+   "title": "Iran may be working on biological weapons, Trump says",
+   "link": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+   "source": "CBS News",
+   "ts": 1795161120.0
+  },
+  {
+   "title": "Texas execution of Reinaldo Dennes takes over an hour as prison staff struggle to find suitable veins",
+   "link": "https://nypost.com/2026/11/20/us-news/texas-execution-of-reinaldo-dennes-takes-over-an-hour-as-prison-staff-struggle-to-find-veins/",
+   "source": "New York Post",
+   "ts": 1795160908.0
+  },
   {
    "title": "Photos, videos show devastating South Florida flooding",
    "link": "https://www.cbsnews.com/news/photos-videos-devastating-south-florida-flooding-schools-closed-evacuations/",
    "source": "CBS News",
-   "ts": 1795159101.0
+   "ts": 1795159080.0
   },
   {
-   "title": "Floral Park high school seeks first Nassau County football title since 1976",
-   "link": "https://nypost.com/2026/11/20/sports/floral-park-high-school-seeks-first-nassau-county-football-title-since-1976/",
-   "source": "New York Post",
-   "ts": 1795158956.0
-  },
-  {
-   "title": "South Carolina duo charged with road rage killing after \u2018stand your ground\u2019 claim falters, ex-cops accused of misconduct",
-   "link": "https://nypost.com/2026/11/20/us-news/south-carolina-duo-charged-in-road-rage-murder-of-scott-spivey/",
-   "source": "New York Post",
-   "ts": 1795158341.0
-  },
-  {
-   "title": "Beloved hippo Fiona dies days after swallowing hat",
-   "link": "https://www.cbsnews.com/news/fiona-the-hippo-dies-cincinnati-zoo/",
-   "source": "CBS News",
-   "ts": 1795157831.0
-  },
-  {
-   "title": "Incan kids as young as 6 were fed booze, cocaine and ayahuasca before being sacrificed on mountaintops: study",
-   "link": "https://nypost.com/2026/11/20/science/incan-kids-as-young-as-6-were-fed-booze-cocaine-and-ayahuasca-before-being-sacrificed-on-mountaintops-study/",
-   "source": "New York Post",
-   "ts": 1795157686.0
+   "title": "Trump's personalized diplomacy hits its limits with 3-way summit",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdERQSHBUWVRvbktIZEo4ZDFTS2FKNzZjRUwzamQ5VjkwUE9RQl9KSkoxdmJ2QmNnT2tzNkdKc2dYNjNNQ2Q3RVNERlB3X1NOa3FUTU5XdmNocGtRdWdSSzIyelZhd3Mwc0JEd0t6dXhicEd4TVRPclNPcy1TTkQwcFE5OVV1WFBrUmNEcWFRenA0TGJYMDh2OWMtaV9PZmd1LXJWa0hUMWU1bE5JSjcwTw?oc=5",
+   "source": "Reuters",
+   "ts": 1795154580.0
   },
   {
    "title": "Texas inmate's execution takes over an hour as prison staff struggle to find suitable veins",
@@ -44,10 +68,10 @@
    "ts": 1795154040.0
   },
   {
-   "title": "Pro-life group says Trump admin didn't give key abortion drug commitments before Overton FDA nomination pulled",
-   "link": "https://www.foxnews.com/politics/pro-life-group-says-trump-admin-didnt-give-key-abortion-drug-commitments-overton-fda-nomination-pulled",
-   "source": "Fox News",
-   "ts": 1795152772.0
+   "title": "Morning Bid: Anthropic's splashy IPO fails to lift AI boat",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2RGU3lYLUtMZ2FwZzBEU2hlcmRDbWV6c3dDRU9OYTVzU0pSa0xzeUpuVk9McG9lYTBKdEcxZEtRY0JXbmZ3dDJlZ2xiVG5Ba3pDdkotNXBIN3Z2a3hqcHdlUlNFekh6REp6bWo2bW1sS25mTUJWUDlqU3UtMU5DRlpERQ?oc=5",
+   "source": "Reuters",
+   "ts": 1795153980.0
   },
   {
    "title": "EXCLUSIVE: Taiwan tells Meta thousands of China-linked accounts seek to influence elections",
@@ -56,34 +80,10 @@
    "ts": 1795152600.0
   },
   {
-   "title": "Indian rupee rises past 93/USD as portfolio inflows, bear retreat fuel rally",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2pFbUd4enR6VTI3UkVVSllkdl92SkJ3d2hNVkZkQTBlQW9FMnBEMHBmUkRkdkhUUFB2NHV0UHNaYUlKS05JaDJOaEswOXF5N0hlaEo3anZHRHdnSU43cEltdkJfM3lEM1VfSWZLTUwxa3MxM3VRZmlhMkxYRWJjVXRxMGh3TW9uZEJFMG1mXzR0MDZuVXo3ejRMQ1FjSXFZRHMwWHczSURscU56TUVFcDV1dHFMdWgxQ0tn?oc=5",
-   "source": "Reuters",
-   "ts": 1795150920.0
-  },
-  {
-   "title": "Senate passes bipartisan permitting bill designed to boost energy projects",
-   "link": "https://www.cbsnews.com/news/senate-bipartisan-permitting-reform-bill-energy-baaja-trump/",
-   "source": "CBS News",
-   "ts": 1795149006.0
-  },
-  {
-   "title": "Texans finally get first win at home in 2026 season, dismantling lowly Colts to keep playoff dreams alive",
-   "link": "https://www.foxnews.com/outkick-sports/texans-finally-get-first-win-home-2026-season-dismantling-lowly-colts-keep-playoff-dreams-alive",
-   "source": "Fox News",
-   "ts": 1795148440.0
-  },
-  {
    "title": "DOJ dropping Alaska midterms Senate certification lawsuit, saying case is 'moot'",
    "link": "https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517",
    "source": "ABC News",
    "ts": 1795146940.0
-  },
-  {
-   "title": "Saudi-led coalition says it intercepted Houthi missile targeting southern region",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVmhCWjF6eHlrWHRIcHA1Z2p0QlM5cEtnMnFFd0hsMDdyMk51RGx2SEJpc1NkM2Z3NENIc04zNnppdVRhQkotTVJJcGF5WGJpbDBQQXF0Y0g5SkpzVzhKNkpVemRTaFJmVjA4MVFaSHlKS25JM0h3UkstLWtQdTlnWEptSnktbzlDT1UycmhSNF9yRzFPMWhkby1ubHd6S1BTYk83aExGSGpnN05LRTNWcS1wU0MwMktVOFFfWldqTVhQQ3VISGEwMVkyb0d2MEU?oc=5",
-   "source": "Reuters",
-   "ts": 1795145580.0
   },
   {
    "title": "Senate passes bill simplifying permitting rules to build in America, sending it to House",
