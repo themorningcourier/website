@@ -1,23 +1,47 @@
 {
- "updated": "2026-11-20T15:58:52.123323+00:00",
+ "updated": "2026-11-20T17:00:03.728249+00:00",
  "items": [
   {
-   "title": "Crash closes both lanes of U.S. Route 302 in Barre City",
+   "title": "TRAFFIC ALERT: Major road closed due to crash in Ellenburg NY",
+   "link": "https://www.wcax.com/2026/11/20/traffic-alert-major-road-closed-due-crash-ellenburg-ny/",
+   "source": "WCAX",
+   "ts": 1795193901.0
+  },
+  {
+   "title": "VIDEO: Rare greater one-horned rhino calf born at Chester Zoo",
+   "link": "https://www.mynbc5.com/article/greater-one-horned-rhino-born-chester-zoo/74491463",
+   "source": "WPTZ",
+   "ts": 1795193700.0
+  },
+  {
+   "title": "New video shows Brooklyn building collapse in real time",
+   "link": "https://www.wcax.com/2026/11/20/new-video-shows-brooklyn-building-collapse-real-time/",
+   "source": "WCAX",
+   "ts": 1795193167.0
+  },
+  {
+   "title": "Annual Christmas tree arrives in Burlington",
+   "link": "https://www.wcax.com/2026/11/20/annual-christmas-tree-arrives-burlington/",
+   "source": "WCAX",
+   "ts": 1795191915.0
+  },
+  {
+   "title": "U.S. Route 302 in Barre City back open following crash",
    "link": "https://www.mynbc5.com/article/crash-closes-both-lanes-of-us-route-302-in-barre-city/74490872",
    "source": "WPTZ",
-   "ts": 1795189200.0
+   "ts": 1795191600.0
   },
   {
-   "title": "Aging is normal. Planning ahead keeps it from becoming a crisis",
-   "link": "https://www.wcax.com/2026/11/20/aging-is-normal-planning-ahead-keeps-it-becoming-crisis/",
-   "source": "WCAX",
-   "ts": 1795188348.0
+   "title": "How Orchestra Noir turned classical music into a cultural movement",
+   "link": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
+   "source": "NPR",
+   "ts": 1795191138.0
   },
   {
-   "title": "Forest officials give update on Wild River Fire containment",
-   "link": "https://www.wcax.com/2026/11/20/forest-officials-give-update-wild-river-fire-containment/",
-   "source": "WCAX",
-   "ts": 1795187877.0
+   "title": "Route 190 in Ellenburg closed due to crash",
+   "link": "https://www.mynbc5.com/article/route-190-in-ellenburg-closed-due-to-crash/74491070",
+   "source": "WPTZ",
+   "ts": 1795190880.0
   },
   {
    "title": "Trump to hold press conference after meeting with Xi and Putin",
@@ -26,34 +50,10 @@
    "ts": 1795186800.0
   },
   {
-   "title": "(Not) up in the air: Travelers\u2019 trepidations spike as Thanksgiving nears and tech hiccups abound",
-   "link": "https://www.wcax.com/2026/11/20/not-up-air-travelers-trepidations-spike-thanksgiving-nears-tech-hiccups-abound/",
-   "source": "WCAX",
-   "ts": 1795186441.0
-  },
-  {
-   "title": "Trump administration use of encrypted messaging apps scrutinized by House Democrat",
-   "link": "https://www.mynbc5.com/article/raskin-signal-records-trump-agencies/74490062",
-   "source": "WPTZ",
-   "ts": 1795185000.0
-  },
-  {
-   "title": "NBC5 Play of the Week: Bellows Falls athletes take the top spot",
-   "link": "https://www.mynbc5.com/article/nbc5-potw-november-17-20/74460118",
-   "source": "WPTZ",
-   "ts": 1795183980.0
-  },
-  {
    "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
    "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
    "source": "NPR",
    "ts": 1795177480.0
-  },
-  {
-   "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-   "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-   "source": "NPR",
-   "ts": 1795176297.0
   },
   {
    "title": "Before Thanksgiving, one food bank needs hundreds more donated turkeys to meet the need",
