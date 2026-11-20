@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:54:08.473104+00:00",
+ "updated": "2026-11-20T21:52:01.728222+00:00",
  "items": [
   {
    "title": "Americans don\u2019t have to choose between our AI future and ripping off copyright owners",
@@ -8,22 +8,82 @@
    "ts": 1795600800.0
   },
   {
-   "title": "Sheriff\u2019s office employee allegedly shot wife, daughters after harrowing 911 call",
-   "link": "https://nypost.com/2026/11/20/us-news/sheriffs-office-employee-allegedly-shot-wife-daughters-after-harrowing-911-call/",
+   "title": "State Department official accused of lavish \u2018vacations on taxpayer dime,\u2019 triggering travel crackdown: \u2018Rubio is fed up\u2019",
+   "link": "https://nypost.com/2026/11/20/us-news/state-department-official-accused-of-lavish-vacations-on-taxpayer-dime-triggering-travel-crackdown-rubio-is-fed-up/",
    "source": "New York Post",
-   "ts": 1795207903.0
+   "ts": 1795211367.0
   },
   {
-   "title": "President Trump\u2019s dictator \u2018friends\u2019: Letters to the Editor \u2014 Nov. 21, 2026",
-   "link": "https://nypost.com/2026/11/20/opinion/president-trumps-dictator-friends-letters/",
+   "title": "Potential landing spots for Daniel Jones after $50 million Colts disaster",
+   "link": "https://nypost.com/2026/11/20/sports/best-landing-spots-for-daniel-jones-after-colts-cut-ties/",
    "source": "New York Post",
-   "ts": 1795207380.0
+   "ts": 1795211334.0
   },
   {
-   "title": "\u2018Southern Charm\u2019 recap: Madison shuts down Charley & Salley blasts \u2018f-boy\u2019 Whitner",
-   "link": "https://pagesix.com/video/southern-charm-recap-madison-shuts-down-charley-salley-blasts-f-boy-whitner/",
+   "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+   "link": "https://abcnews.com/Business/wireStory/asia-shares-drop-ai-worries-echoing-wall-streets-138309523",
+   "source": "ABC News",
+   "ts": 1795211331.0
+  },
+  {
+   "title": "More than 140 sick on cruise ship that departed Fort Lauderdale, CDC says",
+   "link": "https://www.cbsnews.com/news/princess-cruises-caribbean-princess-mystery-illness-cdc-november-2026/",
+   "source": "CBS News",
+   "ts": 1795211221.0
+  },
+  {
+   "title": "Hollywood star, tech mogul tapped for Nithya Raman\u2019s mayoral advisory committee",
+   "link": "https://nypost.com/2026/11/20/us-news/actress-tech-exec-tapped-for-nithya-ramans-mayoral-transition-team/",
    "source": "New York Post",
-   "ts": 1795207187.0
+   "ts": 1795211141.0
+  },
+  {
+   "title": "Americans need help affording homes. Can Congress deliver?",
+   "link": "https://www.cbsnews.com/news/congress-housing-affordability-first-time-homebuyers/",
+   "source": "CBS News",
+   "ts": 1795210722.0
+  },
+  {
+   "title": "The Latest Sportsbook Promos You Can Claim for Tonight\u2019s NBA Cup Which Unlock $2000+",
+   "link": "https://www.foxnews.com/outkick-betting/latest-sportsbook-promos-you-can-claim-tonights-nba-cup-which-unlock-2000",
+   "source": "Fox News",
+   "ts": 1795210593.0
+  },
+  {
+   "title": "Wall St Week Ahead 'Black Friday' brings consumer spending into focus for AI-rocked market",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTIxbElDQVJDWHlhZ1FpYkZUYnVoNGxvNGZFU3BKTXpoR1Bfck1icUV2OHdGVW5aSEp6ak15Um5GSGgzbFF3ZEdZS2JudHJsZVZ5VnJMSDVnMVdBOTZKRUtJX1ZXQmotWjhqeHFuSV83U01LLUtWcHB5dEZHSEFza0tlSVc2ZlBKclJyWV9NS1pSaWJoRHN0c19SWlBpV2F0aFA5YVZRQ1oxeGxkTDNJZG5UeThHRTR1WUl5U2djSQ?oc=5",
+   "source": "Reuters",
+   "ts": 1795210396.0
+  },
+  {
+   "title": "Judge denies Alex Murdaugh's bid to dismiss murder charges",
+   "link": "https://abcnews.com/US/judge-denies-alex-murdaughs-bid-dismiss-murder-charges/story?id=138184686",
+   "source": "ABC News",
+   "ts": 1795210218.0
+  },
+  {
+   "title": "4.2-magnitude earthquake rattles Los Angeles area",
+   "link": "https://www.cbsnews.com/news/earthquake-los-angeles-11-20-2026/",
+   "source": "CBS News",
+   "ts": 1795210101.0
+  },
+  {
+   "title": "Trump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by",
+   "link": "https://www.foxnews.com/politics/trump-floats-unexpected-name-successor-powerhouses-rubio-vance-stand",
+   "source": "Fox News",
+   "ts": 1795210089.0
+  },
+  {
+   "title": "Wired headphones are making a comeback \u2014 here\u2019s why",
+   "link": "https://www.nbcnews.com/select/shopping/best-wired-headphones-rcna610454",
+   "source": "NBC News",
+   "ts": 1795208700.0
+  },
+  {
+   "title": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
+   "source": "Reuters",
+   "ts": 1795208459.0
   },
   {
    "title": "WATCH:  New health warning on doomscrolling: What to know and tips to break the habit",
@@ -32,76 +92,16 @@
    "ts": 1795207185.0
   },
   {
-   "title": "EXCLUSIVE: Trump\u2019s FDA nominee vows new abortion pill safety review after pressure from Sen Hawley",
-   "link": "https://www.foxnews.com/politics/exclusive-trumps-fda-nominee-vows-new-abortion-pill-safety-review-after-pressure-sen-hawley",
-   "source": "Fox News",
-   "ts": 1795207096.0
-  },
-  {
-   "title": "The deadliest drug threat the U.S. has ever faced",
-   "link": "https://www.cbsnews.com/video/the-deadliest-drug-threat-the-u-s-has-ever-faced/",
-   "source": "CBS News",
-   "ts": 1795207081.0
-  },
-  {
-   "title": "Can Anthropic win hearts and minds by curing hearts and minds?",
-   "link": "https://www.cbsnews.com/news/anthropic-drug-discovery-claude-science-ipo/",
-   "source": "CBS News",
-   "ts": 1795207036.0
-  },
-  {
    "title": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
    "source": "Reuters",
    "ts": 1795207023.0
   },
   {
-   "title": "Iran takes pointed jab at Trump Cabinet secretary for moving onto military base",
-   "link": "https://www.foxnews.com/politics/iran-takes-pointed-jab-trump-cabinet-secretary-moving-military-base",
-   "source": "Fox News",
-   "ts": 1795206965.0
-  },
-  {
-   "title": "Trump says he and Xi agreed to \"joint guardrails\" on AI, comments on tech outages",
-   "link": "https://www.cbsnews.com/video/trump-says-he-and-xi-will-do-joint-guardrails-on-ai/",
-   "source": "CBS News",
-   "ts": 1795206682.0
-  },
-  {
-   "title": "LIVE:  ABC News Live",
-   "link": "https://abcnews.com/video/41463246/",
-   "source": "ABC News",
-   "ts": 1795205726.0
-  },
-  {
-   "title": "Florida plastic surgeon sentenced to death for murdering missing lawyer",
-   "link": "https://abcnews.com/US/florida-plastic-surgeon-sentenced-death-murdering-missing-lawyer/story?id=138327475",
-   "source": "ABC News",
-   "ts": 1795205456.0
-  },
-  {
-   "title": "Trump cites good talks with Putin on Ukraine, holds back on security guarantees",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX3JPLTZVMmozZDY5c0piSTJBajFkeXRoMVc0UWVRRVVtZTdHb3BNcU8temVfeW1TNWRzZzBGVVVTUEs4TGl3eFpuSGNCNFpsLUpPRE1PSjdQYzZDbl9LM2NkMlo3TmpFVEV5QkNhODJyZy1qTUc3U0VNSFhUZHhqWWowLUxSamJlUlIxYjgyVV81ZjFOYmM0ZjdDUQ?oc=5",
-   "source": "Reuters",
-   "ts": 1795205093.0
-  },
-  {
-   "title": "Anthropic's Tom Brown plans to donate to Trump's investment accounts for kids, source says",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEFvNDBodHpvUlp4S085VFJqRGZsa1drMzJrQXZYWjQtNHNFRU1wR3Z5VG95dDNMWjFLMGRxMTNTYmpQVHlrS1hvd1dYMmE2RHdIZnBQaFFqVEQwWERxaDd6aWNqa1pXWnBYVnVCMTUyblg5ZHNpYTNGbWF5eHdlZk40QUdRcmZiZTl0cW5EMUphWXZpcEdQMjRQaGJTWC1qQ2JETnBhWF9kQQ?oc=5",
-   "source": "Reuters",
-   "ts": 1795204497.0
-  },
-  {
    "title": "Tin Can review: Why I love this retro phone for my kid, and what it can\u2019t do",
    "link": "https://www.nbcnews.com/select/shopping/tin-can-kids-phone-review-rcna610451",
    "source": "NBC News",
    "ts": 1795201200.0
-  },
-  {
-   "title": "The best hyaluronic acid products for dewy skin all winter long",
-   "link": "https://www.nbcnews.com/select/shopping/best-hyaluronic-acid-serums-creams-rcna610415",
-   "source": "NBC News",
-   "ts": 1795200209.0
   },
   {
    "title": "Trump threatens \u2018tremendous\u2019 penalties on companies that build data centers overseas",
