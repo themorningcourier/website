@@ -1,88 +1,97 @@
 {
- "updated": "2026-11-20T10:31:57.882006+00:00",
+ "updated": "2026-11-21T08:27:42.019532+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "JFK",
-     "name": "John F Kennedy Intl Arpt",
-     "state": "",
-     "elev_ft": "39",
-     "inches": 42.0,
-     "hours": 24.0,
-     "time": "2026-11-18 12:00"
+     "id": "ELRN2",
+     "name": "Ely 6Ne",
+     "state": "NV",
+     "elev_ft": "6253",
+     "inches": 6.6,
+     "hours": 6.0,
+     "time": "2026-11-20 06:00"
     },
     {
-     "id": "PKCU1",
-     "name": "Silver Lk Brighton",
-     "state": "UT",
-     "elev_ft": "8770",
-     "inches": 11.5,
+     "id": "NV-WH-204",
+     "name": "Reno 10.7 S, Nv",
+     "state": "NV",
+     "elev_ft": "5935",
+     "inches": 22.0,
      "hours": 24.0,
-     "time": "2026-11-18 17:00"
+     "time": "2026-11-19 16:00"
     },
     {
-     "id": "CRLO3",
-     "name": "Crater Lake National Park Hq",
-     "state": "OR",
-     "elev_ft": "6499",
-     "inches": 11.2,
+     "id": "CA-ED-9",
+     "name": "Tahoma .5 S, Ca",
+     "state": "CA",
+     "elev_ft": "6385",
+     "inches": 15.0,
      "hours": 24.0,
-     "time": "2026-11-18 18:00"
+     "time": "2026-11-19 15:00"
     },
     {
-     "id": "ATAU1",
-     "name": "Alta",
-     "state": "UT",
-     "elev_ft": "8684",
-     "inches": 9.0,
+     "id": "TAAC1",
+     "name": "Tahoma, Ca",
+     "state": "CA",
+     "elev_ft": "6385",
+     "inches": 15.0,
      "hours": 24.0,
-     "time": "2026-11-19 01:00"
+     "time": "2026-11-19 15:00"
     },
     {
-     "id": "MT-GR-6",
-     "name": "Cut Bank 0.3 Nnw, Mt",
-     "state": "MT",
-     "elev_ft": "3753",
-     "inches": 9.0,
+     "id": "TAHC1",
+     "name": "Tahoe City",
+     "state": "CA",
+     "elev_ft": "6230",
+     "inches": 14.0,
      "hours": 24.0,
-     "time": "2026-11-18 12:00"
+     "time": "2026-11-19 16:00"
     },
     {
-     "id": "UT-WS-8",
-     "name": "Heber City 10.1 Ese, Ut",
-     "state": "UT",
-     "elev_ft": "8314",
-     "inches": 7.0,
+     "id": "CA-PM-3",
+     "name": "Chester 0.9 Nne, Ca",
+     "state": "CA",
+     "elev_ft": "4524",
+     "inches": 13.0,
      "hours": 24.0,
-     "time": "2026-11-18 15:00"
+     "time": "2026-11-19 15:00"
     },
     {
-     "id": "BYNM8",
-     "name": "Bynum 4 Sse",
-     "state": "MT",
-     "elev_ft": "4039",
-     "inches": 6.1,
+     "id": "NV-ST-4",
+     "name": "Reno 16.0 Se, Nv",
+     "state": "NV",
+     "elev_ft": "6834",
+     "inches": 13.0,
      "hours": 24.0,
-     "time": "2026-11-18 13:30"
+     "time": "2026-11-19 15:00"
     },
     {
-     "id": "GTFM8",
-     "name": "Great Falls 16 St S",
-     "state": "MT",
-     "elev_ft": "3442",
-     "inches": 5.9,
+     "id": "VRCN2",
+     "name": "Virginia City",
+     "state": "NV",
+     "elev_ft": "6152",
+     "inches": 13.0,
      "hours": 24.0,
-     "time": "2026-11-18 13:00"
+     "time": "2026-11-19 16:00"
     },
     {
-     "id": "ID-MD-5",
-     "name": "Sugar City 1.9 S, Id",
+     "id": "CA-PM-2",
+     "name": "Meadow Valley 5.6 Wsw, Ca",
+     "state": "CA",
+     "elev_ft": "4449",
+     "inches": 12.5,
+     "hours": 24.0,
+     "time": "2026-11-19 15:30"
+    },
+    {
+     "id": "KETI1",
+     "name": "Ketchum Rs",
      "state": "ID",
-     "elev_ft": "4885",
-     "inches": 5.9,
+     "elev_ft": "5879",
+     "inches": 12.0,
      "hours": 24.0,
-     "time": "2026-11-18 16:00"
+     "time": "2026-11-19 15:30"
     }
    ]
   },
@@ -104,111 +113,111 @@
      ""
     ],
     [
-     "JFK",
-     "2026-11-18 12:00",
-     "42.000",
-     "24.000",
-     "39",
-     "JOHN F KENNEDY INTL ARPT"
+     "ELRN2",
+     "2026-11-20 06:00",
+     "6.600",
+     "6.000",
+     "6253",
+     "ELY 6NE"
     ],
     [
-     "PKCU1",
-     "2026-11-18 17:00",
+     "NV-WH-204",
+     "2026-11-19 16:00",
+     "22.000",
+     "24.000",
+     "5935",
+     "RENO 10.7 S, NV"
+    ],
+    [
+     "CA-ED-9",
+     "2026-11-19 15:00",
+     "15.000",
+     "24.000",
+     "6385",
+     "TAHOMA .5 S, CA"
+    ],
+    [
+     "TAAC1",
+     "2026-11-19 15:00",
+     "15.000",
+     "24.000",
+     "6385",
+     "TAHOMA, CA"
+    ],
+    [
+     "TAHC1",
+     "2026-11-19 16:00",
+     "14.000",
+     "24.000",
+     "6230",
+     "TAHOE CITY"
+    ],
+    [
+     "CA-PM-3",
+     "2026-11-19 15:00",
+     "13.000",
+     "24.000",
+     "4524",
+     "CHESTER 0.9 NNE, CA"
+    ],
+    [
+     "NV-ST-4",
+     "2026-11-19 15:00",
+     "13.000",
+     "24.000",
+     "6834",
+     "RENO 16.0 SE, NV"
+    ],
+    [
+     "VRCN2",
+     "2026-11-19 16:00",
+     "13.000",
+     "24.000",
+     "6152",
+     "VIRGINIA CITY"
+    ],
+    [
+     "CA-PM-2",
+     "2026-11-19 15:30",
+     "12.500",
+     "24.000",
+     "4449",
+     "MEADOW VALLEY 5.6 WSW, CA"
+    ],
+    [
+     "KETI1",
+     "2026-11-19 15:30",
+     "12.000",
+     "24.000",
+     "5879",
+     "KETCHUM RS"
+    ],
+    [
+     "VERC1",
+     "2026-11-19 17:00",
+     "12.000",
+     "24.000",
+     "5427",
+     "VERDI 2W"
+    ],
+    [
+     "CA-PM-15",
+     "2026-11-19 15:00",
+     "11.700",
+     "24.000",
+     "4521",
+     "CHESTER 0.6 SSE, CA"
+    ],
+    [
+     "CA-ED-35",
+     "2026-11-19 19:45",
      "11.500",
      "24.000",
-     "8770",
-     "SILVER LK BRIGHTON"
-    ],
-    [
-     "CRLO3",
-     "2026-11-18 18:00",
-     "11.200",
-     "24.000",
-     "6499",
-     "CRATER LAKE NATIONAL PARK HQ"
-    ],
-    [
-     "ATAU1",
-     "2026-11-19 01:00",
-     "9.000",
-     "24.000",
-     "8684",
-     "ALTA"
-    ],
-    [
-     "MT-GR-6",
-     "2026-11-18 12:00",
-     "9.000",
-     "24.000",
-     "3753",
-     "CUT BANK 0.3 NNW, MT"
-    ],
-    [
-     "CAN-AB-214",
-     "2026-11-18 15:00",
-     "7.000",
-     "24.000",
-     "4160",
-     "CALGARY 16.5 NW, CAN"
-    ],
-    [
-     "UT-WS-8",
-     "2026-11-18 15:00",
-     "7.000",
-     "24.000",
-     "8314",
-     "HEBER CITY 10.1 ESE, UT"
-    ],
-    [
-     "BYNM8",
-     "2026-11-18 13:30",
-     "6.100",
-     "24.000",
-     "4039",
-     "BYNUM 4 SSE"
-    ],
-    [
-     "GTFM8",
-     "2026-11-18 13:00",
-     "5.900",
-     "24.000",
-     "3442",
-     "GREAT FALLS 16 ST S"
-    ],
-    [
-     "ID-MD-5",
-     "2026-11-18 16:00",
-     "5.900",
-     "24.000",
-     "4885",
-     "SUGAR CITY 1.9 S, ID"
-    ],
-    [
-     "TFX",
-     "2026-11-18 07:00",
-     "5.800",
-     "24.000",
-     "3707",
-     "GREAT FALLS,MT"
-    ],
-    [
-     "BBNU1",
-     "2026-11-18 07:00",
-     "5.500",
-     "24.000",
-     "4961",
-     "BOUNTIFUL BENCH"
-    ],
-    [
-     "MT-GN-11",
-     "2026-11-18 14:00",
-     "5.200",
-     "24.000",
-     "4931",
-     "BOZEMAN 1.5 SSE, MT"
+     "6319",
+     "SOUTH LAKE TAHOE 1.4 ESE, CA"
     ]
    ],
-   "count": 13452
+   "count": 13700
   }
  ]
 }
