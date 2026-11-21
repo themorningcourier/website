@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:33:24.133627+00:00",
+ "updated": "2026-11-21T05:33:44.430175+00:00",
  "items": [
   {
    "title": "Americans don\u2019t have to choose between our AI future and ripping off copyright owners",
@@ -8,16 +8,22 @@
    "ts": 1795600800.0
   },
   {
-   "title": "Gritty road trip was enough to give Knicks their mojo back",
-   "link": "https://nypost.com/2026/11/20/sports/gritty-road-trip-was-enough-to-give-knicks-back-their-mojo/",
+   "title": "MLBPA rejects international draft proposal in latest volley in CBA fight",
+   "link": "https://nypost.com/2026/11/21/sports/mlbpa-rejects-international-draft-proposal-in-latest-volley-in-cba-fight/",
    "source": "New York Post",
-   "ts": 1795235529.0
+   "ts": 1795237816.0
   },
   {
-   "title": "Pentagon UFO files reveal mysterious radar detections suggesting Mach 2.5 flight \u2014 but there\u2019s a catch",
-   "link": "https://nypost.com/2026/11/20/us-news/pentagon-ufo-files-reveal-mysterious-radar-detections-suggesting-mach-2-5-flight-but-theres-a-catch/",
+   "title": "Heartbreaking development as search for missing teenage Marine who vanished from California military base continues",
+   "link": "https://nypost.com/2026/11/21/us-news/body-found-in-abandoned-california-building-feared-to-be-missing-marine-marriner-richards/",
    "source": "New York Post",
-   "ts": 1795235168.0
+   "ts": 1795237539.0
+  },
+  {
+   "title": "George Kittle eager to get hands on 2 items in Mexico City after 49ers-Vikings game",
+   "link": "https://nypost.com/2026/11/20/sports/george-kittle-excited-to-get-tacos-and-tequila-in-mexico-city-after-49ers-vikings-game/",
+   "source": "New York Post",
+   "ts": 1795237131.0
   },
   {
    "title": "FBI investigating potential breach of its crime database",
@@ -26,10 +32,10 @@
    "ts": 1795234791.0
   },
   {
-   "title": "Lakers exceeding expectations this season, but roster isn\u2019t championship material: insiders",
-   "link": "https://nypost.com/2026/11/20/sports/lakers-expectations-championship-roster-western-conference/",
-   "source": "New York Post",
-   "ts": 1795233463.0
+   "title": "Famed Marine Corps veteran under federal investigation over undisclosed allegations",
+   "link": "https://abcnews.com/US/wireStory/famed-marine-corps-veteran-federal-investigation-undisclosed-allegations-138336684",
+   "source": "ABC News",
+   "ts": 1795233347.0
   },
   {
    "title": "Red Hot Chili Peppers drummer Chad Smith to join Wu-Tang Clan for Lions' Thanksgiving halftime show",
@@ -74,16 +80,10 @@
    "ts": 1795226538.0
   },
   {
-   "title": "California man found guilty of starting deadly Palisades Fire",
-   "link": "https://www.nbcnews.com/video/california-man-found-guilty-of-starting-deadly-palisades-fire-273941061702",
+   "title": "Army detonation of bomb-making chemicals in Iowa delayed indefinitely",
+   "link": "https://www.nbcnews.com/video/army-detonation-of-bomb-making-chemicals-in-iowa-delayed-indefinitely-273940037981",
    "source": "NBC News",
-   "ts": 1795225811.0
-  },
-  {
-   "title": "Body found during search for missing 19-year-old Marine: Investigators",
-   "link": "https://abcnews.com/US/19-year-marine-reported-missing-california-desert/story?id=138320350",
-   "source": "ABC News",
-   "ts": 1795223133.0
+   "ts": 1795225825.0
   },
   {
    "title": "Man accused of starting blaze that became Palisades Fire found guilty of arson",
