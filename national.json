@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:10:29.851941+00:00",
+ "updated": "2026-11-21T02:30:16.029032+00:00",
  "items": [
   {
    "title": "Americans don\u2019t have to choose between our AI future and ripping off copyright owners",
@@ -8,10 +8,58 @@
    "ts": 1795600800.0
   },
   {
-   "title": "These are the 10 best WNBA draft prospects \u2014 but they might not declare",
-   "link": "https://nypost.com/2026/11/20/sports/these-are-the-best-wnba-draft-prospects-but-they-might-not-declare/",
+   "title": "Stocks enter correction territory, driven by a deepening tech rout",
+   "link": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/",
+   "source": "CBS News",
+   "ts": 1795227950.0
+  },
+  {
+   "title": "Deer runs amok in NYC neighborhood leaving onlookers in shock: video",
+   "link": "https://nypost.com/2026/11/20/us-news/deer-runs-amok-in-nyc-neighborhood-leaving-residents-in-shock-video/",
    "source": "New York Post",
-   "ts": 1795223426.0
+   "ts": 1795227902.0
+  },
+  {
+   "title": "Kamala Harris can\u2019t understand why she\u2019s not president \u2014 and her 2028 comeback plan continues the delusion",
+   "link": "https://nypost.com/2026/11/20/opinion/kamala-harris-cant-understand-why-shes-not-president-and-her-2028-comeback-plan-continues-the-delusion/",
+   "source": "New York Post",
+   "ts": 1795227817.0
+  },
+  {
+   "title": "Woman found dead with neck trauma in NYC apartment building as police arrest person of interest",
+   "link": "https://nypost.com/2026/11/20/us-news/woman-62-found-dead-with-neck-trauma-in-nyc-apartment-building/",
+   "source": "New York Post",
+   "ts": 1795227714.0
+  },
+  {
+   "title": "Alabama woman pleads guilty after reportedly using smart glasses to target drug trial witnesses",
+   "link": "https://www.foxnews.com/us/alabama-woman-pleads-guilty-reportedly-using-smart-glasses-target-drug-trial-witnesses",
+   "source": "Fox News",
+   "ts": 1795227164.0
+  },
+  {
+   "title": "Jonathan Rinderknecht found guilty in Palisades Fire case",
+   "link": "https://www.cbsnews.com/news/jonathan-rinderknecht-found-guilty-in-palisades-fire-case/",
+   "source": "CBS News",
+   "ts": 1795226538.0
+  },
+  {
+   "title": "South Florida severe weather and flooding live updates",
+   "link": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/",
+   "source": "CBS News",
+   "ts": 1795226134.0
+  },
+  {
+   "title": "California man found guilty of starting deadly Palisades Fire",
+   "link": "https://www.nbcnews.com/video/california-man-found-guilty-of-starting-deadly-palisades-fire-273941061702",
+   "source": "NBC News",
+   "ts": 1795225811.0
+  },
+  {
+   "title": "New drug combo shrinks tumors in most patients facing aggressive cancer type",
+   "link": "https://www.foxnews.com/health/new-drug-combo-shrinks-tumors-most-patients-aggressive-cancer-type",
+   "source": "Fox News",
+   "ts": 1795223252.0
   },
   {
    "title": "Body found during search for missing 19-year-old Marine: Investigators",
@@ -20,52 +68,16 @@
    "ts": 1795223133.0
   },
   {
-   "title": "'Enough': Protesters decry antisemitism after Hunter College student event including Jewish group is canceled",
-   "link": "https://www.foxnews.com/media/enough-protesters-decry-antisemitism-after-hunter-college-student-event-including-jewish-group-canceled",
-   "source": "Fox News",
-   "ts": 1795223064.0
-  },
-  {
-   "title": "6 reasons stocks are falling, and what you should do about it",
-   "link": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/",
-   "source": "CBS News",
-   "ts": 1795223045.0
-  },
-  {
-   "title": "Dianna Russini working on a tell-all book after Mike Vrabel photo scandal: Boston sports radio host",
-   "link": "https://nypost.com/2026/11/20/sports/dianna-russini-working-on-a-tell-all-book-boston-sports-radio-host/",
-   "source": "New York Post",
-   "ts": 1795222983.0
-  },
-  {
-   "title": "2 killed in separate fires, bringing NYC\u2019s fire-related death toll to nearly double this point in 2025",
-   "link": "https://nypost.com/2026/11/20/us-news/2-killed-in-separate-fires-bringing-nycs-fire-related-death-toll-to-90-this-year/",
-   "source": "New York Post",
-   "ts": 1795222938.0
-  },
-  {
-   "title": "Markets plunge deeper one day after Anthropic's record-breaking IPO",
-   "link": "https://www.cbsnews.com/video/markets-plunge-deeper-one-day-after-anthropics-record-breaking-ipo/",
-   "source": "CBS News",
-   "ts": 1795222868.0
-  },
-  {
    "title": "Man accused of starting blaze that became Palisades Fire found guilty of arson",
    "link": "https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631",
    "source": "ABC News",
    "ts": 1795222774.0
   },
   {
-   "title": "Fox News True Crime Newsletter: Susan Smith parole, Alex Murdaugh ruling, Lindsay Clancy appeal",
-   "link": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-susan-smith-parole-alex-murdaugh-ruling-lindsay-clancy-appeal",
-   "source": "Fox News",
-   "ts": 1795222714.0
-  },
-  {
-   "title": "DEA dismantles first nitazene synthesis lab in the U.S.",
-   "link": "https://www.cbsnews.com/news/louisiana-nitazenes-bust/",
-   "source": "CBS News",
-   "ts": 1795222409.0
+   "title": "Magnitude 6.8 quake in Peru's Andean region sends Lima residents onto streets",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0haQkQteXQ4cWlzdGJTQmROQVpnT21rVUI1UkNpenozVEplWmNtUTRpLWpvTlo4Z2tvUHhHSnR1RWtYMS1UV1JpVXplWGkzT1gwMkFfdmYwdWZnRVRjLUhBZjVQWTZDOTNucWdZb0NTVHVyYk5mVnI2cFR1WUhFOXhDTGZuY2VoeXZySmc4RjRuOWFULTFEb2NnYjN6MnFJZ1d1c3pFaVRqSUJsRlg4aTdENEt1MFFR?oc=5",
+   "source": "Reuters",
+   "ts": 1795221060.0
   },
   {
    "title": "WATCH:  Tips for hosting Friendsgiving this year",
@@ -86,28 +98,16 @@
    "ts": 1795218552.0
   },
   {
+   "title": "Trump touts historic summit with Xi, Putin",
+   "link": "https://www.nbcnews.com/nightly-news/video/trump-touts-historic-summit-with-xi-putin-273933381719",
+   "source": "NBC News",
+   "ts": 1795218338.0
+  },
+  {
    "title": "US Vice President Vance declines to say he would have ordered Iran strikes",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUp6a3JFdW5UTE50bkNkVmExSGVkZlNWMHR0YnZMaWxGQzlZaF9CNFdQYXZCVWFwYXA2QmI1eG1EUGFLY0FydzFDZ0FBNGlkVjZKMURfb0hNOWZ4a3ZEU3V1TXVwaEMzU0dxZVVxTWhxeHFOd1RwQmFmV19MYlc3LW9MVm5TOG5uTjFhVU5RSXZaZ2ZwRmZ5Y1BmdlBUMllHMlNSeEplQ2IyXzU5NE51NnRlUm1HUUU?oc=5",
    "source": "Reuters",
    "ts": 1795218319.0
-  },
-  {
-   "title": "US FDA declines to approve Capricor's Duchenne treatment citing unreliable trial data; shares slump",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUUJ5QjBndGJPNTFwMHRqRzZVNHRqd0JpaW1oc2UxeGd0RXpYNDNWQlE2Yl9vLVBfbUxZS3ZqeG1iTnh3Um1vZXJRWU5aenBiaFlYRmRBVy00eFpYRVJFNHN0NTk2TVdWOXNfbHZKckxpRi05WDNJM2VaLWRjR1l0c3JrYkYyZEU0UFItS2NQR19Pb1cwWG1BNW43Y19mZE9EajUwZHA4RUJTOVFoOWdnbG5tT1pzdDhvVlI3MEZlcU50YWd0a2c?oc=5",
-   "source": "Reuters",
-   "ts": 1795218120.0
-  },
-  {
-   "title": "Iraqi security forces deploy in Iran-backed militia stronghold",
-   "link": "https://www.nbcnews.com/world/middle-east/iraqi-security-forces-deploy-iran-backed-militia-stronghold-rcna610516",
-   "source": "NBC News",
-   "ts": 1795216084.0
-  },
-  {
-   "title": "Man found guilty of starting deadly Palisades Fire in Los Angeles",
-   "link": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336",
-   "source": "NBC News",
-   "ts": 1795215114.0
   }
  ]
 }
