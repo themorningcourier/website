@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T09:51:13.968542+00:00",
+ "updated": "2026-11-21T10:50:56.405294+00:00",
  "items": [
+  {
+   "title": "Sunny and beautiful today.  The week will be colder and more active, and a coastal storm isn\u2019t out of the question for Thanksgiving and Friday.",
+   "link": "https://www.wcax.com/2026/11/21/sunny-beautiful-today-week-will-be-colder-more-active-coastal-storm-isnt-out-question-thanksgiving-friday/",
+   "source": "WCAX",
+   "ts": 1795256279.0
+  },
+  {
+   "title": "5 ways to turn off your 'work brain' after the day ends",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
+   "source": "NPR",
+   "ts": 1795255260.0
+  },
+  {
+   "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+   "source": "NPR",
+   "ts": 1795255200.0
+  },
+  {
+   "title": "The AI boom had a really bad week \u2014 and it's raising loud alarms",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+   "source": "NPR",
+   "ts": 1795255200.0
+  },
   {
    "title": "What to Do: Saturday, Nov. 21",
    "link": "https://www.wcax.com/2026/11/21/what-do-saturday-nov-21/",
@@ -8,22 +32,10 @@
    "ts": 1795252771.0
   },
   {
-   "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-   "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-   "source": "NPR",
-   "ts": 1795248481.0
-  },
-  {
    "title": "Mild and pleasant weather will continue over the weekend, then next week will be colder and more active.",
    "link": "https://www.wcax.com/2026/11/21/mild-pleasant-weather-will-continue-over-weekend-then-next-week-will-be-colder-more-active/",
    "source": "WCAX",
    "ts": 1795238329.0
-  },
-  {
-   "title": "Vermont earns shootout win over #9 UConn",
-   "link": "https://www.wcax.com/2026/11/21/vermont-earns-shootout-win-over-9-uconn/",
-   "source": "WCAX",
-   "ts": 1795236899.0
   },
   {
    "title": "Vermont women's hockey takes down No. 9 UConn in shootout",
@@ -60,18 +72,6 @@
    "link": "https://vtdigger.org/2026/11/20/vermonts-80m-it-overhaul-pause-lengthens-as-shocking-audit-finds-more-concerns/",
    "source": "VTDigger",
    "ts": 1795213839.0
-  },
-  {
-   "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-   "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
-   "source": "NPR",
-   "ts": 1795212689.0
-  },
-  {
-   "title": "The latest from Trump's press conference",
-   "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
-   "source": "NPR",
-   "ts": 1795210701.0
   }
  ]
 }
