@@ -1,17 +1,35 @@
 {
- "updated": "2026-11-21T22:45:07.901939+00:00",
+ "updated": "2026-11-21T23:41:58.849585+00:00",
  "items": [
+  {
+   "title": "Tibetan community gathers for annual festival in Burlington",
+   "link": "https://www.mynbc5.com/article/22nd-annual-tibet-festival-burlington/74498644",
+   "source": "WPTZ",
+   "ts": 1795303980.0
+  },
+  {
+   "title": "Celebrate Craft holiday fair returns to South Burlington",
+   "link": "https://www.mynbc5.com/article/celebrate-craft-holiday-fair-south-burlington/74498712",
+   "source": "WPTZ",
+   "ts": 1795303920.0
+  },
+  {
+   "title": "Feed Your Neighbor food drive helps stock shelves ahead of Thanksgiving",
+   "link": "https://www.mynbc5.com/article/feed-your-neighbor-food-drive-returns/74498039",
+   "source": "WPTZ",
+   "ts": 1795303800.0
+  },
+  {
+   "title": "Trump orders federal contractors to check with White House before responding to Congress",
+   "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+   "source": "NPR",
+   "ts": 1795300836.0
+  },
   {
    "title": "\u2018Failed to do the basics\u2019: Man in psychiatric hospital strangled by another patient, lawsuit says",
    "link": "https://www.wcax.com/2026/11/21/failed-do-basics-man-psychiatric-hospital-strangled-by-another-patient-lawsuit-says/",
    "source": "WCAX",
    "ts": 1795299759.0
-  },
-  {
-   "title": "South Burlington woman found dead at CVS on Dorset Street",
-   "link": "https://www.mynbc5.com/article/south-burlington-woman-found-dead-cvs-dorset-street/74498388",
-   "source": "WPTZ",
-   "ts": 1795299000.0
   },
   {
    "title": "94-year-old arrested after mother, infant critically injured in hit-and-run",
@@ -32,28 +50,10 @@
    "ts": 1795293455.0
   },
   {
-   "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
-   "link": "https://www.mynbc5.com/article/trump-vows-work-democrats-cap-credit-card-interest-rates/74498177",
-   "source": "WPTZ",
-   "ts": 1795293180.0
-  },
-  {
-   "title": "11 killed in burst of violence in northern Mexico after capture of cartel leader",
-   "link": "https://www.mynbc5.com/article/mexico-military-captures-fbi-most-wanted-fugitive/74497077",
-   "source": "WPTZ",
-   "ts": 1795290060.0
-  },
-  {
    "title": "Storms expected on both coasts threatens Thanksgiving travel",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
    "source": "NPR",
    "ts": 1795285366.0
-  },
-  {
-   "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-   "source": "NPR",
-   "ts": 1795284535.0
   },
   {
    "title": "Pedestrian auditor walks the walk in South Burlington",
