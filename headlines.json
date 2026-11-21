@@ -1,35 +1,41 @@
 {
- "updated": "2026-11-21T12:57:01.012545+00:00",
+ "updated": "2026-11-21T14:01:55.674809+00:00",
  "items": [
   {
    "title": "Things to do: Nov. 21, 2026",
    "link": "https://www.mynbc5.com/article/things-to-do-nov-21-2026/74497125",
    "source": "WPTZ",
-   "ts": 1795265340.0
+   "ts": 1795269420.0
+  },
+  {
+   "title": "Trump floats 'tremendous tax' on companies that build data centers overseas",
+   "link": "https://www.mynbc5.com/article/trump-floats-tremendous-tax-on-companies-that-build-data-centers-overseas/74497229",
+   "source": "WPTZ",
+   "ts": 1795267800.0
+  },
+  {
+   "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+   "link": "https://www.mynbc5.com/article/anthropic-claude-riemann-hypothesis-proof/74497243",
+   "source": "WPTZ",
+   "ts": 1795267260.0
+  },
+  {
+   "title": "Perspective: Defining 'human'",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
+   "source": "NPR",
+   "ts": 1795266000.0
+  },
+  {
+   "title": "Pedestrian auditor walks the walk in South Burlington",
+   "link": "https://vtdigger.org/2026/11/21/pedestrian-auditor-walks-the-walk-in-south-burlington/",
+   "source": "VTDigger",
+   "ts": 1795265820.0
   },
   {
    "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
    "source": "NPR",
    "ts": 1795264817.0
-  },
-  {
-   "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-   "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
-   "source": "NPR",
-   "ts": 1795264216.0
-  },
-  {
-   "title": "Seven Vermonters displaced after Brattleboro apartment fire Friday",
-   "link": "https://www.mynbc5.com/article/vermonters-displaced-brattleboro-apartment-fire/74497116",
-   "source": "WPTZ",
-   "ts": 1795263060.0
-  },
-  {
-   "title": "Endurance athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife",
-   "link": "https://www.mynbc5.com/article/lewis-pugh-strait-of-hormuz-swim-iran-war/74497133",
-   "source": "WPTZ",
-   "ts": 1795262520.0
   },
   {
    "title": "Sunny and beautiful today.  The week will be colder and more active, and a coastal storm isn\u2019t out of the question for Thanksgiving and Friday.",
@@ -66,12 +72,6 @@
    "link": "https://vtdigger.org/2026/11/20/a-week-of-tech-disruptions-explained-sorta/",
    "source": "VTDigger",
    "ts": 1795214354.0
-  },
-  {
-   "title": "Vermont\u2019s $80M IT overhaul pause lengthens as \u2018shocking\u2019 audit finds more concerns",
-   "link": "https://vtdigger.org/2026/11/20/vermonts-80m-it-overhaul-pause-lengthens-as-shocking-audit-finds-more-concerns/",
-   "source": "VTDigger",
-   "ts": 1795213839.0
   }
  ]
 }
