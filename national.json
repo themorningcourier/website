@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T14:54:58.555448+00:00",
+ "updated": "2026-11-21T15:48:32.932312+00:00",
  "items": [
   {
    "title": "Americans don\u2019t have to choose between our AI future and ripping off copyright owners",
@@ -14,46 +14,64 @@
    "ts": 1795305600.0
   },
   {
-   "title": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-   "link": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
+   "title": "LA\u2019s dirty secret washes ashore as storms dump trash on beaches",
+   "link": "https://nypost.com/2026/11/21/us-news/la-rainstorms-flush-illegal-dumping-trash-onto-venice-beach/",
+   "source": "New York Post",
+   "ts": 1795275900.0
+  },
+  {
+   "title": "Princess Kate announces she's in remission from cancer",
+   "link": "https://www.cbsnews.com/news/kate-princess-of-wales-remission-cancer/",
    "source": "CBS News",
-   "ts": 1795272675.0
+   "ts": 1795275826.0
   },
   {
-   "title": "Millions could face Social Security cuts after Congress ignored decades of warnings: experts",
-   "link": "https://nypost.com/2026/11/21/business/millions-could-face-social-security-cuts-after-congress-ignored-decades-of-warnings-experts/",
-   "source": "New York Post",
-   "ts": 1795272297.0
-  },
-  {
-   "title": "Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes",
-   "link": "https://nypost.com/2026/11/21/world-news/two-tankers-hit-in-strait-of-hormuz-as-hawks-press-trump-to-resume-iran-strikes/",
-   "source": "New York Post",
-   "ts": 1795272055.0
-  },
-  {
-   "title": "Built from Scratch: How three grandsons turned $500 and a garage into a hearing aid company",
-   "link": "https://www.foxnews.com/lifestyle/built-from-scratch-three-grandsons-audien-hearing-aids",
-   "source": "Fox News",
-   "ts": 1795272030.0
-  },
-  {
-   "title": "Artist paints picture of Statue of Liberty in 43.5 seconds, jaw-dropping video shows",
-   "link": "https://nypost.com/2026/11/21/us-news/artist-paints-picture-of-statue-of-liberty-in-43-5-seconds-jaw-dropping-video/",
-   "source": "New York Post",
-   "ts": 1795271987.0
-  },
-  {
-   "title": "High school football team cooks up one of the most diabolical trick plays of all time in state title romp",
-   "link": "https://www.foxnews.com/outkick-sports/high-school-football-team-cooks-one-most-diabolical-trick-plays-all-time-state-title-romp",
-   "source": "Fox News",
-   "ts": 1795271685.0
-  },
-  {
-   "title": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
-   "link": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
+   "title": "Iowans worry a temporarily halted Army explosion could spread lead, other toxic chemicals",
+   "link": "https://www.cbsnews.com/video/iowans-worry-a-temporarily-halted-army-explosion-could-spread-lead-other-toxic-chemicals/",
    "source": "CBS News",
-   "ts": 1795271068.0
+   "ts": 1795275659.0
+  },
+  {
+   "title": "Betr Picks promo code NYPBONUS: Get up to $200 back in bonus, four no-sweat tokens, plus a free pick for LSU vs. Tennessee",
+   "link": "https://nypost.com/2026/11/21/betting/betr-picks-promo-code-nypbonus-get-up-to-200-back-in-bonus-four-no-sweat-tokens-plus-a-free-pick-for-lsu-vs-tennessee/",
+   "source": "New York Post",
+   "ts": 1795275300.0
+  },
+  {
+   "title": "Kylie Kelce keeps raving about this 30% off foundation for \u2018just the right amount of blur\u2019",
+   "link": "https://pagesix.com/2026/11/21/style/kylie-kelce-go-to-bare-minerals-foundation-is-30-off-for-black-friday/",
+   "source": "New York Post",
+   "ts": 1795275000.0
+  },
+  {
+   "title": "What's behind the uptick in attacks in the Strait of Hormuz?",
+   "link": "https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456",
+   "source": "ABC News",
+   "ts": 1795274379.0
+  },
+  {
+   "title": "Star golfer Charley Hull gave up smoking, now she's making another major life change, Hooters movie news & CFB",
+   "link": "https://www.foxnews.com/outkick-sports/star-golfer-charley-hull-gave-up-smoking-now-shes-making-another-major-life-change-hooters-movie-news-cfb",
+   "source": "Fox News",
+   "ts": 1795273823.0
+  },
+  {
+   "title": "How Grand Theft Auto VI's launch surpassed expectations",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWC12bUo0X3M1alRPRHNvSVRBSnRMbUdzVmltRHdRUW9qdGl5NHNpdXhvU0dmUnkxQkRtcU9QeENzQzFpUVdvTHFsbW1JUHFTUmdqcFRzWXhiOVRvb2R6Y1UyOFJQOGZDSG82ODR1VHVucEFpbXU5RkhCUS1nTXZLLVdFSTdUZlZvUGJaLWlJU3d4b0t0RU55ZFhMVDROdmZLQlZIODZR?oc=5",
+   "source": "Reuters",
+   "ts": 1795273790.0
+  },
+  {
+   "title": "Test your pop culture: From Hollywood to the Heartland",
+   "link": "https://www.foxnews.com/entertainment/test-your-pop-culture-from-hollywood-heartland-33",
+   "source": "Fox News",
+   "ts": 1795273250.0
+  },
+  {
+   "title": "NATO will defend every inch of Polish territory, Rutte says",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5",
+   "source": "Reuters",
+   "ts": 1795269824.0
   },
   {
    "title": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
@@ -62,28 +80,10 @@
    "ts": 1795269249.0
   },
   {
-   "title": "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
-   "source": "Reuters",
-   "ts": 1795268589.0
-  },
-  {
-   "title": "Russia's Wildberries CEO steps down days after EU sanctions, media report",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHlnc2RFZFltcC0zMXMtb1VfaEx6VFhrWVJfS2tpaHF2Vm4yMnRDYjVLX3FSTWNHaDJKdUYwZ3o5SUJfNVpvRERfcEladlQ2RkRCaFhxaEVZRGdwUTAwOVdSRDZDWjlSYXVucW83NS1aMVN0QzFKbFhVXzhBSEZtUmxKdHpYT3gwNXdCUWZxbU9MbVh3bEU3Ul9ZcXQxZTI5QjlyTHgtTUNDdWVINk9qbUwwNmo1eUt3aFFsaWlTNEJfQnZYNkVOMlVDRkY?oc=5",
-   "source": "Reuters",
-   "ts": 1795265956.0
-  },
-  {
    "title": "Apple AirPods Pro 3 are currently at their low Prime Day price",
    "link": "https://www.nbcnews.com/select/shopping/apple-airpods-pro-3-deal-of-the-day-rcna610526",
    "source": "NBC News",
    "ts": 1795262400.0
-  },
-  {
-   "title": "Strait of Hormuz attacks have increased to highest level since Iran war began",
-   "link": "https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456",
-   "source": "ABC News",
-   "ts": 1795259311.0
   },
   {
    "title": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on its soil",
