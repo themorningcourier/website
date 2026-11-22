@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T22:47:32.899639+00:00",
+ "updated": "2026-11-22T23:45:17.263733+00:00",
  "items": [
   {
    "title": "Americans don\u2019t have to choose between our AI future and ripping off copyright owners",
@@ -8,70 +8,82 @@
    "ts": 1795600800.0
   },
   {
+   "title": "Raiders coach Klint Kubiak takes shot at referees during Broncos clash",
+   "link": "https://nypost.com/2026/11/22/sports/raiders-coach-klint-kubiak-takes-shot-at-referees-at-broncos-clash/",
+   "source": "New York Post",
+   "ts": 1795390846.0
+  },
+  {
+   "title": "Justin Herbert gives Madison Beer reason to smile after scary week",
+   "link": "https://nypost.com/2026/11/22/sports/chargers-qb-justin-herbert-cheers-up-madison-beer-after-robbery-scare/",
+   "source": "New York Post",
+   "ts": 1795390590.0
+  },
+  {
+   "title": "Trump says Iran unleashed missile, drone surge after midterms",
+   "link": "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms",
+   "source": "Fox News",
+   "ts": 1795390386.0
+  },
+  {
+   "title": "Dozens of rare striking snakes unleashed into the wild in California \u2014 with more on the way",
+   "link": "https://nypost.com/2026/11/22/us-news/dozens-of-rare-snakes-unleashed-in-california/",
+   "source": "New York Post",
+   "ts": 1795390250.0
+  },
+  {
+   "title": "Travis Kelce passes Rob Gronkowski on all-time NFL list with two-touchdown game for Chiefs",
+   "link": "https://www.foxnews.com/outkick-sports/travis-kelce-passes-rob-gronkowski-all-time-nfl-list-two-touchdown-game-chiefs",
+   "source": "Fox News",
+   "ts": 1795389940.0
+  },
+  {
+   "title": "Delta Air Lines hit with delays after baggage network system issue",
+   "link": "https://www.cbsnews.com/news/delta-air-lines-nationwide-delays-amid-baggage-network-system-issue/",
+   "source": "CBS News",
+   "ts": 1795389419.0
+  },
+  {
+   "title": "Trump hosts exclusive dinner for investors in his declining meme coin",
+   "link": "https://www.nbcnews.com/politics/donald-trump/trump-hosts-exclusive-dinner-investors-declining-meme-coin-rcna610757",
+   "source": "NBC News",
+   "ts": 1795389114.0
+  },
+  {
+   "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
+   "source": "Reuters",
+   "ts": 1795388999.0
+  },
+  {
+   "title": "European steel makers ask Anglo-American, MMG for more safeguards",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNak1aamFHeEdqWEhUTmRIcF81V0NWa3NNdkROcUVGdllVcmdpMjFGRTNLbnFpZHJBdzZBTlhYLUtJd3hSU3pfelBxU0NJdTg5ci0zZDZKbGc0d2hBTWs2OEs1bm1QU21aWW1lNVJDdG5tUW1xckUtbUFzWDhrY0t6Sm1rZUNXWVdWOUtPeVhncTRNT0ZJbVRGRUdFblZaVmphNElMakkwSjlXN2RKdWFSLVNhWmlCNlV1V0NWNFVkaXhMOW0tYmc3T09wY2ZHYnY3emc?oc=5",
+   "source": "Reuters",
+   "ts": 1795388508.0
+  },
+  {
+   "title": "Here\u2019s the biggest news you missed this weekend",
+   "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-november-22-rcna610436",
+   "source": "NBC News",
+   "ts": 1795388442.0
+  },
+  {
+   "title": "Delta flights faced brief delays at Atlanta airport over automated system issue",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUi1YSXI0MDNzWFFveF90TU5ObVc1eVBONWJnaGdLaGMyV0lrYjJwbkFUM0lUVXJkUGpPRXNkbEw3c29yTDdNaGJWeEV3ZUw0UzhKbjdzYXBkQ2ZwY3JaRkxjM1hIazJXdmlnN3dCNkNMOW5lcEVIcE1BN3NMSWNCem5JSHpRSzRkOUdKUzFjbnJWZUhnWG5CWkR6dDB1LWFsdFp0TS0xU2h0QWZZdVprUVRnVXk4MkpRY1lDX2U5S1g3OWIzd3dqa080eU5xOFk0ekE4UlBsakxQUQ?oc=5",
+   "source": "Reuters",
+   "ts": 1795388169.0
+  },
+  {
+   "title": "Natural gas pipeline fire in Alabama lights up night sky",
+   "link": "https://www.cbsnews.com/news/natural-gas-pipeline-fire-ward-alabama/",
+   "source": "CBS News",
+   "ts": 1795387810.0
+  },
+  {
    "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
    "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
    "source": "CBS News",
    "ts": 1795387554.0
-  },
-  {
-   "title": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers",
-   "link": "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers",
-   "source": "Fox News",
-   "ts": 1795387404.0
-  },
-  {
-   "title": "Trump faces pressure as deadline over gray wolves looms \u2014 killing farmers\u2019 livestock",
-   "link": "https://nypost.com/2026/11/22/us-news/trump-faces-pressure-as-deadline-over-gray-wolves-looms-killing-farmers-livestock/",
-   "source": "New York Post",
-   "ts": 1795387347.0
-  },
-  {
-   "title": "Humiliation for California college after hitting nearly 20-year low in university rankings",
-   "link": "https://nypost.com/2026/11/22/us-news/uc-santa-barbara-drops-to-no-44-in-u-s-news-2027-rankings-its-lowest-since-2009/",
-   "source": "New York Post",
-   "ts": 1795387211.0
-  },
-  {
-   "title": "Mets, Tarik Skubal agree to record contract as MLB lockout looms over offseason",
-   "link": "https://www.foxnews.com/outkick-sports/mets-tarik-skubal-agree-record-contract-mlb-lockout-looms-offseason",
-   "source": "Fox News",
-   "ts": 1795386984.0
-  },
-  {
-   "title": "Trump to welcome investors at gala for his plunging meme coin",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjJxV2tNOWN0U2lzczlZWVgtQ0xIblpuY05HTUlTOEhsU1lXVTNUN2dfbFFhUUNFaVZveEdVTTBvLUl3cC1oaXRSZHNyZEpfNFhEb3R4SU1fRHVZbnFPNUhZaklEUmtmQ0xvVnlJbkRmcmVJLUdLM0RjUlZ5R3k5Z29uUWpPeHUwVFhWcko3YWE0VFdJWXhSN1dTMmZQVU9RdDNrSDdOMA?oc=5",
-   "source": "Reuters",
-   "ts": 1795386823.0
-  },
-  {
-   "title": "California surfer, 21, has chilling encounter with 20ft great white shark: \u2018Got smoked\u2019",
-   "link": "https://nypost.com/2026/11/22/us-news/california-surfers-chilling-encounter-with-20ft-great-white-shark-off-santa-barbara/",
-   "source": "New York Post",
-   "ts": 1795386719.0
-  },
-  {
-   "title": "Trump says he wants \"permanent\" deal with Iran",
-   "link": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-   "source": "CBS News",
-   "ts": 1795386557.0
-  },
-  {
-   "title": "Democrats reach historic House majority not seen since 1992",
-   "link": "https://www.cbsnews.com/news/democrats-historic-house-majority-since-1992/",
-   "source": "CBS News",
-   "ts": 1795385612.0
-  },
-  {
-   "title": "Le Mans stun Marseille with stoppage-time winner",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcVpVRWNWLU03ZDA3b2RiLUZxTXFJUnBpcTZOVFlFWlFWWGN4cS1UajE3aFp6dUpUa04wLWZuNVkzZHI1eDdSVzlteXpCM2dhYUhCRDRBWThHeWF1cEtkNU96d0lyTHBiQkR2QUdtSXVqbzNvajRnTjViQklPWHl5cGx1M1ZieWZBLVNiRWtqeWpvWng4WFBKM1lwWXJGSW8?oc=5",
-   "source": "Reuters",
-   "ts": 1795385541.0
-  },
-  {
-   "title": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NtOW83bnNaeXNoY0g0REh2Ym8yMU52U0FCaGVTRy1oeTRrM1dPclNpZTF4QWVtVE95eG9TUXJkT3JBZldRWDNjejBRcFpiWTVPV1ZqeEVZdS1qMVZ6QzVvNUtSRXY0RUxLX05pdlB3V0tvLXA1Nk0wQXhxT1dQYVNyMm1YYTZtX0pRZFI4VWNDTHctYVk2NnJMdDlWSmhxbWlzbVg5OWFacVhQUzdHSU5lNDdJTlBRZVhlVXZaUQ?oc=5",
-   "source": "Reuters",
-   "ts": 1795384496.0
   },
   {
    "title": "Democrat Chuck Hubbard wins recount, flips North Carolina US House seat",
@@ -90,18 +102,6 @@
    "link": "https://www.nbcnews.com/news/us-news/missouri-mom-charged-murder-police-say-3-year-old-died-untreated-cance-rcna610697",
    "source": "NBC News",
    "ts": 1795377202.0
-  },
-  {
-   "title": "Democrats win the largest House majority since 1992",
-   "link": "https://www.nbcnews.com/politics/congress/house-democrats-win-largest-house-majority-hubbard-north-carolina-rcna610708",
-   "source": "NBC News",
-   "ts": 1795375397.0
-  },
-  {
-   "title": "Max Verstappen takes a swipe at rival George Russell after Las Vegas F1 win",
-   "link": "https://www.nbcnews.com/sports/formula-1/verstappen-mocks-russell-las-vegas-f1-win-rcna610683",
-   "source": "NBC News",
-   "ts": 1795371604.0
   },
   {
    "title": "Multiple people shot at 'large' party in California, sheriff's office says",
