@@ -1,29 +1,41 @@
 {
- "updated": "2026-11-22T15:48:03.853583+00:00",
+ "updated": "2026-11-22T16:49:42.595975+00:00",
  "items": [
   {
-   "title": "'Best price ever' on these items as new Black Friday deals hit digital shelves",
-   "link": "https://www.mynbc5.com/article/amazon-black-friday-deals-best-price-ever/74475467",
+   "title": "Patient sets new record after 1 year with pig kidney transplant",
+   "link": "https://www.mynbc5.com/article/boston-hospital-patient-1-year-pig-kidney-transplant/74501129",
    "source": "WPTZ",
-   "ts": 1795362120.0
+   "ts": 1795365720.0
+  },
+  {
+   "title": "International climate talks end in disappointment",
+   "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+   "source": "NPR",
+   "ts": 1795365202.0
+  },
+  {
+   "title": "Denver Broncos star and ESPN Hall of Fame broadcaster dies at 75",
+   "link": "https://www.mynbc5.com/article/tom-jackson-broncos-espn-hall-of-fame-dies/74501148",
+   "source": "WPTZ",
+   "ts": 1795364700.0
+  },
+  {
+   "title": "Tom Jackson, former Broncos star and \u2018Sunday NFL Countdown\u2019 analyst, dead at 75",
+   "link": "https://www.wcax.com/2026/11/22/former-broncos-star-espn-broadcaster-tom-jackson-dead-75/",
+   "source": "WCAX",
+   "ts": 1795363643.0
+  },
+  {
+   "title": "Indonesia candy factory fire leaves 3 workers dead and 37 others unaccounted for",
+   "link": "https://www.mynbc5.com/article/indonesia-candy-factory-fire/74501115",
+   "source": "WPTZ",
+   "ts": 1795363440.0
   },
   {
    "title": "Fiona to be honored at upcoming Macy\u2019s Thanksgiving Day Parade",
    "link": "https://www.wcax.com/2026/11/22/fiona-be-honored-upcoming-macys-thanksgiving-day-parade/",
    "source": "WCAX",
    "ts": 1795361707.0
-  },
-  {
-   "title": "'Best of both worlds': Miley Cyrus and Maxx Morando tie the knot after 5 years of dating",
-   "link": "https://www.mynbc5.com/article/miley-cyrus-maxx-morando-marry/74500882",
-   "source": "WPTZ",
-   "ts": 1795360800.0
-  },
-  {
-   "title": "FBI investigating suspected hack of national crime database, AP reports",
-   "link": "https://www.mynbc5.com/article/fbi-suspected-hack-national-crime-database-ap-reports/74500671",
-   "source": "WPTZ",
-   "ts": 1795360020.0
   },
   {
    "title": "Only a few days left: Help keep Vermont informed and provide meals this Thanksgiving",
@@ -38,12 +50,6 @@
    "ts": 1795358897.0
   },
   {
-   "title": "Mother encouraging wreath donations for Vt. veteran cemeteries",
-   "link": "https://www.wcax.com/2026/11/22/mother-encouraging-wreath-donations-vt-veteran-cemeteries/",
-   "source": "WCAX",
-   "ts": 1795358888.0
-  },
-  {
    "title": "After downtime, Killington and Mikaela Shiffrin up for return of World Cup",
    "link": "https://vtdigger.org/2026/11/22/after-downtime-killington-and-mikaela-shiffrin-up-for-return-of-world-cup/",
    "source": "VTDigger",
@@ -56,7 +62,7 @@
    "ts": 1795353300.0
   },
   {
-   "title": "It's Medicare open enrollment time. Here's what you need to know",
+   "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
    "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
    "source": "NPR",
    "ts": 1795353064.0
@@ -64,12 +70,6 @@
   {
    "title": "NPR's Senior Podcast Challenge: Early entries we love",
    "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
-   "source": "NPR",
-   "ts": 1795341600.0
-  },
-  {
-   "title": "He expected a small-business loan. He got a 7-year nightmare",
-   "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
    "source": "NPR",
    "ts": 1795341600.0
   }
