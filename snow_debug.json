@@ -1,97 +1,97 @@
 {
- "updated": "2026-11-21T10:24:00.596535+00:00",
+ "updated": "2026-11-22T08:27:40.568332+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "ELRN2",
-     "name": "Ely 6Ne",
-     "state": "NV",
-     "elev_ft": "6253",
-     "inches": 6.6,
-     "hours": 6.0,
-     "time": "2026-11-20 06:00"
+     "id": "AYTA2",
+     "name": "Alyeska Weather Top",
+     "state": "AK",
+     "elev_ft": "2707",
+     "inches": 18.0,
+     "hours": 24.0,
+     "time": "2026-11-20 15:00"
     },
     {
-     "id": "NV-WH-204",
-     "name": "Reno 10.7 S, Nv",
-     "state": "NV",
-     "elev_ft": "5935",
-     "inches": 22.0,
+     "id": "AYMA2",
+     "name": "Alyeska Weather Mid",
+     "state": "AK",
+     "elev_ft": "1644",
+     "inches": 16.0,
      "hours": 24.0,
-     "time": "2026-11-19 16:00"
+     "time": "2026-11-20 15:00"
+    },
+    {
+     "id": "ASDC1",
+     "name": "Aspendell",
+     "state": "CA",
+     "elev_ft": "8458",
+     "inches": 14.8,
+     "hours": 24.0,
+     "time": "2026-11-20 08:00"
     },
     {
      "id": "CA-ED-9",
      "name": "Tahoma .5 S, Ca",
      "state": "CA",
      "elev_ft": "6385",
-     "inches": 15.0,
+     "inches": 14.0,
      "hours": 24.0,
-     "time": "2026-11-19 15:00"
+     "time": "2026-11-20 15:00"
     },
     {
      "id": "TAAC1",
      "name": "Tahoma, Ca",
      "state": "CA",
      "elev_ft": "6385",
-     "inches": 15.0,
-     "hours": 24.0,
-     "time": "2026-11-19 15:00"
-    },
-    {
-     "id": "TAHC1",
-     "name": "Tahoe City",
-     "state": "CA",
-     "elev_ft": "6230",
      "inches": 14.0,
      "hours": 24.0,
-     "time": "2026-11-19 16:00"
-    },
-    {
-     "id": "CA-PM-3",
-     "name": "Chester 0.9 Nne, Ca",
-     "state": "CA",
-     "elev_ft": "4524",
-     "inches": 13.0,
-     "hours": 24.0,
-     "time": "2026-11-19 15:00"
-    },
-    {
-     "id": "NV-ST-4",
-     "name": "Reno 16.0 Se, Nv",
-     "state": "NV",
-     "elev_ft": "6834",
-     "inches": 13.0,
-     "hours": 24.0,
-     "time": "2026-11-19 15:00"
-    },
-    {
-     "id": "VRCN2",
-     "name": "Virginia City",
-     "state": "NV",
-     "elev_ft": "6152",
-     "inches": 13.0,
-     "hours": 24.0,
-     "time": "2026-11-19 16:00"
+     "time": "2026-11-20 15:00"
     },
     {
      "id": "CA-PM-2",
      "name": "Meadow Valley 5.6 Wsw, Ca",
      "state": "CA",
      "elev_ft": "4449",
-     "inches": 12.5,
-     "hours": 24.0,
-     "time": "2026-11-19 15:30"
-    },
-    {
-     "id": "KETI1",
-     "name": "Ketchum Rs",
-     "state": "ID",
-     "elev_ft": "5879",
      "inches": 12.0,
      "hours": 24.0,
-     "time": "2026-11-19 15:30"
+     "time": "2026-11-20 16:00"
+    },
+    {
+     "id": "AUDA2",
+     "name": "Anchorage Upper Dearmoun",
+     "state": "AK",
+     "elev_ft": "1289",
+     "inches": 11.0,
+     "hours": 24.0,
+     "time": "2026-11-20 07:00"
+    },
+    {
+     "id": "NV-WH-192",
+     "name": "Carson City 5.7 Nw, Nv",
+     "state": "NV",
+     "elev_ft": "5262",
+     "inches": 10.0,
+     "hours": 24.0,
+     "time": "2026-11-20 17:00"
+    },
+    {
+     "id": "TAHC1",
+     "name": "Tahoe City",
+     "state": "CA",
+     "elev_ft": "6230",
+     "inches": 10.0,
+     "hours": 24.0,
+     "time": "2026-11-20 16:00"
+    },
+    {
+     "id": "WMSW4",
+     "name": "Wamsutter - Coop",
+     "state": "WY",
+     "elev_ft": "6739",
+     "inches": 10.0,
+     "hours": 24.0,
+     "time": "2026-11-21 02:00"
     }
    ]
   },
@@ -113,111 +113,111 @@
      ""
     ],
     [
-     "ELRN2",
-     "2026-11-20 06:00",
-     "6.600",
-     "6.000",
-     "6253",
-     "ELY 6NE"
+     "AYTA2",
+     "2026-11-20 15:00",
+     "18.000",
+     "24.000",
+     "2707",
+     "ALYESKA WEATHER TOP"
     ],
     [
-     "NV-WH-204",
-     "2026-11-19 16:00",
-     "22.000",
+     "AYMA2",
+     "2026-11-20 15:00",
+     "16.000",
      "24.000",
-     "5935",
-     "RENO 10.7 S, NV"
+     "1644",
+     "ALYESKA WEATHER MID"
+    ],
+    [
+     "ASDC1",
+     "2026-11-20 08:00",
+     "14.800",
+     "24.000",
+     "8458",
+     "ASPENDELL"
     ],
     [
      "CA-ED-9",
-     "2026-11-19 15:00",
-     "15.000",
+     "2026-11-20 15:00",
+     "14.000",
      "24.000",
      "6385",
      "TAHOMA .5 S, CA"
     ],
     [
      "TAAC1",
-     "2026-11-19 15:00",
-     "15.000",
+     "2026-11-20 15:00",
+     "14.000",
      "24.000",
      "6385",
      "TAHOMA, CA"
     ],
     [
-     "TAHC1",
-     "2026-11-19 16:00",
-     "14.000",
-     "24.000",
-     "6230",
-     "TAHOE CITY"
-    ],
-    [
-     "CA-PM-3",
-     "2026-11-19 15:00",
-     "13.000",
-     "24.000",
-     "4524",
-     "CHESTER 0.9 NNE, CA"
-    ],
-    [
-     "NV-ST-4",
-     "2026-11-19 15:00",
-     "13.000",
-     "24.000",
-     "6834",
-     "RENO 16.0 SE, NV"
-    ],
-    [
-     "VRCN2",
-     "2026-11-19 16:00",
-     "13.000",
-     "24.000",
-     "6152",
-     "VIRGINIA CITY"
-    ],
-    [
      "CA-PM-2",
-     "2026-11-19 15:30",
-     "12.500",
+     "2026-11-20 16:00",
+     "12.000",
      "24.000",
      "4449",
      "MEADOW VALLEY 5.6 WSW, CA"
     ],
     [
-     "KETI1",
-     "2026-11-19 15:30",
-     "12.000",
+     "AUDA2",
+     "2026-11-20 07:00",
+     "11.000",
      "24.000",
-     "5879",
-     "KETCHUM RS"
+     "1289",
+     "ANCHORAGE UPPER DEARMOUN"
     ],
     [
-     "VERC1",
-     "2026-11-19 17:00",
-     "12.000",
+     "NV-WH-192",
+     "2026-11-20 17:00",
+     "10.000",
      "24.000",
-     "5427",
-     "VERDI 2W"
+     "5262",
+     "CARSON CITY 5.7 NW, NV"
     ],
     [
-     "CA-PM-15",
-     "2026-11-19 15:00",
-     "11.700",
+     "TAHC1",
+     "2026-11-20 16:00",
+     "10.000",
      "24.000",
-     "4521",
-     "CHESTER 0.6 SSE, CA"
+     "6230",
+     "TAHOE CITY"
     ],
     [
-     "CA-ED-35",
-     "2026-11-19 19:45",
-     "11.500",
+     "WMSW4",
+     "2026-11-21 02:00",
+     "10.000",
      "24.000",
-     "6319",
-     "SOUTH LAKE TAHOE 1.4 ESE, CA"
+     "6739",
+     "WAMSUTTER - COOP"
+    ],
+    [
+     "PKCU1",
+     "2026-11-20 17:00",
+     "9.600",
+     "24.000",
+     "8770",
+     "SILVER LK BRIGHTON"
+    ],
+    [
+     "ERPA2",
+     "2026-11-21 00:00",
+     "9.000",
+     "24.000",
+     "495",
+     "EAGLE RIVER NATURE CENTER"
+    ],
+    [
+     "GRGC1",
+     "2026-11-20 16:00",
+     "8.500",
+     "24.000",
+     "6657",
+     "GRANT GROVE"
     ]
    ],
-   "count": 13707
+   "count": 13572
   }
  ]
 }
