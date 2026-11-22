@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:41:58.849585+00:00",
+ "updated": "2026-11-22T01:07:28.685567+00:00",
  "items": [
   {
    "title": "Americans don\u2019t have to choose between our AI future and ripping off copyright owners",
@@ -8,76 +8,94 @@
    "ts": 1795600800.0
   },
   {
-   "title": "Mathew Barzal\u2019s return has been an Islanders boost \u2014 even if it involves some rare patience",
-   "link": "https://nypost.com/2026/11/21/sports/mathew-barzals-return-has-been-a-islanders-boost-even-with-patience/",
-   "source": "New York Post",
-   "ts": 1795304020.0
+   "title": "FBI's national crime database targeted in hack, Trump says",
+   "link": "https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810",
+   "source": "ABC News",
+   "ts": 1795309634.0
   },
   {
-   "title": "49ers veteran receiver\u2019s recent departure hints at Mike Evans\u2019 imminent return",
-   "link": "https://nypost.com/2026/11/21/sports/brandin-cooks-departure-mike-evans-potential-return-49ers-vikings/",
+   "title": "Russell Brand hawking \u2018Free Russell\u2019 merch after rape conviction in desperate \u2018fundraiser\u2019 attempt",
+   "link": "https://pagesix.com/2026/11/21/celebrity-news/russell-brand-hawking-free-russell-merch-via-his-wellness-company-from-behind-bars-after-rape-conviction/",
    "source": "New York Post",
-   "ts": 1795303947.0
-  },
-  {
-   "title": "Las Vegas Grand Prix betting guide: How to bet Saturday night's race on the strip",
-   "link": "https://www.foxnews.com/outkick-betting/las-vegas-grand-prix-betting-guide-bet-saturday-nights-race-strip",
-   "source": "Fox News",
-   "ts": 1795303545.0
+   "ts": 1795309568.0
   },
   {
    "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
    "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
    "source": "CBS News",
-   "ts": 1795303536.0
+   "ts": 1795308948.0
   },
   {
-   "title": "It\u2019s been 40 years, and we still haven\u2019t replicated this New York football magic",
-   "link": "https://nypost.com/2026/11/21/sports/new-york-football-hasnt-replicated-magic-of-1986-season/",
+   "title": "Florida man tried to poison woman\u2019s Waffle House sweet tea \u2014 but child drank toxic brew instead: report",
+   "link": "https://nypost.com/2026/11/21/us-news/florida-man-accused-of-pouring-toxic-oil-into-cup-of-waffle-house-sweet-tea-that-a-child-accidentally-drank/",
    "source": "New York Post",
-   "ts": 1795303227.0
+   "ts": 1795308770.0
   },
   {
-   "title": "Trump says Roger Clemens should be in the Baseball Hall of Fame 'immediately,' won't fully back Barry Bonds",
-   "link": "https://www.foxnews.com/outkick-sports/trump-says-roger-clemens-should-baseball-hall-fame-immediately-wont-fully-back-barry-bonds",
+   "title": "Lakers rookie makes most of biggest opportunity he\u2019s gotten so far",
+   "link": "https://nypost.com/2026/11/21/sports/lakers-cameron-carr-big-opportunity-rotation/",
+   "source": "New York Post",
+   "ts": 1795308655.0
+  },
+  {
+   "title": "Titans' Jaylen Harrell allegedly 'assaulted' rideshare driver before Tampa car accident, police say",
+   "link": "https://www.foxnews.com/outkick-sports/titans-jaylen-harrell-allegedly-assaulted-rideshare-driver-tampa-car-accident-police-say",
    "source": "Fox News",
-   "ts": 1795302123.0
+   "ts": 1795308010.0
+  },
+  {
+   "title": "Abdul El-Sayed catches president\u2019s attention with pitch for \u2018Trumpcare\u2019",
+   "link": "https://www.nbcnews.com/politics/donald-trump/abdul-el-sayed-catches-trumps-attention-pitch-trumpcare-rcna610626",
+   "source": "NBC News",
+   "ts": 1795307841.0
+  },
+  {
+   "title": "ICE officers arrest at least 1 passenger boarding flight in Seattle",
+   "link": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/",
+   "source": "CBS News",
+   "ts": 1795307820.0
+  },
+  {
+   "title": "Australia criticises US Congressional Budget Office over AUKUS comments",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRlVOa1hkTkNLZ2tVNTdiR1RIUVJ3ODE5WlMzN1BtaHlzNjlnTmtrVHF5NVhqcjUycmhIb2dtOFRVbFhZaHNybEtWdGJ3X2pXX2FXZHRzNl9OSUEzaUw5VHVfZjZPYVRfRjRaSmRKSHJrS3NCY3A0MndnOXdOaVdPTTJHN3FOZmd0V0dZejExMV9nVjlwbmZDLXRjSHVodzhTN0ZldEZnQTgxc0ppcHJmdjVpeEs5c1hvT1ZxU0c2SFBaTTY2?oc=5",
+   "source": "Reuters",
+   "ts": 1795307580.0
+  },
+  {
+   "title": "Fifth-ranked Texas dominates Arkansas as Arch Manning is heating up ahead of the College Football Playoff",
+   "link": "https://www.foxnews.com/outkick-sports/no-5-texas-dominates-arkansas-arch-manning-heating-college-football-playoffs",
+   "source": "Fox News",
+   "ts": 1795306802.0
+  },
+  {
+   "title": "Top 25 roundup: No. 10 BYU outlasts Kansas in 3OT",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEV6dC1fOVlkd2gwQWNEN2JYazcwT3ozTm1fdEI1NWxkUUZpMWQwbUFkcFpFYlFySFlHOGxheks2NlZQdEViT1lqRlc0X0JwZjNCZVM2LTk4RG5Ham5INW1JYWpHZlNhVjg3eVMtMHYzc18xYi1GMGFXYlFaUHpwSGhsTTN4Rkx5U3lUdDUyTE1IOXgxeVVv?oc=5",
+   "source": "Reuters",
+   "ts": 1795305600.0
+  },
+  {
+   "title": "FBI investigates apparent hack of critical crime database",
+   "link": "https://www.nbcnews.com/nightly-news/video/fbi-investigates-apparent-hack-of-critical-crime-database-273966149722",
+   "source": "NBC News",
+   "ts": 1795305587.0
   },
   {
    "title": "Princeton student detained by ICE at Reagan Airport after conference",
    "link": "https://www.cbsnews.com/news/princeton-student-ice/",
    "source": "CBS News",
-   "ts": 1795301476.0
+   "ts": 1795305255.0
   },
   {
-   "title": "France secure bonus-point win over Argentina to reach final",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHpaUXNva2JXTnJhQTlvVkhxbTdTdDhkRGkwVmxKOW5MbnVuYWRFWlY0Z3o4Vm5nSFpuRGRVZUZsbWp0NkFmNmUwQ1NJTm1YaENYdmFLYmxWaGtVdUtqeEhiMXhMQTVMXzl4Q3RXcWwyOXlGandXZFpVa3ZBUzA5Rzd5WU42Wi1RdnJhUDg4ZkFmaW5ZQmdMVXpCTl9NWmxC?oc=5",
-   "source": "Reuters",
-   "ts": 1795301234.0
-  },
-  {
-   "title": "At least four injured after rapper OsamaSon\u2019s New York show",
-   "link": "https://www.nbcnews.com/news/us-news/least-four-injured-rapper-osamasons-new-york-show-rcna610614",
+   "title": "Deadly raid captures top cartel boss in Mexico",
+   "link": "https://www.nbcnews.com/nightly-news/video/deadly-raid-captures-top-cartel-boss-in-mexico-273965637918",
    "source": "NBC News",
-   "ts": 1795300799.0
+   "ts": 1795304947.0
   },
   {
-   "title": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
-   "link": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/",
-   "source": "CBS News",
-   "ts": 1795300210.0
-  },
-  {
-   "title": "Cartel leader on FBI's most wanted list arrested",
-   "link": "https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100",
-   "source": "ABC News",
-   "ts": 1795298402.0
-  },
-  {
-   "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
+   "title": "German car and shipyard workers set to strike as IG Metall union extends walkout",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOFBhS1Fub3hkTjloT0lrX2FKMEl1aG5pTDFrRzJTZnNtSGpRUmwtdm9tc0RwQnFOajR6WVBoZXE1Q3ZTVmtjMXB1cWdELVk0ckhFdjBiLUZzVmR2UWgzajdRSi03NXFjaThXX0J4U002R0ZpajI4QXRJRUVYdG82ejM2N2IyVzFNUkQ4YkRGbnV4eEZjdVpuM2l6bUt6NUhveXNoRnNPWF9Fa0dDMzExYTBDbURKYkROVGdmQmR6WHBDalFrOHRaWg?oc=5",
    "source": "Reuters",
-   "ts": 1795298328.0
+   "ts": 1795302228.0
   },
   {
    "title": "At least 24 dead in Nigeria when boat going to funeral capsizes",
@@ -86,28 +104,10 @@
    "ts": 1795298094.0
   },
   {
-   "title": "Lower turnout at largely peaceful marches across France",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5",
-   "source": "Reuters",
-   "ts": 1795296771.0
-  },
-  {
-   "title": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference",
-   "link": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
-   "source": "NBC News",
-   "ts": 1795296137.0
-  },
-  {
    "title": "Trump orders fed contractors to notify White House of congressional inquiries",
    "link": "https://abcnews.com/Politics/trump-orders-federal-contractors-coordinate-white-house-congressional/story?id=138344717",
    "source": "ABC News",
    "ts": 1795293363.0
-  },
-  {
-   "title": "Meet the \u2018GTA\u2019 superfans who turned the game\u2019s release into a major life event",
-   "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/grand-theft-auto-six-fans-reaction-celebration-player-profiles-rcna609640",
-   "source": "NBC News",
-   "ts": 1795280442.0
   }
  ]
 }
