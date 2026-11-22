@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T16:49:42.595975+00:00",
+ "updated": "2026-11-22T17:45:03.680441+00:00",
  "items": [
   {
    "title": "Americans don\u2019t have to choose between our AI future and ripping off copyright owners",
@@ -8,46 +8,82 @@
    "ts": 1795600800.0
   },
   {
+   "title": "Alleged Chinatown stabber was released day before killing \u2014 despite DA asking for him to be held on bail",
+   "link": "https://nypost.com/2026/11/22/us-news/alleged-chinatown-stabber-was-released-day-before-killing-despite-da-asking-for-him-to-be-held-on-bail/",
+   "source": "New York Post",
+   "ts": 1795369393.0
+  },
+  {
+   "title": "Transcript: Treasury Secretary Scott Bessent on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+   "link": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/",
+   "source": "CBS News",
+   "ts": 1795369263.0
+  },
+  {
+   "title": "Transcript: House Minority Leader Hakeem Jeffries on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+   "link": "https://www.cbsnews.com/news/transcript-house-minority-leader-hakeem-jeffries-on-face-the-nation-with-margaret-brennan-nov-22-2026/",
+   "source": "CBS News",
+   "ts": 1795369206.0
+  },
+  {
+   "title": "Jeffries talks about where Democrats may be able to work with Trump",
+   "link": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/",
+   "source": "CBS News",
+   "ts": 1795369148.0
+  },
+  {
+   "title": "FDA clears tiny surgical robot to remove bladder tumors",
+   "link": "https://www.foxnews.com/tech/fda-clears-tiny-surgical-robot-remove-bladder-tumors",
+   "source": "Fox News",
+   "ts": 1795368742.0
+  },
+  {
+   "title": "Raiders vs. Broncos Week 11 prediction, best bets: Jonah Coleman goes wild in AFC West clash",
+   "link": "https://nypost.com/2026/11/22/betting/raiders-vs-broncos-prediction-props-week-11-picks-best-bets-odds/",
+   "source": "New York Post",
+   "ts": 1795368300.0
+  },
+  {
+   "title": "Giants vs. Jaguars prediction: J.J. McCarthy stifled by elite defense in Week 11",
+   "link": "https://nypost.com/2026/11/22/betting/giants-vs-jaguars-prediction-nfl-week-11-odds-picks-best-bets/",
+   "source": "New York Post",
+   "ts": 1795368300.0
+  },
+  {
+   "title": "Relive golden age of American road trips at these 10 classic Route 66 stops",
+   "link": "https://www.foxnews.com/travel/relive-golden-age-american-road-trips-10-classic-route-66-stops",
+   "source": "Fox News",
+   "ts": 1795368235.0
+  },
+  {
+   "title": "Three Russian missiles flew into Poland Friday, prosecutors say",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1VMUS1oUkxlYzRWaDg5WjNPbGJoV2t1LTlRNkVMWnF6a3Q3aUljXzlCal9hWmdhWnlkYzdKNjdFVGdwVk1WUFFucGdfbUlnY3RtUjBsdFBxVTdmTGNjcnJ1a0VDNnk5eFh5NDdWaGNWcjNWcFI2WkoxZnFUbkI5UHZ6YTdYZUVMa19Ldk5YTERtX3ZialpvbjI4eFVoQ0Eyd2l0NGxoVQ?oc=5",
+   "source": "Reuters",
+   "ts": 1795367983.0
+  },
+  {
+   "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
+   "source": "Reuters",
+   "ts": 1795367863.0
+  },
+  {
+   "title": "No to a 'COP that greenwashes fossil fuels': climate talks collapse",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83eTl2ZlN6aXJPY2U0ZHd6R1JxdEhsN2JBTmJlcUFaVDJCN2F3SmRTTzBkSlk0c3FVVjhIYVdLN1VTWWpVbkFFNU9lQkR1YUpJbXkxVVBhaU9QaXZORzZQR3ZVc2ZzekVaU1J0U3lzdExfOG8xblRxdGEtbVh5QQ?oc=5",
+   "source": "Reuters",
+   "ts": 1795367660.0
+  },
+  {
    "title": "UN climate conference ends without deal as countries clash over fossil fuels, finance",
    "link": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179",
    "source": "ABC News",
    "ts": 1795366050.0
   },
   {
-   "title": "Inside the scandalous romance between teenage Bo Derek and married director, 46 \u2014 that left his wife \u2018devastated\u2019",
-   "link": "https://nypost.com/2026/11/22/lifestyle/bo-derek-stands-by-falling-for-married-john-derek-at-16-despite-30-year-age-gap-it-all-worked-out/",
-   "source": "New York Post",
-   "ts": 1795366037.0
-  },
-  {
-   "title": "Delta tech issue delays Atlanta-bound flights head of Thanksgiving",
+   "title": "Delta tech issue delays Atlanta-bound flights ahead of Thanksgiving",
    "link": "https://www.nbcnews.com/news/us-news/delta-tech-issues-thanksgiving-travel-rcna610685",
    "source": "NBC News",
    "ts": 1795365505.0
-  },
-  {
-   "title": "Delta Air Lines outage delays thousands of flights in pre-Thanksgiving travel chaos",
-   "link": "https://nypost.com/2026/11/22/us-news/delta-air-lines-outage-delays-thousands-of-flights-in-pre-thanksgiving-travel-chaos/",
-   "source": "New York Post",
-   "ts": 1795365480.0
-  },
-  {
-   "title": "Chris Berman announces Tom Jackson\u2019s death in emotional tribute on \u2018Sunday NFL Countdown\u2019",
-   "link": "https://nypost.com/2026/11/22/sports/chris-berman-announces-tom-jacksons-death-in-emotional-tribute-on-sunday-nfl-countdown/",
-   "source": "New York Post",
-   "ts": 1795365435.0
-  },
-  {
-   "title": "Tata Steel nears deal to acquire majority stake in APL Apollo Tubes, Moneycontrol reports",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVpWcGJLY3JCOXlyRUZaR3p4MmNSU3V3Qm12b0N1aG5IcC00dDVJSnVsUFZ6dnU3VE5CWVZFVUc0ajhjZEgtRHFXRWVjUDQwTkwzTnJPVFlsZzJ3MVFOVXRPM3Rmc3o5ekZJci1QQ21jQWR4Z2dLQjdsSTZsRU8xNS1JMThzZTJ5SnZ3alpINjhUT05Hb0ZWNUdBUXNCc3l0OUZSZDlveW5pV0s4dTE0ZC1NeG9nS21zUGw2ZE94MA?oc=5",
-   "source": "Reuters",
-   "ts": 1795365401.0
-  },
-  {
-   "title": "NFL star Trevor Lawrence talks possibility of getting into an AEW ring one day",
-   "link": "https://www.foxnews.com/outkick-sports/nfl-star-trevor-lawrence-talks-possibility-getting-aew-ring-one-day",
-   "source": "Fox News",
-   "ts": 1795365382.0
   },
   {
    "title": "DNI Clayton: Putin is 'not America's friend in Ukraine'",
@@ -56,52 +92,16 @@
    "ts": 1795365273.0
   },
   {
-   "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-   "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
-   "source": "CBS News",
-   "ts": 1795365193.0
-  },
-  {
-   "title": "Trump says he wants \"permanent\" deal with Iran",
-   "link": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-   "source": "CBS News",
-   "ts": 1795365004.0
-  },
-  {
-   "title": "WWE star LA Knight requests fans respect ex-girlfriend's privacy after flirty exchange with Nikki Bella",
-   "link": "https://www.foxnews.com/outkick-sports/wwe-star-la-knight-requests-fans-respect-ex-girlfriends-privacy-flirty-exchange-nikki-bella",
-   "source": "Fox News",
-   "ts": 1795364454.0
-  },
-  {
    "title": "Multiple people shot at 'large' party in California, sheriff's office says",
    "link": "https://abcnews.com/US/multiple-people-shot-large-party-california-sheriffs-office/story?id=138356134",
    "source": "ABC News",
    "ts": 1795364437.0
   },
   {
-   "title": "Report: Bucs QB Baker Mayfield dealing with plantar fasciitis",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkdXVnBKekZOQURrZGdOclJuV29CajBIS0VISy1tQklqRWFEdmVsYXZIeEdNWk1xNzl3V1prV3JqYWpSU1FCN05CMTJSZEVZNkI5NEZKZjhsSlA3MW9xTUpPc3laYVZ0U3U4ZFFxZUZodUZJaUFYeTJTQlk0OXQ1LURpSTBaNVRYcE42Y2cwMmJrQVJIOHJYWTRlbGVYX0FhYXJsdF9pT29YbFdV?oc=5",
-   "source": "Reuters",
-   "ts": 1795363663.0
-  },
-  {
-   "title": "German army starts testing kamikaze drones and AI targeting tool in Lithuania",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEZNb1cwZkRsWmFUN0Nkc0dfTGt4SUVDaXNCSHphV2VrQTBXYnQzTWN2Z0tkOEdiUnRyRnJqX2NST1pmYXJrYVFUQ204QllMNFRtelc0cEtUZy1MWlFMeXRfemNPS0pGQU1veHZyMU1XTWdJNE5pcWstLXUtZ0d4QXRMVzAzZFJKNzlteEZlWUVRbHpIeTJyanFWSlJVMlY4R0NOODNIN1RSLWJDdnQyM25KcDNNbDRvMHZkT1Nfenl6SUl2YUoxalBLT1RqQQ?oc=5",
-   "source": "Reuters",
-   "ts": 1795363649.0
-  },
-  {
    "title": "California prepares for flooding as king tides and storms threaten Thanksgiving week",
    "link": "https://www.nbcnews.com/news/us-news/california-prepares-flooding-rain-wind-thanksgiving-approaches-rcna610537",
    "source": "NBC News",
    "ts": 1795363320.0
-  },
-  {
-   "title": "Transcript: House Minority Leader Hakeem Jeffries on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-   "link": "https://www.cbsnews.com/news/transcript-house-minority-leader-hakeem-jeffries-on-face-the-nation-with-margaret-brennan-nov-22-2026/",
-   "source": "CBS News",
-   "ts": 1795363166.0
   },
   {
    "title": "Sen. Chris Van Hollen says \u2018momentum is in our direction\u2019 in battle for majority leader",
