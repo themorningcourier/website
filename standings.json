@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:47:36.569579+00:00",
+ "updated": "2026-11-22T21:47:13.703379+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -7,8 +7,8 @@
     {
      "name": "Bills",
      "abbr": "BUF",
-     "rec": "8-1",
-     "pct": 0.8888889
+     "rec": "9-1",
+     "pct": 0.9
     },
     {
      "name": "Patriots",
@@ -25,8 +25,8 @@
     {
      "name": "Dolphins",
      "abbr": "MIA",
-     "rec": "1-8",
-     "pct": 0.11111111
+     "rec": "1-9",
+     "pct": 0.1
     }
    ]
   },
@@ -40,22 +40,22 @@
      "pct": 0.7777778
     },
     {
-     "name": "Steelers",
-     "abbr": "PIT",
-     "rec": "6-3",
-     "pct": 0.6666667
-    },
-    {
      "name": "Browns",
      "abbr": "CLE",
      "rec": "6-4",
      "pct": 0.6
     },
     {
+     "name": "Steelers",
+     "abbr": "PIT",
+     "rec": "6-4",
+     "pct": 0.6
+    },
+    {
      "name": "Ravens",
      "abbr": "BAL",
-     "rec": "4-6",
-     "pct": 0.4
+     "rec": "4-7",
+     "pct": 0.36363637
     }
    ]
   },
@@ -83,8 +83,8 @@
     {
      "name": "Titans",
      "abbr": "TEN",
-     "rec": "1-8",
-     "pct": 0.11111111
+     "rec": "1-9",
+     "pct": 0.1
     }
    ]
   },
@@ -129,8 +129,8 @@
     {
      "name": "Cowboys",
      "abbr": "DAL",
-     "rec": "4-6",
-     "pct": 0.4
+     "rec": "5-6",
+     "pct": 0.45454547
     },
     {
      "name": "Commanders",
@@ -141,8 +141,8 @@
     {
      "name": "Eagles",
      "abbr": "PHI",
-     "rec": "2-7",
-     "pct": 0.22222222
+     "rec": "3-7",
+     "pct": 0.3
     }
    ]
   },
@@ -152,18 +152,18 @@
     {
      "name": "Lions",
      "abbr": "DET",
-     "rec": "7-2",
-     "pct": 0.7777778
-    },
-    {
-     "name": "Vikings",
-     "abbr": "MIN",
-     "rec": "7-2",
-     "pct": 0.7777778
+     "rec": "8-2",
+     "pct": 0.8
     },
     {
      "name": "Bears",
      "abbr": "CHI",
+     "rec": "8-2",
+     "pct": 0.8
+    },
+    {
+     "name": "Vikings",
+     "abbr": "MIN",
      "rec": "7-2",
      "pct": 0.7777778
     },
@@ -181,24 +181,24 @@
     {
      "name": "Panthers",
      "abbr": "CAR",
-     "rec": "4-5",
-     "pct": 0.44444445
+     "rec": "5-5",
+     "pct": 0.5
     },
     {
      "name": "Buccaneers",
      "abbr": "TB",
-     "rec": "3-6",
-     "pct": 0.33333334
-    },
-    {
-     "name": "Saints",
-     "abbr": "NO",
-     "rec": "3-6",
-     "pct": 0.33333334
+     "rec": "3-7",
+     "pct": 0.3
     },
     {
      "name": "Falcons",
      "abbr": "ATL",
+     "rec": "3-7",
+     "pct": 0.3
+    },
+    {
+     "name": "Saints",
+     "abbr": "NO",
      "rec": "3-7",
      "pct": 0.3
     }
