@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T04:08:42.674396+00:00",
+ "updated": "2026-11-23T05:43:03.535094+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -164,8 +164,8 @@
     {
      "name": "Vikings",
      "abbr": "MIN",
-     "rec": "7-2",
-     "pct": 0.7777778
+     "rec": "7-3",
+     "pct": 0.7
     },
     {
      "name": "Packers",
@@ -210,8 +210,8 @@
     {
      "name": "49ers",
      "abbr": "SF",
-     "rec": "8-1",
-     "pct": 0.8888889
+     "rec": "9-1",
+     "pct": 0.9
     },
     {
      "name": "Seahawks",
