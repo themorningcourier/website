@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:45:17.263733+00:00",
+ "updated": "2026-11-23T01:13:05.493051+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -19,8 +19,8 @@
     {
      "name": "Jets",
      "abbr": "NYJ",
-     "rec": "2-8",
-     "pct": 0.2
+     "rec": "3-8",
+     "pct": 0.27272728
     },
     {
      "name": "Dolphins",
@@ -65,8 +65,8 @@
     {
      "name": "Jaguars",
      "abbr": "JAX",
-     "rec": "7-2",
-     "pct": 0.7777778
+     "rec": "7-3",
+     "pct": 0.7
     },
     {
      "name": "Texans",
@@ -92,28 +92,28 @@
    "name": "AFC West",
    "teams": [
     {
+     "name": "Broncos",
+     "abbr": "DEN",
+     "rec": "8-2",
+     "pct": 0.8
+    },
+    {
      "name": "Chiefs",
      "abbr": "KC",
      "rec": "8-2",
      "pct": 0.8
     },
     {
-     "name": "Broncos",
-     "abbr": "DEN",
-     "rec": "7-2",
-     "pct": 0.7777778
-    },
-    {
      "name": "Raiders",
      "abbr": "LV",
-     "rec": "4-6",
-     "pct": 0.4
+     "rec": "4-7",
+     "pct": 0.36363637
     },
     {
      "name": "Chargers",
      "abbr": "LAC",
-     "rec": "1-8",
-     "pct": 0.11111111
+     "rec": "1-9",
+     "pct": 0.1
     }
    ]
   },
@@ -123,8 +123,8 @@
     {
      "name": "Giants",
      "abbr": "NYG",
-     "rec": "5-3-1",
-     "pct": 0.6111111
+     "rec": "6-3-1",
+     "pct": 0.65
     },
     {
      "name": "Cowboys",

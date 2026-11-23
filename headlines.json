@@ -1,29 +1,35 @@
 {
- "updated": "2026-11-22T23:45:17.263733+00:00",
+ "updated": "2026-11-23T01:13:05.493051+00:00",
  "items": [
   {
-   "title": "Barre celebrates life and legacy of longtime Mayor Thom Lauzon",
-   "link": "https://www.mynbc5.com/article/barre-mayor-thom-lauzon-celebration-of-life/74502318",
+   "title": "Court records: U.S. Army plans to carry out lead azide detonation after federal court pause",
+   "link": "https://www.mynbc5.com/article/lead-azide-bomb-detonation-iowa-tuesday/74499995",
    "source": "WPTZ",
-   "ts": 1795390620.0
+   "ts": 1795396020.0
   },
   {
-   "title": "Hunter found dead in Mt. Tabor more than a week after he went missing",
-   "link": "https://www.mynbc5.com/article/missing-hunter-found-dead-in-mt-tabor/74501889",
+   "title": "US Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
+   "link": "https://www.mynbc5.com/article/des-moines-area-army-emergency-bomb-chemical-blast/74502722",
    "source": "WPTZ",
-   "ts": 1795389780.0
+   "ts": 1795395600.0
+  },
+  {
+   "title": "Delta Air Lines automation system problem causes flight delays as Americans travel for Thanksgiving",
+   "link": "https://www.mynbc5.com/article/delta-flights-delayed-nov-22/74501480",
+   "source": "WPTZ",
+   "ts": 1795393620.0
+  },
+  {
+   "title": "Man accused of biting deportation officer during detainment, affidavit says",
+   "link": "https://www.wcax.com/2026/11/23/man-accused-biting-deportation-officer-during-detainment-affidavit-says/",
+   "source": "WCAX",
+   "ts": 1795392596.0
   },
   {
    "title": "Delta says system restored after technical issue causes flight delays",
    "link": "https://www.wcax.com/2026/11/22/delta-says-automation-issues-causing-delays-nationwide/",
    "source": "WCAX",
    "ts": 1795389530.0
-  },
-  {
-   "title": "Delta Air Lines automation system problem causes flight delays as Americans travel for Thanksgiving",
-   "link": "https://www.mynbc5.com/article/delta-flights-delayed-nov-22/74501480",
-   "source": "WPTZ",
-   "ts": 1795389420.0
   },
   {
    "title": "Missing hunter found dead: Vermont State Police",
@@ -42,12 +48,6 @@
    "link": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
    "source": "NPR",
    "ts": 1795387219.0
-  },
-  {
-   "title": "You Can Quote Me: Nov. 22, 2026",
-   "link": "https://www.wcax.com/2026/11/22/you-can-quote-me-nov-22-2026/",
-   "source": "WCAX",
-   "ts": 1795381285.0
   },
   {
    "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
