@@ -1,97 +1,97 @@
 {
- "updated": "2026-11-22T10:23:18.369184+00:00",
+ "updated": "2026-11-23T08:57:47.505160+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "AYTA2",
-     "name": "Alyeska Weather Top",
-     "state": "AK",
-     "elev_ft": "2707",
-     "inches": 18.0,
+     "id": "BKCC2",
+     "name": "Black Canyon Of The Gunnison",
+     "state": "CO",
+     "elev_ft": "8179",
+     "inches": 8.9,
      "hours": 24.0,
-     "time": "2026-11-20 15:00"
+     "time": "2026-11-21 15:00"
     },
     {
-     "id": "AYMA2",
-     "name": "Alyeska Weather Mid",
-     "state": "AK",
-     "elev_ft": "1644",
-     "inches": 16.0,
+     "id": "CO-OR-32",
+     "name": "Colona 4.2 Nw, Co",
+     "state": "CO",
+     "elev_ft": "6611",
+     "inches": 8.9,
      "hours": 24.0,
-     "time": "2026-11-20 15:00"
+     "time": "2026-11-21 14:00"
     },
     {
-     "id": "ASDC1",
-     "name": "Aspendell",
-     "state": "CA",
-     "elev_ft": "8458",
-     "inches": 14.8,
+     "id": "MT-PK-7",
+     "name": "Livingston 6.6 Ese, Mt",
+     "state": "MT",
+     "elev_ft": "5558",
+     "inches": 8.5,
      "hours": 24.0,
-     "time": "2026-11-20 08:00"
+     "time": "2026-11-21 14:00"
     },
     {
-     "id": "CA-ED-9",
-     "name": "Tahoma .5 S, Ca",
-     "state": "CA",
-     "elev_ft": "6385",
-     "inches": 14.0,
+     "id": "CO-OR-19",
+     "name": "Ridgway 5.3 Nnw, Co",
+     "state": "CO",
+     "elev_ft": "7828",
+     "inches": 7.9,
      "hours": 24.0,
-     "time": "2026-11-20 15:00"
+     "time": "2026-11-21 14:00"
     },
     {
-     "id": "TAAC1",
-     "name": "Tahoma, Ca",
-     "state": "CA",
-     "elev_ft": "6385",
-     "inches": 14.0,
-     "hours": 24.0,
-     "time": "2026-11-20 15:00"
+     "id": "GTF",
+     "name": "Great Falls Arpt",
+     "state": "",
+     "elev_ft": "3655",
+     "inches": 1.9,
+     "hours": 6.0,
+     "time": "2026-11-21 12:00"
     },
     {
-     "id": "CA-PM-2",
-     "name": "Meadow Valley 5.6 Wsw, Ca",
-     "state": "CA",
-     "elev_ft": "4449",
-     "inches": 12.0,
+     "id": "CO-OR-13",
+     "name": "Ridgway 3.3 Nnw, Co",
+     "state": "CO",
+     "elev_ft": "7644",
+     "inches": 7.5,
      "hours": 24.0,
-     "time": "2026-11-20 16:00"
+     "time": "2026-11-21 14:00"
     },
     {
-     "id": "AUDA2",
-     "name": "Anchorage Upper Dearmoun",
-     "state": "AK",
-     "elev_ft": "1289",
-     "inches": 11.0,
+     "id": "MT-GR-8",
+     "name": "East Glacier Park 0.7 Se, Mt",
+     "state": "MT",
+     "elev_ft": "4764",
+     "inches": 7.5,
      "hours": 24.0,
-     "time": "2026-11-20 07:00"
+     "time": "2026-11-21 14:00"
     },
     {
-     "id": "NV-WH-192",
-     "name": "Carson City 5.7 Nw, Nv",
-     "state": "NV",
-     "elev_ft": "5262",
-     "inches": 10.0,
-     "hours": 24.0,
-     "time": "2026-11-20 17:00"
-    },
-    {
-     "id": "TAHC1",
-     "name": "Tahoe City",
-     "state": "CA",
-     "elev_ft": "6230",
-     "inches": 10.0,
-     "hours": 24.0,
-     "time": "2026-11-20 16:00"
-    },
-    {
-     "id": "WMSW4",
-     "name": "Wamsutter - Coop",
+     "id": "WY-SL-23",
+     "name": "Cora 14.2 N, Wy",
      "state": "WY",
-     "elev_ft": "6739",
-     "inches": 10.0,
+     "elev_ft": "7736",
+     "inches": 7.5,
      "hours": 24.0,
-     "time": "2026-11-21 02:00"
+     "time": "2026-11-21 14:00"
+    },
+    {
+     "id": "ID-CR-1",
+     "name": "Soda Springs 1.3 Wsw, Id",
+     "state": "ID",
+     "elev_ft": "5771",
+     "inches": 7.0,
+     "hours": 24.0,
+     "time": "2026-11-21 14:00"
+    },
+    {
+     "id": "CO-OR-35",
+     "name": "Ridgway 3.4 N, Co",
+     "state": "CO",
+     "elev_ft": "7546",
+     "inches": 6.9,
+     "hours": 24.0,
+     "time": "2026-11-21 14:00"
     }
    ]
   },
@@ -113,111 +113,111 @@
      ""
     ],
     [
-     "AYTA2",
-     "2026-11-20 15:00",
-     "18.000",
+     "BKCC2",
+     "2026-11-21 15:00",
+     "8.900",
      "24.000",
-     "2707",
-     "ALYESKA WEATHER TOP"
+     "8179",
+     "BLACK CANYON OF THE GUNNISON"
     ],
     [
-     "AYMA2",
-     "2026-11-20 15:00",
-     "16.000",
+     "CO-OR-32",
+     "2026-11-21 14:00",
+     "8.900",
      "24.000",
-     "1644",
-     "ALYESKA WEATHER MID"
+     "6611",
+     "COLONA 4.2 NW, CO"
     ],
     [
-     "ASDC1",
-     "2026-11-20 08:00",
-     "14.800",
-     "24.000",
-     "8458",
-     "ASPENDELL"
-    ],
-    [
-     "CA-ED-9",
-     "2026-11-20 15:00",
-     "14.000",
-     "24.000",
-     "6385",
-     "TAHOMA .5 S, CA"
-    ],
-    [
-     "TAAC1",
-     "2026-11-20 15:00",
-     "14.000",
-     "24.000",
-     "6385",
-     "TAHOMA, CA"
-    ],
-    [
-     "CA-PM-2",
-     "2026-11-20 16:00",
-     "12.000",
-     "24.000",
-     "4449",
-     "MEADOW VALLEY 5.6 WSW, CA"
-    ],
-    [
-     "AUDA2",
-     "2026-11-20 07:00",
-     "11.000",
-     "24.000",
-     "1289",
-     "ANCHORAGE UPPER DEARMOUN"
-    ],
-    [
-     "NV-WH-192",
-     "2026-11-20 17:00",
-     "10.000",
-     "24.000",
-     "5262",
-     "CARSON CITY 5.7 NW, NV"
-    ],
-    [
-     "TAHC1",
-     "2026-11-20 16:00",
-     "10.000",
-     "24.000",
-     "6230",
-     "TAHOE CITY"
-    ],
-    [
-     "WMSW4",
-     "2026-11-21 02:00",
-     "10.000",
-     "24.000",
-     "6739",
-     "WAMSUTTER - COOP"
-    ],
-    [
-     "PKCU1",
-     "2026-11-20 17:00",
-     "9.600",
-     "24.000",
-     "8770",
-     "SILVER LK BRIGHTON"
-    ],
-    [
-     "ERPA2",
-     "2026-11-21 00:00",
-     "9.000",
-     "24.000",
-     "495",
-     "EAGLE RIVER NATURE CENTER"
-    ],
-    [
-     "GRGC1",
-     "2026-11-20 16:00",
+     "MT-PK-7",
+     "2026-11-21 14:00",
      "8.500",
      "24.000",
-     "6657",
-     "GRANT GROVE"
+     "5558",
+     "LIVINGSTON 6.6 ESE, MT"
+    ],
+    [
+     "CO-OR-19",
+     "2026-11-21 14:00",
+     "7.900",
+     "24.000",
+     "7828",
+     "RIDGWAY 5.3 NNW, CO"
+    ],
+    [
+     "GTF",
+     "2026-11-21 12:00",
+     "1.900",
+     "6.000",
+     "3655",
+     "GREAT FALLS ARPT"
+    ],
+    [
+     "CO-OR-13",
+     "2026-11-21 14:00",
+     "7.500",
+     "24.000",
+     "7644",
+     "RIDGWAY 3.3 NNW, CO"
+    ],
+    [
+     "MT-GR-8",
+     "2026-11-21 14:00",
+     "7.500",
+     "24.000",
+     "4764",
+     "EAST GLACIER PARK 0.7 SE, MT"
+    ],
+    [
+     "WY-SL-23",
+     "2026-11-21 14:00",
+     "7.500",
+     "24.000",
+     "7736",
+     "CORA 14.2 N, WY"
+    ],
+    [
+     "ID-CR-1",
+     "2026-11-21 14:00",
+     "7.000",
+     "24.000",
+     "5771",
+     "SODA SPRINGS 1.3 WSW, ID"
+    ],
+    [
+     "CO-OR-35",
+     "2026-11-21 14:00",
+     "6.900",
+     "24.000",
+     "7546",
+     "RIDGWAY 3.4 N, CO"
+    ],
+    [
+     "WSMA2",
+     "2026-11-21 16:00",
+     "6.600",
+     "24.000",
+     "1181",
+     "WISEMAN"
+    ],
+    [
+     "CO-OR-23",
+     "2026-11-22 05:00",
+     "6.500",
+     "24.000",
+     "7805",
+     "OURAY 0.1 SE, CO"
+    ],
+    [
+     "ATAU1",
+     "2026-11-22 01:00",
+     "6.200",
+     "24.000",
+     "8684",
+     "ALTA"
     ]
    ],
-   "count": 13585
+   "count": 12998
   }
  ]
 }
