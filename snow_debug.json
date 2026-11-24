@@ -1,97 +1,97 @@
 {
- "updated": "2026-11-23T10:39:16.593347+00:00",
+ "updated": "2026-11-24T08:44:37.085210+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "BKCC2",
-     "name": "Black Canyon Of The Gunnison",
-     "state": "CO",
-     "elev_ft": "8179",
-     "inches": 8.9,
-     "hours": 24.0,
-     "time": "2026-11-21 15:00"
-    },
-    {
-     "id": "CO-OR-32",
-     "name": "Colona 4.2 Nw, Co",
-     "state": "CO",
-     "elev_ft": "6611",
-     "inches": 8.9,
-     "hours": 24.0,
-     "time": "2026-11-21 14:00"
-    },
-    {
-     "id": "MT-PK-7",
-     "name": "Livingston 6.6 Ese, Mt",
-     "state": "MT",
-     "elev_ft": "5558",
-     "inches": 8.5,
-     "hours": 24.0,
-     "time": "2026-11-21 14:00"
-    },
-    {
-     "id": "CO-OR-19",
-     "name": "Ridgway 5.3 Nnw, Co",
-     "state": "CO",
-     "elev_ft": "7828",
-     "inches": 7.9,
-     "hours": 24.0,
-     "time": "2026-11-21 14:00"
-    },
-    {
-     "id": "GTF",
-     "name": "Great Falls Arpt",
-     "state": "",
-     "elev_ft": "3655",
-     "inches": 1.9,
-     "hours": 6.0,
-     "time": "2026-11-21 12:00"
-    },
-    {
-     "id": "CO-OR-13",
-     "name": "Ridgway 3.3 Nnw, Co",
-     "state": "CO",
-     "elev_ft": "7644",
-     "inches": 7.5,
-     "hours": 24.0,
-     "time": "2026-11-21 14:00"
-    },
-    {
-     "id": "MT-GR-8",
-     "name": "East Glacier Park 0.7 Se, Mt",
-     "state": "MT",
-     "elev_ft": "4764",
-     "inches": 7.5,
-     "hours": 24.0,
-     "time": "2026-11-21 14:00"
-    },
-    {
-     "id": "WY-SL-23",
-     "name": "Cora 14.2 N, Wy",
-     "state": "WY",
-     "elev_ft": "7736",
-     "inches": 7.5,
-     "hours": 24.0,
-     "time": "2026-11-21 14:00"
-    },
-    {
-     "id": "ID-CR-1",
-     "name": "Soda Springs 1.3 Wsw, Id",
+     "id": "ID-KT-27",
+     "name": "Hayden 2.3 Ne, Id",
      "state": "ID",
-     "elev_ft": "5771",
+     "elev_ft": "2415",
+     "inches": 20.0,
+     "hours": 24.0,
+     "time": "2026-11-23 01:00"
+    },
+    {
+     "id": "CO-CC-27",
+     "name": "Evergreen 5.0 Nw, Co",
+     "state": "CO",
+     "elev_ft": "8241",
+     "inches": 7.2,
+     "hours": 24.0,
+     "time": "2026-11-22 14:00"
+    },
+    {
+     "id": "CRLO3",
+     "name": "Crater Lake National Park Hq",
+     "state": "OR",
+     "elev_ft": "6499",
      "inches": 7.0,
      "hours": 24.0,
-     "time": "2026-11-21 14:00"
+     "time": "2026-11-22 16:05"
     },
     {
-     "id": "CO-OR-35",
-     "name": "Ridgway 3.4 N, Co",
+     "id": "GEG",
+     "name": "Spokane Intl Ap",
+     "state": "",
+     "elev_ft": "2343",
+     "inches": 1.7,
+     "hours": 6.0,
+     "time": "2026-11-22 18:00"
+    },
+    {
+     "id": "CO-JF-128",
+     "name": "Kittredge 2.5 Sse, Co",
      "state": "CO",
-     "elev_ft": "7546",
-     "inches": 6.9,
+     "elev_ft": "8068",
+     "inches": 5.5,
      "hours": 24.0,
-     "time": "2026-11-21 14:00"
+     "time": "2026-11-22 14:00"
+    },
+    {
+     "id": "CO-JF-551",
+     "name": "Evergreen 2.6 S, Co",
+     "state": "CO",
+     "elev_ft": "7539",
+     "inches": 5.5,
+     "hours": 24.0,
+     "time": "2026-11-22 14:00"
+    },
+    {
+     "id": "CO-JF-11",
+     "name": "Genesee 1 Sw, Co",
+     "state": "CO",
+     "elev_ft": "7333",
+     "inches": 5.0,
+     "hours": 24.0,
+     "time": "2026-11-22 14:00"
+    },
+    {
+     "id": "CO-JF-497",
+     "name": "Golden 1.6 Sw, Co",
+     "state": "CO",
+     "elev_ft": "7297",
+     "inches": 5.0,
+     "hours": 24.0,
+     "time": "2026-11-22 14:00"
+    },
+    {
+     "id": "OR-GR-1",
+     "name": "Prairie City 0.2 Ne, Or",
+     "state": "OR",
+     "elev_ft": "3579",
+     "inches": 5.0,
+     "hours": 24.0,
+     "time": "2026-11-22 15:30"
+    },
+    {
+     "id": "CO-JF-386",
+     "name": "Conifer 5.2 Wnw, Co",
+     "state": "CO",
+     "elev_ft": "9429",
+     "inches": 4.6,
+     "hours": 24.0,
+     "time": "2026-11-22 13:15"
     }
    ]
   },
@@ -113,111 +113,111 @@
      ""
     ],
     [
-     "BKCC2",
-     "2026-11-21 15:00",
-     "8.900",
+     "ID-KT-27",
+     "2026-11-23 01:00",
+     "20.000",
      "24.000",
-     "8179",
-     "BLACK CANYON OF THE GUNNISON"
+     "2415",
+     "HAYDEN 2.3 NE, ID"
     ],
     [
-     "CO-OR-32",
-     "2026-11-21 14:00",
-     "8.900",
+     "CO-CC-27",
+     "2026-11-22 14:00",
+     "7.200",
      "24.000",
-     "6611",
-     "COLONA 4.2 NW, CO"
+     "8241",
+     "EVERGREEN 5.0 NW, CO"
     ],
     [
-     "MT-PK-7",
-     "2026-11-21 14:00",
-     "8.500",
-     "24.000",
-     "5558",
-     "LIVINGSTON 6.6 ESE, MT"
-    ],
-    [
-     "CO-OR-19",
-     "2026-11-21 14:00",
-     "7.900",
-     "24.000",
-     "7828",
-     "RIDGWAY 5.3 NNW, CO"
-    ],
-    [
-     "GTF",
-     "2026-11-21 12:00",
-     "1.900",
-     "6.000",
-     "3655",
-     "GREAT FALLS ARPT"
-    ],
-    [
-     "CO-OR-13",
-     "2026-11-21 14:00",
-     "7.500",
-     "24.000",
-     "7644",
-     "RIDGWAY 3.3 NNW, CO"
-    ],
-    [
-     "MT-GR-8",
-     "2026-11-21 14:00",
-     "7.500",
-     "24.000",
-     "4764",
-     "EAST GLACIER PARK 0.7 SE, MT"
-    ],
-    [
-     "WY-SL-23",
-     "2026-11-21 14:00",
-     "7.500",
-     "24.000",
-     "7736",
-     "CORA 14.2 N, WY"
-    ],
-    [
-     "ID-CR-1",
-     "2026-11-21 14:00",
+     "CRLO3",
+     "2026-11-22 16:05",
      "7.000",
      "24.000",
-     "5771",
-     "SODA SPRINGS 1.3 WSW, ID"
+     "6499",
+     "CRATER LAKE NATIONAL PARK HQ"
     ],
     [
-     "CO-OR-35",
-     "2026-11-21 14:00",
-     "6.900",
-     "24.000",
-     "7546",
-     "RIDGWAY 3.4 N, CO"
+     "GEG",
+     "2026-11-22 18:00",
+     "1.700",
+     "6.000",
+     "2343",
+     "SPOKANE INTL AP"
     ],
     [
-     "WSMA2",
-     "2026-11-21 16:00",
-     "6.600",
+     "CO-JF-128",
+     "2026-11-22 14:00",
+     "5.500",
      "24.000",
-     "1181",
-     "WISEMAN"
+     "8068",
+     "KITTREDGE 2.5 SSE, CO"
     ],
     [
-     "CO-OR-23",
-     "2026-11-22 05:00",
-     "6.500",
+     "CO-JF-551",
+     "2026-11-22 14:00",
+     "5.500",
      "24.000",
-     "7805",
-     "OURAY 0.1 SE, CO"
+     "7539",
+     "EVERGREEN 2.6 S, CO"
     ],
     [
-     "ATAU1",
-     "2026-11-22 01:00",
-     "6.200",
+     "CO-JF-11",
+     "2026-11-22 14:00",
+     "5.000",
      "24.000",
-     "8684",
-     "ALTA"
+     "7333",
+     "GENESEE 1 SW, CO"
+    ],
+    [
+     "CO-JF-497",
+     "2026-11-22 14:00",
+     "5.000",
+     "24.000",
+     "7297",
+     "GOLDEN 1.6 SW, CO"
+    ],
+    [
+     "OR-GR-1",
+     "2026-11-22 15:30",
+     "5.000",
+     "24.000",
+     "3579",
+     "PRAIRIE CITY 0.2 NE, OR"
+    ],
+    [
+     "CO-JF-386",
+     "2026-11-22 13:15",
+     "4.600",
+     "24.000",
+     "9429",
+     "CONIFER 5.2 WNW, CO"
+    ],
+    [
+     "WA-CH-22",
+     "2026-11-22 15:00",
+     "4.400",
+     "24.000",
+     "1588",
+     "ENTIAT 12.2 NW, WA"
+    ],
+    [
+     "LMLO3",
+     "2026-11-22 18:00",
+     "4.000",
+     "24.000",
+     "4098",
+     "LEMOLO LAKE 3 NNW"
+    ],
+    [
+     "OLEO3",
+     "2026-11-22 16:00",
+     "4.000",
+     "24.000",
+     "4843",
+     "ODELL LAKE-EAST"
     ]
    ],
-   "count": 13003
+   "count": 10683
   }
  ]
 }
