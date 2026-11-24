@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:04:20.468040+00:00",
+ "updated": "2026-11-24T14:47:42.823441+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -36,8 +36,8 @@
     {
      "name": "Bengals",
      "abbr": "CIN",
-     "rec": "7-2",
-     "pct": 0.7777778
+     "rec": "7-3",
+     "pct": 0.7
     },
     {
      "name": "Browns",
@@ -135,8 +135,8 @@
     {
      "name": "Commanders",
      "abbr": "WSH",
-     "rec": "3-5-1",
-     "pct": 0.3888889
+     "rec": "4-5-1",
+     "pct": 0.45
     },
     {
      "name": "Eagles",
