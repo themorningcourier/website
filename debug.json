@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:29:57.781033+00:00",
+ "updated": "2026-11-24T04:04:20.468040+00:00",
  "log": [
   "https://site.api.espn.com/apis/v2/sports/football/nfl/standings?level=3 failed HTTP Error 403: Forbidden",
   "https://site.api.espn.com/apis/v2/sports/football/nfl/standings failed HTTP Error 403: Forbidden",
