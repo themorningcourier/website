@@ -1,97 +1,79 @@
 {
- "updated": "2026-11-24T08:44:37.085210+00:00",
+ "updated": "2026-11-24T20:19:12.058413+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "ID-KT-27",
-     "name": "Hayden 2.3 Ne, Id",
-     "state": "ID",
-     "elev_ft": "2415",
-     "inches": 20.0,
-     "hours": 24.0,
-     "time": "2026-11-23 01:00"
-    },
-    {
-     "id": "CO-CC-27",
-     "name": "Evergreen 5.0 Nw, Co",
-     "state": "CO",
-     "elev_ft": "8241",
-     "inches": 7.2,
-     "hours": 24.0,
-     "time": "2026-11-22 14:00"
-    },
-    {
-     "id": "CRLO3",
-     "name": "Crater Lake National Park Hq",
-     "state": "OR",
-     "elev_ft": "6499",
+     "id": "PDLM4",
+     "name": "Painesdale",
+     "state": "MI",
+     "elev_ft": "1319",
      "inches": 7.0,
      "hours": 24.0,
-     "time": "2026-11-22 16:05"
+     "time": "2026-11-23 13:00"
     },
     {
-     "id": "GEG",
-     "name": "Spokane Intl Ap",
-     "state": "",
-     "elev_ft": "2343",
-     "inches": 1.7,
-     "hours": 6.0,
-     "time": "2026-11-22 18:00"
+     "id": "HERM4",
+     "name": "Herman,Mi",
+     "state": "MI",
+     "elev_ft": "1837",
+     "inches": 6.7,
+     "hours": 24.0,
+     "time": "2026-11-23 13:00"
     },
     {
-     "id": "CO-JF-128",
-     "name": "Kittredge 2.5 Sse, Co",
+     "id": "MIEM4",
+     "name": "Michigamme 3Wnw",
+     "state": "MI",
+     "elev_ft": "1716",
+     "inches": 4.3,
+     "hours": 24.0,
+     "time": "2026-11-23 13:00"
+    },
+    {
+     "id": "CO-OR-23",
+     "name": "Ouray 0.1 Se, Co",
      "state": "CO",
-     "elev_ft": "8068",
-     "inches": 5.5,
+     "elev_ft": "7805",
+     "inches": 4.2,
      "hours": 24.0,
-     "time": "2026-11-22 14:00"
+     "time": "2026-11-24 05:00"
     },
     {
-     "id": "CO-JF-551",
-     "name": "Evergreen 2.6 S, Co",
+     "id": "CO-LP-35",
+     "name": "Bayfield 7.0 N, Co",
      "state": "CO",
-     "elev_ft": "7539",
-     "inches": 5.5,
+     "elev_ft": "8041",
+     "inches": 4.0,
      "hours": 24.0,
-     "time": "2026-11-22 14:00"
+     "time": "2026-11-23 23:00"
     },
     {
-     "id": "CO-JF-11",
-     "name": "Genesee 1 Sw, Co",
-     "state": "CO",
-     "elev_ft": "7333",
-     "inches": 5.0,
+     "id": "MI-HG-21",
+     "name": "Atlantic Mine 3.9 Nw, Mi",
+     "state": "MI",
+     "elev_ft": "971",
+     "inches": 4.0,
      "hours": 24.0,
-     "time": "2026-11-22 14:00"
+     "time": "2026-11-23 12:00"
     },
     {
-     "id": "CO-JF-497",
-     "name": "Golden 1.6 Sw, Co",
-     "state": "CO",
-     "elev_ft": "7297",
-     "inches": 5.0,
+     "id": "MI-MQ-34",
+     "name": "Skandia 3.0 Sse, Mi",
+     "state": "MI",
+     "elev_ft": "1109",
+     "inches": 4.0,
      "hours": 24.0,
-     "time": "2026-11-22 14:00"
+     "time": "2026-11-23 11:55"
     },
     {
-     "id": "OR-GR-1",
-     "name": "Prairie City 0.2 Ne, Or",
-     "state": "OR",
-     "elev_ft": "3579",
-     "inches": 5.0,
-     "hours": 24.0,
-     "time": "2026-11-22 15:30"
-    },
-    {
-     "id": "CO-JF-386",
-     "name": "Conifer 5.2 Wnw, Co",
-     "state": "CO",
-     "elev_ft": "9429",
-     "inches": 4.6,
-     "hours": 24.0,
-     "time": "2026-11-22 13:15"
+     "id": "KSGM4",
+     "name": "Kearsarge",
+     "state": "MI",
+     "elev_ft": "1119",
+     "inches": 2.0,
+     "hours": 12.0,
+     "time": "2026-11-23 13:00"
     }
    ]
   },
@@ -113,111 +95,111 @@
      ""
     ],
     [
-     "ID-KT-27",
-     "2026-11-23 01:00",
-     "20.000",
+     "CAN-ON-335",
+     "2026-11-23 13:00",
+     "7.600",
      "24.000",
-     "2415",
-     "HAYDEN 2.3 NE, ID"
+     "1007",
+     "NAKINA 1.6 NW - MNRF, CAN"
     ],
     [
-     "CO-CC-27",
-     "2026-11-22 14:00",
-     "7.200",
+     "CAN-ON-224",
+     "2026-11-23 14:00",
+     "7.400",
      "24.000",
-     "8241",
-     "EVERGREEN 5.0 NW, CO"
+     "1040",
+     "NAKINA 3.8 N - MNRF, CAN"
     ],
     [
-     "CRLO3",
-     "2026-11-22 16:05",
+     "PDLM4",
+     "2026-11-23 13:00",
      "7.000",
      "24.000",
-     "6499",
-     "CRATER LAKE NATIONAL PARK HQ"
+     "1319",
+     "PAINESDALE"
     ],
     [
-     "GEG",
-     "2026-11-22 18:00",
-     "1.700",
-     "6.000",
-     "2343",
-     "SPOKANE INTL AP"
-    ],
-    [
-     "CO-JF-128",
-     "2026-11-22 14:00",
-     "5.500",
+     "HERM4",
+     "2026-11-23 13:00",
+     "6.700",
      "24.000",
-     "8068",
-     "KITTREDGE 2.5 SSE, CO"
+     "1837",
+     "HERMAN,MI"
     ],
     [
-     "CO-JF-551",
-     "2026-11-22 14:00",
-     "5.500",
+     "MIEM4",
+     "2026-11-23 13:00",
+     "4.300",
      "24.000",
-     "7539",
-     "EVERGREEN 2.6 S, CO"
+     "1716",
+     "MICHIGAMME 3WNW"
     ],
     [
-     "CO-JF-11",
-     "2026-11-22 14:00",
-     "5.000",
+     "CO-OR-23",
+     "2026-11-24 05:00",
+     "4.200",
      "24.000",
-     "7333",
-     "GENESEE 1 SW, CO"
+     "7805",
+     "OURAY 0.1 SE, CO"
     ],
     [
-     "CO-JF-497",
-     "2026-11-22 14:00",
-     "5.000",
-     "24.000",
-     "7297",
-     "GOLDEN 1.6 SW, CO"
-    ],
-    [
-     "OR-GR-1",
-     "2026-11-22 15:30",
-     "5.000",
-     "24.000",
-     "3579",
-     "PRAIRIE CITY 0.2 NE, OR"
-    ],
-    [
-     "CO-JF-386",
-     "2026-11-22 13:15",
-     "4.600",
-     "24.000",
-     "9429",
-     "CONIFER 5.2 WNW, CO"
-    ],
-    [
-     "WA-CH-22",
-     "2026-11-22 15:00",
-     "4.400",
-     "24.000",
-     "1588",
-     "ENTIAT 12.2 NW, WA"
-    ],
-    [
-     "LMLO3",
-     "2026-11-22 18:00",
+     "CO-LP-35",
+     "2026-11-23 23:00",
      "4.000",
      "24.000",
-     "4098",
-     "LEMOLO LAKE 3 NNW"
+     "8041",
+     "BAYFIELD 7.0 N, CO"
     ],
     [
-     "OLEO3",
-     "2026-11-22 16:00",
+     "MI-HG-21",
+     "2026-11-23 12:00",
      "4.000",
      "24.000",
-     "4843",
-     "ODELL LAKE-EAST"
+     "971",
+     "ATLANTIC MINE 3.9 NW, MI"
+    ],
+    [
+     "MI-MQ-34",
+     "2026-11-23 11:55",
+     "4.000",
+     "24.000",
+     "1109",
+     "SKANDIA 3.0 SSE, MI"
+    ],
+    [
+     "KSGM4",
+     "2026-11-23 13:00",
+     "2.000",
+     "12.000",
+     "1119",
+     "KEARSARGE"
+    ],
+    [
+     "BGBM4",
+     "2026-11-23 13:00",
+     "3.700",
+     "24.000",
+     "778",
+     "BIG BAY 1NW"
+    ],
+    [
+     "MI-MQ-33",
+     "2026-11-23 13:25",
+     "3.600",
+     "24.000",
+     "682",
+     "MARQUETTE 2.0 WNW, MI"
+    ],
+    [
+     "ID-BR-39",
+     "2026-11-23 15:00",
+     "3.500",
+     "24.000",
+     "2201",
+     "SANDPOINT 7.0 NE, ID"
     ]
    ],
-   "count": 10683
+   "count": 9708
   }
  ]
 }
