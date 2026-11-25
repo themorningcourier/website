@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:02:49.593669+00:00",
+ "updated": "2026-11-25T18:09:12.541787+00:00",
  "season": "2026-27",
  "start": "2026-11-01",
  "end": "2027-04-01",
@@ -274,97 +274,88 @@
     "name": "Salt Lake City, UT"
    },
    "ANC": {
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "valid": true,
     "day": 0.0,
     "trace": false,
     "month": 9.2,
-    "month_normal": 9.2,
+    "month_normal": 9.6,
     "season": 10.1,
-    "season_normal": 15.2,
-    "season_dep": -5.1,
+    "season_normal": 15.6,
+    "season_dep": -5.5,
     "depth": 6.0,
     "final": true,
-    "tmax": 23,
+    "tmax": 24,
     "tmax_normal": 27,
-    "tmin": 11,
-    "tmin_normal": 17,
-    "issued": "2026-11-24T09:50:00+00:00",
+    "tmin": 9,
+    "tmin_normal": 16,
+    "issued": "2026-11-25T11:28:00+00:00",
     "name": "Anchorage, AK"
    }
   },
   "top": [
    {
-    "id": "PDLM4",
-    "name": "Painesdale",
-    "state": "MI",
-    "elev_ft": "1319",
-    "inches": 7.0,
-    "hours": 24.0,
-    "time": "2026-11-23 13:00"
-   },
-   {
-    "id": "HERM4",
-    "name": "Herman,Mi",
-    "state": "MI",
-    "elev_ft": "1837",
-    "inches": 6.7,
-    "hours": 24.0,
-    "time": "2026-11-23 13:00"
-   },
-   {
-    "id": "MIEM4",
-    "name": "Michigamme 3Wnw",
-    "state": "MI",
-    "elev_ft": "1716",
-    "inches": 4.3,
-    "hours": 24.0,
-    "time": "2026-11-23 13:00"
-   },
-   {
-    "id": "CO-OR-23",
-    "name": "Ouray 0.1 Se, Co",
+    "id": "CO-LP-79",
+    "name": "Rockwood 6.9 Nnw, Co",
     "state": "CO",
-    "elev_ft": "7805",
-    "inches": 4.2,
+    "elev_ft": "8976",
+    "inches": 7.4,
     "hours": 24.0,
-    "time": "2026-11-24 05:00"
+    "time": "2026-11-24 14:00"
    },
    {
-    "id": "CO-LP-35",
-    "name": "Bayfield 7.0 N, Co",
+    "id": "CO-OR-2",
+    "name": "Ouray .23 Nnw, Co",
     "state": "CO",
-    "elev_ft": "8041",
-    "inches": 4.0,
+    "elev_ft": "7733",
+    "inches": 5.8,
     "hours": 24.0,
-    "time": "2026-11-23 23:00"
+    "time": "2026-11-24 14:01"
    },
    {
-    "id": "MI-HG-21",
-    "name": "Atlantic Mine 3.9 Nw, Mi",
-    "state": "MI",
-    "elev_ft": "971",
-    "inches": 4.0,
+    "id": "URYC2",
+    "name": "Ouray",
+    "state": "CO",
+    "elev_ft": "7736",
+    "inches": 5.8,
     "hours": 24.0,
-    "time": "2026-11-23 12:00"
+    "time": "2026-11-24 14:01"
    },
    {
-    "id": "MI-MQ-34",
-    "name": "Skandia 3.0 Sse, Mi",
-    "state": "MI",
-    "elev_ft": "1109",
-    "inches": 4.0,
+    "id": "CO-OR-25",
+    "name": "Ouray 2.1 Nnw, Co",
+    "state": "CO",
+    "elev_ft": "7635",
+    "inches": 5.5,
     "hours": 24.0,
-    "time": "2026-11-23 11:55"
+    "time": "2026-11-24 14:00"
    },
    {
-    "id": "KSGM4",
-    "name": "Kearsarge",
-    "state": "MI",
-    "elev_ft": "1119",
-    "inches": 2.0,
-    "hours": 12.0,
-    "time": "2026-11-23 13:00"
+    "id": "CO-LP-143",
+    "name": "Durango 4.2 Se, Co",
+    "state": "CO",
+    "elev_ft": "6801",
+    "inches": 4.0,
+    "hours": 24.0,
+    "time": "2026-11-24 14:00"
+   },
+   {
+    "id": "NM-RA-66",
+    "name": "Chama 1.0 N, Nm",
+    "state": "NM",
+    "elev_ft": "7910",
+    "inches": 4.0,
+    "hours": 24.0,
+    "time": "2026-11-24 14:00"
+   },
+   {
+    "id": "CO-OR-19",
+    "name": "Ridgway 5.3 Nnw, Co",
+    "state": "CO",
+    "elev_ft": "7828",
+    "inches": 3.8,
+    "hours": 24.0,
+    "time": "2026-11-24 15:00"
    }
   ],
   "home": {
@@ -376,29 +367,8 @@
       "name": "Stowe 0.2 Sw, Vt",
       "inches": 0.0,
       "hours": 24.0,
-      "time": "2026-11-23 12:30",
+      "time": "2026-11-25 12:30",
       "elev_ft": "738"
-     },
-     {
-      "id": "VT-LM-26",
-      "name": "Stowe 2.4 N, Vt",
-      "inches": 0.0,
-      "hours": 24.0,
-      "time": "2026-11-23 11:53",
-      "elev_ft": "1214"
-     }
-    ]
-   },
-   "snowshoe": {
-    "name": "Snowshoe, WV",
-    "reports": [
-     {
-      "id": "SNOW2",
-      "name": "Snowshoe",
-      "inches": 0.0,
-      "hours": 24.0,
-      "time": "2026-11-23 09:00",
-      "elev_ft": "4780"
      }
     ]
    }
@@ -11628,97 +11598,88 @@
      "name": "Salt Lake City, UT"
     },
     "ANC": {
-     "date": "2026-11-23",
+     "date": "2026-11-24",
      "valid": true,
      "day": 0.0,
      "trace": false,
      "month": 9.2,
-     "month_normal": 9.2,
+     "month_normal": 9.6,
      "season": 10.1,
-     "season_normal": 15.2,
-     "season_dep": -5.1,
+     "season_normal": 15.6,
+     "season_dep": -5.5,
      "depth": 6.0,
      "final": true,
-     "tmax": 23,
+     "tmax": 24,
      "tmax_normal": 27,
-     "tmin": 11,
-     "tmin_normal": 17,
-     "issued": "2026-11-24T09:50:00+00:00",
+     "tmin": 9,
+     "tmin_normal": 16,
+     "issued": "2026-11-25T11:28:00+00:00",
      "name": "Anchorage, AK"
     }
    },
    "top": [
     {
-     "id": "PDLM4",
-     "name": "Painesdale",
-     "state": "MI",
-     "elev_ft": "1319",
-     "inches": 7.0,
-     "hours": 24.0,
-     "time": "2026-11-23 13:00"
-    },
-    {
-     "id": "HERM4",
-     "name": "Herman,Mi",
-     "state": "MI",
-     "elev_ft": "1837",
-     "inches": 6.7,
-     "hours": 24.0,
-     "time": "2026-11-23 13:00"
-    },
-    {
-     "id": "MIEM4",
-     "name": "Michigamme 3Wnw",
-     "state": "MI",
-     "elev_ft": "1716",
-     "inches": 4.3,
-     "hours": 24.0,
-     "time": "2026-11-23 13:00"
-    },
-    {
-     "id": "CO-OR-23",
-     "name": "Ouray 0.1 Se, Co",
+     "id": "CO-LP-79",
+     "name": "Rockwood 6.9 Nnw, Co",
      "state": "CO",
-     "elev_ft": "7805",
-     "inches": 4.2,
+     "elev_ft": "8976",
+     "inches": 7.4,
      "hours": 24.0,
-     "time": "2026-11-24 05:00"
+     "time": "2026-11-24 14:00"
     },
     {
-     "id": "CO-LP-35",
-     "name": "Bayfield 7.0 N, Co",
+     "id": "CO-OR-2",
+     "name": "Ouray .23 Nnw, Co",
      "state": "CO",
-     "elev_ft": "8041",
-     "inches": 4.0,
+     "elev_ft": "7733",
+     "inches": 5.8,
      "hours": 24.0,
-     "time": "2026-11-23 23:00"
+     "time": "2026-11-24 14:01"
     },
     {
-     "id": "MI-HG-21",
-     "name": "Atlantic Mine 3.9 Nw, Mi",
-     "state": "MI",
-     "elev_ft": "971",
-     "inches": 4.0,
+     "id": "URYC2",
+     "name": "Ouray",
+     "state": "CO",
+     "elev_ft": "7736",
+     "inches": 5.8,
      "hours": 24.0,
-     "time": "2026-11-23 12:00"
+     "time": "2026-11-24 14:01"
     },
     {
-     "id": "MI-MQ-34",
-     "name": "Skandia 3.0 Sse, Mi",
-     "state": "MI",
-     "elev_ft": "1109",
-     "inches": 4.0,
+     "id": "CO-OR-25",
+     "name": "Ouray 2.1 Nnw, Co",
+     "state": "CO",
+     "elev_ft": "7635",
+     "inches": 5.5,
      "hours": 24.0,
-     "time": "2026-11-23 11:55"
+     "time": "2026-11-24 14:00"
     },
     {
-     "id": "KSGM4",
-     "name": "Kearsarge",
-     "state": "MI",
-     "elev_ft": "1119",
-     "inches": 2.0,
-     "hours": 12.0,
-     "time": "2026-11-23 13:00"
+     "id": "CO-LP-143",
+     "name": "Durango 4.2 Se, Co",
+     "state": "CO",
+     "elev_ft": "6801",
+     "inches": 4.0,
+     "hours": 24.0,
+     "time": "2026-11-24 14:00"
+    },
+    {
+     "id": "NM-RA-66",
+     "name": "Chama 1.0 N, Nm",
+     "state": "NM",
+     "elev_ft": "7910",
+     "inches": 4.0,
+     "hours": 24.0,
+     "time": "2026-11-24 14:00"
+    },
+    {
+     "id": "CO-OR-19",
+     "name": "Ridgway 5.3 Nnw, Co",
+     "state": "CO",
+     "elev_ft": "7828",
+     "inches": 3.8,
+     "hours": 24.0,
+     "time": "2026-11-24 15:00"
     }
    ],
    "home": {
@@ -11730,29 +11691,8 @@
        "name": "Stowe 0.2 Sw, Vt",
        "inches": 0.0,
        "hours": 24.0,
-       "time": "2026-11-23 12:30",
+       "time": "2026-11-25 12:30",
        "elev_ft": "738"
-      },
-      {
-       "id": "VT-LM-26",
-       "name": "Stowe 2.4 N, Vt",
-       "inches": 0.0,
-       "hours": 24.0,
-       "time": "2026-11-23 11:53",
-       "elev_ft": "1214"
-      }
-     ]
-    },
-    "snowshoe": {
-     "name": "Snowshoe, WV",
-     "reports": [
-      {
-       "id": "SNOW2",
-       "name": "Snowshoe",
-       "inches": 0.0,
-       "hours": 24.0,
-       "time": "2026-11-23 09:00",
-       "elev_ft": "4780"
       }
      ]
     }
