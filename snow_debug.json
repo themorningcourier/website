@@ -1,70 +1,97 @@
 {
- "updated": "2026-11-26T10:02:08.608303+00:00",
+ "updated": "2026-11-26T17:52:16.676913+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "CO-LP-79",
-     "name": "Rockwood 6.9 Nnw, Co",
-     "state": "CO",
-     "elev_ft": "8976",
-     "inches": 7.4,
-     "hours": 24.0,
-     "time": "2026-11-24 14:00"
+     "id": "STL",
+     "name": "Lambert-St Louis Intl Arpt",
+     "state": "",
+     "elev_ft": "522",
+     "inches": 4.5,
+     "hours": 6.0,
+     "time": "2026-11-26 06:00"
     },
     {
-     "id": "CO-OR-2",
-     "name": "Ouray .23 Nnw, Co",
-     "state": "CO",
-     "elev_ft": "7733",
-     "inches": 5.8,
-     "hours": 24.0,
-     "time": "2026-11-24 14:01"
+     "id": "LSX",
+     "name": "St Louis, Mo",
+     "state": "MO",
+     "elev_ft": "604",
+     "inches": 3.5,
+     "hours": 6.0,
+     "time": "2026-11-26 06:00"
     },
     {
-     "id": "URYC2",
-     "name": "Ouray",
-     "state": "CO",
-     "elev_ft": "7736",
-     "inches": 5.8,
-     "hours": 24.0,
-     "time": "2026-11-24 14:01"
+     "id": "SFDI2",
+     "name": "Springfield #2",
+     "state": "IL",
+     "elev_ft": "604",
+     "inches": 1.0,
+     "hours": 6.0,
+     "time": "2026-11-26 06:00"
     },
     {
-     "id": "CO-OR-25",
-     "name": "Ouray 2.1 Nnw, Co",
-     "state": "CO",
-     "elev_ft": "7635",
-     "inches": 5.5,
+     "id": "AHNA2",
+     "name": "Haines #2",
+     "state": "AK",
+     "elev_ft": "108",
+     "inches": 3.4,
      "hours": 24.0,
-     "time": "2026-11-24 14:00"
+     "time": "2026-11-25 17:00"
     },
     {
-     "id": "CO-LP-143",
-     "name": "Durango 4.2 Se, Co",
-     "state": "CO",
-     "elev_ft": "6801",
-     "inches": 4.0,
+     "id": "MN-NB-7",
+     "name": "Worthington 1.9 Sw, Mn",
+     "state": "MN",
+     "elev_ft": "1585",
+     "inches": 3.0,
      "hours": 24.0,
-     "time": "2026-11-24 14:00"
+     "time": "2026-11-25 13:00"
     },
     {
-     "id": "NM-RA-66",
-     "name": "Chama 1.0 N, Nm",
-     "state": "NM",
-     "elev_ft": "7910",
-     "inches": 4.0,
-     "hours": 24.0,
-     "time": "2026-11-24 14:00"
+     "id": "STL",
+     "name": "Lambert-St Louis Intl Arpt",
+     "state": "",
+     "elev_ft": "522",
+     "inches": 0.7,
+     "hours": 6.0,
+     "time": "2026-11-26 00:00"
     },
     {
-     "id": "CO-OR-19",
-     "name": "Ridgway 5.3 Nnw, Co",
-     "state": "CO",
-     "elev_ft": "7828",
-     "inches": 3.8,
+     "id": "MN-NB-8",
+     "name": "Worthington 4.0 S, Mn",
+     "state": "MN",
+     "elev_ft": "1578",
+     "inches": 2.5,
      "hours": 24.0,
-     "time": "2026-11-24 15:00"
+     "time": "2026-11-25 13:00"
+    },
+    {
+     "id": "IA-OB-7",
+     "name": "Sanborn 0.4 N, Ia",
+     "state": "IA",
+     "elev_ft": "1552",
+     "inches": 2.2,
+     "hours": 24.0,
+     "time": "2026-11-25 15:00"
+    },
+    {
+     "id": "SHDI4",
+     "name": "Sheldon,Ia",
+     "state": "IA",
+     "elev_ft": "1417",
+     "inches": 2.0,
+     "hours": 24.0,
+     "time": "2026-11-25 13:00"
+    },
+    {
+     "id": "CRLO3",
+     "name": "Crater Lake National Park Hq",
+     "state": "OR",
+     "elev_ft": "6499",
+     "inches": 1.8,
+     "hours": 24.0,
+     "time": "2026-11-25 16:00"
     }
    ]
   },
@@ -86,111 +113,111 @@
      ""
     ],
     [
-     "CO-LP-79",
-     "2026-11-24 14:00",
-     "7.400",
-     "24.000",
-     "8976",
-     "ROCKWOOD 6.9 NNW, CO"
+     "STL",
+     "2026-11-26 06:00",
+     "4.500",
+     "6.000",
+     "522",
+     "LAMBERT-ST LOUIS INTL ARPT"
     ],
     [
-     "CO-OR-2",
-     "2026-11-24 14:01",
-     "5.800",
-     "24.000",
-     "7733",
-     "OURAY .23 NNW, CO"
+     "LSX",
+     "2026-11-26 06:00",
+     "3.500",
+     "6.000",
+     "604",
+     "ST LOUIS, MO"
     ],
     [
-     "URYC2",
-     "2026-11-24 14:01",
-     "5.800",
-     "24.000",
-     "7736",
-     "OURAY"
+     "SFDI2",
+     "2026-11-26 06:00",
+     "1.000",
+     "6.000",
+     "604",
+     "SPRINGFIELD #2"
     ],
     [
-     "CO-OR-25",
-     "2026-11-24 14:00",
-     "5.500",
+     "AHNA2",
+     "2026-11-25 17:00",
+     "3.400",
      "24.000",
-     "7635",
-     "OURAY 2.1 NNW, CO"
+     "108",
+     "HAINES #2"
     ],
     [
-     "CAN-ON-976",
-     "2026-11-24 12:24",
-     "4.100",
+     "MN-NB-7",
+     "2026-11-25 13:00",
+     "3.000",
      "24.000",
-     "751",
-     "CRAIGLEITH 0.9 S, CAN"
+     "1585",
+     "WORTHINGTON 1.9 SW, MN"
     ],
     [
-     "CO-LP-143",
-     "2026-11-24 14:00",
-     "4.000",
-     "24.000",
-     "6801",
-     "DURANGO 4.2 SE, CO"
+     "STL",
+     "2026-11-26 00:00",
+     "0.700",
+     "6.000",
+     "522",
+     "LAMBERT-ST LOUIS INTL ARPT"
     ],
     [
-     "NM-RA-66",
-     "2026-11-24 14:00",
-     "4.000",
+     "MN-NB-8",
+     "2026-11-25 13:00",
+     "2.500",
      "24.000",
-     "7910",
-     "CHAMA 1.0 N, NM"
+     "1578",
+     "WORTHINGTON 4.0 S, MN"
     ],
     [
-     "CAN-ON-784",
-     "2026-11-24 13:00",
-     "3.900",
+     "IA-OB-7",
+     "2026-11-25 15:00",
+     "2.200",
      "24.000",
-     "823",
-     "KOMOKA 3.1 W, CAN"
+     "1552",
+     "SANBORN 0.4 N, IA"
     ],
     [
-     "CAN-ON-886",
-     "2026-11-24 14:00",
-     "3.900",
+     "SHDI4",
+     "2026-11-25 13:00",
+     "2.000",
      "24.000",
-     "850",
-     "LONDON 2.6 SE, CAN"
+     "1417",
+     "SHELDON,IA"
     ],
     [
-     "CO-OR-19",
-     "2026-11-24 15:00",
-     "3.800",
+     "CRLO3",
+     "2026-11-25 16:00",
+     "1.800",
      "24.000",
-     "7828",
-     "RIDGWAY 5.3 NNW, CO"
+     "6499",
+     "CRATER LAKE NATIONAL PARK HQ"
     ],
     [
-     "RGWC2",
-     "2026-11-24 14:00",
-     "3.800",
+     "ANXA2",
+     "2026-11-25 16:00",
+     "1.700",
      "24.000",
-     "7044",
-     "RIDGWAY"
+     "49",
+     "ANNEX CREEK"
     ],
     [
-     "BKCC2",
-     "2026-11-24 15:00",
-     "3.600",
+     "MN-RW-3",
+     "2026-11-25 12:17",
+     "1.500",
      "24.000",
-     "8179",
-     "BLACK CANYON OF THE GUNNISON"
+     "1093",
+     "LUCAN 0.2 ESE, MN"
     ],
     [
-     "KLKM4",
-     "2026-11-24 13:00",
-     "3.600",
+     "PIPM5",
+     "2026-11-25 14:00",
+     "1.500",
      "24.000",
-     "1037",
-     "KALKASKA"
+     "1650",
+     "PIPESTONE COOP AND PIPESTONE CREEK NEAR PIPESTONE"
     ]
    ],
-   "count": 12413
+   "count": 10313
   }
  ]
 }

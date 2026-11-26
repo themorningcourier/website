@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T10:02:08.608303+00:00",
+ "updated": "2026-11-26T17:52:16.676913+00:00",
  "season": "2026-27",
  "start": "2026-11-01",
  "end": "2027-04-01",
@@ -295,67 +295,94 @@
   },
   "top": [
    {
-    "id": "CO-LP-79",
-    "name": "Rockwood 6.9 Nnw, Co",
-    "state": "CO",
-    "elev_ft": "8976",
-    "inches": 7.4,
-    "hours": 24.0,
-    "time": "2026-11-24 14:00"
+    "id": "STL",
+    "name": "Lambert-St Louis Intl Arpt",
+    "state": "",
+    "elev_ft": "522",
+    "inches": 4.5,
+    "hours": 6.0,
+    "time": "2026-11-26 06:00"
    },
    {
-    "id": "CO-OR-2",
-    "name": "Ouray .23 Nnw, Co",
-    "state": "CO",
-    "elev_ft": "7733",
-    "inches": 5.8,
-    "hours": 24.0,
-    "time": "2026-11-24 14:01"
+    "id": "LSX",
+    "name": "St Louis, Mo",
+    "state": "MO",
+    "elev_ft": "604",
+    "inches": 3.5,
+    "hours": 6.0,
+    "time": "2026-11-26 06:00"
    },
    {
-    "id": "URYC2",
-    "name": "Ouray",
-    "state": "CO",
-    "elev_ft": "7736",
-    "inches": 5.8,
-    "hours": 24.0,
-    "time": "2026-11-24 14:01"
+    "id": "SFDI2",
+    "name": "Springfield #2",
+    "state": "IL",
+    "elev_ft": "604",
+    "inches": 1.0,
+    "hours": 6.0,
+    "time": "2026-11-26 06:00"
    },
    {
-    "id": "CO-OR-25",
-    "name": "Ouray 2.1 Nnw, Co",
-    "state": "CO",
-    "elev_ft": "7635",
-    "inches": 5.5,
+    "id": "AHNA2",
+    "name": "Haines #2",
+    "state": "AK",
+    "elev_ft": "108",
+    "inches": 3.4,
     "hours": 24.0,
-    "time": "2026-11-24 14:00"
+    "time": "2026-11-25 17:00"
    },
    {
-    "id": "CO-LP-143",
-    "name": "Durango 4.2 Se, Co",
-    "state": "CO",
-    "elev_ft": "6801",
-    "inches": 4.0,
+    "id": "MN-NB-7",
+    "name": "Worthington 1.9 Sw, Mn",
+    "state": "MN",
+    "elev_ft": "1585",
+    "inches": 3.0,
     "hours": 24.0,
-    "time": "2026-11-24 14:00"
+    "time": "2026-11-25 13:00"
    },
    {
-    "id": "NM-RA-66",
-    "name": "Chama 1.0 N, Nm",
-    "state": "NM",
-    "elev_ft": "7910",
-    "inches": 4.0,
-    "hours": 24.0,
-    "time": "2026-11-24 14:00"
+    "id": "STL",
+    "name": "Lambert-St Louis Intl Arpt",
+    "state": "",
+    "elev_ft": "522",
+    "inches": 0.7,
+    "hours": 6.0,
+    "time": "2026-11-26 00:00"
    },
    {
-    "id": "CO-OR-19",
-    "name": "Ridgway 5.3 Nnw, Co",
-    "state": "CO",
-    "elev_ft": "7828",
-    "inches": 3.8,
+    "id": "MN-NB-8",
+    "name": "Worthington 4.0 S, Mn",
+    "state": "MN",
+    "elev_ft": "1578",
+    "inches": 2.5,
     "hours": 24.0,
-    "time": "2026-11-24 15:00"
+    "time": "2026-11-25 13:00"
+   },
+   {
+    "id": "IA-OB-7",
+    "name": "Sanborn 0.4 N, Ia",
+    "state": "IA",
+    "elev_ft": "1552",
+    "inches": 2.2,
+    "hours": 24.0,
+    "time": "2026-11-25 15:00"
+   },
+   {
+    "id": "SHDI4",
+    "name": "Sheldon,Ia",
+    "state": "IA",
+    "elev_ft": "1417",
+    "inches": 2.0,
+    "hours": 24.0,
+    "time": "2026-11-25 13:00"
+   },
+   {
+    "id": "CRLO3",
+    "name": "Crater Lake National Park Hq",
+    "state": "OR",
+    "elev_ft": "6499",
+    "inches": 1.8,
+    "hours": 24.0,
+    "time": "2026-11-25 16:00"
    }
   ],
   "home": {
@@ -363,25 +390,12 @@
     "name": "Stowe / Mt. Mansfield",
     "reports": [
      {
-      "id": "VT-LM-34",
-      "name": "Stowe 0.4 Sw, Vt",
-      "inches": 0.001,
-      "hours": 24.0,
-      "time": "2026-11-24 12:00",
-      "elev_ft": "682"
-     }
-    ]
-   },
-   "snowshoe": {
-    "name": "Snowshoe, WV",
-    "reports": [
-     {
-      "id": "SNOW2",
-      "name": "Snowshoe",
+      "id": "VT-LM-1",
+      "name": "Stowe 0.2 Sw, Vt",
       "inches": 0.0,
       "hours": 24.0,
-      "time": "2026-11-24 10:00",
-      "elev_ft": "4780"
+      "time": "2026-11-25 12:30",
+      "elev_ft": "738"
      }
     ]
    }
@@ -12003,67 +12017,94 @@
    },
    "top": [
     {
-     "id": "CO-LP-79",
-     "name": "Rockwood 6.9 Nnw, Co",
-     "state": "CO",
-     "elev_ft": "8976",
-     "inches": 7.4,
-     "hours": 24.0,
-     "time": "2026-11-24 14:00"
+     "id": "STL",
+     "name": "Lambert-St Louis Intl Arpt",
+     "state": "",
+     "elev_ft": "522",
+     "inches": 4.5,
+     "hours": 6.0,
+     "time": "2026-11-26 06:00"
     },
     {
-     "id": "CO-OR-2",
-     "name": "Ouray .23 Nnw, Co",
-     "state": "CO",
-     "elev_ft": "7733",
-     "inches": 5.8,
-     "hours": 24.0,
-     "time": "2026-11-24 14:01"
+     "id": "LSX",
+     "name": "St Louis, Mo",
+     "state": "MO",
+     "elev_ft": "604",
+     "inches": 3.5,
+     "hours": 6.0,
+     "time": "2026-11-26 06:00"
     },
     {
-     "id": "URYC2",
-     "name": "Ouray",
-     "state": "CO",
-     "elev_ft": "7736",
-     "inches": 5.8,
-     "hours": 24.0,
-     "time": "2026-11-24 14:01"
+     "id": "SFDI2",
+     "name": "Springfield #2",
+     "state": "IL",
+     "elev_ft": "604",
+     "inches": 1.0,
+     "hours": 6.0,
+     "time": "2026-11-26 06:00"
     },
     {
-     "id": "CO-OR-25",
-     "name": "Ouray 2.1 Nnw, Co",
-     "state": "CO",
-     "elev_ft": "7635",
-     "inches": 5.5,
+     "id": "AHNA2",
+     "name": "Haines #2",
+     "state": "AK",
+     "elev_ft": "108",
+     "inches": 3.4,
      "hours": 24.0,
-     "time": "2026-11-24 14:00"
+     "time": "2026-11-25 17:00"
     },
     {
-     "id": "CO-LP-143",
-     "name": "Durango 4.2 Se, Co",
-     "state": "CO",
-     "elev_ft": "6801",
-     "inches": 4.0,
+     "id": "MN-NB-7",
+     "name": "Worthington 1.9 Sw, Mn",
+     "state": "MN",
+     "elev_ft": "1585",
+     "inches": 3.0,
      "hours": 24.0,
-     "time": "2026-11-24 14:00"
+     "time": "2026-11-25 13:00"
     },
     {
-     "id": "NM-RA-66",
-     "name": "Chama 1.0 N, Nm",
-     "state": "NM",
-     "elev_ft": "7910",
-     "inches": 4.0,
-     "hours": 24.0,
-     "time": "2026-11-24 14:00"
+     "id": "STL",
+     "name": "Lambert-St Louis Intl Arpt",
+     "state": "",
+     "elev_ft": "522",
+     "inches": 0.7,
+     "hours": 6.0,
+     "time": "2026-11-26 00:00"
     },
     {
-     "id": "CO-OR-19",
-     "name": "Ridgway 5.3 Nnw, Co",
-     "state": "CO",
-     "elev_ft": "7828",
-     "inches": 3.8,
+     "id": "MN-NB-8",
+     "name": "Worthington 4.0 S, Mn",
+     "state": "MN",
+     "elev_ft": "1578",
+     "inches": 2.5,
      "hours": 24.0,
-     "time": "2026-11-24 15:00"
+     "time": "2026-11-25 13:00"
+    },
+    {
+     "id": "IA-OB-7",
+     "name": "Sanborn 0.4 N, Ia",
+     "state": "IA",
+     "elev_ft": "1552",
+     "inches": 2.2,
+     "hours": 24.0,
+     "time": "2026-11-25 15:00"
+    },
+    {
+     "id": "SHDI4",
+     "name": "Sheldon,Ia",
+     "state": "IA",
+     "elev_ft": "1417",
+     "inches": 2.0,
+     "hours": 24.0,
+     "time": "2026-11-25 13:00"
+    },
+    {
+     "id": "CRLO3",
+     "name": "Crater Lake National Park Hq",
+     "state": "OR",
+     "elev_ft": "6499",
+     "inches": 1.8,
+     "hours": 24.0,
+     "time": "2026-11-25 16:00"
     }
    ],
    "home": {
@@ -12071,25 +12112,12 @@
      "name": "Stowe / Mt. Mansfield",
      "reports": [
       {
-       "id": "VT-LM-34",
-       "name": "Stowe 0.4 Sw, Vt",
-       "inches": 0.001,
-       "hours": 24.0,
-       "time": "2026-11-24 12:00",
-       "elev_ft": "682"
-      }
-     ]
-    },
-    "snowshoe": {
-     "name": "Snowshoe, WV",
-     "reports": [
-      {
-       "id": "SNOW2",
-       "name": "Snowshoe",
+       "id": "VT-LM-1",
+       "name": "Stowe 0.2 Sw, Vt",
        "inches": 0.0,
        "hours": 24.0,
-       "time": "2026-11-24 10:00",
-       "elev_ft": "4780"
+       "time": "2026-11-25 12:30",
+       "elev_ft": "738"
       }
      ]
     }
