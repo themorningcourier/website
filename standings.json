@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:08:42.192005+00:00",
+ "updated": "2026-11-26T11:27:22.031273+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -170,8 +170,8 @@
     {
      "name": "Packers",
      "abbr": "GB",
-     "rec": "6-4",
-     "pct": 0.6
+     "rec": "6-5",
+     "pct": 0.54545456
     }
    ]
   },
@@ -214,14 +214,14 @@
      "pct": 0.9
     },
     {
-     "name": "Seahawks",
-     "abbr": "SEA",
-     "rec": "6-4",
-     "pct": 0.6
-    },
-    {
      "name": "Rams",
      "abbr": "LAR",
+     "rec": "7-4",
+     "pct": 0.6363636
+    },
+    {
+     "name": "Seahawks",
+     "abbr": "SEA",
      "rec": "6-4",
      "pct": 0.6
     },
