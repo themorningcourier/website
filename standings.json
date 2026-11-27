@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:14:20.539850+00:00",
+ "updated": "2026-11-27T13:03:58.077177+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -7,8 +7,8 @@
     {
      "name": "Bills",
      "abbr": "BUF",
-     "rec": "9-1",
-     "pct": 0.9
+     "rec": "10-1",
+     "pct": 0.90909094
     },
     {
      "name": "Patriots",
@@ -100,8 +100,8 @@
     {
      "name": "Chiefs",
      "abbr": "KC",
-     "rec": "8-2",
-     "pct": 0.8
+     "rec": "8-3",
+     "pct": 0.72727275
     },
     {
      "name": "Raiders",
