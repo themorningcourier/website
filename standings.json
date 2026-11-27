@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:30:31.837219+00:00",
+ "updated": "2026-11-27T03:14:20.539850+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -127,22 +127,22 @@
      "pct": 0.65
     },
     {
-     "name": "Cowboys",
-     "abbr": "DAL",
-     "rec": "5-6",
-     "pct": 0.45454547
-    },
-    {
      "name": "Commanders",
      "abbr": "WSH",
      "rec": "4-5-1",
      "pct": 0.45
     },
     {
+     "name": "Cowboys",
+     "abbr": "DAL",
+     "rec": "5-7",
+     "pct": 0.41666666
+    },
+    {
      "name": "Eagles",
      "abbr": "PHI",
-     "rec": "3-7",
-     "pct": 0.3
+     "rec": "4-7",
+     "pct": 0.36363637
     }
    ]
   },
@@ -150,16 +150,16 @@
    "name": "NFC North",
    "teams": [
     {
-     "name": "Lions",
-     "abbr": "DET",
-     "rec": "8-2",
-     "pct": 0.8
-    },
-    {
      "name": "Bears",
      "abbr": "CHI",
-     "rec": "8-2",
-     "pct": 0.8
+     "rec": "9-2",
+     "pct": 0.8181818
+    },
+    {
+     "name": "Lions",
+     "abbr": "DET",
+     "rec": "8-3",
+     "pct": 0.72727275
     },
     {
      "name": "Vikings",
