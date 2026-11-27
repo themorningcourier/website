@@ -1,97 +1,97 @@
 {
- "updated": "2026-11-27T10:01:39.352753+00:00",
+ "updated": "2026-11-27T17:38:19.612227+00:00",
  "debug": [
   {
    "nohrsc_top_rows": [
     {
-     "id": "STL",
-     "name": "Lambert-St Louis Intl Arpt",
-     "state": "",
-     "elev_ft": "522",
-     "inches": 4.5,
-     "hours": 6.0,
-     "time": "2026-11-26 06:00"
-    },
-    {
-     "id": "LSX",
-     "name": "St Louis, Mo",
+     "id": "DSOM7",
+     "name": "De Soto",
      "state": "MO",
-     "elev_ft": "604",
-     "inches": 3.5,
-     "hours": 6.0,
-     "time": "2026-11-26 06:00"
+     "elev_ft": "741",
+     "inches": 11.3,
+     "hours": 24.0,
+     "time": "2026-11-26 14:00"
     },
     {
-     "id": "SFDI2",
-     "name": "Springfield #2",
+     "id": "IL-MO-4",
+     "name": "Fults 3.7 Ene, Il",
      "state": "IL",
-     "elev_ft": "604",
-     "inches": 1.0,
-     "hours": 6.0,
-     "time": "2026-11-26 06:00"
-    },
-    {
-     "id": "AHNA2",
-     "name": "Haines #2",
-     "state": "AK",
-     "elev_ft": "108",
-     "inches": 3.4,
+     "elev_ft": "663",
+     "inches": 10.3,
      "hours": 24.0,
-     "time": "2026-11-25 17:00"
+     "time": "2026-11-26 13:00"
     },
     {
-     "id": "MN-NB-7",
-     "name": "Worthington 1.9 Sw, Mn",
-     "state": "MN",
-     "elev_ft": "1585",
-     "inches": 3.0,
+     "id": "MO-FR-31",
+     "name": "Catawissa 3.0 Sse, Mo",
+     "state": "MO",
+     "elev_ft": "617",
+     "inches": 10.1,
      "hours": 24.0,
-     "time": "2026-11-25 13:00"
+     "time": "2026-11-26 13:00"
     },
     {
-     "id": "STL",
-     "name": "Lambert-St Louis Intl Arpt",
-     "state": "",
-     "elev_ft": "522",
-     "inches": 0.7,
-     "hours": 6.0,
-     "time": "2026-11-26 00:00"
-    },
-    {
-     "id": "MN-NB-8",
-     "name": "Worthington 4.0 S, Mn",
-     "state": "MN",
-     "elev_ft": "1578",
-     "inches": 2.5,
+     "id": "SCAM7",
+     "name": "St Clair 3W",
+     "state": "MO",
+     "elev_ft": "817",
+     "inches": 10.0,
      "hours": 24.0,
-     "time": "2026-11-25 13:00"
+     "time": "2026-11-26 15:19"
     },
     {
-     "id": "IA-OB-7",
-     "name": "Sanborn 0.4 N, Ia",
-     "state": "IA",
-     "elev_ft": "1552",
-     "inches": 2.2,
+     "id": "MO-FR-36",
+     "name": "Sullivan 7.5 E, Mo",
+     "state": "MO",
+     "elev_ft": "807",
+     "inches": 9.0,
      "hours": 24.0,
-     "time": "2026-11-25 15:00"
+     "time": "2026-11-26 14:00"
     },
     {
-     "id": "SHDI4",
-     "name": "Sheldon,Ia",
-     "state": "IA",
-     "elev_ft": "1417",
-     "inches": 2.0,
+     "id": "MO-FR-36",
+     "name": "Sullivan 7.5 E, Mo",
+     "state": "MO",
+     "elev_ft": "807",
+     "inches": 9.0,
      "hours": 24.0,
-     "time": "2026-11-25 13:00"
+     "time": "2026-11-26 13:00"
     },
     {
-     "id": "CRLO3",
-     "name": "Crater Lake National Park Hq",
-     "state": "OR",
-     "elev_ft": "6499",
-     "inches": 1.8,
+     "id": "PRRM7",
+     "name": "Water Plant",
+     "state": "MO",
+     "elev_ft": "486",
+     "inches": 9.0,
      "hours": 24.0,
-     "time": "2026-11-25 16:00"
+     "time": "2026-11-26 13:00"
+    },
+    {
+     "id": "SPEM7",
+     "name": "St Peters 2 Se",
+     "state": "MO",
+     "elev_ft": "571",
+     "inches": 8.8,
+     "hours": 24.0,
+     "time": "2026-11-26 13:00"
+    },
+    {
+     "id": "MSTI2",
+     "name": "Milstadt 2Sw",
+     "state": "IL",
+     "elev_ft": "659",
+     "inches": 8.7,
+     "hours": 24.0,
+     "time": "2026-11-26 13:19"
+    },
+    {
+     "id": "PTSM7",
+     "name": "Potosi",
+     "state": "MO",
+     "elev_ft": "1194",
+     "inches": 8.5,
+     "hours": 24.0,
+     "time": "2026-11-26 13:00"
     }
    ]
   },
@@ -113,111 +113,111 @@
      ""
     ],
     [
+     "WTRI2",
+     "2026-11-26 15:00",
+     "12.000",
+     "24.000",
+     "735",
+     "WATERLOO 6SW"
+    ],
+    [
+     "DSOM7",
+     "2026-11-26 14:00",
+     "11.300",
+     "24.000",
+     "741",
+     "DE SOTO"
+    ],
+    [
+     "IL-MO-4",
+     "2026-11-26 13:00",
+     "10.300",
+     "24.000",
+     "663",
+     "FULTS 3.7 ENE, IL"
+    ],
+    [
+     "MO-FR-31",
+     "2026-11-26 13:00",
+     "10.100",
+     "24.000",
+     "617",
+     "CATAWISSA 3.0 SSE, MO"
+    ],
+    [
+     "SCAM7",
+     "2026-11-26 15:19",
+     "10.000",
+     "24.000",
+     "817",
+     "ST CLAIR 3W"
+    ],
+    [
+     "MO-FR-36",
+     "2026-11-26 14:00",
+     "9.000",
+     "24.000",
+     "807",
+     "SULLIVAN 7.5 E, MO"
+    ],
+    [
+     "MO-FR-36",
+     "2026-11-26 13:00",
+     "9.000",
+     "24.000",
+     "807",
+     "SULLIVAN 7.5 E, MO"
+    ],
+    [
+     "PRRM7",
+     "2026-11-26 13:00",
+     "9.000",
+     "24.000",
+     "486",
+     "WATER PLANT"
+    ],
+    [
+     "SPEM7",
+     "2026-11-26 13:00",
+     "8.800",
+     "24.000",
+     "571",
+     "ST PETERS 2 SE"
+    ],
+    [
+     "MSTI2",
+     "2026-11-26 13:19",
+     "8.700",
+     "24.000",
+     "659",
+     "MILSTADT 2SW"
+    ],
+    [
+     "PTSM7",
+     "2026-11-26 13:00",
+     "8.500",
+     "24.000",
+     "1194",
+     "POTOSI"
+    ],
+    [
      "STL",
-     "2026-11-26 06:00",
-     "4.500",
+     "2026-11-26 12:00",
+     "2.100",
      "6.000",
      "522",
      "LAMBERT-ST LOUIS INTL ARPT"
     ],
     [
-     "LSX",
-     "2026-11-26 06:00",
-     "3.500",
-     "6.000",
-     "604",
-     "ST LOUIS, MO"
-    ],
-    [
-     "SFDI2",
-     "2026-11-26 06:00",
-     "1.000",
-     "6.000",
-     "604",
-     "SPRINGFIELD #2"
-    ],
-    [
-     "AHNA2",
-     "2026-11-25 17:00",
-     "3.400",
-     "24.000",
-     "108",
-     "HAINES #2"
-    ],
-    [
-     "MN-NB-7",
-     "2026-11-25 13:00",
-     "3.000",
-     "24.000",
-     "1585",
-     "WORTHINGTON 1.9 SW, MN"
-    ],
-    [
-     "STL",
-     "2026-11-26 00:00",
-     "0.700",
-     "6.000",
-     "522",
-     "LAMBERT-ST LOUIS INTL ARPT"
-    ],
-    [
-     "MN-NB-8",
-     "2026-11-25 13:00",
-     "2.500",
-     "24.000",
-     "1578",
-     "WORTHINGTON 4.0 S, MN"
-    ],
-    [
-     "IA-OB-7",
-     "2026-11-25 15:00",
-     "2.200",
-     "24.000",
-     "1552",
-     "SANBORN 0.4 N, IA"
-    ],
-    [
-     "SHDI4",
-     "2026-11-25 13:00",
+     "COU",
+     "2026-11-26 12:00",
      "2.000",
-     "24.000",
-     "1417",
-     "SHELDON,IA"
-    ],
-    [
-     "CRLO3",
-     "2026-11-25 16:00",
-     "1.800",
-     "24.000",
-     "6499",
-     "CRATER LAKE NATIONAL PARK HQ"
-    ],
-    [
-     "ANXA2",
-     "2026-11-25 16:00",
-     "1.700",
-     "24.000",
-     "49",
-     "ANNEX CREEK"
-    ],
-    [
-     "MN-RW-3",
-     "2026-11-25 12:17",
-     "1.500",
-     "24.000",
-     "1093",
-     "LUCAN 0.2 ESE, MN"
-    ],
-    [
-     "PIPM5",
-     "2026-11-25 14:00",
-     "1.500",
-     "24.000",
-     "1650",
-     "PIPESTONE COOP AND PIPESTONE CREEK NEAR PIPESTONE"
+     "6.000",
+     "883",
+     "COLUMBIA RGNL ARPT"
     ]
    ],
-   "count": 10379
+   "count": 3946
   }
  ]
 }

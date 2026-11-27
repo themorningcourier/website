@@ -1,27 +1,27 @@
 {
- "updated": "2026-11-27T10:01:39.352753+00:00",
+ "updated": "2026-11-27T17:38:19.612227+00:00",
  "season": "2026-27",
  "start": "2026-11-01",
  "end": "2027-04-01",
  "latest": {
   "cities": {
    "BTV": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "valid": true,
     "day": 0.0,
     "trace": false,
     "month": 0.0,
-    "month_normal": 4.0,
+    "month_normal": 4.3,
     "season": 0.0,
-    "season_normal": 4.3,
-    "season_dep": -4.3,
-    "depth": 0.0,
+    "season_normal": 4.6,
+    "season_dep": -4.6,
+    "depth": null,
     "final": true,
-    "tmax": 41,
+    "tmax": 40,
     "tmax_normal": 42,
     "tmin": 21,
     "tmin_normal": 29,
-    "issued": "2026-11-26T05:51:00+00:00",
+    "issued": "2026-11-27T12:07:00+00:00",
     "name": "Burlington, VT"
    },
    "BOS": {
@@ -274,115 +274,115 @@
     "name": "Salt Lake City, UT"
    },
    "ANC": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "valid": true,
     "day": 0.0,
-    "trace": false,
+    "trace": true,
     "month": 9.2,
-    "month_normal": 10.1,
+    "month_normal": 10.6,
     "season": 10.1,
-    "season_normal": 16.1,
-    "season_dep": -6.0,
+    "season_normal": 16.6,
+    "season_dep": -6.5,
     "depth": 6.0,
     "final": true,
-    "tmax": 21,
+    "tmax": 25,
     "tmax_normal": 27,
-    "tmin": 12,
+    "tmin": 13,
     "tmin_normal": 16,
-    "issued": "2026-11-26T09:52:00+00:00",
+    "issued": "2026-11-27T10:00:00+00:00",
     "name": "Anchorage, AK"
    }
   },
   "top": [
    {
-    "id": "STL",
-    "name": "Lambert-St Louis Intl Arpt",
-    "state": "",
-    "elev_ft": "522",
-    "inches": 4.5,
-    "hours": 6.0,
-    "time": "2026-11-26 06:00"
-   },
-   {
-    "id": "LSX",
-    "name": "St Louis, Mo",
+    "id": "DSOM7",
+    "name": "De Soto",
     "state": "MO",
-    "elev_ft": "604",
-    "inches": 3.5,
-    "hours": 6.0,
-    "time": "2026-11-26 06:00"
+    "elev_ft": "741",
+    "inches": 11.3,
+    "hours": 24.0,
+    "time": "2026-11-26 14:00"
    },
    {
-    "id": "SFDI2",
-    "name": "Springfield #2",
+    "id": "IL-MO-4",
+    "name": "Fults 3.7 Ene, Il",
     "state": "IL",
-    "elev_ft": "604",
-    "inches": 1.0,
-    "hours": 6.0,
-    "time": "2026-11-26 06:00"
-   },
-   {
-    "id": "AHNA2",
-    "name": "Haines #2",
-    "state": "AK",
-    "elev_ft": "108",
-    "inches": 3.4,
+    "elev_ft": "663",
+    "inches": 10.3,
     "hours": 24.0,
-    "time": "2026-11-25 17:00"
+    "time": "2026-11-26 13:00"
    },
    {
-    "id": "MN-NB-7",
-    "name": "Worthington 1.9 Sw, Mn",
-    "state": "MN",
-    "elev_ft": "1585",
-    "inches": 3.0,
+    "id": "MO-FR-31",
+    "name": "Catawissa 3.0 Sse, Mo",
+    "state": "MO",
+    "elev_ft": "617",
+    "inches": 10.1,
     "hours": 24.0,
-    "time": "2026-11-25 13:00"
+    "time": "2026-11-26 13:00"
    },
    {
-    "id": "STL",
-    "name": "Lambert-St Louis Intl Arpt",
-    "state": "",
-    "elev_ft": "522",
-    "inches": 0.7,
-    "hours": 6.0,
-    "time": "2026-11-26 00:00"
-   },
-   {
-    "id": "MN-NB-8",
-    "name": "Worthington 4.0 S, Mn",
-    "state": "MN",
-    "elev_ft": "1578",
-    "inches": 2.5,
+    "id": "SCAM7",
+    "name": "St Clair 3W",
+    "state": "MO",
+    "elev_ft": "817",
+    "inches": 10.0,
     "hours": 24.0,
-    "time": "2026-11-25 13:00"
+    "time": "2026-11-26 15:19"
    },
    {
-    "id": "IA-OB-7",
-    "name": "Sanborn 0.4 N, Ia",
-    "state": "IA",
-    "elev_ft": "1552",
-    "inches": 2.2,
+    "id": "MO-FR-36",
+    "name": "Sullivan 7.5 E, Mo",
+    "state": "MO",
+    "elev_ft": "807",
+    "inches": 9.0,
     "hours": 24.0,
-    "time": "2026-11-25 15:00"
+    "time": "2026-11-26 14:00"
    },
    {
-    "id": "SHDI4",
-    "name": "Sheldon,Ia",
-    "state": "IA",
-    "elev_ft": "1417",
-    "inches": 2.0,
+    "id": "MO-FR-36",
+    "name": "Sullivan 7.5 E, Mo",
+    "state": "MO",
+    "elev_ft": "807",
+    "inches": 9.0,
     "hours": 24.0,
-    "time": "2026-11-25 13:00"
+    "time": "2026-11-26 13:00"
    },
    {
-    "id": "CRLO3",
-    "name": "Crater Lake National Park Hq",
-    "state": "OR",
-    "elev_ft": "6499",
-    "inches": 1.8,
+    "id": "PRRM7",
+    "name": "Water Plant",
+    "state": "MO",
+    "elev_ft": "486",
+    "inches": 9.0,
     "hours": 24.0,
-    "time": "2026-11-25 16:00"
+    "time": "2026-11-26 13:00"
+   },
+   {
+    "id": "SPEM7",
+    "name": "St Peters 2 Se",
+    "state": "MO",
+    "elev_ft": "571",
+    "inches": 8.8,
+    "hours": 24.0,
+    "time": "2026-11-26 13:00"
+   },
+   {
+    "id": "MSTI2",
+    "name": "Milstadt 2Sw",
+    "state": "IL",
+    "elev_ft": "659",
+    "inches": 8.7,
+    "hours": 24.0,
+    "time": "2026-11-26 13:19"
+   },
+   {
+    "id": "PTSM7",
+    "name": "Potosi",
+    "state": "MO",
+    "elev_ft": "1194",
+    "inches": 8.5,
+    "hours": 24.0,
+    "time": "2026-11-26 13:00"
    }
   ],
   "home": {
@@ -394,7 +394,7 @@
       "name": "Stowe 0.2 Sw, Vt",
       "inches": 0.0,
       "hours": 24.0,
-      "time": "2026-11-25 12:30",
+      "time": "2026-11-26 12:30",
       "elev_ft": "738"
      }
     ]
@@ -12126,22 +12126,22 @@
   "2026-11-27": {
    "cities": {
     "BTV": {
-     "date": "2026-11-25",
+     "date": "2026-11-26",
      "valid": true,
      "day": 0.0,
      "trace": false,
      "month": 0.0,
-     "month_normal": 4.0,
+     "month_normal": 4.3,
      "season": 0.0,
-     "season_normal": 4.3,
-     "season_dep": -4.3,
-     "depth": 0.0,
+     "season_normal": 4.6,
+     "season_dep": -4.6,
+     "depth": null,
      "final": true,
-     "tmax": 41,
+     "tmax": 40,
      "tmax_normal": 42,
      "tmin": 21,
      "tmin_normal": 29,
-     "issued": "2026-11-26T05:51:00+00:00",
+     "issued": "2026-11-27T12:07:00+00:00",
      "name": "Burlington, VT"
     },
     "BOS": {
@@ -12394,115 +12394,115 @@
      "name": "Salt Lake City, UT"
     },
     "ANC": {
-     "date": "2026-11-25",
+     "date": "2026-11-26",
      "valid": true,
      "day": 0.0,
-     "trace": false,
+     "trace": true,
      "month": 9.2,
-     "month_normal": 10.1,
+     "month_normal": 10.6,
      "season": 10.1,
-     "season_normal": 16.1,
-     "season_dep": -6.0,
+     "season_normal": 16.6,
+     "season_dep": -6.5,
      "depth": 6.0,
      "final": true,
-     "tmax": 21,
+     "tmax": 25,
      "tmax_normal": 27,
-     "tmin": 12,
+     "tmin": 13,
      "tmin_normal": 16,
-     "issued": "2026-11-26T09:52:00+00:00",
+     "issued": "2026-11-27T10:00:00+00:00",
      "name": "Anchorage, AK"
     }
    },
    "top": [
     {
-     "id": "STL",
-     "name": "Lambert-St Louis Intl Arpt",
-     "state": "",
-     "elev_ft": "522",
-     "inches": 4.5,
-     "hours": 6.0,
-     "time": "2026-11-26 06:00"
-    },
-    {
-     "id": "LSX",
-     "name": "St Louis, Mo",
+     "id": "DSOM7",
+     "name": "De Soto",
      "state": "MO",
-     "elev_ft": "604",
-     "inches": 3.5,
-     "hours": 6.0,
-     "time": "2026-11-26 06:00"
+     "elev_ft": "741",
+     "inches": 11.3,
+     "hours": 24.0,
+     "time": "2026-11-26 14:00"
     },
     {
-     "id": "SFDI2",
-     "name": "Springfield #2",
+     "id": "IL-MO-4",
+     "name": "Fults 3.7 Ene, Il",
      "state": "IL",
-     "elev_ft": "604",
-     "inches": 1.0,
-     "hours": 6.0,
-     "time": "2026-11-26 06:00"
-    },
-    {
-     "id": "AHNA2",
-     "name": "Haines #2",
-     "state": "AK",
-     "elev_ft": "108",
-     "inches": 3.4,
+     "elev_ft": "663",
+     "inches": 10.3,
      "hours": 24.0,
-     "time": "2026-11-25 17:00"
+     "time": "2026-11-26 13:00"
     },
     {
-     "id": "MN-NB-7",
-     "name": "Worthington 1.9 Sw, Mn",
-     "state": "MN",
-     "elev_ft": "1585",
-     "inches": 3.0,
+     "id": "MO-FR-31",
+     "name": "Catawissa 3.0 Sse, Mo",
+     "state": "MO",
+     "elev_ft": "617",
+     "inches": 10.1,
      "hours": 24.0,
-     "time": "2026-11-25 13:00"
+     "time": "2026-11-26 13:00"
     },
     {
-     "id": "STL",
-     "name": "Lambert-St Louis Intl Arpt",
-     "state": "",
-     "elev_ft": "522",
-     "inches": 0.7,
-     "hours": 6.0,
-     "time": "2026-11-26 00:00"
-    },
-    {
-     "id": "MN-NB-8",
-     "name": "Worthington 4.0 S, Mn",
-     "state": "MN",
-     "elev_ft": "1578",
-     "inches": 2.5,
+     "id": "SCAM7",
+     "name": "St Clair 3W",
+     "state": "MO",
+     "elev_ft": "817",
+     "inches": 10.0,
      "hours": 24.0,
-     "time": "2026-11-25 13:00"
+     "time": "2026-11-26 15:19"
     },
     {
-     "id": "IA-OB-7",
-     "name": "Sanborn 0.4 N, Ia",
-     "state": "IA",
-     "elev_ft": "1552",
-     "inches": 2.2,
+     "id": "MO-FR-36",
+     "name": "Sullivan 7.5 E, Mo",
+     "state": "MO",
+     "elev_ft": "807",
+     "inches": 9.0,
      "hours": 24.0,
-     "time": "2026-11-25 15:00"
+     "time": "2026-11-26 14:00"
     },
     {
-     "id": "SHDI4",
-     "name": "Sheldon,Ia",
-     "state": "IA",
-     "elev_ft": "1417",
-     "inches": 2.0,
+     "id": "MO-FR-36",
+     "name": "Sullivan 7.5 E, Mo",
+     "state": "MO",
+     "elev_ft": "807",
+     "inches": 9.0,
      "hours": 24.0,
-     "time": "2026-11-25 13:00"
+     "time": "2026-11-26 13:00"
     },
     {
-     "id": "CRLO3",
-     "name": "Crater Lake National Park Hq",
-     "state": "OR",
-     "elev_ft": "6499",
-     "inches": 1.8,
+     "id": "PRRM7",
+     "name": "Water Plant",
+     "state": "MO",
+     "elev_ft": "486",
+     "inches": 9.0,
      "hours": 24.0,
-     "time": "2026-11-25 16:00"
+     "time": "2026-11-26 13:00"
+    },
+    {
+     "id": "SPEM7",
+     "name": "St Peters 2 Se",
+     "state": "MO",
+     "elev_ft": "571",
+     "inches": 8.8,
+     "hours": 24.0,
+     "time": "2026-11-26 13:00"
+    },
+    {
+     "id": "MSTI2",
+     "name": "Milstadt 2Sw",
+     "state": "IL",
+     "elev_ft": "659",
+     "inches": 8.7,
+     "hours": 24.0,
+     "time": "2026-11-26 13:19"
+    },
+    {
+     "id": "PTSM7",
+     "name": "Potosi",
+     "state": "MO",
+     "elev_ft": "1194",
+     "inches": 8.5,
+     "hours": 24.0,
+     "time": "2026-11-26 13:00"
     }
    ],
    "home": {
@@ -12514,7 +12514,7 @@
        "name": "Stowe 0.2 Sw, Vt",
        "inches": 0.0,
        "hours": 24.0,
-       "time": "2026-11-25 12:30",
+       "time": "2026-11-26 12:30",
        "elev_ft": "738"
       }
      ]
