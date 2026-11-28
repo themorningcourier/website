@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:55:39.639896+00:00",
+ "updated": "2026-11-28T03:51:21.499046+00:00",
  "divisions": [
   {
    "name": "AFC East",
@@ -40,14 +40,14 @@
      "pct": 0.7
     },
     {
-     "name": "Browns",
-     "abbr": "CLE",
-     "rec": "6-4",
-     "pct": 0.6
-    },
-    {
      "name": "Steelers",
      "abbr": "PIT",
+     "rec": "7-4",
+     "pct": 0.6363636
+    },
+    {
+     "name": "Browns",
+     "abbr": "CLE",
      "rec": "6-4",
      "pct": 0.6
     },
@@ -94,8 +94,8 @@
     {
      "name": "Broncos",
      "abbr": "DEN",
-     "rec": "8-2",
-     "pct": 0.8
+     "rec": "8-3",
+     "pct": 0.72727275
     },
     {
      "name": "Chiefs",
