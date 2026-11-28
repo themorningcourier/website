@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:02:13.951269+00:00",
+ "updated": "2026-11-28T16:21:30.394559+00:00",
  "season": "2026-27",
  "start": "2026-11-01",
  "end": "2027-04-01",
@@ -274,132 +274,118 @@
     "name": "Salt Lake City, UT"
    },
    "ANC": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "valid": true,
-    "day": 0.0,
-    "trace": true,
-    "month": 9.2,
-    "month_normal": 10.6,
-    "season": 10.1,
-    "season_normal": 16.6,
-    "season_dep": -6.5,
+    "day": 5.0,
+    "trace": false,
+    "month": 14.2,
+    "month_normal": 11.0,
+    "season": 15.1,
+    "season_normal": 17.0,
+    "season_dep": -1.9,
     "depth": 6.0,
     "final": true,
-    "tmax": 25,
+    "tmax": 32,
     "tmax_normal": 27,
-    "tmin": 13,
+    "tmin": 23,
     "tmin_normal": 16,
-    "issued": "2026-11-27T10:00:00+00:00",
+    "issued": "2026-11-28T10:06:00+00:00",
     "name": "Anchorage, AK"
    }
   },
   "top": [
    {
-    "id": "DSOM7",
-    "name": "De Soto",
+    "id": "TN-CR-6",
+    "name": "Atwood 0.8 Wsw, Tn",
+    "state": "TN",
+    "elev_ft": "456",
+    "inches": 50.0,
+    "hours": 24.0,
+    "time": "2026-11-27 13:00"
+   },
+   {
+    "id": "MO-NM-11",
+    "name": "New Madrid 0.4 Ese, Mo",
     "state": "MO",
-    "elev_ft": "741",
-    "inches": 11.3,
+    "elev_ft": "305",
+    "inches": 5.5,
     "hours": 24.0,
-    "time": "2026-11-26 14:00"
+    "time": "2026-11-27 13:00"
    },
    {
-    "id": "IL-MO-4",
-    "name": "Fults 3.7 Ene, Il",
-    "state": "IL",
-    "elev_ft": "663",
-    "inches": 10.3,
-    "hours": 24.0,
-    "time": "2026-11-26 13:00"
-   },
-   {
-    "id": "MO-SL-124",
-    "name": "St. Clair 0.6 Ene, Mo",
+    "id": "SKSM7",
+    "name": "Power Station",
     "state": "MO",
-    "elev_ft": "728",
-    "inches": 10.3,
+    "elev_ft": "308",
+    "inches": 5.0,
     "hours": 24.0,
-    "time": "2026-11-26 13:00"
+    "time": "2026-11-27 13:00"
    },
    {
-    "id": "MO-JF-34",
-    "name": "Cedar Hill Lakes 7.9 Ssw, Mo",
+    "id": "TN-CM-51",
+    "name": "Monterey 4.6 S, Tn",
+    "state": "TN",
+    "elev_ft": "1854",
+    "inches": 4.0,
+    "hours": 24.0,
+    "time": "2026-11-27 13:00"
+   },
+   {
+    "id": "TN-HW-1",
+    "name": "Brownsville 1.0 Se, Tn",
+    "state": "TN",
+    "elev_ft": "354",
+    "inches": 3.5,
+    "hours": 24.0,
+    "time": "2026-11-27 14:00"
+   },
+   {
+    "id": "MO-PH-13",
+    "name": "Rolla 8.1 S, Mo",
     "state": "MO",
-    "elev_ft": "735",
-    "inches": 10.2,
+    "elev_ft": "1129",
+    "inches": 3.0,
     "hours": 24.0,
-    "time": "2026-11-26 12:00"
+    "time": "2026-11-27 13:00"
    },
    {
-    "id": "MO-FR-31",
-    "name": "Catawissa 3.0 Sse, Mo",
+    "id": "TN-PM-60",
+    "name": "Monterey 6.4 E, Tn",
+    "state": "TN",
+    "elev_ft": "1913",
+    "inches": 3.0,
+    "hours": 24.0,
+    "time": "2026-11-27 13:00"
+   },
+   {
+    "id": "FLWM7",
+    "name": "Fort Leonard Wood Water Treatment Plant",
     "state": "MO",
-    "elev_ft": "617",
-    "inches": 10.1,
+    "elev_ft": "1125",
+    "inches": 2.8,
     "hours": 24.0,
-    "time": "2026-11-26 13:00"
+    "time": "2026-11-27 12:30"
    },
    {
-    "id": "MO-FR-7",
-    "name": "St. Clair 3.7 W, Mo",
+    "id": "MO-PH-27",
+    "name": "St. James 10.1 Sse, Mo",
     "state": "MO",
-    "elev_ft": "814",
-    "inches": 10.0,
+    "elev_ft": "1089",
+    "inches": 2.8,
     "hours": 24.0,
-    "time": "2026-11-26 15:19"
+    "time": "2026-11-27 13:00"
    },
    {
-    "id": "SCAM7",
-    "name": "St Clair 3W",
-    "state": "MO",
-    "elev_ft": "817",
-    "inches": 10.0,
+    "id": "TN-CM-9",
+    "name": "Crossville 6.9 S, Tn",
+    "state": "TN",
+    "elev_ft": "1844",
+    "inches": 2.7,
     "hours": 24.0,
-    "time": "2026-11-26 15:19"
-   },
-   {
-    "id": "MO-JF-25",
-    "name": "Fenton 4.1 S, Mo",
-    "state": "MO",
-    "elev_ft": "597",
-    "inches": 9.3,
-    "hours": 24.0,
-    "time": "2026-11-26 13:00"
-   },
-   {
-    "id": "IL-MO-7",
-    "name": "Columbia 4.7 S, Il",
-    "state": "IL",
-    "elev_ft": "574",
-    "inches": 9.0,
-    "hours": 24.0,
-    "time": "2026-11-26 13:30"
-   },
-   {
-    "id": "MO-FR-36",
-    "name": "Sullivan 7.5 E, Mo",
-    "state": "MO",
-    "elev_ft": "807",
-    "inches": 9.0,
-    "hours": 24.0,
-    "time": "2026-11-26 14:00"
+    "time": "2026-11-27 13:00"
    }
   ],
-  "home": {
-   "stowe": {
-    "name": "Stowe / Mt. Mansfield",
-    "reports": [
-     {
-      "id": "VT-LM-1",
-      "name": "Stowe 0.2 Sw, Vt",
-      "inches": 0.0,
-      "hours": 24.0,
-      "time": "2026-11-26 12:30",
-      "elev_ft": "738"
-     }
-    ]
-   }
-  }
+  "home": {}
  },
  "log": {
   "2026-10-28": {
@@ -12792,132 +12778,118 @@
      "name": "Salt Lake City, UT"
     },
     "ANC": {
-     "date": "2026-11-26",
+     "date": "2026-11-27",
      "valid": true,
-     "day": 0.0,
-     "trace": true,
-     "month": 9.2,
-     "month_normal": 10.6,
-     "season": 10.1,
-     "season_normal": 16.6,
-     "season_dep": -6.5,
+     "day": 5.0,
+     "trace": false,
+     "month": 14.2,
+     "month_normal": 11.0,
+     "season": 15.1,
+     "season_normal": 17.0,
+     "season_dep": -1.9,
      "depth": 6.0,
      "final": true,
-     "tmax": 25,
+     "tmax": 32,
      "tmax_normal": 27,
-     "tmin": 13,
+     "tmin": 23,
      "tmin_normal": 16,
-     "issued": "2026-11-27T10:00:00+00:00",
+     "issued": "2026-11-28T10:06:00+00:00",
      "name": "Anchorage, AK"
     }
    },
    "top": [
     {
-     "id": "DSOM7",
-     "name": "De Soto",
+     "id": "TN-CR-6",
+     "name": "Atwood 0.8 Wsw, Tn",
+     "state": "TN",
+     "elev_ft": "456",
+     "inches": 50.0,
+     "hours": 24.0,
+     "time": "2026-11-27 13:00"
+    },
+    {
+     "id": "MO-NM-11",
+     "name": "New Madrid 0.4 Ese, Mo",
      "state": "MO",
-     "elev_ft": "741",
-     "inches": 11.3,
+     "elev_ft": "305",
+     "inches": 5.5,
      "hours": 24.0,
-     "time": "2026-11-26 14:00"
+     "time": "2026-11-27 13:00"
     },
     {
-     "id": "IL-MO-4",
-     "name": "Fults 3.7 Ene, Il",
-     "state": "IL",
-     "elev_ft": "663",
-     "inches": 10.3,
-     "hours": 24.0,
-     "time": "2026-11-26 13:00"
-    },
-    {
-     "id": "MO-SL-124",
-     "name": "St. Clair 0.6 Ene, Mo",
+     "id": "SKSM7",
+     "name": "Power Station",
      "state": "MO",
-     "elev_ft": "728",
-     "inches": 10.3,
+     "elev_ft": "308",
+     "inches": 5.0,
      "hours": 24.0,
-     "time": "2026-11-26 13:00"
+     "time": "2026-11-27 13:00"
     },
     {
-     "id": "MO-JF-34",
-     "name": "Cedar Hill Lakes 7.9 Ssw, Mo",
+     "id": "TN-CM-51",
+     "name": "Monterey 4.6 S, Tn",
+     "state": "TN",
+     "elev_ft": "1854",
+     "inches": 4.0,
+     "hours": 24.0,
+     "time": "2026-11-27 13:00"
+    },
+    {
+     "id": "TN-HW-1",
+     "name": "Brownsville 1.0 Se, Tn",
+     "state": "TN",
+     "elev_ft": "354",
+     "inches": 3.5,
+     "hours": 24.0,
+     "time": "2026-11-27 14:00"
+    },
+    {
+     "id": "MO-PH-13",
+     "name": "Rolla 8.1 S, Mo",
      "state": "MO",
-     "elev_ft": "735",
-     "inches": 10.2,
+     "elev_ft": "1129",
+     "inches": 3.0,
      "hours": 24.0,
-     "time": "2026-11-26 12:00"
+     "time": "2026-11-27 13:00"
     },
     {
-     "id": "MO-FR-31",
-     "name": "Catawissa 3.0 Sse, Mo",
+     "id": "TN-PM-60",
+     "name": "Monterey 6.4 E, Tn",
+     "state": "TN",
+     "elev_ft": "1913",
+     "inches": 3.0,
+     "hours": 24.0,
+     "time": "2026-11-27 13:00"
+    },
+    {
+     "id": "FLWM7",
+     "name": "Fort Leonard Wood Water Treatment Plant",
      "state": "MO",
-     "elev_ft": "617",
-     "inches": 10.1,
+     "elev_ft": "1125",
+     "inches": 2.8,
      "hours": 24.0,
-     "time": "2026-11-26 13:00"
+     "time": "2026-11-27 12:30"
     },
     {
-     "id": "MO-FR-7",
-     "name": "St. Clair 3.7 W, Mo",
+     "id": "MO-PH-27",
+     "name": "St. James 10.1 Sse, Mo",
      "state": "MO",
-     "elev_ft": "814",
-     "inches": 10.0,
+     "elev_ft": "1089",
+     "inches": 2.8,
      "hours": 24.0,
-     "time": "2026-11-26 15:19"
+     "time": "2026-11-27 13:00"
     },
     {
-     "id": "SCAM7",
-     "name": "St Clair 3W",
-     "state": "MO",
-     "elev_ft": "817",
-     "inches": 10.0,
+     "id": "TN-CM-9",
+     "name": "Crossville 6.9 S, Tn",
+     "state": "TN",
+     "elev_ft": "1844",
+     "inches": 2.7,
      "hours": 24.0,
-     "time": "2026-11-26 15:19"
-    },
-    {
-     "id": "MO-JF-25",
-     "name": "Fenton 4.1 S, Mo",
-     "state": "MO",
-     "elev_ft": "597",
-     "inches": 9.3,
-     "hours": 24.0,
-     "time": "2026-11-26 13:00"
-    },
-    {
-     "id": "IL-MO-7",
-     "name": "Columbia 4.7 S, Il",
-     "state": "IL",
-     "elev_ft": "574",
-     "inches": 9.0,
-     "hours": 24.0,
-     "time": "2026-11-26 13:30"
-    },
-    {
-     "id": "MO-FR-36",
-     "name": "Sullivan 7.5 E, Mo",
-     "state": "MO",
-     "elev_ft": "807",
-     "inches": 9.0,
-     "hours": 24.0,
-     "time": "2026-11-26 14:00"
+     "time": "2026-11-27 13:00"
     }
    ],
-   "home": {
-    "stowe": {
-     "name": "Stowe / Mt. Mansfield",
-     "reports": [
-      {
-       "id": "VT-LM-1",
-       "name": "Stowe 0.2 Sw, Vt",
-       "inches": 0.0,
-       "hours": 24.0,
-       "time": "2026-11-26 12:30",
-       "elev_ft": "738"
-      }
-     ]
-    }
-   }
+   "home": {}
   }
  }
 }
